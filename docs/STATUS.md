@@ -23,9 +23,10 @@ Languages: English, Hindi, Marathi only.
 
 ## Commands
 
-- `npm run dev` — API/mock server on `API_PORT` (8787) + Vite on `PORT` (5173). Vite cold start took ~60 s on this machine.
+- `npm run dev` — API/mock server on `API_PORT` (8787) + Vite on `PORT` (5173).
 - `npm run build` then `npm start` — typecheck, client build, server bundle; serves app + API on 8787 (fast start).
-- `npm test` — vitest (first run is slow here: ~150 s, mostly cold file reads).
+- `npm test` — vitest, under a second in this location.
+- Location: the project lives in `~/Developer/cbid/global_health`. It was moved out of `~/Documents`, which iCloud Drive syncs; iCloud evicted files there, which made cold starts take minutes (an earlier full test run took 166 s) and broke `git push` with `mmap failed`. Keep it out of iCloud-synced folders.
 - `npm run protocol:build` — re-import pack + overlay → `protocol/compiled/*`, `protocol/generated/source-graph.json`. A test fails if the committed output is stale.
 - `npm run protocol:diff -- <old source-graph.json>` — compare two source snapshots.
 - `.claude/launch.json` has `msk-dev` and `msk-prod` preview configs.
@@ -57,7 +58,7 @@ Languages: English, Hindi, Marathi only.
 2. Mock extraction misses symptoms phrased with a negation (`mr-2`); a real provider has never been run.
 3. Main JS bundle 1.1 MB (protocol JSON inlined); could be split.
 4. Speech input not implemented (typing only). No real-patient mode, authentication or encryption, by design.
-5. Git: local repository on `main` with one initial commit; no remote configured, nothing pushed. `room/` (MindrianOS plugin session state) is ignored.
+5. Git: `main` tracks `origin` (`github.com/chinmaysingh1/global_health`); the initial commit is pushed. `room/` (MindrianOS plugin session state) is ignored.
 6. Not tested on a physical Android device, other browsers, keyboard-only, or with a screen reader.
 
 ## Needs people, not code
