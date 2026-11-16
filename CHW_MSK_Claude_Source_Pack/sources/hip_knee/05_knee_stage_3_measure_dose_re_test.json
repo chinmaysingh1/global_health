@@ -1,0 +1,621 @@
+{
+  "board_key": "cNyP7TFyrcoIYVPUoQlMgw",
+  "section": {
+    "id": "7:539",
+    "name": "Knee · Stage 3 · Measure, dose, re-test",
+    "x": "7403",
+    "y": "13769",
+    "width": "2100",
+    "height": "3631"
+  },
+  "elements": [
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1414",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1414",
+        "x": "480",
+        "y": "3258",
+        "connectorStart": "5:603",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:611",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-6&gt;KS3-6b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1410",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1410",
+        "x": "260",
+        "y": "3258",
+        "connectorStart": "5:603",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:607",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-6&gt;KS3-6a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1406",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1406",
+        "x": "480",
+        "y": "2986",
+        "connectorStart": "5:595",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:603",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-UP&gt;KS3-6"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1402",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1402",
+        "x": "1080",
+        "y": "2757",
+        "connectorStart": "5:591",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:599",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-5b&gt;KS3-NO"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1398",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1398",
+        "x": "480",
+        "y": "2757",
+        "connectorStart": "5:587",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:595",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-5a&gt;KS3-UP"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1394",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1394",
+        "x": "780",
+        "y": "2570",
+        "connectorStart": "5:583",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:591",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-5&gt;KS3-5b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1390",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1390",
+        "x": "480",
+        "y": "2570",
+        "connectorStart": "5:583",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:587",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-5&gt;KS3-5a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1382",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1382",
+        "x": "560",
+        "y": "2298",
+        "connectorStart": "5:575",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:583",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-4a&gt;KS3-5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1386",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1386",
+        "x": "780",
+        "y": "2298",
+        "connectorStart": "5:579",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:583",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-4b&gt;KS3-5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1378",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1378",
+        "x": "780",
+        "y": "2088",
+        "connectorStart": "5:571",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:579",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-4&gt;KS3-4b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1374",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1374",
+        "x": "560",
+        "y": "2088",
+        "connectorStart": "5:571",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:575",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-4&gt;KS3-4a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1370",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1370",
+        "x": "780",
+        "y": "1780",
+        "connectorStart": "5:563",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:571",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-3&gt;KS3-4"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1366",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1366",
+        "x": "746",
+        "y": "1518.5",
+        "connectorStart": "5:559",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:563",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-2&gt;KS3-3"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1338",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1338",
+        "x": "340",
+        "y": "1159",
+        "connectorStart": "5:547",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:559",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-HI&gt;KS3-2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1350",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1350",
+        "x": "420",
+        "y": "1113",
+        "connectorStart": "5:551",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:559",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-MD&gt;KS3-2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1362",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1362",
+        "x": "420",
+        "y": "1113",
+        "connectorStart": "5:555",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:559",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-LO&gt;KS3-2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1358",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1358",
+        "x": "1220",
+        "y": "838",
+        "connectorStart": "5:543",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:555",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-1c&gt;KS3-LO"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1346",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1346",
+        "x": "780",
+        "y": "838",
+        "connectorStart": "5:539",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:551",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-1b&gt;KS3-MD"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1334",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1334",
+        "x": "340",
+        "y": "861",
+        "connectorStart": "5:535",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:547",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-1a&gt;KS3-HI"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1354",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1354",
+        "x": "780",
+        "y": "595",
+        "connectorStart": "5:531",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:543",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-1&gt;KS3-1c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1342",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1342",
+        "x": "780",
+        "y": "595",
+        "connectorStart": "5:531",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:539",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-1&gt;KS3-1b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1330",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1330",
+        "x": "340",
+        "y": "595",
+        "connectorStart": "5:531",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:535",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3-1&gt;KS3-1a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1326",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1326",
+        "x": "780",
+        "y": "313",
+        "connectorStart": "5:527",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:531",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS3&gt;KS3-1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:527",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:527",
+        "x": "230",
+        "y": "130",
+        "width": "1100",
+        "height": "177",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "STAGE 3 — MEASURE, DOSE THE EXERCISE, RE-TEST\nEvery working diagnosis from Stage 2 comes here. Everyone gets the same short core battery so results compare across patients and visits; the diagnosis adds one module; irritability (not the label) sets the starting dose."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:531",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:531",
+        "x": "520",
+        "y": "407",
+        "width": "520",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KS3-1 · How irritable is the knee?\nASK: “Tell me about your last bad flare. What sets the pain off, and how long does it take to settle?” Ask about the last 24 hours too."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:535",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:535",
+        "x": "180",
+        "y": "679",
+        "width": "320",
+        "height": "176",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HIGH: pain at rest or at night; flares with small movements; takes hours or until the next day to settle"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:539",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:539",
+        "x": "620",
+        "y": "679",
+        "width": "320",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "MODERATE: pain with specific loads (stairs, squatting); settles within an hour or two"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:543",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:543",
+        "x": "1060",
+        "y": "679",
+        "width": "320",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LOW: pain only at high load or at the end of activity; settles within minutes"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:547",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:547",
+        "x": "160",
+        "y": "925",
+        "width": "360",
+        "height": "228",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "START GENTLE\nIsometric holds, pain-free range of motion, walking in short bouts, education. Baseline limited to pain, the Patient-Specific Functional Scale (PSFS) and range of motion."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:551",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:551",
+        "x": "600",
+        "y": "925",
+        "width": "360",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "START MODERATE\nProgressive strengthening and practice of real tasks within the pain rule. Full core battery."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:555",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:555",
+        "x": "1040",
+        "y": "925",
+        "width": "360",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "START STRONGER\nHeavier loading, single-leg work, and hopping or sport tasks where relevant. Full core battery."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:559",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:559",
+        "x": "100",
+        "y": "1263",
+        "width": "640",
+        "height": "550",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KS3-2 · CORE BASELINE BATTERY (about 10 minutes)\nNeeds: a chair, a stopwatch, 10 m of floor, a step and a phone. Repeat the SAME set at week 0, 4 and 12.\n1. Pain 0–10 (faces version for low literacy): average and worst in the last week.\n2. Patient-Specific Functional Scale (PSFS): the patient names their 3 hardest tasks and rates each 0–10 — this becomes the goal list. Prompt with local tasks: floor sitting and rising, squatting toilet, stairs, kneeling for prayer, carrying water, field work.\n3. 30-second chair stand: fixed-height chair, arms crossed, count full stands in 30 s (leg strength).\n4. 40 m fast-paced walk: 4 × 10 m as fast as safely possible, timed.\n5. Stair climb: time up and down one flight (note the number of steps).\n6. Knee range of motion: phone inclinometer app or goniometer (angle ruler); heel-to-buttock distance if neither.\n7. Straight-leg raise: does the knee sag as the leg lifts (quadriceps lag)?\n8. Single-leg stance: up to 30 s each side (balance).\n9. Gait video: 10 s phone video from the front and side.\nTests 3–5 are the core set recommended by OARSI, the Osteoarthritis Research Society International (Dobson 2013)."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:563",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:563",
+        "x": "820",
+        "y": "1263",
+        "width": "640",
+        "height": "511",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KS3-3 · ADD-ON MODULE — pick the one that matches the working diagnosis\nOsteoarthritis module (KD8, KD12, KD13, KD15): KOOS-12 or WOMAC questionnaire (Knee injury and Osteoarthritis Outcome Score / Western Ontario and McMaster Universities Osteoarthritis Index — check for a validated Marathi or Hindi version); Timed Up-and-Go; optional 6-minute walk.\nInjury module (KD1–KD4): IKDC form (International Knee Documentation Committee) or KOOS; swelling check; quadriceps strength side to side (handheld dynamometer, or single-leg sit-to-stand count); hop tests once pain-free running is possible; ACL-RSI (fear of re-injury questionnaire).\nKneecap module (KD5, KD9, KD11, KD16): Kujala Anterior Knee Pain Scale; step-down pain; hip abductor and extensor strength (side-lying hold time if no dynamometer).\nTendon module (KD10): VISA-P (Victorian Institute of Sport Assessment — patellar tendon); single-leg decline squat pain 0–10.\nGrowing-knee module (KD6): weekly activity log; kneeling and jumping pain 0–10."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:567",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:567",
+        "x": "1540",
+        "y": "1263",
+        "width": "460",
+        "height": "228",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "PAIN RULE FOR HOME EXERCISE\nPain up to about 5 out of 10 during exercise is acceptable if it has settled back to its usual level by the next morning. If not, hold or step down one level. Warn patients that pain may rise a little at first (NICE NG226)."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:571",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:571",
+        "x": "540",
+        "y": "1923",
+        "width": "480",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KS3-4 · WEEK 1 — dose check\nASK: “Did the pain settle back to normal by the next morning after exercising?”"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:575",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:575",
+        "x": "420",
+        "y": "2162",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Yes — keep the same level (don’t level up yet)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:579",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:579",
+        "x": "860",
+        "y": "2162",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "No — hold or step down one level"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:583",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:583",
+        "x": "540",
+        "y": "2382",
+        "width": "480",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KS3-5 · WEEK 4 — first re-test\nRepeat the core battery on the same chair and the same 10 m. Is it improving? (PSFS scores, chair-stand count, pain)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:587",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:587",
+        "x": "340",
+        "y": "2644",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Improving"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:591",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:591",
+        "x": "940",
+        "y": "2644",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Not improving"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:595",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:595",
+        "x": "280",
+        "y": "2821",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LEVEL UP\nAdd load, depth and single-leg work. Continue to week 12."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:599",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:599",
+        "x": "860",
+        "y": "2821",
+        "width": "440",
+        "height": "205",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "RE-CHECK BEFORE CONTINUING\nPhysio video exam; check the hip (K12); ask about widespread pain, poor sleep and low mood (pain sensitisation); doctor review; re-run the Stage 1 safety screen."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:603",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:603",
+        "x": "240",
+        "y": "3116",
+        "width": "480",
+        "height": "136",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KS3-6 · WEEK 12 — programme review\nMost change shows by now. Better?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:607",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:607",
+        "x": "120",
+        "y": "3332",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Yes — continue and move towards self-management"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:611",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:611",
+        "x": "540",
+        "y": "3332",
+        "width": "320",
+        "height": "199",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Still no change after a real trial — revise the diagnosis or refer (guideline rule: rethink when symptoms don’t improve with treatment)"
+    }
+  ]
+}

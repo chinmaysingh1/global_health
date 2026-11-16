@@ -1,0 +1,10 @@
+[
+ "spine:LT2c: text mentions L1 but the connector goes only to L5",
+ "hip_knee:HT1c: text-only redirect to H5 (no connector)",
+ "hip_knee:HT2e: text-only redirect to H9 (no connector)",
+ "hip_knee:HQ2c: text-only redirect to H3 (no connector)",
+ "hip_knee:HT4b: text-only redirect to H11 (no connector)",
+ "hip_knee:KT5b: text-only redirect to K10 (no connector)",
+ "hip_knee:KT11: test has a single result box (no negative branch in source)",
+ "hip_knee:KT12: test has a single result box (no negative branch in source)"
+]

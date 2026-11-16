@@ -1,0 +1,39 @@
+{
+  "board_key": "cNyP7TFyrcoIYVPUoQlMgw",
+  "section": {
+    "id": "7:535",
+    "name": "Sources",
+    "x": "15424",
+    "y": "-130",
+    "width": "2060",
+    "height": "987"
+  },
+  "elements": [
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:1009",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:1009",
+        "x": "100",
+        "y": "130",
+        "width": "900",
+        "height": "757",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KEY SOURCES (1 of 2) — knee, osteoarthritis and exercise\n• Bachmann LM et al. 2004. Accuracy of the Ottawa knee rule: systematic review. Ann Intern Med 140:121. doi:10.7326/0003-4819-140-5-200403020-00013\n• Benjaminse A et al. 2006. Clinical diagnosis of ACL rupture: meta-analysis. JOSPT 36:267. doi:10.2519/jospt.2006.2011\n• Sokal PA et al. 2022. Clinical tests for ACL tears: meta-analysis. Knee Surg Sports Traumatol Arthrosc.\n• Smith BE et al. 2015. Special tests for meniscal tears: meta-analysis. Evid Based Med 20:88. doi:10.1136/ebmed-2014-110160\n• Lowery DJ et al. 2006. Clinical composite score for meniscal pathology. Arthroscopy 22:1174. doi:10.1016/j.arthro.2006.06.014\n• Rubinstein RA et al. 1994. Clinical examination for PCL injuries. Am J Sports Med 22:550. doi:10.1177/036354659402200419\n• Logerstedt DS et al. 2017. Knee ligament sprain — clinical practice guideline (CPG). JOSPT 47(11).\n• Logerstedt DS et al. 2018. Meniscal and articular cartilage lesions CPG. JOSPT 48(2).\n• Willy RW et al. 2019. Patellofemoral pain CPG. JOSPT 49(9). doi:10.2519/jospt.2019.0302\n• Crossley KM et al. 2016. Patellofemoral pain consensus statement. Br J Sports Med 50:839.\n• Malliaras P et al. 2015. Patellar tendinopathy: diagnosis and load management. JOSPT 45:887.\n• Altman R et al. 1986. ACR classification criteria for knee osteoarthritis. Arthritis Rheum 29:1039.\n• NICE NG226. 2022. Osteoarthritis in over 16s: diagnosis and management.\n• Bannuru RR et al. 2019. OARSI guidelines for non-surgical management of osteoarthritis. Osteoarthritis Cartilage 27:1578.\n• Skou ST, Roos EM. 2017. GLA:D programme. BMC Musculoskelet Disord 18:72.\n• Kise NJ et al. 2016. Exercise vs keyhole surgery for degenerative meniscal tear (RCT). BMJ 354:i3740.\n• Frobell RB et al. 2010, 2013. KANON trial: ACL rehab vs early reconstruction. NEJM 363:331; BMJ 346:f232.\n• Dobson F et al. 2013. OARSI recommended performance-based tests. Osteoarthritis Cartilage 21:1042.\n• BOAST 2024. First-time lateral patellar dislocation (British Orthopaedic Association).\n• Wells PS et al. 1997. Clinical model for deep vein thrombosis. Lancet 350:1795.\n• Margaretten ME et al. 2007. Does this adult patient have septic arthritis? JAMA 297:1478. doi:10.1001/jama.297.13.1478"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:1013",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:1013",
+        "x": "1060",
+        "y": "130",
+        "width": "900",
+        "height": "688",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KEY SOURCES (2 of 2) — hip, children, red flags, local context\n• Cibulka MT et al. 2017; Koc TA et al. 2025. Hip pain and mobility deficits — hip osteoarthritis CPG. JOSPT.\n• Altman R et al. 1991. ACR classification criteria for hip osteoarthritis. Arthritis Rheum 34:505.\n• Sutlive TG et al. 2008. Clinical prediction rule for hip osteoarthritis. JOSPT 38:542. doi:10.2519/jospt.2008.2753\n• Enseki KR et al. 2023. Nonarthritic hip joint pain CPG. JOSPT 53(7).\n• Reiman MP et al. 2020. Zurich 2018 consensus on hip-related pain. Br J Sports Med 54:631.\n• Reiman MP et al. 2015. Clinical tests for FAI and labral tear: meta-analysis. Br J Sports Med 49:811.\n• Griffin DR et al. 2016. Warwick Agreement on FAI syndrome. Br J Sports Med 50:1169.\n• Weir A et al. 2015. Doha agreement on groin pain in athletes. Br J Sports Med 49:768.\n• Grimaldi A et al. 2017. Clinical tests for MRI-confirmed gluteal tendinopathy. Br J Sports Med 51:519. doi:10.1136/bjsports-2016-096175\n• Mellor R et al. 2018. LEAP trial: education + exercise for gluteal tendinopathy. BMJ 361:k1662.\n• Martin RL et al. 2022. Hamstring strain injury CPG. JOSPT 52(3).\n• Laslett M et al. 2005. Sacroiliac provocation test cluster. Man Ther 10:207. doi:10.1016/j.math.2005.01.003\n• Tiru M et al. 2002. Percussion for occult hip fracture. Singapore Med J 43:467 — accuracy figures as reported in a 2013 review (BMC Musculoskelet Disord 14:257).\n• Fulcrum test accuracy: secondary summary of small primary studies — treat as low certainty.\n• Kocher MS et al. 1999. Septic arthritis vs transient synovitis of the hip in children. J Bone Joint Surg Am 81:1662.\n• Peck DM et al. 2017. Slipped capital femoral epiphysis. Am Fam Physician.\n• Rodriguez-Morales AJ et al. 2016. Chronic inflammatory rheumatism after chikungunya: meta-analysis. Arthritis Care Res.\n• Osteoarticular tuberculosis review, 2020.\n• Team Intelehealth NAS records analysis (internal): 6,077 musculoskeletal visits.\n\nAccuracy figures marked in the boxes were checked against PubMed abstracts where available. Boxes marked “consensus” have no validated accuracy figure."
+    }
+  ]
+}

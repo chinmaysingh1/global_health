@@ -1,0 +1,648 @@
+{
+  "board_key": "rWECNSFkKrOGuJkRPvsQdP",
+  "section": {
+    "id": "1:7333",
+    "name": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+    "x": "17140",
+    "y": "17970",
+    "width": "2200",
+    "height": "4540"
+  },
+  "elements": [
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7231",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7231",
+        "x": "550",
+        "y": "160",
+        "width": "1100",
+        "height": "190",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "STAGE 4 — MEASURE, DOSE THE EXERCISE, RE-TEST\nEvery patient comes here from their exercise group. Everyone gets the same short core battery; the diagnosis adds one module; irritability sets the starting dose; the Örebro score sets HOW the programme is delivered."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7235",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7235",
+        "x": "820",
+        "y": "460",
+        "width": "560",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NS4-1 · How irritable is the neck?\nASK: “Tell me about your last bad flare. What sets the pain off, and how long does it take to settle?” Ask about the last 24 hours, sleep and headaches too."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8330",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8330",
+        "x": "1100",
+        "y": "356",
+        "connectorStart": "1:7231",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7235",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4&gt;NS4-1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7239",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7239",
+        "x": "460",
+        "y": "767",
+        "width": "380",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HIGH: pain at rest or wakes you; small movements flare it; takes hours or until the next day to settle"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8334",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8334",
+        "x": "650",
+        "y": "663",
+        "connectorStart": "1:7235",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7239",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-1&gt;NS4-1a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7243",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7243",
+        "x": "910",
+        "y": "767",
+        "width": "380",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "MODERATE: pain with some activities; settles within an hour or two"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8338",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8338",
+        "x": "1100",
+        "y": "663",
+        "connectorStart": "1:7235",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7243",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-1&gt;NS4-1b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7247",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7247",
+        "x": "1360",
+        "y": "767",
+        "width": "380",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LOW: pain only with long or heavy activity; settles within minutes"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8342",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8342",
+        "x": "1100",
+        "y": "663",
+        "connectorStart": "1:7235",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7247",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-1&gt;NS4-1c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7251",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7251",
+        "x": "460",
+        "y": "1042",
+        "width": "380",
+        "height": "222",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "START GENTLE\nPositions of ease, NX-B gentle movement, chin nods, short walks, education. Baseline limited to pain, PSFS and the Örebro screen."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8346",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8346",
+        "x": "650",
+        "y": "938",
+        "connectorStart": "1:7239",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7251",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-1a&gt;NS4-HI"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7255",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7255",
+        "x": "910",
+        "y": "1042",
+        "width": "380",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "START MODERATE\nGroup exercises at full dose and progressive strengthening within the pain rules. Full core battery."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8350",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8350",
+        "x": "1100",
+        "y": "912",
+        "connectorStart": "1:7243",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7255",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-1b&gt;NS4-MD"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7259",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7259",
+        "x": "1360",
+        "y": "1042",
+        "width": "380",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "START STRONGER\nCore programme loading, carrying and overhead work, return to sport or heavy tasks. Full core battery."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8354",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8354",
+        "x": "1550",
+        "y": "912",
+        "connectorStart": "1:7247",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7259",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-1c&gt;NS4-LO"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7263",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7263",
+        "x": "720",
+        "y": "1374",
+        "width": "760",
+        "height": "332",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NS4-2 · Short-form Örebro Musculoskeletal Pain Screening Questionnaire (10 questions)\nScores the risk of long-term disability from pain, beliefs, mood and work factors across any musculoskeletal pain site. A cut-off of 50 identified 83–85% of the people who went on to develop disability (Linton 2011).\n• Lower risk: advice, reassurance, the group’s exercises at home; few contacts.\n• Higher risk (50 or more): psychologically informed physiotherapy — tackle fears and beliefs, graded exposure, pacing, goal-setting; involve a counsellor or doctor for low mood or stress-reaction symptoms (especially after whiplash)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8366",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8366",
+        "x": "1100",
+        "y": "1245",
+        "connectorStart": "1:7259",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7263",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-LO&gt;NS4-2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8362",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8362",
+        "x": "1100",
+        "y": "1245",
+        "connectorStart": "1:7255",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7263",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-MD&gt;NS4-2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8358",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8358",
+        "x": "650",
+        "y": "1270",
+        "connectorStart": "1:7251",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7263",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-HI&gt;NS4-2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7267",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7267",
+        "x": "120",
+        "y": "1816",
+        "width": "680",
+        "height": "604",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NS4-3 · CORE BASELINE BATTERY (about 10 minutes)\nNeeds: a chair, a stopwatch, a phone and a tape measure. Repeat the SAME set at week 0, 4 and 12.\n1. Pain 0–10 (faces version for low literacy): average and worst in the last week; arm pain and headache scored separately if present.\n2. Patient-Specific Functional Scale (PSFS): the patient names their 3 hardest tasks and rates each 0–10 — this becomes the goal list. Prompt with local tasks: carrying head-loads or water, sewing or computer work, looking up to hang washing, driving or riding a two-wheeler, sleeping, floor work.\n3. Neck Disability Index (NDI): 10 items, 0–50 — check for a validated Hindi or Marathi version.\n4. Body chart: where the symptoms reach — watch arm symptoms centralise across visits.\n5. Neck range: rotation, side-bend, looking up and down (phone inclinometer app, or chin-to-shoulder distance).\n6. Deep-neck-flexor endurance hold (seconds).\n7. Thoracic rotation in sitting and chest expansion at nipple level (tape measure).\n8. Grip strength (dynamometer if available) or a timed bag-carry.\n9. Nerve check if any arm symptoms: hand-on-head sign, upper-limb tension test, strength and feeling by root."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8370",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8370",
+        "x": "460",
+        "y": "1712",
+        "connectorStart": "1:7263",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7267",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-2&gt;NS4-3"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7271",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7271",
+        "x": "870",
+        "y": "1816",
+        "width": "680",
+        "height": "510",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NS4-4 · ADD-ON MODULE — pick the one that matches the working diagnosis\nNeck module (ND1, ND2, ND5): NDI; range of movement; endurance hold; work-break log.\nWhiplash module (ND3, ND4): NDI, Quebec grade, stress-reaction screen (e.g. Impact of Event Scale), dizziness and concentration checklist.\nArm-pain module (ND7, ND8): arm pain 0–10 apart from neck pain; upper-limb tension test; strength and feeling by root at every visit (any new weakness → N6).\nHeadache module (ND9): headache diary (days per month, intensity, medicine days); flexion-rotation range; HIT-6 headache impact questionnaire.\nUpper-back module (ND6, ND10): thoracic rotation; chest expansion; pain on deep breath 0–10.\nYellow-flag module (ND4, ND12, or Örebro 50+): Örebro; Central Sensitization Inventory; PHQ-9 mood screen → doctor if moderate or worse; sleep.\nBone-health module (ND11): height to the millimetre; back-of-head-to-wall distance; Timed Up-and-Go; falls in the last year."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8374",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8374",
+        "x": "1100",
+        "y": "1712",
+        "connectorStart": "1:7263",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7271",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-2&gt;NS4-4"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7275",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7275",
+        "x": "1620",
+        "y": "1816",
+        "width": "460",
+        "height": "349",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "PAIN RULES FOR HOME EXERCISE\n• Pain up to about 5 out of 10 during exercise is acceptable if it has settled back to its usual level by the next morning. If not, hold or step down one level.\n• Arm-symptom rule: symptoms moving up toward the neck = good; spreading down the arm, or new numbness or weakness = stop that exercise and re-check NT3 / N6.\n• Dizziness, double vision, or speech or swallowing trouble during exercise → stop at once and go to N3."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7279",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7279",
+        "x": "840",
+        "y": "2530",
+        "width": "520",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NS4-5 · WEEK 1 — dose check\nASK: “Did the pain settle back to normal by the next morning after exercising? Have the arm symptoms or headaches changed?”"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8378",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8378",
+        "x": "460",
+        "y": "2426",
+        "connectorStart": "1:7267",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7279",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-3&gt;NS4-5"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7283",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7283",
+        "x": "685",
+        "y": "2837",
+        "width": "380",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Settled, arm symptoms the same or better — keep the same level (don’t level up yet)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8382",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8382",
+        "x": "875",
+        "y": "2733",
+        "connectorStart": "1:7279",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7283",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-5&gt;NS4-5a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7287",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7287",
+        "x": "1135",
+        "y": "2837",
+        "width": "380",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Not settled, or arm symptoms spreading — step down a level and re-check (NT3)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8394",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8394",
+        "x": "1100",
+        "y": "663",
+        "connectorStart": "1:7287",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7235",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-5b&gt;NS4-1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8386",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8386",
+        "x": "1100",
+        "y": "2733",
+        "connectorStart": "1:7279",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7287",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-5&gt;NS4-5b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7291",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7291",
+        "x": "840",
+        "y": "3112",
+        "width": "520",
+        "height": "171",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NS4-6 · WEEK 4 — first re-test\nRepeat the core battery with the same chair and the same tape. Is it improving? (PSFS, pain, NDI, headache days)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8390",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8390",
+        "x": "875",
+        "y": "3008",
+        "connectorStart": "1:7283",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7291",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-5a&gt;NS4-6"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7295",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7295",
+        "x": "625",
+        "y": "3393",
+        "width": "440",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Yes"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8398",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8398",
+        "x": "845",
+        "y": "3289",
+        "connectorStart": "1:7291",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7295",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-6&gt;NS4-6a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7299",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7299",
+        "x": "1135",
+        "y": "3393",
+        "width": "440",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "No"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8402",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8402",
+        "x": "1100",
+        "y": "3289",
+        "connectorStart": "1:7291",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7299",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-6&gt;NS4-6b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7303",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7303",
+        "x": "625",
+        "y": "3617",
+        "width": "440",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LEVEL UP\nAdd load, endurance time and work-task practice; move toward the core programme. Continue to week 12."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8406",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8406",
+        "x": "845",
+        "y": "3513",
+        "connectorStart": "1:7295",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7303",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-6a&gt;NS4-UP"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7307",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7307",
+        "x": "1135",
+        "y": "3617",
+        "width": "440",
+        "height": "247",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "RE-CHECK BEFORE CONTINUING\nRe-run the Stage 1 safety screen; repeat the arm-nerve check (NT3) and headache screen; re-score the Örebro and yellow flags; physio video exam; doctor review if arm symptoms aren’t improving by 6–12 weeks."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8410",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8410",
+        "x": "1355",
+        "y": "3513",
+        "connectorStart": "1:7299",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7307",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-6b&gt;NS4-NO"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7311",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7311",
+        "x": "840",
+        "y": "3974",
+        "width": "520",
+        "height": "146",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NS4-7 · WEEK 12 — programme review\nMost change shows by now. Better?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8414",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8414",
+        "x": "845",
+        "y": "3820",
+        "connectorStart": "1:7303",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7311",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-UP&gt;NS4-7"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7315",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7315",
+        "x": "625",
+        "y": "4230",
+        "width": "440",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Yes — continue the core programme and move to self-management with a flare-up plan"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8418",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8418",
+        "x": "845",
+        "y": "4126",
+        "connectorStart": "1:7311",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7315",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-7&gt;NS4-7a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7319",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7319",
+        "x": "1135",
+        "y": "4230",
+        "width": "440",
+        "height": "190",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Still no change after a real trial — revise the diagnosis, refer to a physiotherapist or doctor, consider combined physical and psychological care"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8422",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8422",
+        "x": "1100",
+        "y": "4126",
+        "connectorStart": "1:7311",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7319",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-7&gt;NS4-7b"
+    }
+  ]
+}

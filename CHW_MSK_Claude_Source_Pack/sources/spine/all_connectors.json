@@ -1,0 +1,4101 @@
+{
+  "board_key": "rWECNSFkKrOGuJkRPvsQdP",
+  "note": "Complete edge index; duplicates edges already stored in section and page-level files.",
+  "elements": [
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7354",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7354",
+        "x": "5220",
+        "y": "1115",
+        "connectorStart": "1:6419",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6435",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-A0L&gt;G-LB",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7358",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7358",
+        "x": "18240",
+        "y": "1141",
+        "connectorStart": "1:6427",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6439",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-A0N&gt;G-NK",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7362",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7362",
+        "x": "6036",
+        "y": "1419.5",
+        "connectorStart": "1:6431",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6435",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-N0B&gt;G-LB",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7366",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7366",
+        "x": "12086",
+        "y": "1419.5",
+        "connectorStart": "1:6431",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6439",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-N0B&gt;G-NK",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7474",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7474",
+        "x": "5220",
+        "y": "9988",
+        "connectorStart": "1:6555",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6563",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LPASS&gt;LS2",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7478",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7478",
+        "x": "4240",
+        "y": "6412",
+        "connectorStart": "1:6503",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6759",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L6Y&gt;LD12",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7482",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7482",
+        "x": "2360",
+        "y": "8082",
+        "connectorStart": "1:6527",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6655",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L9Y&gt;LD4",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7610",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7610",
+        "x": "5260",
+        "y": "5914",
+        "connectorStart": "1:6675",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6491",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT2c&gt;L5",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7650",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7650",
+        "x": "5260",
+        "y": "9681",
+        "connectorStart": "1:6707",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6547",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT5b&gt;L12",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7706",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7706",
+        "x": "410",
+        "y": "13730",
+        "connectorStart": "1:6615",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6767",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD1&gt;LX-A",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7710",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7710",
+        "x": "1060",
+        "y": "13680",
+        "connectorStart": "1:6619",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6767",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD2&gt;LX-A",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7714",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7714",
+        "x": "2774",
+        "y": "14125",
+        "connectorStart": "1:6691",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6767",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD6&gt;LX-A",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7718",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7718",
+        "x": "2774",
+        "y": "13747",
+        "connectorStart": "1:6715",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6767",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD8&gt;LX-A",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7722",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7722",
+        "x": "1376",
+        "y": "14362",
+        "connectorStart": "1:6639",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6771",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD3&gt;LX-B",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7726",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7726",
+        "x": "2360",
+        "y": "15164",
+        "connectorStart": "1:6655",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6775",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD4&gt;LX-C",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7730",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7730",
+        "x": "6194",
+        "y": "13552",
+        "connectorStart": "1:6735",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6775",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD9&gt;LX-C",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7734",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7734",
+        "x": "6194",
+        "y": "13713",
+        "connectorStart": "1:6739",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6775",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD10&gt;LX-C",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7738",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7738",
+        "x": "4440",
+        "y": "14125",
+        "connectorStart": "1:6691",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6779",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD6&gt;LX-D",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7742",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7742",
+        "x": "5054",
+        "y": "14201",
+        "connectorStart": "1:6695",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6779",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD7&gt;LX-D",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7746",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7746",
+        "x": "3400",
+        "y": "14388",
+        "connectorStart": "1:6659",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6783",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD5&gt;LX-E",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7750",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7750",
+        "x": "6520",
+        "y": "13747",
+        "connectorStart": "1:6715",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6783",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD8&gt;LX-E",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7754",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7754",
+        "x": "7334",
+        "y": "13492",
+        "connectorStart": "1:6755",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6783",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD11&gt;LX-E",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7758",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7758",
+        "x": "3914",
+        "y": "11540",
+        "connectorStart": "1:6759",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6787",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LD12&gt;LX-F",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7786",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7786",
+        "x": "5220",
+        "y": "18456",
+        "connectorStart": "1:6791",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6795",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-CORE&gt;LS4",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7990",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7990",
+        "x": "18240",
+        "y": "10089",
+        "connectorStart": "1:6987",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6995",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NPASS&gt;NS2",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7994",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7994",
+        "x": "18980",
+        "y": "7614",
+        "connectorStart": "1:6951",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7179",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N8Y&gt;ND11",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7998",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7998",
+        "x": "19196",
+        "y": "8521.5",
+        "connectorStart": "1:6967",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7179",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N10Y&gt;ND11",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8134",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8134",
+        "x": "18280",
+        "y": "6602",
+        "connectorStart": "1:7111",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6931",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3d&gt;N6",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8222",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8222",
+        "x": "15068",
+        "y": "13474",
+        "connectorStart": "1:7135",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7203",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND9&gt;NX-A",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8226",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8226",
+        "x": "13250",
+        "y": "13860",
+        "connectorStart": "1:7059",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7203",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND3&gt;NX-A",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8230",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8230",
+        "x": "13900",
+        "y": "13978",
+        "connectorStart": "1:7063",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7203",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND4&gt;NX-A",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8234",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8234",
+        "x": "15068",
+        "y": "14005",
+        "connectorStart": "1:7091",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7203",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND2&gt;NX-A",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8238",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8238",
+        "x": "15068",
+        "y": "13679",
+        "connectorStart": "1:7115",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7203",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND7&gt;NX-A",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8242",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8242",
+        "x": "15590",
+        "y": "13870",
+        "connectorStart": "1:7087",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7207",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND1&gt;NX-B",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8246",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8246",
+        "x": "14940",
+        "y": "13058",
+        "connectorStart": "1:7067",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7207",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND5&gt;NX-B",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8250",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8250",
+        "x": "13250",
+        "y": "13860",
+        "connectorStart": "1:7059",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7207",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND3&gt;NX-B",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8254",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8254",
+        "x": "16592",
+        "y": "13059",
+        "connectorStart": "1:7171",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7207",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND6&gt;NX-B",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8258",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8258",
+        "x": "16592",
+        "y": "13818",
+        "connectorStart": "1:7175",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7207",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND10&gt;NX-B",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8262",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8262",
+        "x": "16592",
+        "y": "13474",
+        "connectorStart": "1:7135",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7207",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND9&gt;NX-B",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8266",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8266",
+        "x": "16240",
+        "y": "14005",
+        "connectorStart": "1:7091",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7211",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND2&gt;NX-C",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8270",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8270",
+        "x": "15590",
+        "y": "13870",
+        "connectorStart": "1:7087",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7211",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND1&gt;NX-C",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8274",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8274",
+        "x": "18872",
+        "y": "13059",
+        "connectorStart": "1:7171",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7211",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND6&gt;NX-C",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8278",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8278",
+        "x": "17930",
+        "y": "13729",
+        "connectorStart": "1:7119",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7211",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND8&gt;NX-C",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8282",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8282",
+        "x": "17280",
+        "y": "13679",
+        "connectorStart": "1:7115",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7215",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND7&gt;NX-D",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8286",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8286",
+        "x": "17732",
+        "y": "13729",
+        "connectorStart": "1:7119",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7215",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND8&gt;NX-D",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8290",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8290",
+        "x": "20012",
+        "y": "13373",
+        "connectorStart": "1:7195",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7219",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND12&gt;NX-E",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8294",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8294",
+        "x": "13900",
+        "y": "13978",
+        "connectorStart": "1:7063",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7219",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND4&gt;NX-E",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8298",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8298",
+        "x": "21252",
+        "y": "13203",
+        "connectorStart": "1:7179",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7223",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "ND11&gt;NX-F",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8326",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8326",
+        "x": "18240",
+        "y": "17156",
+        "connectorStart": "1:7227",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7231",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NX-CORE&gt;NS4",
+      "containing_element": "0:1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7334",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7334",
+        "x": "11940",
+        "y": "424",
+        "connectorStart": "1:6411",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6415",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-START&gt;G-Q0",
+      "containing_element": "1:7325"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7338",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7338",
+        "x": "5340",
+        "y": "756",
+        "connectorStart": "1:6415",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6419",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-Q0&gt;G-A0L",
+      "containing_element": "1:7325"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7342",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7342",
+        "x": "11940",
+        "y": "756",
+        "connectorStart": "1:6415",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6423",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-Q0&gt;G-A0B",
+      "containing_element": "1:7325"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7346",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7346",
+        "x": "11940",
+        "y": "756",
+        "connectorStart": "1:6415",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6427",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-Q0&gt;G-A0N",
+      "containing_element": "1:7325"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7350",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7350",
+        "x": "11940",
+        "y": "1115",
+        "connectorStart": "1:6423",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6431",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-A0B&gt;G-N0B",
+      "containing_element": "1:7325"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7370",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7370",
+        "x": "1330",
+        "y": "356",
+        "connectorStart": "1:6435",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6455",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-LB&gt;LS1",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7374",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7374",
+        "x": "1110",
+        "y": "763",
+        "connectorStart": "1:6455",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6459",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS1&gt;L1",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7378",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7378",
+        "x": "1446",
+        "y": "1089.5",
+        "connectorStart": "1:6459",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6463",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L1&gt;L1Y",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7382",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7382",
+        "x": "1089.5",
+        "y": "1358",
+        "connectorStart": "1:6459",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6467",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L1&gt;L2",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7386",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7386",
+        "x": "1446",
+        "y": "1616.5",
+        "connectorStart": "1:6467",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6471",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L2&gt;L2Y",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7390",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7390",
+        "x": "1089.5",
+        "y": "1817",
+        "connectorStart": "1:6467",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6475",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L2&gt;L3",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7394",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7394",
+        "x": "1446",
+        "y": "2105.5",
+        "connectorStart": "1:6475",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6479",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L3&gt;L3Y",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7398",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7398",
+        "x": "1089.5",
+        "y": "2336",
+        "connectorStart": "1:6475",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6483",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L3&gt;L4",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7402",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7402",
+        "x": "1446",
+        "y": "2675",
+        "connectorStart": "1:6483",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6487",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L4&gt;L4Y",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7406",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7406",
+        "x": "1089.5",
+        "y": "2956",
+        "connectorStart": "1:6483",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6491",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L4&gt;L5",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7410",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7410",
+        "x": "1446",
+        "y": "3257.5",
+        "connectorStart": "1:6491",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6495",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L5&gt;L5Y",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7414",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7414",
+        "x": "1089.5",
+        "y": "3500",
+        "connectorStart": "1:6491",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6499",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L5&gt;L6",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7418",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7418",
+        "x": "1446",
+        "y": "3835.5",
+        "connectorStart": "1:6499",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6503",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L6&gt;L6Y",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7422",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7422",
+        "x": "1089.5",
+        "y": "4112",
+        "connectorStart": "1:6499",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6507",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L6&gt;L7",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7426",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7426",
+        "x": "1446",
+        "y": "4421.5",
+        "connectorStart": "1:6507",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6511",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L7&gt;L7Y",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7430",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7430",
+        "x": "1089.5",
+        "y": "4673",
+        "connectorStart": "1:6507",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6515",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L7&gt;L8",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7434",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7434",
+        "x": "1446",
+        "y": "4957",
+        "connectorStart": "1:6515",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6519",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L8&gt;L8Y",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7438",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7438",
+        "x": "1089.5",
+        "y": "5183",
+        "connectorStart": "1:6515",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6523",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L8&gt;L9",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7442",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7442",
+        "x": "1446",
+        "y": "5480",
+        "connectorStart": "1:6523",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6527",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L9&gt;L9Y",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7446",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7446",
+        "x": "1089.5",
+        "y": "5719",
+        "connectorStart": "1:6523",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6531",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L9&gt;L10",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7450",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7450",
+        "x": "1446",
+        "y": "6003",
+        "connectorStart": "1:6531",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6535",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L10&gt;L10Y",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7454",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7454",
+        "x": "1089.5",
+        "y": "6229",
+        "connectorStart": "1:6531",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6539",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L10&gt;L11",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7458",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7458",
+        "x": "1446",
+        "y": "6517.5",
+        "connectorStart": "1:6539",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6543",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L11&gt;L11Y",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7462",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7462",
+        "x": "1089.5",
+        "y": "6748",
+        "connectorStart": "1:6539",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6547",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L11&gt;L12",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7466",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7466",
+        "x": "1446",
+        "y": "7036.5",
+        "connectorStart": "1:6547",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6551",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L12&gt;L12Y",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7470",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7470",
+        "x": "1089.5",
+        "y": "7267",
+        "connectorStart": "1:6547",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6555",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L12&gt;LPASS",
+      "containing_element": "1:7326"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7486",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7486",
+        "x": "5220",
+        "y": "413",
+        "connectorStart": "1:6563",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6571",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS2&gt;LQ1",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7490",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7490",
+        "x": "2100",
+        "y": "1051",
+        "connectorStart": "1:6571",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6575",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1&gt;LQ1a",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7510",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7510",
+        "x": "2100",
+        "y": "1300",
+        "connectorStart": "1:6575",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6595",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1a&gt;LT1",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7514",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7514",
+        "x": "410",
+        "y": "2048",
+        "connectorStart": "1:6595",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6599",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1&gt;LT1a",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7530",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7530",
+        "x": "410",
+        "y": "2323",
+        "connectorStart": "1:6599",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6615",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1a&gt;LD1",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7518",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7518",
+        "x": "1060",
+        "y": "2048",
+        "connectorStart": "1:6595",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6603",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1&gt;LT1b",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7534",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7534",
+        "x": "1060",
+        "y": "2323",
+        "connectorStart": "1:6603",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6619",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1b&gt;LD2",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7522",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7522",
+        "x": "2100",
+        "y": "2048",
+        "connectorStart": "1:6595",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6607",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1&gt;LT1c",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7538",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7538",
+        "x": "2555",
+        "y": "2323",
+        "connectorStart": "1:6607",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6623",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1c&gt;LQ2",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7546",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7546",
+        "x": "1710",
+        "y": "2638",
+        "connectorStart": "1:6623",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6627",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ2&gt;LQ2a",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7558",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7558",
+        "x": "1710",
+        "y": "2938",
+        "connectorStart": "1:6627",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6639",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ2a&gt;LD3",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7550",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7550",
+        "x": "2555",
+        "y": "2638",
+        "connectorStart": "1:6623",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6631",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ2&gt;LQ2b",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7562",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7562",
+        "x": "2555",
+        "y": "2938",
+        "connectorStart": "1:6631",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6643",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ2b&gt;LT4",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7566",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7566",
+        "x": "2360",
+        "y": "3482",
+        "connectorStart": "1:6643",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6647",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT4&gt;LT4a",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7574",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7574",
+        "x": "2360",
+        "y": "3731",
+        "connectorStart": "1:6647",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6655",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT4a&gt;LD4",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7570",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7570",
+        "x": "2555",
+        "y": "3482",
+        "connectorStart": "1:6643",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6651",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT4&gt;LT4b",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7554",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7554",
+        "x": "2555",
+        "y": "2638",
+        "connectorStart": "1:6623",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6635",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ2&gt;LQ2c",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7582",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7582",
+        "x": "2880",
+        "y": "2969",
+        "connectorStart": "1:6651",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6659",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT4b&gt;LD5",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7578",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7578",
+        "x": "3400",
+        "y": "2913",
+        "connectorStart": "1:6635",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6659",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ2c&gt;LD5",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7526",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7526",
+        "x": "2100",
+        "y": "2048",
+        "connectorStart": "1:6595",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6611",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1&gt;LT1d",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7494",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7494",
+        "x": "5155",
+        "y": "1051",
+        "connectorStart": "1:6571",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6579",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1&gt;LQ1b",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7586",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7586",
+        "x": "5155",
+        "y": "1326",
+        "connectorStart": "1:6579",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6663",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1b&gt;LT2",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7542",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7542",
+        "x": "4086",
+        "y": "1655.5",
+        "connectorStart": "1:6611",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6663",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1d&gt;LT2",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7590",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7590",
+        "x": "4765",
+        "y": "1887",
+        "connectorStart": "1:6663",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6667",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT2&gt;LT2a",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7602",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7602",
+        "x": "4765",
+        "y": "2162",
+        "connectorStart": "1:6667",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6679",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT2a&gt;LQ3",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7614",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7614",
+        "x": "4440",
+        "y": "2477",
+        "connectorStart": "1:6679",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6683",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ3&gt;LQ3a",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7622",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7622",
+        "x": "4440",
+        "y": "2726",
+        "connectorStart": "1:6683",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6691",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ3a&gt;LD6",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7618",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7618",
+        "x": "4765",
+        "y": "2477",
+        "connectorStart": "1:6679",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6687",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ3&gt;LQ3b",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7626",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7626",
+        "x": "5090",
+        "y": "2726",
+        "connectorStart": "1:6687",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6695",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ3b&gt;LD7",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7606",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7606",
+        "x": "2416",
+        "y": "1723",
+        "connectorStart": "1:6671",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6595",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT2b&gt;LT1",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7594",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7594",
+        "x": "5155",
+        "y": "1887",
+        "connectorStart": "1:6663",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6671",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT2&gt;LT2b",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7598",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7598",
+        "x": "5155",
+        "y": "1887",
+        "connectorStart": "1:6663",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6675",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT2&gt;LT2c",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7498",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7498",
+        "x": "5220",
+        "y": "1051",
+        "connectorStart": "1:6571",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6583",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1&gt;LQ1c",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7630",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7630",
+        "x": "6910",
+        "y": "1351",
+        "connectorStart": "1:6583",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6699",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1c&gt;LT5",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7634",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7634",
+        "x": "6520",
+        "y": "2048",
+        "connectorStart": "1:6699",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6703",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT5&gt;LT5a",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7646",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7646",
+        "x": "6520",
+        "y": "2323",
+        "connectorStart": "1:6703",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6715",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT5a&gt;LD8",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7638",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7638",
+        "x": "6910",
+        "y": "2048",
+        "connectorStart": "1:6699",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6707",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT5&gt;LT5b",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7654",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7654",
+        "x": "2416",
+        "y": "1723",
+        "connectorStart": "1:6711",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6595",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT5c&gt;LT1",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7642",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7642",
+        "x": "6910",
+        "y": "2048",
+        "connectorStart": "1:6699",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6711",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT5&gt;LT5c",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7502",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7502",
+        "x": "5220",
+        "y": "1051",
+        "connectorStart": "1:6571",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6587",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1&gt;LQ1d",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7658",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7658",
+        "x": "8470",
+        "y": "1351",
+        "connectorStart": "1:6587",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6719",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1d&gt;LT6",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7662",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7662",
+        "x": "7950",
+        "y": "2014",
+        "connectorStart": "1:6719",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6723",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT6&gt;LT6a",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7674",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7674",
+        "x": "7950",
+        "y": "2263",
+        "connectorStart": "1:6723",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6739",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT6a&gt;LD10",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7666",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7666",
+        "x": "8470",
+        "y": "2014",
+        "connectorStart": "1:6719",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6727",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT6&gt;LT6b",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7678",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7678",
+        "x": "8600",
+        "y": "2238",
+        "connectorStart": "1:6727",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6735",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT6b&gt;LD9",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7682",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7682",
+        "x": "2416",
+        "y": "1723",
+        "connectorStart": "1:6731",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6595",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT6c&gt;LT1",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7670",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7670",
+        "x": "8470",
+        "y": "2014",
+        "connectorStart": "1:6719",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6731",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT6&gt;LT6c",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7506",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7506",
+        "x": "5220",
+        "y": "1051",
+        "connectorStart": "1:6571",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6591",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1&gt;LQ1e",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7686",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7686",
+        "x": "9835",
+        "y": "1326",
+        "connectorStart": "1:6591",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6743",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1e&gt;LT7",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7690",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7690",
+        "x": "9640",
+        "y": "1785",
+        "connectorStart": "1:6743",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6747",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT7&gt;LT7a",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7698",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7698",
+        "x": "9640",
+        "y": "2034",
+        "connectorStart": "1:6747",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6755",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT7a&gt;LD11",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7702",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7702",
+        "x": "2416",
+        "y": "1723",
+        "connectorStart": "1:6751",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6595",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT7b&gt;LT1",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7694",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7694",
+        "x": "9835",
+        "y": "1785",
+        "connectorStart": "1:6743",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6751",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT7&gt;LT7b",
+      "containing_element": "1:7327"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7782",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7782",
+        "x": "3158",
+        "y": "1593",
+        "connectorStart": "1:6787",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6791",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-F&gt;LX-CORE",
+      "containing_element": "1:7328"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7778",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7778",
+        "x": "4464",
+        "y": "1742",
+        "connectorStart": "1:6783",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6791",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-E&gt;LX-CORE",
+      "containing_element": "1:7328"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7774",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7774",
+        "x": "4298",
+        "y": "1667",
+        "connectorStart": "1:6779",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6791",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-D&gt;LX-CORE",
+      "containing_element": "1:7328"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7770",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7770",
+        "x": "4464",
+        "y": "1563",
+        "connectorStart": "1:6775",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6791",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-C&gt;LX-CORE",
+      "containing_element": "1:7328"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7766",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7766",
+        "x": "620",
+        "y": "1519",
+        "connectorStart": "1:6771",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6791",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-B&gt;LX-CORE",
+      "containing_element": "1:7328"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7762",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7762",
+        "x": "2018",
+        "y": "1675",
+        "connectorStart": "1:6767",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6791",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-A&gt;LX-CORE",
+      "containing_element": "1:7328"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7790",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7790",
+        "x": "1100",
+        "y": "385",
+        "connectorStart": "1:6795",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6799",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4&gt;LS4-1",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7794",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7794",
+        "x": "650",
+        "y": "692",
+        "connectorStart": "1:6799",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6803",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-1&gt;LS4-1a",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7798",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7798",
+        "x": "1100",
+        "y": "692",
+        "connectorStart": "1:6799",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6807",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-1&gt;LS4-1b",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7802",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7802",
+        "x": "1100",
+        "y": "692",
+        "connectorStart": "1:6799",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6811",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-1&gt;LS4-1c",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7806",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7806",
+        "x": "650",
+        "y": "967",
+        "connectorStart": "1:6803",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6815",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-1a&gt;LS4-HI",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7810",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7810",
+        "x": "1100",
+        "y": "941",
+        "connectorStart": "1:6807",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6819",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-1b&gt;LS4-MD",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7814",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7814",
+        "x": "1550",
+        "y": "941",
+        "connectorStart": "1:6811",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6823",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-1c&gt;LS4-LO",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7826",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7826",
+        "x": "1100",
+        "y": "1274",
+        "connectorStart": "1:6823",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6827",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-LO&gt;LS4-2",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7822",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7822",
+        "x": "1100",
+        "y": "1274",
+        "connectorStart": "1:6819",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6827",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-MD&gt;LS4-2",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7818",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7818",
+        "x": "650",
+        "y": "1299",
+        "connectorStart": "1:6815",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6827",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-HI&gt;LS4-2",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7830",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7830",
+        "x": "460",
+        "y": "1733",
+        "connectorStart": "1:6827",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6831",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-2&gt;LS4-3",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7834",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7834",
+        "x": "1100",
+        "y": "1733",
+        "connectorStart": "1:6827",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6835",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-2&gt;LS4-4",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7838",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7838",
+        "x": "460",
+        "y": "2447",
+        "connectorStart": "1:6831",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6843",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-3&gt;LS4-5",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7842",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7842",
+        "x": "875",
+        "y": "2754",
+        "connectorStart": "1:6843",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6847",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-5&gt;LS4-5a",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7854",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7854",
+        "x": "1100",
+        "y": "692",
+        "connectorStart": "1:6851",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6799",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-5b&gt;LS4-1",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7846",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7846",
+        "x": "1100",
+        "y": "2754",
+        "connectorStart": "1:6843",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6851",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-5&gt;LS4-5b",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7850",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7850",
+        "x": "875",
+        "y": "3003",
+        "connectorStart": "1:6847",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6855",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-5a&gt;LS4-6",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7858",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7858",
+        "x": "845",
+        "y": "3310",
+        "connectorStart": "1:6855",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6859",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-6&gt;LS4-6a",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7862",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7862",
+        "x": "1100",
+        "y": "3310",
+        "connectorStart": "1:6855",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6863",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-6&gt;LS4-6b",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7866",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7866",
+        "x": "845",
+        "y": "3534",
+        "connectorStart": "1:6859",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6867",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-6a&gt;LS4-UP",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7870",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7870",
+        "x": "1355",
+        "y": "3534",
+        "connectorStart": "1:6863",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6871",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-6b&gt;LS4-NO",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7874",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7874",
+        "x": "845",
+        "y": "3815",
+        "connectorStart": "1:6867",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6875",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-UP&gt;LS4-7",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7878",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7878",
+        "x": "845",
+        "y": "4122",
+        "connectorStart": "1:6875",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6879",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-7&gt;LS4-7a",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7882",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7882",
+        "x": "1100",
+        "y": "4122",
+        "connectorStart": "1:6875",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6883",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS4-7&gt;LS4-7b",
+      "containing_element": "1:7329"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7886",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7886",
+        "x": "1330",
+        "y": "356",
+        "connectorStart": "1:6439",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6887",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-NK&gt;NS1",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7890",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7890",
+        "x": "1110",
+        "y": "763",
+        "connectorStart": "1:6887",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6891",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS1&gt;N1",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7894",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7894",
+        "x": "1446",
+        "y": "1089.5",
+        "connectorStart": "1:6891",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6895",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N1&gt;N1Y",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7898",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7898",
+        "x": "1089.5",
+        "y": "1358",
+        "connectorStart": "1:6891",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6899",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N1&gt;N2",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7902",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7902",
+        "x": "1446",
+        "y": "1697",
+        "connectorStart": "1:6899",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6903",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N2&gt;N2Y",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7906",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7906",
+        "x": "1089.5",
+        "y": "1978",
+        "connectorStart": "1:6899",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6907",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N2&gt;N3",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7910",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7910",
+        "x": "1446",
+        "y": "2304.5",
+        "connectorStart": "1:6907",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6911",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N3&gt;N3Y",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7914",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7914",
+        "x": "1089.5",
+        "y": "2573",
+        "connectorStart": "1:6907",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6915",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N3&gt;N4",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7918",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7918",
+        "x": "1446",
+        "y": "2870.5",
+        "connectorStart": "1:6915",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6919",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N4&gt;N4Y",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7922",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7922",
+        "x": "1089.5",
+        "y": "3109",
+        "connectorStart": "1:6915",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6923",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N4&gt;N5",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7926",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7926",
+        "x": "1446",
+        "y": "3393.5",
+        "connectorStart": "1:6923",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6927",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N5&gt;N5Y",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7930",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7930",
+        "x": "1089.5",
+        "y": "3619",
+        "connectorStart": "1:6923",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6931",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N5&gt;N6",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7934",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7934",
+        "x": "1446",
+        "y": "3933",
+        "connectorStart": "1:6931",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6935",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N6&gt;N6Y",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7938",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7938",
+        "x": "1089.5",
+        "y": "4188",
+        "connectorStart": "1:6931",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6939",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N6&gt;N7",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7942",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7942",
+        "x": "1446",
+        "y": "4460",
+        "connectorStart": "1:6939",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6943",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N7&gt;N7Y",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7946",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7946",
+        "x": "1089.5",
+        "y": "4673",
+        "connectorStart": "1:6939",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6947",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N7&gt;N8",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7950",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7950",
+        "x": "1446",
+        "y": "5025",
+        "connectorStart": "1:6947",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6951",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N8&gt;N8Y",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7954",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7954",
+        "x": "1089.5",
+        "y": "5319",
+        "connectorStart": "1:6947",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6955",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N8&gt;N9",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7958",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7958",
+        "x": "1446",
+        "y": "5577.5",
+        "connectorStart": "1:6955",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6959",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N9&gt;N9Y",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7962",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7962",
+        "x": "1089.5",
+        "y": "5778",
+        "connectorStart": "1:6955",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6963",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N9&gt;N10",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7966",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7966",
+        "x": "1446",
+        "y": "6087.5",
+        "connectorStart": "1:6963",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6967",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N10&gt;N10Y",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7970",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7970",
+        "x": "1089.5",
+        "y": "6339",
+        "connectorStart": "1:6963",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6971",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N10&gt;N11",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7974",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7974",
+        "x": "1446",
+        "y": "6628",
+        "connectorStart": "1:6971",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6975",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N11&gt;N11Y",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7978",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7978",
+        "x": "1089.5",
+        "y": "6858",
+        "connectorStart": "1:6971",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6979",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N11&gt;N12",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7982",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7982",
+        "x": "1446",
+        "y": "7142.5",
+        "connectorStart": "1:6979",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6983",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N12&gt;N12Y",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7986",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7986",
+        "x": "1089.5",
+        "y": "7368",
+        "connectorStart": "1:6979",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6987",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N12&gt;NPASS",
+      "containing_element": "1:7330"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8002",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8002",
+        "x": "5400",
+        "y": "385",
+        "connectorStart": "1:6995",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7003",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS2&gt;NQ1",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8006",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8006",
+        "x": "2100",
+        "y": "830",
+        "connectorStart": "1:7003",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7007",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1&gt;NQ1a",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8026",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8026",
+        "x": "2100",
+        "y": "1079",
+        "connectorStart": "1:7007",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7027",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1a&gt;NQ2",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8030",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8030",
+        "x": "930",
+        "y": "1360",
+        "connectorStart": "1:7027",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7031",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ2&gt;NQ2a",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8042",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8042",
+        "x": "930",
+        "y": "1609",
+        "connectorStart": "1:7031",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7043",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ2a&gt;NT1",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8046",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8046",
+        "x": "410",
+        "y": "2178",
+        "connectorStart": "1:7043",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7047",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT1&gt;NT1a",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8058",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8058",
+        "x": "410",
+        "y": "2402",
+        "connectorStart": "1:7047",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7059",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT1a&gt;ND3",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8050",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8050",
+        "x": "930",
+        "y": "2178",
+        "connectorStart": "1:7043",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7051",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT1&gt;NT1b",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8062",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8062",
+        "x": "1060",
+        "y": "2453",
+        "connectorStart": "1:7051",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7063",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT1b&gt;ND4",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8054",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8054",
+        "x": "930",
+        "y": "2178",
+        "connectorStart": "1:7043",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7055",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT1&gt;NT1c",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8034",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8034",
+        "x": "2100",
+        "y": "1360",
+        "connectorStart": "1:7027",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7035",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ2&gt;NQ2b",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8070",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8070",
+        "x": "2100",
+        "y": "1609",
+        "connectorStart": "1:7035",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7067",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ2b&gt;ND5",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8038",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8038",
+        "x": "2100",
+        "y": "1360",
+        "connectorStart": "1:7027",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7039",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ2&gt;NQ2c",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8074",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8074",
+        "x": "3270",
+        "y": "1635",
+        "connectorStart": "1:7039",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7071",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ2c&gt;NT2",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8078",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8078",
+        "x": "2750",
+        "y": "2171",
+        "connectorStart": "1:7071",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7075",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT2&gt;NT2a",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8090",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8090",
+        "x": "2750",
+        "y": "2446",
+        "connectorStart": "1:7075",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7087",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT2a&gt;ND1",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8082",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8082",
+        "x": "3270",
+        "y": "2171",
+        "connectorStart": "1:7071",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7079",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT2&gt;NT2b",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8094",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8094",
+        "x": "3400",
+        "y": "2471",
+        "connectorStart": "1:7079",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7091",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT2b&gt;ND2",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8086",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8086",
+        "x": "3270",
+        "y": "2171",
+        "connectorStart": "1:7071",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7083",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT2&gt;NT2c",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8010",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8010",
+        "x": "5155",
+        "y": "830",
+        "connectorStart": "1:7003",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7011",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1&gt;NQ1b",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8102",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8102",
+        "x": "5155",
+        "y": "1105",
+        "connectorStart": "1:7011",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7095",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1b&gt;NT3",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8066",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8066",
+        "x": "1746",
+        "y": "1528",
+        "connectorStart": "1:7055",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7095",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT1c&gt;NT3",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8106",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8106",
+        "x": "4440",
+        "y": "1853",
+        "connectorStart": "1:7095",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7099",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3&gt;NT3a",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8122",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8122",
+        "x": "4440",
+        "y": "2128",
+        "connectorStart": "1:7099",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7115",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3a&gt;ND7",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8110",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8110",
+        "x": "5090",
+        "y": "1853",
+        "connectorStart": "1:7095",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7103",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3&gt;NT3b",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8126",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8126",
+        "x": "5090",
+        "y": "2153",
+        "connectorStart": "1:7103",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7119",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3b&gt;ND8",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8130",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8130",
+        "x": "3586",
+        "y": "1952",
+        "connectorStart": "1:7107",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7071",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3c&gt;NT2",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8114",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8114",
+        "x": "5155",
+        "y": "1853",
+        "connectorStart": "1:7095",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7107",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3&gt;NT3c",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8118",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8118",
+        "x": "5155",
+        "y": "1853",
+        "connectorStart": "1:7095",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7111",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3&gt;NT3d",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8014",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8014",
+        "x": "5400",
+        "y": "830",
+        "connectorStart": "1:7003",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7015",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1&gt;NQ1c",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8138",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8138",
+        "x": "6765",
+        "y": "1105",
+        "connectorStart": "1:7015",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7123",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1c&gt;NT4",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8142",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8142",
+        "x": "6520",
+        "y": "1725",
+        "connectorStart": "1:7123",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7127",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT4&gt;NT4a",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8150",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8150",
+        "x": "6520",
+        "y": "1974",
+        "connectorStart": "1:7127",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7135",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT4a&gt;ND9",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8146",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8146",
+        "x": "6765",
+        "y": "1725",
+        "connectorStart": "1:7123",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7131",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT4&gt;NT4b",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8154",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8154",
+        "x": "7090",
+        "y": "1974",
+        "connectorStart": "1:7131",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7139",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT4b&gt;NX1",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8018",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8018",
+        "x": "5400",
+        "y": "830",
+        "connectorStart": "1:7003",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7019",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1&gt;NQ1d",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8158",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8158",
+        "x": "8505",
+        "y": "1105",
+        "connectorStart": "1:7019",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7143",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1d&gt;NQ3",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8162",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8162",
+        "x": "7855",
+        "y": "1386",
+        "connectorStart": "1:7143",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7147",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ3&gt;NQ3a",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8174",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8174",
+        "x": "7855",
+        "y": "1686",
+        "connectorStart": "1:7147",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7159",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ3a&gt;NT5",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8178",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8178",
+        "x": "7660",
+        "y": "2120",
+        "connectorStart": "1:7159",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7163",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT5&gt;NT5a",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8186",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8186",
+        "x": "7660",
+        "y": "2369",
+        "connectorStart": "1:7163",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7175",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT5a&gt;ND10",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8182",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8182",
+        "x": "7855",
+        "y": "2120",
+        "connectorStart": "1:7159",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7167",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT5&gt;NT5b",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8166",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8166",
+        "x": "8505",
+        "y": "1386",
+        "connectorStart": "1:7143",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7151",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ3&gt;NQ3b",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8194",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8194",
+        "x": "8180",
+        "y": "1717",
+        "connectorStart": "1:7167",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7171",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT5b&gt;ND6",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8190",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8190",
+        "x": "8700",
+        "y": "1661",
+        "connectorStart": "1:7151",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7171",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ3b&gt;ND6",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8170",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8170",
+        "x": "8505",
+        "y": "1386",
+        "connectorStart": "1:7143",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7155",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ3&gt;NQ3c",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8198",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8198",
+        "x": "9350",
+        "y": "1661",
+        "connectorStart": "1:7155",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7179",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ3c&gt;ND11",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8022",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8022",
+        "x": "5400",
+        "y": "830",
+        "connectorStart": "1:7003",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7023",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1&gt;NQ1e",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8202",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8202",
+        "x": "10195",
+        "y": "1105",
+        "connectorStart": "1:7023",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7183",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1e&gt;NT6",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8098",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8098",
+        "x": "4086",
+        "y": "1396.5",
+        "connectorStart": "1:7083",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7183",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT2c&gt;NT6",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8206",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8206",
+        "x": "10000",
+        "y": "1590",
+        "connectorStart": "1:7183",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7187",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT6&gt;NT6a",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8214",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8214",
+        "x": "10000",
+        "y": "1839",
+        "connectorStart": "1:7187",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7195",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT6a&gt;ND12",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8218",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8218",
+        "x": "3586",
+        "y": "1763.5",
+        "connectorStart": "1:7191",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7071",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT6b&gt;NT2",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8210",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8210",
+        "x": "10195",
+        "y": "1590",
+        "connectorStart": "1:7183",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7191",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT6&gt;NT6b",
+      "containing_element": "1:7331"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8322",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8322",
+        "x": "3792",
+        "y": "1527",
+        "connectorStart": "1:7223",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7227",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NX-F&gt;NX-CORE",
+      "containing_element": "1:7332"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8318",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8318",
+        "x": "3792",
+        "y": "1572",
+        "connectorStart": "1:7219",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7227",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NX-E&gt;NX-CORE",
+      "containing_element": "1:7332"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8314",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8314",
+        "x": "3284",
+        "y": "1572",
+        "connectorStart": "1:7215",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7227",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NX-D&gt;NX-CORE",
+      "containing_element": "1:7332"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8310",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8310",
+        "x": "3792",
+        "y": "1497",
+        "connectorStart": "1:7211",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7227",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NX-C&gt;NX-CORE",
+      "containing_element": "1:7332"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8306",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8306",
+        "x": "2144",
+        "y": "1490",
+        "connectorStart": "1:7207",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7227",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NX-B&gt;NX-CORE",
+      "containing_element": "1:7332"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8302",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8302",
+        "x": "620",
+        "y": "1601",
+        "connectorStart": "1:7203",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7227",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NX-A&gt;NX-CORE",
+      "containing_element": "1:7332"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8330",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8330",
+        "x": "1100",
+        "y": "356",
+        "connectorStart": "1:7231",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7235",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4&gt;NS4-1",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8334",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8334",
+        "x": "650",
+        "y": "663",
+        "connectorStart": "1:7235",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7239",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-1&gt;NS4-1a",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8338",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8338",
+        "x": "1100",
+        "y": "663",
+        "connectorStart": "1:7235",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7243",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-1&gt;NS4-1b",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8342",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8342",
+        "x": "1100",
+        "y": "663",
+        "connectorStart": "1:7235",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7247",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-1&gt;NS4-1c",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8346",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8346",
+        "x": "650",
+        "y": "938",
+        "connectorStart": "1:7239",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7251",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-1a&gt;NS4-HI",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8350",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8350",
+        "x": "1100",
+        "y": "912",
+        "connectorStart": "1:7243",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7255",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-1b&gt;NS4-MD",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8354",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8354",
+        "x": "1550",
+        "y": "912",
+        "connectorStart": "1:7247",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7259",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-1c&gt;NS4-LO",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8366",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8366",
+        "x": "1100",
+        "y": "1245",
+        "connectorStart": "1:7259",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7263",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-LO&gt;NS4-2",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8362",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8362",
+        "x": "1100",
+        "y": "1245",
+        "connectorStart": "1:7255",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7263",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-MD&gt;NS4-2",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8358",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8358",
+        "x": "650",
+        "y": "1270",
+        "connectorStart": "1:7251",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7263",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-HI&gt;NS4-2",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8370",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8370",
+        "x": "460",
+        "y": "1712",
+        "connectorStart": "1:7263",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7267",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-2&gt;NS4-3",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8374",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8374",
+        "x": "1100",
+        "y": "1712",
+        "connectorStart": "1:7263",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7271",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-2&gt;NS4-4",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8378",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8378",
+        "x": "460",
+        "y": "2426",
+        "connectorStart": "1:7267",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7279",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-3&gt;NS4-5",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8382",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8382",
+        "x": "875",
+        "y": "2733",
+        "connectorStart": "1:7279",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7283",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-5&gt;NS4-5a",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8394",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8394",
+        "x": "1100",
+        "y": "663",
+        "connectorStart": "1:7287",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7235",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-5b&gt;NS4-1",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8386",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8386",
+        "x": "1100",
+        "y": "2733",
+        "connectorStart": "1:7279",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7287",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-5&gt;NS4-5b",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8390",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8390",
+        "x": "875",
+        "y": "3008",
+        "connectorStart": "1:7283",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7291",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-5a&gt;NS4-6",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8398",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8398",
+        "x": "845",
+        "y": "3289",
+        "connectorStart": "1:7291",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7295",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-6&gt;NS4-6a",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8402",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8402",
+        "x": "1100",
+        "y": "3289",
+        "connectorStart": "1:7291",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7299",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-6&gt;NS4-6b",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8406",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8406",
+        "x": "845",
+        "y": "3513",
+        "connectorStart": "1:7295",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7303",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-6a&gt;NS4-UP",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8410",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8410",
+        "x": "1355",
+        "y": "3513",
+        "connectorStart": "1:7299",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7307",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-6b&gt;NS4-NO",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8414",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8414",
+        "x": "845",
+        "y": "3820",
+        "connectorStart": "1:7303",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7311",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-UP&gt;NS4-7",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8418",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8418",
+        "x": "845",
+        "y": "4126",
+        "connectorStart": "1:7311",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7315",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-7&gt;NS4-7a",
+      "containing_element": "1:7333"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8422",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8422",
+        "x": "1100",
+        "y": "4126",
+        "connectorStart": "1:7311",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7319",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS4-7&gt;NS4-7b",
+      "containing_element": "1:7333"
+    }
+  ]
+}

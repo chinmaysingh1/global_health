@@ -1,0 +1,41 @@
+{
+  "provider": "mock-keyword-v1",
+  "note": "Synthetic typed text written for software tests. These are NOT recordings, not real patients, and say nothing about speech recognition or clinical accuracy. Expected facts are hand-labelled.",
+  "results": {
+    "en": {
+      "cases": 4,
+      "expected": 10,
+      "found": 10,
+      "missed": 0,
+      "polarityErrors": 0,
+      "unsupported": 0,
+      "negationTemporalExperiencerErrors": 0,
+      "proposals": 10,
+      "detail": []
+    },
+    "hi": {
+      "cases": 4,
+      "expected": 11,
+      "found": 11,
+      "missed": 0,
+      "polarityErrors": 0,
+      "unsupported": 0,
+      "negationTemporalExperiencerErrors": 0,
+      "proposals": 11,
+      "detail": []
+    },
+    "mr": {
+      "cases": 4,
+      "expected": 11,
+      "found": 10,
+      "missed": 1,
+      "polarityErrors": 0,
+      "unsupported": 0,
+      "negationTemporalExperiencerErrors": 0,
+      "proposals": 10,
+      "detail": [
+        "mr-2: missed spine:L1"
+      ]
+    }
+  }
+}

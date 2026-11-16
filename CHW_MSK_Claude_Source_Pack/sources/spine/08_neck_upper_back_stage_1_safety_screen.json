@@ -1,0 +1,741 @@
+{
+  "board_key": "rWECNSFkKrOGuJkRPvsQdP",
+  "section": {
+    "id": "1:7330",
+    "name": "Neck & upper back · Stage 1 · Safety screen",
+    "x": "17170",
+    "y": "2414",
+    "width": "2140",
+    "height": "7789"
+  },
+  "elements": [
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6439",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6439",
+        "x": "780",
+        "y": "160",
+        "width": "1100",
+        "height": "190",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NECK & UPPER BACK PATHWAY\nStage 1 safety screen (12 checks) → Stage 2 which neck or upper-back problem is it (12 working diagnoses) → Stage 3 exercise group (6 groups + a core programme) → Stage 4 measure, dose, re-test."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6887",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6887",
+        "x": "780",
+        "y": "460",
+        "width": "1100",
+        "height": "297",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "STAGE 1 — SAFETY SCREEN: Is this neck or upper-back pain safe to treat with exercise?\nAsk the 12 checks in order, most time-critical first. Any YES stops the pathway and names the action. All NO → Stage 2.\nThe neck carries the spinal cord and the arteries to the brain, and the upper back sits beside the heart, lungs and aorta — so this screen has more “not from the spine” checks than the low-back one (IFOMPT cervical framework, Rushton 2023; red-flag framework, Finucane 2020)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7886",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7886",
+        "x": "1330",
+        "y": "356",
+        "connectorStart": "1:6439",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6887",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-NK&gt;NS1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6991",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6991",
+        "x": "120",
+        "y": "867",
+        "width": "560",
+        "height": "688",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SAFETY MODIFIERS — not stops; they change who signs off and how hard you start\n• Chest pain, breathlessness or fainting with effort → doctor before progressive exercise.\n• Uncontrolled blood pressure → doctor first; no breath-holding during neck strengthening.\n• Rheumatoid arthritis, Down syndrome or previous neck surgery → no end-range or manipulative neck techniques.\n• Osteoporosis → avoid loaded bending of the upper back (Group NX-F).\n• After a head knock: headache, dizziness or poor concentration may be concussion → doctor review and a graded return.\n\nYELLOW FLAGS — record now, score in Stage 4\n• After whiplash: older age, high early pain and disability, and stress-reaction symptoms (startle, nightmares) predict slow recovery (Ritchie 2013). Worry, low mood, poor sleep and work stress matter as much as posture.\n\nCONTEXT TO RECORD (changes the plan)\n• Head-load carrying; long hours at a sewing machine, loom, computer or phone; two-wheeler riding on rough roads; looking down for floor or field work; pillow and sleeping position."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6891",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6891",
+        "x": "780",
+        "y": "867",
+        "width": "660",
+        "height": "485",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "N1 · Heart, aorta or lungs disguised as neck or upper-back pain\nASK: Pain between the shoulder blades, in the jaw, neck or left arm that comes with effort, sweating, breathlessness, nausea or a racing heart? Sudden, severe, tearing pain going through to the back? Sharp pain on breathing with breathlessness or coughing blood? A recent long journey, surgery or a swollen calf?\nCHECK: do neck, shoulder and trunk movements change the pain at all? Pulse, blood pressure (both arms if the pain is tearing), breathing rate.\nPOSITIVE IF: pain not changed by movement, with any feature above.\nNOTE: a heart attack, a tear in the aorta (aortic dissection) or a clot in the lung can show up as upper-back or neck pain alone — especially in women, older adults and people with diabetes (consensus).\nWHO: anyone trained; basic kit (BP cuff)\nPossible heart, aorta or lung cause?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7890",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7890",
+        "x": "1110",
+        "y": "763",
+        "connectorStart": "1:6887",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6891",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS1&gt;N1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6895",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6895",
+        "x": "1600",
+        "y": "1024",
+        "width": "420",
+        "height": "171",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — NOW\nCall for emergency transfer. Keep the patient at rest. No exercise."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7894",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7894",
+        "x": "1446",
+        "y": "1089.5",
+        "connectorStart": "1:6891",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6895",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N1&gt;N1Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6899",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6899",
+        "x": "780",
+        "y": "1462",
+        "width": "660",
+        "height": "510",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "N2 · Neck fracture or ligament injury after trauma — Canadian C-Spine Rule\nASK: A fall, road accident, diving accident or blow to the head recently?\nCHECK — Canadian C-Spine Rule (alert, stable adults):\n1. High risk → stop: age 65 or over; a dangerous mechanism (fall from 1 m or 5 stairs, a load landing on the head as in diving, a high-speed or rollover road accident, a bicycle crash); or tingling in the arms or legs.\n2. A low-risk factor allows movement testing: simple rear-end car crash; sitting comfortably; walking since the injury; neck pain that came on later; no tenderness on the bony midline.\n3. Can they actively turn the head 45° to the left and right?\nEVIDENCE: sensitivity 100% (95% CI 98–100%), specificity 42.5% for important neck injury (Stiell 2001). The NEXUS criteria give similar safety (sensitivity 99.6%, Hoffman 2000). A negative rule makes a fracture very unlikely.\nWHO: anyone trained\nA high-risk factor, OR no low-risk factor, OR can’t turn 45° each way?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7898",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7898",
+        "x": "1089.5",
+        "y": "1358",
+        "connectorStart": "1:6891",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6899",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N1&gt;N2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6903",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6903",
+        "x": "1600",
+        "y": "1606",
+        "width": "420",
+        "height": "222",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY\nKeep the head and neck still (hands either side of the head or a collar), lie them flat, emergency transfer for imaging. No neck movement or exercise."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7902",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7902",
+        "x": "1446",
+        "y": "1697",
+        "connectorStart": "1:6899",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6903",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N2&gt;N2Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6907",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6907",
+        "x": "780",
+        "y": "2082",
+        "width": "660",
+        "height": "485",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "N3 · Stroke or torn neck artery (cervical artery dissection, posterior circulation problem)\nASK: Sudden severe neck pain or headache unlike any before (“worst ever”), especially after neck trauma, a sudden twist or neck manipulation? Any of the 5 Ds and 3 Ns: Dizziness, Double vision, Difficulty speaking, Difficulty swallowing, Drop attacks (sudden falls without fainting); Nausea, Nystagmus (flickering eyes), Numbness of the face or one side? Unsteady walking? A droopy eyelid with a small pupil?\nCHECK: blood pressure; watch the eyes as they follow your finger; finger-to-nose; heel-to-toe walk; face symmetry and speech.\nNOTE: positional “artery tests” (holding the neck turned) are NOT reliable and must not be used to clear a patient — the history and neurological signs decide (IFOMPT cervical framework, Rushton 2023).\nWHO: anyone trained\nAny new neurological sign, or a “worst ever” headache with neck pain?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7906",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7906",
+        "x": "1089.5",
+        "y": "1978",
+        "connectorStart": "1:6899",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6907",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N2&gt;N3"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6911",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6911",
+        "x": "1600",
+        "y": "2226",
+        "width": "420",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — NOW\nPossible stroke or artery tear: emergency transfer; note the time the symptoms started. No neck movement, massage or manipulation."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7910",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7910",
+        "x": "1446",
+        "y": "2304.5",
+        "connectorStart": "1:6907",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6911",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N3&gt;N3Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6915",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6915",
+        "x": "780",
+        "y": "2677",
+        "width": "660",
+        "height": "426",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "N4 · Meningitis or other serious infection\nASK: Fever with a severe headache and a stiff neck? Dislike of bright light, vomiting, confusion, a rash that doesn’t fade when pressed with a glass? In a child: a stiff, painful neck with fever, drooling or difficulty swallowing (throat abscess)? Spinal infection risks as in L3 (injecting drugs, recent spinal procedure, diabetes, weak immunity)?\nCHECK: temperature; can they bring the chin to the chest? How alert are they? Look for the rash.\nNOTE: neck stiffness and the classic bedside meningitis signs are missing in many real cases — a normal neck does not clear meningitis when the story fits (consensus).\nWHO: basic kit (thermometer)\nFever with headache, stiff neck, confusion or rash?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7914",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7914",
+        "x": "1089.5",
+        "y": "2573",
+        "connectorStart": "1:6907",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6915",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N3&gt;N4"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6919",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6919",
+        "x": "1600",
+        "y": "2805",
+        "width": "420",
+        "height": "171",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — NOW\nEmergency transfer. Fever with a rash is a medical emergency. No exercise."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7918",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7918",
+        "x": "1446",
+        "y": "2870.5",
+        "connectorStart": "1:6915",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6919",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N4&gt;N4Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6923",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6923",
+        "x": "780",
+        "y": "3213",
+        "width": "660",
+        "height": "400",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "N5 · Giant cell arteritis or polymyalgia rheumatica (over 50)\nASK: Over 50 with a NEW headache, a tender scalp or temples, jaw pain when chewing, or any change in vision? OR aching and stiffness of BOTH shoulders and the neck (often the hips too) for more than 45 minutes every morning, with tiredness or weight loss?\nCHECK: feel the temples (tender, thickened or pulseless artery); can they lift both arms above the head? Stiffness of both shoulder and hip girdles.\nNOTE: giant cell arteritis can cause sudden, permanent blindness — vision change or jaw pain while chewing = same day. Polymyalgia improves dramatically with steroids prescribed by a doctor (consensus).\nWHO: anyone trained\nNew headache, jaw pain or vision change over 50 — or stiffness of both girdles?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7922",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7922",
+        "x": "1089.5",
+        "y": "3109",
+        "connectorStart": "1:6915",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6923",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N4&gt;N5"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6927",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6927",
+        "x": "1600",
+        "y": "3273",
+        "width": "420",
+        "height": "281",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — SAME DAY (headache, jaw or vision)\nPossible giant cell arteritis: doctor the same day for blood tests (ESR/CRP) and steroids.\nGirdle stiffness alone (polymyalgia) → URGENT, doctor within days. No exercise programme until treated."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7926",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7926",
+        "x": "1446",
+        "y": "3393.5",
+        "connectorStart": "1:6923",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6927",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N5&gt;N5Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6931",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6931",
+        "x": "780",
+        "y": "3723",
+        "width": "660",
+        "height": "459",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "N6 · Spinal cord compression in the neck (degenerative cervical myelopathy)\nASK: Clumsy hands — dropping things, trouble with buttons, writing or a phone? Numb hands on both sides? Unsteady, stiff or wide-based walking, or falls? NEW bladder urgency? Electric shocks down the spine when bending the head forward?\nCHECK — Cook cluster (5 findings): (1) gait deviation (wide-based, unsteady, can’t walk heel-to-toe); (2) Hoffmann’s sign — flick the middle fingertip; the thumb and index finger twitch = positive; (3) inverted supinator sign — tap the forearm near the wrist; the fingers bend instead of the elbow; (4) Babinski — stroke the sole; the big toe goes UP; (5) age over 45.\nEVIDENCE: none of the 5 positive helps rule myelopathy out (LR− 0.18); 3 or more of 5 rules it in (LR+ 30.9) (Cook 2010).\nWHO: anyone trained (history, gait); physio-level (reflex signs)\nMyelopathy symptoms with 1 or more positive findings — or getting worse?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7930",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7930",
+        "x": "1089.5",
+        "y": "3619",
+        "connectorStart": "1:6923",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6931",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N5&gt;N6"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6935",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6935",
+        "x": "1600",
+        "y": "3804",
+        "width": "420",
+        "height": "298",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nDoctor or spine surgeon, and an MRI. Hands or walking getting worse quickly → same day. No neck manipulation or end-range neck arching. Mild, stable myelopathy may later be offered supervised rehab with close monitoring — only after specialist review (AO Spine guideline, Fehlings 2017)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7934",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7934",
+        "x": "1446",
+        "y": "3933",
+        "connectorStart": "1:6931",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6935",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N6&gt;N6Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6939",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6939",
+        "x": "780",
+        "y": "4292",
+        "width": "660",
+        "height": "375",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "N7 · Unstable upper neck (atlanto-axial instability)\nASK: Rheumatoid arthritis, Down syndrome, a recent neck injury, or (in a child) a recent throat or ear infection? Does the head feel too heavy — needing the hands to hold it up? A lump-in-the-throat feeling, tingling of the lips or face, or symptoms when bending the head forward?\nCHECK: the Sharp-Purser test is physio-level only — sitting, head slightly bent forward; steady the second neck bone and gently glide the head backward. A “clunk” with relief of symptoms = positive. Specificity 96%, positive predictive value 85% in rheumatoid arthritis (Uitvlugt 1988).\nWHO: anyone trained (history); physio-level (test)\nA risk factor with upper-neck instability symptoms?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7938",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7938",
+        "x": "1089.5",
+        "y": "4188",
+        "connectorStart": "1:6931",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6939",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N6&gt;N7"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6943",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6943",
+        "x": "1600",
+        "y": "4369",
+        "width": "420",
+        "height": "222",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nDoctor for bending-and-arching neck X-rays. Avoid end-range neck bending and any manipulation. New neurological signs → same day."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7942",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7942",
+        "x": "1446",
+        "y": "4460",
+        "connectorStart": "1:6939",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6943",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N7&gt;N7Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6947",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6947",
+        "x": "780",
+        "y": "4777",
+        "width": "660",
+        "height": "536",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "N8 · Fracture without major trauma, cancer, or TB in the neck or upper back\nASK: Past cancer (especially breast, lung, prostate, kidney, thyroid, myeloma)? Unexplained weight loss, night sweats, evening fevers, TB contact? Constant pain worse at night or lying down? Over 50 with first-ever mid-back pain? Steroid tablets or osteoporosis, with sudden pain after a minor strain, cough or lift? Pain wrapping around the chest like a belt?\nCHECK: closed-fist percussion down the spine (sensitivity 87.5%, specificity 90% for acute osteoporotic fracture — Langdon 2010); look for a sharp angled hump (gibbus); weigh; check leg strength and walking — cord pressure from the upper back shows up in the LEGS.\nNOTE: the thoracic (mid) spine is the commonest site of spinal cancer spread and of spinal TB; persistent mid-back pain is itself a warning sign (consensus; Finucane 2020).\nWHO: anyone trained\nCancer history, TB features, fragility-fracture signs, or night/constant pain plus another warning sign?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7946",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7946",
+        "x": "1089.5",
+        "y": "4673",
+        "connectorStart": "1:6939",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6947",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N7&gt;N8"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6951",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6951",
+        "x": "1600",
+        "y": "4896",
+        "width": "420",
+        "height": "298",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nDoctor for blood tests and imaging (plus a TB work-up where relevant). No loading exercise until cleared. Leg weakness, unsteady walking or bladder change → same day.\nConfirmed stable osteoporotic fracture → Stage 2 box ND11 and Exercise Group NX-F (dashed arrow)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7950",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7950",
+        "x": "1446",
+        "y": "5025",
+        "connectorStart": "1:6947",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6951",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N8&gt;N8Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6955",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6955",
+        "x": "780",
+        "y": "5423",
+        "width": "660",
+        "height": "349",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "N9 · Shingles (herpes zoster) — a band of burning pain\nASK: Burning, tingling or very sensitive skin in a band around one side of the chest, back or neck, without injury? A rash of small blisters there now or in the last few days? Over 50, diabetes, HIV or weak immunity?\nCHECK: look at the skin along the band; is it painful to light touch? Do spine movements change it?\nNOTE: the pain often starts 2–3 days BEFORE the rash. Early antiviral treatment (ideally within about 72 hours of the rash) reduces complications (consensus).\nWHO: anyone trained\nOne-sided band of burning pain, with or without a blistering rash?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7954",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7954",
+        "x": "1089.5",
+        "y": "5319",
+        "connectorStart": "1:6947",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6955",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N8&gt;N9"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6959",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6959",
+        "x": "1600",
+        "y": "5499",
+        "width": "420",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN 1–2 DAYS\nDoctor promptly for antiviral treatment and pain control; a rash near the eye = same day. Not an exercise problem — gentle movement is fine."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7958",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7958",
+        "x": "1446",
+        "y": "5577.5",
+        "connectorStart": "1:6955",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6959",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N9&gt;N9Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6963",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6963",
+        "x": "780",
+        "y": "5882",
+        "width": "660",
+        "height": "451",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "N10 · Child or teenager with neck or upper-back pain\nASK: Under 18? A sudden wry neck with fever, sore throat, or after a throat or ear infection? A head tilt with headache, vomiting or clumsiness? A teenager with a rigid, painful hump of the upper back, or a painful, stiff curve (scoliosis)? Night pain?\nCHECK: forward-bend test from the side and from behind: a smooth curve that straightens when they arch (posture) vs a sharp, rigid hump that doesn’t; a rib hump; is the curve painful?\nNOTE: most teenage scoliosis is painless — a PAINFUL curve needs a doctor to rule out a bone tumour, infection or spinal cord problem. Scheuermann’s disease causes a rigid upper-back hump with mid-back pain in teens; X-ray confirms it (consensus).\nWHO: anyone trained\nA child with a warning sign, or a teen with a rigid hump or painful curve?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7962",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7962",
+        "x": "1089.5",
+        "y": "5778",
+        "connectorStart": "1:6955",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6963",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N9&gt;N10"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6967",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6967",
+        "x": "1600",
+        "y": "5984",
+        "width": "420",
+        "height": "247",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SOON — WITHIN ABOUT A WEEK\nDoctor for an X-ray. Fever, neurological signs, night pain, or a wry neck with fever → URGENT (days) or the same day.\nConfirmed Scheuermann’s, cleared for exercise → ND11 and Group NX-F (dashed arrow)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7966",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7966",
+        "x": "1446",
+        "y": "6087.5",
+        "connectorStart": "1:6963",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6967",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N10&gt;N10Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6971",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6971",
+        "x": "780",
+        "y": "6443",
+        "width": "660",
+        "height": "409",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "N11 · Inflammatory spinal disease (axial spondyloarthritis) or rheumatoid neck\nASK: Neck or upper-back stiffness for more than 30 minutes every morning that eases with movement? Back pain that began before 40 and improves with exercise, not rest (the ASAS 5 — see L10)? Pain or stiffness on taking a deep breath? Known rheumatoid arthritis, psoriasis, bowel disease, a red painful eye? Swollen small joints of the hands?\nCHECK: count swollen joints (hands, wrists, feet); chest expansion with a tape measure at nipple level — under about 2.5 cm suggests stiffness of the rib joints (consensus).\nWHO: anyone trained; basic kit (tape measure)\nInflammatory pattern present?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7970",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7970",
+        "x": "1089.5",
+        "y": "6339",
+        "connectorStart": "1:6963",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6971",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N10&gt;N11"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6975",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6975",
+        "x": "1600",
+        "y": "6537",
+        "width": "420",
+        "height": "222",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "REFER — WITHIN WEEKS\nDoctor or rheumatologist. Rheumatoid arthritis with neck symptoms → check N7 first. Mobility and posture exercise helps alongside the medicines."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7974",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7974",
+        "x": "1446",
+        "y": "6628",
+        "connectorStart": "1:6971",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6975",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N11&gt;N11Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6979",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6979",
+        "x": "780",
+        "y": "6962",
+        "width": "660",
+        "height": "400",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "N12 · Pain coming from the shoulder (or elsewhere)\nASK: Is the pain mainly at the top or outer side of the upper arm? Worse lifting the arm, lying on that side, or reaching behind the back?\nCHECK: turn and tip the head — does it reproduce the familiar pain? Then lift the arm forward and out to the side, and rotate the shoulder — does that?\nPOSITIVE IF: shoulder movement reproduces it; neck movement doesn’t.\nNOTE: pain over the top of the shoulder spreading toward the elbow often comes from the neck; pain at the outer upper arm that worsens with arm movement usually comes from the shoulder. Both can coexist. Right shoulder-blade pain after fatty meals → gallbladder (treat like N1: doctor) (consensus).\nWHO: anyone trained\nIs the shoulder the source?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7978",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7978",
+        "x": "1089.5",
+        "y": "6858",
+        "connectorStart": "1:6971",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6979",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N11&gt;N12"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6983",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6983",
+        "x": "1600",
+        "y": "7064",
+        "width": "420",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SWITCH PATHWAY\nShoulder assessment (separate pathway). If BOTH neck and shoulder movements reproduce it, assess and treat both."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7982",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7982",
+        "x": "1446",
+        "y": "7142.5",
+        "connectorStart": "1:6979",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6983",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N12&gt;N12Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6987",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6987",
+        "x": "780",
+        "y": "7472",
+        "width": "660",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ALL 12 = NO → EXERCISE-RESPONSIVE (BY EXCLUSION)\nGo to Stage 2. Safety-net advice for everyone: come back at once with new dizziness, double vision, speech or swallowing trouble, clumsy hands or unsteady walking. Confirmed by improvement at the week-4 re-test."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7986",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7986",
+        "x": "1089.5",
+        "y": "7368",
+        "connectorStart": "1:6979",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6987",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "N12&gt;NPASS"
+    }
+  ]
+}

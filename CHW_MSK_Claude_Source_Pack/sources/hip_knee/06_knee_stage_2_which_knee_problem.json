@@ -1,0 +1,2529 @@
+{
+  "board_key": "cNyP7TFyrcoIYVPUoQlMgw",
+  "section": {
+    "id": "7:538",
+    "name": "Knee · Stage 2 · Which knee problem",
+    "x": "-100",
+    "y": "10649",
+    "width": "14900",
+    "height": "2970"
+  },
+  "elements": [
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:794",
+      "type": "connector",
+      "attributes": {
+        "id": "8:794",
+        "x": "8283",
+        "y": "313",
+        "connectorStart": "5:174",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:178",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS2&gt;KQ1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:802",
+      "type": "connector",
+      "attributes": {
+        "id": "8:802",
+        "x": "2685",
+        "y": "656",
+        "connectorStart": "5:178",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:182",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ1&gt;KQ1a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:910",
+      "type": "connector",
+      "attributes": {
+        "id": "8:910",
+        "x": "8283",
+        "y": "656",
+        "connectorStart": "5:178",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:186",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ1&gt;KQ1b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1094",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1094",
+        "x": "8283",
+        "y": "656",
+        "connectorStart": "5:178",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:190",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ1&gt;KQ1c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1098",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1098",
+        "x": "13880",
+        "y": "879",
+        "connectorStart": "5:190",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:478",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ1c&gt;KQ6"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1102",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1102",
+        "x": "13170",
+        "y": "1108",
+        "connectorStart": "5:478",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:482",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ6&gt;KQ6a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1118",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1118",
+        "x": "13740",
+        "y": "1108",
+        "connectorStart": "5:478",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:486",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ6&gt;KQ6b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1130",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1130",
+        "x": "13880",
+        "y": "1108",
+        "connectorStart": "5:478",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:490",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ6&gt;KQ6c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1134",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1134",
+        "x": "13880",
+        "y": "1108",
+        "connectorStart": "5:478",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:494",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ6&gt;KQ6d"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1138",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1138",
+        "x": "14590",
+        "y": "1331",
+        "connectorStart": "5:494",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:518",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ6d&gt;KN2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1554",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1554",
+        "x": "12596",
+        "y": "1524",
+        "connectorStart": "5:518",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:338",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KN2&gt;KT5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1546",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1546",
+        "x": "2221",
+        "y": "1248.5",
+        "connectorStart": "5:490",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:238",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ6c&gt;KT2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1122",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1122",
+        "x": "13740",
+        "y": "1331",
+        "connectorStart": "5:486",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:510",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ6b&gt;KT12"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1126",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1126",
+        "x": "13740",
+        "y": "1652",
+        "connectorStart": "5:510",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:514",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT12&gt;KT12a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1550",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1550",
+        "x": "626",
+        "y": "1781",
+        "connectorStart": "5:514",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:278",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT12a&gt;KD1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1106",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1106",
+        "x": "13170",
+        "y": "1331",
+        "connectorStart": "5:482",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:498",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ6a&gt;KT11"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1110",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1110",
+        "x": "13170",
+        "y": "1721",
+        "connectorStart": "5:498",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:502",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT11&gt;KT11a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1114",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1114",
+        "x": "13170",
+        "y": "1921",
+        "connectorStart": "5:502",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:506",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT11a&gt;KD16"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:914",
+      "type": "connector",
+      "attributes": {
+        "id": "8:914",
+        "x": "8940",
+        "y": "856",
+        "connectorStart": "5:186",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:298",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ1b&gt;KQ3"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:918",
+      "type": "connector",
+      "attributes": {
+        "id": "8:918",
+        "x": "5550",
+        "y": "1085",
+        "connectorStart": "5:298",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:302",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ3&gt;KQ3a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:946",
+      "type": "connector",
+      "attributes": {
+        "id": "8:946",
+        "x": "8940",
+        "y": "1085",
+        "connectorStart": "5:298",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:306",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ3&gt;KQ3b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1070",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1070",
+        "x": "8940",
+        "y": "1085",
+        "connectorStart": "5:298",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:310",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ3&gt;KQ3c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1074",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1074",
+        "x": "12330",
+        "y": "1262",
+        "connectorStart": "5:310",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:338",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ3c&gt;KT5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1078",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1078",
+        "x": "11940",
+        "y": "1728",
+        "connectorStart": "5:338",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:342",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT5&gt;KT5a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1086",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1086",
+        "x": "12330",
+        "y": "1728",
+        "connectorStart": "5:338",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:346",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT5&gt;KT5b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1090",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1090",
+        "x": "12330",
+        "y": "1728",
+        "connectorStart": "5:338",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:350",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT5&gt;KT5c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1530",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1530",
+        "x": "9299",
+        "y": "1405.5",
+        "connectorStart": "5:350",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:358",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT5c&gt;KQ5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1082",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1082",
+        "x": "11940",
+        "y": "1951",
+        "connectorStart": "5:342",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:354",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT5a&gt;KD8"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:950",
+      "type": "connector",
+      "attributes": {
+        "id": "8:950",
+        "x": "9053",
+        "y": "1262",
+        "connectorStart": "5:306",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:358",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ3b&gt;KQ5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:954",
+      "type": "connector",
+      "attributes": {
+        "id": "8:954",
+        "x": "6735",
+        "y": "1491",
+        "connectorStart": "5:358",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:362",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ5&gt;KQ5a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:974",
+      "type": "connector",
+      "attributes": {
+        "id": "8:974",
+        "x": "7635",
+        "y": "1491",
+        "connectorStart": "5:358",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:366",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ5&gt;KQ5b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:994",
+      "type": "connector",
+      "attributes": {
+        "id": "8:994",
+        "x": "8535",
+        "y": "1491",
+        "connectorStart": "5:358",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:370",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ5&gt;KQ5c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1014",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1014",
+        "x": "9053",
+        "y": "1491",
+        "connectorStart": "5:358",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:374",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ5&gt;KQ5d"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1038",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1038",
+        "x": "9053",
+        "y": "1491",
+        "connectorStart": "5:358",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:378",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ5&gt;KQ5e"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1062",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1062",
+        "x": "9053",
+        "y": "1491",
+        "connectorStart": "5:358",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:382",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ5&gt;KQ5f"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1066",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1066",
+        "x": "11370",
+        "y": "1691",
+        "connectorStart": "5:382",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:474",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ5f&gt;KD15"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1042",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1042",
+        "x": "10605",
+        "y": "1714",
+        "connectorStart": "5:378",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:454",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ5e&gt;KT10"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1046",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1046",
+        "x": "10350",
+        "y": "2065",
+        "connectorStart": "5:454",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:458",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT10&gt;KT10a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1054",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1054",
+        "x": "10605",
+        "y": "2065",
+        "connectorStart": "5:454",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:462",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT10&gt;KT10b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1058",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1058",
+        "x": "10860",
+        "y": "2265",
+        "connectorStart": "5:462",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:466",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT10b&gt;KX2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1050",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1050",
+        "x": "10350",
+        "y": "2242",
+        "connectorStart": "5:458",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:470",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT10a&gt;KD14"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1018",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1018",
+        "x": "9495",
+        "y": "1668",
+        "connectorStart": "5:374",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:434",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ5d&gt;KT9"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1022",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1022",
+        "x": "9210",
+        "y": "2035",
+        "connectorStart": "5:434",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:438",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT9&gt;KT9a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1030",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1030",
+        "x": "9495",
+        "y": "2035",
+        "connectorStart": "5:434",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:442",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT9&gt;KT9b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1034",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1034",
+        "x": "9780",
+        "y": "2235",
+        "connectorStart": "5:442",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:450",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT9b&gt;KD13"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1026",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1026",
+        "x": "9210",
+        "y": "2235",
+        "connectorStart": "5:438",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:446",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT9a&gt;KD12"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:998",
+      "type": "connector",
+      "attributes": {
+        "id": "8:998",
+        "x": "8535",
+        "y": "1668",
+        "connectorStart": "5:370",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:418",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ5c&gt;KT8"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1002",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1002",
+        "x": "8310",
+        "y": "2104",
+        "connectorStart": "5:418",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:422",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT8&gt;KT8a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1010",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1010",
+        "x": "8535",
+        "y": "2104",
+        "connectorStart": "5:418",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:426",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT8&gt;KT8b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1542",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1542",
+        "x": "2221",
+        "y": "1715",
+        "connectorStart": "5:426",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:238",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT8b&gt;KT2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1006",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1006",
+        "x": "8310",
+        "y": "2304",
+        "connectorStart": "5:422",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:430",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT8a&gt;KD11"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:978",
+      "type": "connector",
+      "attributes": {
+        "id": "8:978",
+        "x": "7635",
+        "y": "1691",
+        "connectorStart": "5:366",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:402",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ5b&gt;KT7"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:982",
+      "type": "connector",
+      "attributes": {
+        "id": "8:982",
+        "x": "7410",
+        "y": "2180",
+        "connectorStart": "5:402",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:406",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT7&gt;KT7a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:990",
+      "type": "connector",
+      "attributes": {
+        "id": "8:990",
+        "x": "7635",
+        "y": "2180",
+        "connectorStart": "5:402",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:410",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT7&gt;KT7b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1534",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1534",
+        "x": "7106",
+        "y": "1964.5",
+        "connectorStart": "5:394",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:402",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT6b&gt;KT7"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1538",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1538",
+        "x": "7001",
+        "y": "1953",
+        "connectorStart": "5:410",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:386",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT7b&gt;KT6"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:986",
+      "type": "connector",
+      "attributes": {
+        "id": "8:986",
+        "x": "7410",
+        "y": "2380",
+        "connectorStart": "5:406",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:414",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT7a&gt;KD10"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:958",
+      "type": "connector",
+      "attributes": {
+        "id": "8:958",
+        "x": "6735",
+        "y": "1714",
+        "connectorStart": "5:362",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:386",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ5a&gt;KT6"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:962",
+      "type": "connector",
+      "attributes": {
+        "id": "8:962",
+        "x": "6510",
+        "y": "2134",
+        "connectorStart": "5:386",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:390",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT6&gt;KT6a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:970",
+      "type": "connector",
+      "attributes": {
+        "id": "8:970",
+        "x": "6735",
+        "y": "2134",
+        "connectorStart": "5:386",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:394",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT6&gt;KT6b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1526",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1526",
+        "x": "5716",
+        "y": "1654.5",
+        "connectorStart": "5:322",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:386",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ4b&gt;KT6"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:966",
+      "type": "connector",
+      "attributes": {
+        "id": "8:966",
+        "x": "6510",
+        "y": "2334",
+        "connectorStart": "5:390",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:398",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT6a&gt;KD9"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:922",
+      "type": "connector",
+      "attributes": {
+        "id": "8:922",
+        "x": "5550",
+        "y": "1262",
+        "connectorStart": "5:302",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:314",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ3a&gt;KQ4"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:926",
+      "type": "connector",
+      "attributes": {
+        "id": "8:926",
+        "x": "5120",
+        "y": "1514",
+        "connectorStart": "5:314",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:318",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ4&gt;KQ4a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:934",
+      "type": "connector",
+      "attributes": {
+        "id": "8:934",
+        "x": "5550",
+        "y": "1514",
+        "connectorStart": "5:314",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:322",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ4&gt;KQ4b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:938",
+      "type": "connector",
+      "attributes": {
+        "id": "8:938",
+        "x": "5550",
+        "y": "1514",
+        "connectorStart": "5:314",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:326",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ4&gt;KQ4c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:942",
+      "type": "connector",
+      "attributes": {
+        "id": "8:942",
+        "x": "5980",
+        "y": "1737",
+        "connectorStart": "5:326",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:334",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ4c&gt;KD7"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:930",
+      "type": "connector",
+      "attributes": {
+        "id": "8:930",
+        "x": "5120",
+        "y": "1760",
+        "connectorStart": "5:318",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:330",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ4a&gt;KD6"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:806",
+      "type": "connector",
+      "attributes": {
+        "id": "8:806",
+        "x": "2685",
+        "y": "879",
+        "connectorStart": "5:182",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:194",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ1a&gt;KQ2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:810",
+      "type": "connector",
+      "attributes": {
+        "id": "8:810",
+        "x": "820",
+        "y": "1161",
+        "connectorStart": "5:194",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:198",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ2&gt;KQ2a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:838",
+      "type": "connector",
+      "attributes": {
+        "id": "8:838",
+        "x": "1955",
+        "y": "1161",
+        "connectorStart": "5:194",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:202",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ2&gt;KQ2b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:858",
+      "type": "connector",
+      "attributes": {
+        "id": "8:858",
+        "x": "2685",
+        "y": "1161",
+        "connectorStart": "5:194",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:206",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ2&gt;KQ2c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:882",
+      "type": "connector",
+      "attributes": {
+        "id": "8:882",
+        "x": "2685",
+        "y": "1161",
+        "connectorStart": "5:194",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:210",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ2&gt;KQ2d"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:902",
+      "type": "connector",
+      "attributes": {
+        "id": "8:902",
+        "x": "2685",
+        "y": "1161",
+        "connectorStart": "5:194",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:214",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ2&gt;KQ2e"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:906",
+      "type": "connector",
+      "attributes": {
+        "id": "8:906",
+        "x": "4550",
+        "y": "1384",
+        "connectorStart": "5:214",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:294",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ2e&gt;KD5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:886",
+      "type": "connector",
+      "attributes": {
+        "id": "8:886",
+        "x": "3875",
+        "y": "1361",
+        "connectorStart": "5:210",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:266",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ2d&gt;KT4"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:890",
+      "type": "connector",
+      "attributes": {
+        "id": "8:890",
+        "x": "3650",
+        "y": "1811",
+        "connectorStart": "5:266",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:270",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT4&gt;KT4a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:898",
+      "type": "connector",
+      "attributes": {
+        "id": "8:898",
+        "x": "3875",
+        "y": "1811",
+        "connectorStart": "5:266",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:274",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT4&gt;KT4b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1522",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1522",
+        "x": "1086",
+        "y": "1707",
+        "connectorStart": "5:274",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:218",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT4b&gt;KT1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:894",
+      "type": "connector",
+      "attributes": {
+        "id": "8:894",
+        "x": "3650",
+        "y": "1988",
+        "connectorStart": "5:270",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:290",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT4a&gt;KD4"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:862",
+      "type": "connector",
+      "attributes": {
+        "id": "8:862",
+        "x": "2885",
+        "y": "1384",
+        "connectorStart": "5:206",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:250",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ2c&gt;KT3"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:866",
+      "type": "connector",
+      "attributes": {
+        "id": "8:866",
+        "x": "2630",
+        "y": "1903",
+        "connectorStart": "5:250",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:254",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT3&gt;KT3a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:874",
+      "type": "connector",
+      "attributes": {
+        "id": "8:874",
+        "x": "2885",
+        "y": "1903",
+        "connectorStart": "5:250",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:258",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT3&gt;KT3b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1518",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1518",
+        "x": "2326",
+        "y": "1672.5",
+        "connectorStart": "5:246",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:250",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT2b&gt;KT3"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:878",
+      "type": "connector",
+      "attributes": {
+        "id": "8:878",
+        "x": "3140",
+        "y": "2103",
+        "connectorStart": "5:258",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:262",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT3b&gt;KX1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:870",
+      "type": "connector",
+      "attributes": {
+        "id": "8:870",
+        "x": "2630",
+        "y": "2103",
+        "connectorStart": "5:254",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:286",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT3a&gt;KD3"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:842",
+      "type": "connector",
+      "attributes": {
+        "id": "8:842",
+        "x": "1955",
+        "y": "1407",
+        "connectorStart": "5:202",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:238",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ2b&gt;KT2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:846",
+      "type": "connector",
+      "attributes": {
+        "id": "8:846",
+        "x": "1730",
+        "y": "1965",
+        "connectorStart": "5:238",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:242",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT2&gt;KT2a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:854",
+      "type": "connector",
+      "attributes": {
+        "id": "8:854",
+        "x": "1955",
+        "y": "1965",
+        "connectorStart": "5:238",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:246",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT2&gt;KT2b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1510",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1510",
+        "x": "1426",
+        "y": "1715",
+        "connectorStart": "5:230",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:238",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT1c&gt;KT2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:850",
+      "type": "connector",
+      "attributes": {
+        "id": "8:850",
+        "x": "1730",
+        "y": "2142",
+        "connectorStart": "5:242",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:282",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT2a&gt;KD2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:814",
+      "type": "connector",
+      "attributes": {
+        "id": "8:814",
+        "x": "820",
+        "y": "1407",
+        "connectorStart": "5:198",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:218",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KQ2a&gt;KT1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:818",
+      "type": "connector",
+      "attributes": {
+        "id": "8:818",
+        "x": "360",
+        "y": "1949",
+        "connectorStart": "5:218",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:222",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT1&gt;KT1a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:826",
+      "type": "connector",
+      "attributes": {
+        "id": "8:826",
+        "x": "820",
+        "y": "1949",
+        "connectorStart": "5:218",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:226",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT1&gt;KT1b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:834",
+      "type": "connector",
+      "attributes": {
+        "id": "8:834",
+        "x": "820",
+        "y": "1949",
+        "connectorStart": "5:218",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:230",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT1&gt;KT1c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1514",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1514",
+        "x": "820",
+        "y": "1949",
+        "connectorStart": "5:234",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:218",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KN1&gt;KT1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:830",
+      "type": "connector",
+      "attributes": {
+        "id": "8:830",
+        "x": "880",
+        "y": "2149",
+        "connectorStart": "5:226",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:234",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT1b&gt;KN1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:822",
+      "type": "connector",
+      "attributes": {
+        "id": "8:822",
+        "x": "360",
+        "y": "2149",
+        "connectorStart": "5:222",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:278",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KT1a&gt;KD1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:174",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:174",
+        "x": "7733",
+        "y": "130",
+        "width": "1100",
+        "height": "177",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "STAGE 2 — WHICH KNEE PROBLEM IS IT?\nAsk how it started, then follow the answers. Each branch ends in a hands-on check and a WORKING DIAGNOSIS with its next step. Clusters of findings beat any single test."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:522",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:522",
+        "x": "8913",
+        "y": "130",
+        "width": "560",
+        "height": "251",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "WHY THE LABEL MATTERS (OR DOESN’T)\nFor osteoarthritis and degenerative meniscus tears the exercise plan is basically the same shared core programme. For patellar tendinopathy, kneecap pain and ACL injury, the label changes the plan a lot. So the diagnosis should pick the programme module, the dose and the positions to avoid — not a custom exercise list per patient."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:278",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:278",
+        "x": "100",
+        "y": "2213",
+        "width": "520",
+        "height": "488",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD1 · WORKING DIAGNOSIS: ACL injury (torn anterior cruciate ligament)\nWHAT IT IS: the ligament that stops the shin sliding forward is torn; the knee may give way when turning.\nNEXT STEP — rehab first: control swelling, regain full straightening, wake up the thigh muscle; then heavy quadriceps and hamstring strength, balance, landing and cutting practice. Return to sport by strength and hop tests, not by time. In the KANON trial, rehab with optional later surgery did as well as early surgery at 2 and 5 years, and about half of the rehab group never needed surgery (Frobell 2010, 2013).\nAVOID: pivoting sport before strength and hop tests are close to the other side.\nREFER (surgical opinion) IF: the knee keeps giving way in daily life despite good rehab.\nSTAGE 3 ADD-ON: injury module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:222",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:222",
+        "x": "220",
+        "y": "2013",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Lachman OR lever sign positive"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:234",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:234",
+        "x": "670",
+        "y": "2213",
+        "width": "420",
+        "height": "205",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KN1 · Can’t clear the ACL yet\nA swollen, guarded knee hides ligament looseness. Protect it, control the swelling, start gentle range and thigh-muscle tightening, and RE-TEST in 1–2 weeks (back to KT1)."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:226",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:226",
+        "x": "740",
+        "y": "2013",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Too swollen or guarded to test properly"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:230",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:230",
+        "x": "1140",
+        "y": "2013",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Both clearly negative in a relaxed knee → check the meniscus (KT2)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:218",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:218",
+        "x": "560",
+        "y": "1471",
+        "width": "520",
+        "height": "472",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KT1 · Test the ACL (anterior cruciate ligament — the main ligament that stops the shin bone sliding forward)\n• Lachman test: knee bent 20–30°, steady the thigh with one hand, pull the shin forward with the other; compare sides. Extra movement or a soft end-point = positive. Sensitivity 85%, specificity 94% (Benjaminse 2006); 81% / 85% in a 2022 meta-analysis (Sokal 2022).\n• Lever sign: patient lying flat; put a fist under the upper calf and press down on the thigh just above the kneecap. The heel should lift — heel stays down = positive. Sensitivity 83%, specificity 91% (Sokal 2022). Easier for a small examiner or a large leg.\n• Pivot shift (relaxed patient only): very specific (94–98%) but often missed when the patient guards.\nWHO: physio-level"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:198",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:198",
+        "x": "680",
+        "y": "1225",
+        "width": "280",
+        "height": "176",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Twisted or landed, felt or heard a POP, swelled within a few hours, couldn’t carry on"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:282",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:282",
+        "x": "1470",
+        "y": "2206",
+        "width": "520",
+        "height": "419",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD2 · WORKING DIAGNOSIS: Traumatic meniscus tear\nWHAT IT IS: one of the two C-shaped cartilage cushions between the thigh bone and shin bone is torn by a twist.\nNEXT STEP: settle swelling and restore full straightening first; then closed-chain strength (sit-to-stand, step-ups, mini squats); then single-leg control, pivoting, and return to work or sport tasks (JOSPT meniscus guideline, Logerstedt 2018).\nAVOID: deep loaded squats and pivoting while it still swells after activity.\nREFER IF: true locking (K6), or catching that blocks progress by week 4–6. Without imaging you can’t tell a repairable tear from a non-repairable one.\nSTAGE 3 ADD-ON: injury module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:242",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:242",
+        "x": "1590",
+        "y": "2029",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "3 or more of 5 positive"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:246",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:246",
+        "x": "2040",
+        "y": "2029",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "0–2 positive → check the side ligaments (KT3)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:238",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:238",
+        "x": "1695",
+        "y": "1471",
+        "width": "520",
+        "height": "488",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KT2 · Meniscus check — count how many of these 5 are positive (Lowery composite)\n1. History of catching or locking\n2. Pain when the knee is pushed fully straight (forced hyperextension)\n3. Pain at full bend (maximum flexion)\n4. Pain or a click on the McMurray test (bend fully, twist the shin in and out, then straighten)\n5. Tenderness when pressing along the joint line (the gap between thigh bone and shin bone)\nEVIDENCE: with all 5 positive, 92% had a meniscus tear; with 3 or more, over 75% did when there was no ACL tear or arthritis (Lowery 2006, 635 knees). Single tests are weak: McMurray sensitivity 61% / specificity 84%; joint-line tenderness 83% / 83%; Thessaly test at 20° 75% / 87% (Smith 2015 meta-analysis).\nWHO: physio-level"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:202",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:202",
+        "x": "1815",
+        "y": "1225",
+        "width": "280",
+        "height": "176",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Twisted on a bent, loaded knee; swelling crept up over the next day; now it catches"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:286",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:286",
+        "x": "2370",
+        "y": "2167",
+        "width": "520",
+        "height": "373",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD3 · WORKING DIAGNOSIS: MCL or LCL sprain (side-ligament sprain)\nWHAT IT IS: a stretched or partly torn ligament on the inner (MCL) or outer (LCL) side.\nNEXT STEP: movement from week 1, then progressive strengthening and functional loading; a hinged brace for more severe MCL sprains (JOSPT ligament guideline 2017).\nAVOID: side-to-side stress and pivoting until the stress test is pain-free.\nREFER IF: gapping with the knee straight (KX1), or in a child (possible growth-plate injury).\nSTAGE 3 ADD-ON: injury module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:254",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:254",
+        "x": "2490",
+        "y": "1967",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Painful or opens at 30° only"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:262",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:262",
+        "x": "2940",
+        "y": "2167",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nLikely combined ligament injury. Brace and refer to orthopaedics."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:258",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:258",
+        "x": "3000",
+        "y": "1967",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Opens even with the knee fully straight"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:250",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:250",
+        "x": "2625",
+        "y": "1448",
+        "width": "520",
+        "height": "449",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KT3 · Side-ligament check — MCL (medial collateral ligament, inner side) and LCL (lateral collateral ligament, outer side)\n• Push the knee inward (valgus stress — tests the MCL) and outward (varus stress — tests the LCL), first with the knee bent 30°, then fully straight (0°).\n• Feel along the ligament from thigh bone to shin bone.\nPOSITIVE IF: pain or gapping at 30° = an isolated sprain. Gapping with the knee fully straight = more than one structure is torn. Tender along the ligament (not on the joint line) supports a sprain.\nEVIDENCE: recommended in the JOSPT knee ligament guideline (Logerstedt 2017); no strong accuracy figures — grading is by feel.\nWHO: physio-level (stress tests); anyone trained (pressing)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:206",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:206",
+        "x": "2745",
+        "y": "1225",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Hit or pushed on the SIDE of the knee; pain on the inner or outer side"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:290",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:290",
+        "x": "3390",
+        "y": "2052",
+        "width": "520",
+        "height": "396",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD4 · WORKING DIAGNOSIS: PCL injury (torn posterior cruciate ligament)\nWHAT IT IS: the ligament that stops the shin sliding backward is torn; often vague pain at the back of the knee with little swelling.\nNEXT STEP: quadriceps-led rehab with a brace in the early phase; gradual return to kneeling and squatting (JOSPT ligament guideline 2017).\nAVOID: resisted hamstring curls early on — they pull the shin backward.\nREFER IF: a combined injury is suspected, or the knee feels unstable when twisting.\nSTAGE 3 ADD-ON: injury module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:270",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:270",
+        "x": "3510",
+        "y": "1875",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Sag or drawer positive"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:274",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:274",
+        "x": "3960",
+        "y": "1875",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Negative → test the ACL and meniscus (KT1)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:266",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:266",
+        "x": "3615",
+        "y": "1425",
+        "width": "520",
+        "height": "380",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KT4 · Back-ligament check — PCL (posterior cruciate ligament — stops the shin sliding backward)\n• Posterior sag: lying down, both knees bent to 90° with feet flat; look from the side — does the injured shin sag backward?\n• Posterior drawer: knee bent 90°, push the shin backward; compare with the other side.\nEVIDENCE: clinical exam led by the posterior drawer: sensitivity 90%, specificity 99% (Rubinstein 1994; surgeon examiners, long-standing tears).\nWHO: physio-level"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:210",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:210",
+        "x": "3735",
+        "y": "1225",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Fell onto a bent knee, or the shin hit a dashboard"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:294",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:294",
+        "x": "4290",
+        "y": "1448",
+        "width": "520",
+        "height": "350",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD5 · WORKING DIAGNOSIS: First-time kneecap (patellar) dislocation\nWHAT IT IS: the kneecap slid out to the outer side; it often pops back by itself.\nNEXT STEP: X-ray every first dislocation to look for a broken-off fragment; a fragment → urgent knee specialist (BOAST 2024). Otherwise physiotherapy: quadriceps and hip strengthening, balance and landing control, taping or a brace for return to sport.\nIF IT HAPPENS AGAIN: see KQ1 → “keeps giving way”.\nSTAGE 3 ADD-ON: kneecap module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:214",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:214",
+        "x": "4410",
+        "y": "1225",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "The kneecap slid out to the side (it may have popped back)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:194",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:194",
+        "x": "2445",
+        "y": "943",
+        "width": "480",
+        "height": "212",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KQ2 · What happened at the moment of injury?\nASK: “Show me or describe exactly how it happened, and what you felt and saw over the next day.”\nNOTE: fracture (K1) must already be cleared."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:182",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:182",
+        "x": "2545",
+        "y": "720",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "A specific injury — a fall, twist, blow or awkward landing"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:330",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:330",
+        "x": "4860",
+        "y": "1824",
+        "width": "520",
+        "height": "456",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD6 · WORKING DIAGNOSIS: Osgood-Schlatter (top of the shin) or Sinding-Larsen-Johansson (bottom tip of the kneecap)\nWHAT IT IS: irritation of a growth plate where the kneecap tendon pulls, in sporty children during a growth spurt.\nCONFIRM: pressing the bump is tender, often swollen; worse with kneeling, jumping and stairs.\nNEXT STEP: reduce jumping and kneeling volume but keep the child active; quadriceps and hip strength, calf and thigh flexibility; a kneeling pad. Usually settles with growth (consensus).\nAVOID: total rest from all sport; injections.\nRED FLAG: constant or night pain → K9.\nSTAGE 3 ADD-ON: growing-knee module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:318",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:318",
+        "x": "4980",
+        "y": "1578",
+        "width": "280",
+        "height": "176",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "A bony bump at the top of the shin just below the kneecap, or the bottom tip of the kneecap"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:322",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:322",
+        "x": "5430",
+        "y": "1578",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Around or behind the kneecap → kneecap check (KT6)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:334",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:334",
+        "x": "5760",
+        "y": "1801",
+        "width": "440",
+        "height": "357",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD7 · REFER FOR IMAGING: suspected osteochondritis dissecans\nWHAT IT IS: a patch of bone under the joint cartilage loses its blood supply and can loosen; seen in active teenagers.\nWHY REFER: it cannot be diagnosed without an X-ray — this is where a no-imaging pathway must hand off.\nMEANWHILE: reduce jumping and running; keep thigh strength (consensus)."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:326",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:326",
+        "x": "5840",
+        "y": "1578",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Vague pain with repeated swelling or catching, no clear injury"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:314",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:314",
+        "x": "5310",
+        "y": "1326",
+        "width": "480",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KQ4 · Child: where does it hurt?\nASK: “Point with one finger.”\nFIRST: make sure the hip has been checked (K8) — hip problems in children often show up as knee pain."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:302",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:302",
+        "x": "5410",
+        "y": "1149",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Under 16 (still growing)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:398",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:398",
+        "x": "6250",
+        "y": "2398",
+        "width": "520",
+        "height": "472",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD9 · WORKING DIAGNOSIS: Patellofemoral pain (pain from the joint behind the kneecap)\nWHAT IT IS: overload of the joint between the kneecap and the thigh bone; common in active teenagers and young adults.\nNEXT STEP: hip and knee strengthening is the core treatment — hip abductors and extensors plus quadriceps, high volume where tolerated (about 3 sets of 30+ repetitions, 3 times a week); short-term kneecap taping or off-the-shelf foot insoles as add-ons; change squat depth and stair habits rather than stopping activity (Willy 2019; Crossley 2016 consensus).\nAVOID: knee braces or sleeves; passive treatments on their own.\nSTAGE 3 ADD-ON: kneecap module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:390",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:390",
+        "x": "6370",
+        "y": "2198",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Squatting reproduces the pain"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:394",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:394",
+        "x": "6820",
+        "y": "2198",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Squat is pain-free → recheck the spot (KT7)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:386",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:386",
+        "x": "6475",
+        "y": "1778",
+        "width": "520",
+        "height": "350",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KT6 · Kneecap-pain check (patellofemoral pain)\n• Squat: slow double-leg squat as deep as comfortable. Does it reproduce their front-of-knee pain? This is the most useful single sign — NO pain on squatting makes this diagnosis unlikely (JOSPT guideline, Willy 2019).\n• Typical history: pain with stairs (especially going down), kneeling, and long sitting with the knees bent.\n• Step-down or single-leg squat: film from the front — pain; knee drifts inward; hip drops.\nWHO: anyone trained"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:362",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:362",
+        "x": "6595",
+        "y": "1555",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Around or behind the kneecap — hard to point to one spot"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:414",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:414",
+        "x": "7150",
+        "y": "2444",
+        "width": "520",
+        "height": "396",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD10 · WORKING DIAGNOSIS: Patellar tendinopathy (“jumper’s knee”)\nWHAT IT IS: the tendon just below the kneecap is overloaded and sensitive.\nNEXT STEP — staged tendon loading: (1) isometric holds such as a wall sit for pain relief → (2) heavy slow strength (squats, leg press) → (3) energy storage (jumps, hops) added slowly → (4) full sport or work. Track decline-squat pain daily: it shouldn’t climb from one day to the next. Rehab often takes months (Malliaras 2015).\nAVOID: complete rest; passive treatments as the main plan; big jumps in jumping volume.\nSTAGE 3 ADD-ON: tendon module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:406",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:406",
+        "x": "7270",
+        "y": "2244",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Tender spot + load-related pain"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:410",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:410",
+        "x": "7720",
+        "y": "2244",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Not tender, the pain is diffuse → kneecap check (KT6)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:402",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:402",
+        "x": "7375",
+        "y": "1755",
+        "width": "520",
+        "height": "419",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KT7 · Kneecap-tendon check (patellar tendinopathy)\n• Press the bottom edge of the kneecap with the knee straight and relaxed — tender at one spot?\n• Single-leg decline squat (on a 25° slope): pain at the tendon that rises with depth (physio-level).\n• Typical history: jumping, running or heavy squatting; the pain warms up during activity, then returns afterwards and the next day.\nHALLMARKS: pain at the bottom tip of the kneecap + pain that rises with load on the thigh muscle (Malliaras 2015). Diagnosis stays clinical: tendon changes on scans are common in pain-free athletes.\nWHO: anyone trained (press); physio-level (decline squat)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:366",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:366",
+        "x": "7495",
+        "y": "1555",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "One spot at the bottom edge of the kneecap"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:430",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:430",
+        "x": "8050",
+        "y": "2368",
+        "width": "520",
+        "height": "350",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD11 · WORKING DIAGNOSIS: Iliotibial band (ITB) syndrome\nWHAT IT IS: irritation where the thick band of tissue on the outer thigh crosses the knee.\nNEXT STEP: reduce running volume and downhill work for a period; strengthen the hip abductors; return gradually with changes to cadence (step rate) or route (consensus-level evidence).\nAVOID: running through sharp outer-knee pain.\nSTAGE 3 ADD-ON: kneecap module (step-down pain, hip strength)."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:422",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:422",
+        "x": "8170",
+        "y": "2168",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Tender above the joint line, distance-related pain"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:426",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:426",
+        "x": "8620",
+        "y": "2168",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Joint-line tenderness and catching → meniscus check (KT2)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:418",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:418",
+        "x": "8275",
+        "y": "1732",
+        "width": "520",
+        "height": "366",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KT8 · Outer-knee check\n• History: running, cycling or long walks, with pain coming on at a predictable distance?\n• Press the bony outer knee just above the joint line (lateral femoral epicondyle) — tender?\n• Noble compression (physio-level): press that spot while bending and straightening the knee — pain near 30° of bend.\n• Tender ON the joint line instead, with catching? → meniscus check (KT2).\nEVIDENCE: consensus; no validated accuracy figures.\nWHO: anyone trained; physio-level (Noble)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:370",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:370",
+        "x": "8395",
+        "y": "1555",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Outer side of the knee"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:446",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:446",
+        "x": "8950",
+        "y": "2299",
+        "width": "520",
+        "height": "373",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD12 · WORKING DIAGNOSIS: Degenerative meniscus tear\nWHAT IT IS: age-related wear of the inner cartilage cushion, often alongside early osteoarthritis.\nNEXT STEP: treat like knee osteoarthritis — supervised progressive exercise for about 12 weeks before any talk of surgery. In a trial of 140 middle-aged adults, 12 weeks of exercise matched keyhole surgery (arthroscopic partial meniscectomy) at 2 years (Kise 2016).\nAVOID: referral for keyhole surgery as first-line care.\nREFER IF: true locking appears (K6).\nSTAGE 3 ADD-ON: osteoarthritis module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:438",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:438",
+        "x": "9070",
+        "y": "2099",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Tender ON the joint line, middle-aged, catching"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:450",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:450",
+        "x": "9520",
+        "y": "2299",
+        "width": "520",
+        "height": "327",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD13 · WORKING DIAGNOSIS: Pes anserine pain\nWHAT IT IS: a tender spot on the inner shin where three tendons attach, just below the knee; often alongside osteoarthritis.\nNEXT STEP: the osteoarthritis core programme plus hamstring and hip strengthening; a pillow between the knees at night (consensus).\nAVOID: injection as the first plan.\nSTAGE 3 ADD-ON: osteoarthritis module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:442",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:442",
+        "x": "9640",
+        "y": "2099",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Tender BELOW the joint line on the inner shin"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:434",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:434",
+        "x": "9235",
+        "y": "1732",
+        "width": "520",
+        "height": "297",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KT9 · Inner-side check\n• Press the joint line with the knee bent 90° (the gap between thigh bone and shin bone on the inner side).\n• Press the inner shin a few centimetres BELOW the joint line (where three tendons attach — the pes anserine).\n• History: middle-aged; little or no injury (e.g. getting up from a squat); catching that frees itself?\nWHO: anyone trained (press); physio-level (meniscus tests, KT2)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:374",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:374",
+        "x": "9355",
+        "y": "1555",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Inner side of the knee"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:470",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:470",
+        "x": "10090",
+        "y": "2306",
+        "width": "520",
+        "height": "281",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD14 · WORKING DIAGNOSIS: Prepatellar bursitis (“housemaid’s knee”)\nWHAT IT IS: an irritated fluid sac on top of the kneecap from kneeling pressure (work, floor cleaning, farming, prayer).\nNEXT STEP: a kneeling pad or a change in kneeling posture; keep thigh strength; treat any joint problem underneath (consensus).\nAVOID: repeated direct kneeling on the swelling."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:458",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:458",
+        "x": "10210",
+        "y": "2129",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Not hot, no fever"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:466",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:466",
+        "x": "10660",
+        "y": "2329",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — SAME DAY\nPossible infected bursa: doctor today (see K3)."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:462",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:462",
+        "x": "10720",
+        "y": "2129",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Hot, red, fever or a skin break"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:454",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:454",
+        "x": "10345",
+        "y": "1778",
+        "width": "520",
+        "height": "281",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KT10 · Swelling on top of the kneecap — is it infected?\n• Can you feel the edges of the kneecap through the swelling, and does the knee still bend fairly freely? (Yes to both = the swelling is in a fluid sac on top of the kneecap, not inside the joint.)\n• Is it hot or red, with fever or a skin break?\nWHO: basic kit (thermometer)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:378",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:378",
+        "x": "10465",
+        "y": "1555",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "A soft swelling ON TOP of the kneecap (often from kneeling)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:474",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:474",
+        "x": "11110",
+        "y": "1755",
+        "width": "520",
+        "height": "327",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD15 · WORKING DIAGNOSIS: Baker’s (popliteal) cyst\nWHAT IT IS: a fluid sac behind the knee, usually caused by osteoarthritis or a meniscus problem inside the joint.\nCONFIRM: soft swelling at the back of the knee, more obvious when standing or with the knee straight.\nNEXT STEP: treat the joint problem underneath — usually the osteoarthritis core programme (consensus).\nDANGER SIGN: a sudden painful, swollen calf = possible rupture or blood clot → K4 same day."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:382",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:382",
+        "x": "11230",
+        "y": "1555",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Back of the knee — fullness or tightness"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:358",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:358",
+        "x": "8813",
+        "y": "1326",
+        "width": "480",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KQ5 · Where does it hurt?\nASK: “Point with one finger to the sorest spot.” Then look at it and press there."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:306",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:306",
+        "x": "8913",
+        "y": "1149",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "16 to 44"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:354",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:354",
+        "x": "11680",
+        "y": "2015",
+        "width": "520",
+        "height": "557",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD8 · WORKING DIAGNOSIS: Knee osteoarthritis (OA)\nWHAT IT IS: “wear and repair” changes in the joint’s cartilage and bone — the most common cause of knee pain from mid-life on. Diagnosed from symptoms; X-ray changes match pain poorly and don’t change first-line care.\nNEXT STEP: education + strengthening + balance (neuromuscular) exercise is the core treatment (NICE NG226; OARSI 2019) — e.g. the GLA:D programme: 2 education sessions + 12 supervised exercise sessions over 6–8 weeks (Skou & Roos 2017). Build up walking in bouts; a walking stick if it keeps them active; practise their own goal tasks (rising from the floor, squatting to a set depth).\nAVOID: passive treatments on their own (electrotherapy, acupuncture, manual therapy), routine braces or insoles, imaging to plan care, “lose weight” advice for an underweight patient.\nOFTEN ALONGSIDE (same programme): degenerative meniscus tear, pes anserine pain, Baker’s cyst.\nSTAGE 3 ADD-ON: osteoarthritis module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:342",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:342",
+        "x": "11800",
+        "y": "1792",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Fits: activity pain, stiffness 30 minutes or less"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:346",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:346",
+        "x": "12250",
+        "y": "1792",
+        "width": "280",
+        "height": "176",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Stiffness over 30 minutes, warmth, or several swollen joints → back to K10"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:350",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:350",
+        "x": "12580",
+        "y": "1792",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Doesn’t fit — the pain is in one specific spot → KQ5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:338",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:338",
+        "x": "12070",
+        "y": "1326",
+        "width": "520",
+        "height": "396",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KT5 · Osteoarthritis check (no X-ray needed)\nNICE clinical diagnosis — all three: age 45 or older ✓ • pain with activity (walking, stairs, squatting, rising from the floor) that eases with rest • morning stiffness absent or 30 minutes or less (NICE NG226, 2022).\nFor extra confidence — ACR clinical criteria (American College of Rheumatology): knee pain plus 3 or more of: age over 50 • stiffness under 30 minutes • creaking or grating on movement (crepitus) • tenderness of the bone at the joint edges • bony enlargement • no warmth. 3 of 6: sensitivity 95%, specificity 69%; 4 of 6: 84% / 89% (Altman 1986).\nWHO: anyone trained"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:310",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:310",
+        "x": "12190",
+        "y": "1149",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "45 or older"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:298",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:298",
+        "x": "8700",
+        "y": "920",
+        "width": "480",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KQ3 · How old is the patient?\nWHY: growth plates (in children) and osteoarthritis risk (from the mid-40s) change what is likely."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:186",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:186",
+        "x": "8800",
+        "y": "720",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Gradually, with no clear injury"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:506",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:506",
+        "x": "12910",
+        "y": "1985",
+        "width": "520",
+        "height": "304",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KD16 · WORKING DIAGNOSIS: Recurrent kneecap instability\nNEXT STEP: quadriceps and hip strengthening as for kneecap pain (KD9), balance and landing control, taping or a brace for return to sport.\nAVOID: deep pivoting before control returns.\nREFER IF: repeated dislocations — the bony shape and cartilage damage need imaging.\nSTAGE 3 ADD-ON: kneecap module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:502",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:502",
+        "x": "13030",
+        "y": "1785",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Apprehension or J-sign positive"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:498",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:498",
+        "x": "12910",
+        "y": "1395",
+        "width": "520",
+        "height": "320",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KT11 · Kneecap-instability check\n• Apprehension test: knee slightly bent and relaxed; gently push the kneecap outward. Positive = guarding, fear, or “that’s the feeling”.\n• J-sign: watch the kneecap as the seated patient straightens the knee — it jumps sideways near full straightening.\n• History: often teenage girls, loose joints, family history.\nEVIDENCE: consensus; no strong accuracy figures.\nWHO: physio-level"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:482",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:482",
+        "x": "13030",
+        "y": "1172",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "The kneecap slips out sideways, or has dislocated before"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:514",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:514",
+        "x": "13600",
+        "y": "1716",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Positive → same plan as KD1 (ACL injury)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:510",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:510",
+        "x": "13480",
+        "y": "1395",
+        "width": "520",
+        "height": "251",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KT12 · Old ACL tear check\nRun KT1 (Lachman and lever sign) plus the anterior drawer: knee bent 90°, foot steadied, pull the shin forward and compare sides. In long-standing tears the anterior drawer has sensitivity 92% and specificity 91%; it is much weaker in fresh, swollen injuries (Benjaminse 2006).\nWHO: physio-level"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:486",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:486",
+        "x": "13600",
+        "y": "1172",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "The whole knee buckles when turning or pivoting, after an old injury"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:490",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:490",
+        "x": "14050",
+        "y": "1172",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "It gives way with pain or catching on the joint line → meniscus check (KT2)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:518",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:518",
+        "x": "14380",
+        "y": "1395",
+        "width": "420",
+        "height": "281",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KN2 · Giving way from weakness or pain\nPain switches off the thigh muscle, so the knee buckles even though nothing is torn — common in osteoarthritis and kneecap pain. Strengthening fixes it. Go to the osteoarthritis check (KT5) if 45+, otherwise the kneecap check (KT6)."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:494",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:494",
+        "x": "14450",
+        "y": "1172",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "It gives way from weakness or pain; nothing slips (often older knees)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:478",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:478",
+        "x": "13640",
+        "y": "943",
+        "width": "480",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KQ6 · What gives way?\nASK: “When it gives way, what exactly happens? Show me the movement.”"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:190",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:190",
+        "x": "13740",
+        "y": "720",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "It keeps giving way, or the kneecap keeps slipping out"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:178",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:178",
+        "x": "8043",
+        "y": "491",
+        "width": "480",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KQ1 · How did it start?\nASK: “Think back to the first day it hurt. What happened?”"
+    }
+  ]
+}

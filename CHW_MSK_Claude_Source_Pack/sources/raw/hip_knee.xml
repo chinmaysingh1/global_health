@@ -1,0 +1,1191 @@
+<canvas id="0:1" name="Page 1" x="0" y="0" width="0" height="0">
+  <section id="34:1341" name="Exercises by Group" x="12304" y="16608" width="3680" height="1488">
+    <shape-with-text id="34:2726" x="112" y="192" width="784" height="576" name="SQUARE">E1 Joint mobility and general leg strengthening
+Knee OA, Degenerative meniscus, Baker’s cyst w/ joint disease, Hip OA, Pesanserine pain
+
+Gentle bending and strengthening: heel slides or seated knee bends
+Sit-to-stand: rise slowly from chair, can use hands if needed
+Standing hip abduction: Move leg sideways while holding supports
+Low step-ups and short walking bouts: gradually build strength and endurance
+</shape-with-text>
+    <shape-with-text id="34:2739" x="992" y="192" width="784" height="480" name="SQUARE">E2 Knee and Hip Strength with Movement Control
+Patellofemoral pain &amp; ITB syndrome; Patellar dislocation or recurrent instability after clearance from doctor
+
+Shallow squats or chair rises
+Bridges: Lift pelvis with both feet planted
+Low step-downs: lower slowly from a small step, keeping the pelvis steady, progress to supported single-leg balance.
+</shape-with-text>
+    <shape-with-text id="34:2756" x="1872" y="192" width="784" height="512" name="SQUARE">E3 Hip Joint Strength Within Comfortable Movement
+Nonarthritic hip-related pain: suspected FAI, labral pathology, or dysplasia 
+
+Bridges
+Standing hip abduction and extension
+High chair sit-to-stand
+Supported balance: Practice steps and getting in and out of vehicles (or some alternative) within a comfortable range
+</shape-with-text>
+    <shape-with-text id="34:2763" x="2752" y="192" width="784" height="512" name="SQUARE">E4 Progressive Quadriceps and Patellar Tendon Loading
+Patellar tendinopathy
+
+Static knee-extension holds or a shallow wall-sit: only if tolerated
+Slow chair-rises, squats, and step-ups once ↑ is comfortable 
+Add resistance once ↑ is comfortable
+Introduce hopping afterwards
+</shape-with-text>
+    <shape-with-text id="34:2770" x="112" y="816" width="784" height="480" name="SQUARE">E5 Lateral Hip Strengthening with Reduced Tendon Compression
+Gluteal tendinopathy 
+
+Seated outward press: gently press the knees outward against a band without moving
+Progress to standing hip abduction, bridges, low step-ups, and supported single-leg control
+</shape-with-text>
+    <shape-with-text id="36:2787" x="992" y="816" width="784" height="512" name="SQUARE">E6 Progressive Hamstring Strengthening
+Hamstring strain &amp; Proximal hamstring tendinopathy
+
+Heel dig holds: lying with knees bent, press the heels into the floor
+Progress to bridges, resisted knee bends, and shallow hip hinges
+Gradually increase resistance and introduce controlled lengthening exercises
+</shape-with-text>
+    <shape-with-text id="36:2801" x="1872" y="816" width="784" height="576" name="SQUARE">E7 Groin, Hip, and Trunk Strengthening
+Adductor-related; iliopsoas-related; inguinal-related; pubic-related groin pain
+
+Shared base: bridges and gentle abdominal bracing
+Adductor/pubic branch: pillow squeezes between the knees, then resisted inward leg movement
+Iliopsoas branch: seated knee-lift holds against the hand, then resisted marching
+Inguinal branch: graded trunk exercises without painful straining
+</shape-with-text>
+    <shape-with-text id="36:2808" x="2752" y="816" width="784" height="432" name="SQUARE">E8 Protected Knee Injury Rehabilitation
+ACL injury, traumatic meniscus injury, MCL/LCL sprain, PCL injury
+
+Quadriceps tightening and permitted knee movement
+Followed by chair rises, shallow squats, step-ups, and balance training as restrictions allow
+Eventually practice work-related tasks
+</shape-with-text>
+  </section>
+  <section id="7:542" name="Hip · Stage 3 · Measure, dose, re-test" x="20665" y="13217" width="2100" height="3657">
+    <connector id="8:1506" x="480" y="3261" connectorStart="5:997" connectorStartCap="NONE" connectorEnd="5:1005" connectorEndCap="ARROW_LINES">HS3-6&amp;gt;HS3-6b</connector>
+    <connector id="8:1502" x="260" y="3261" connectorStart="5:997" connectorStartCap="NONE" connectorEnd="5:1001" connectorEndCap="ARROW_LINES">HS3-6&amp;gt;HS3-6a</connector>
+    <connector id="8:1498" x="480" y="3012" connectorStart="5:989" connectorStartCap="NONE" connectorEnd="5:997" connectorEndCap="ARROW_LINES">HS3-UP&amp;gt;HS3-6</connector>
+    <connector id="8:1494" x="1080" y="2783" connectorStart="5:985" connectorStartCap="NONE" connectorEnd="5:993" connectorEndCap="ARROW_LINES">HS3-5b&amp;gt;HS3-NO</connector>
+    <connector id="8:1490" x="480" y="2783" connectorStart="5:981" connectorStartCap="NONE" connectorEnd="5:989" connectorEndCap="ARROW_LINES">HS3-5a&amp;gt;HS3-UP</connector>
+    <connector id="8:1486" x="780" y="2596" connectorStart="5:977" connectorStartCap="NONE" connectorEnd="5:985" connectorEndCap="ARROW_LINES">HS3-5&amp;gt;HS3-5b</connector>
+    <connector id="8:1482" x="480" y="2596" connectorStart="5:977" connectorStartCap="NONE" connectorEnd="5:981" connectorEndCap="ARROW_LINES">HS3-5&amp;gt;HS3-5a</connector>
+    <connector id="8:1474" x="560" y="2347" connectorStart="5:969" connectorStartCap="NONE" connectorEnd="5:977" connectorEndCap="ARROW_LINES">HS3-4a&amp;gt;HS3-5</connector>
+    <connector id="8:1478" x="780" y="2347" connectorStart="5:973" connectorStartCap="NONE" connectorEnd="5:977" connectorEndCap="ARROW_LINES">HS3-4b&amp;gt;HS3-5</connector>
+    <connector id="8:1470" x="780" y="2137" connectorStart="5:965" connectorStartCap="NONE" connectorEnd="5:973" connectorEndCap="ARROW_LINES">HS3-4&amp;gt;HS3-4b</connector>
+    <connector id="8:1466" x="560" y="2137" connectorStart="5:965" connectorStartCap="NONE" connectorEnd="5:969" connectorEndCap="ARROW_LINES">HS3-4&amp;gt;HS3-4a</connector>
+    <connector id="8:1462" x="780" y="1783" connectorStart="5:957" connectorStartCap="NONE" connectorEnd="5:965" connectorEndCap="ARROW_LINES">HS3-3&amp;gt;HS3-4</connector>
+    <connector id="8:1458" x="746" y="1533" connectorStart="5:953" connectorStartCap="NONE" connectorEnd="5:957" connectorEndCap="ARROW_LINES">HS3-2&amp;gt;HS3-3</connector>
+    <connector id="8:1430" x="340" y="1185" connectorStart="5:941" connectorStartCap="NONE" connectorEnd="5:953" connectorEndCap="ARROW_LINES">HS3-HI&amp;gt;HS3-2</connector>
+    <connector id="8:1442" x="420" y="1139" connectorStart="5:945" connectorStartCap="NONE" connectorEnd="5:953" connectorEndCap="ARROW_LINES">HS3-MD&amp;gt;HS3-2</connector>
+    <connector id="8:1454" x="420" y="1139" connectorStart="5:949" connectorStartCap="NONE" connectorEnd="5:953" connectorEndCap="ARROW_LINES">HS3-LO&amp;gt;HS3-2</connector>
+    <connector id="8:1450" x="1220" y="864" connectorStart="5:937" connectorStartCap="NONE" connectorEnd="5:949" connectorEndCap="ARROW_LINES">HS3-1c&amp;gt;HS3-LO</connector>
+    <connector id="8:1438" x="780" y="864" connectorStart="5:933" connectorStartCap="NONE" connectorEnd="5:945" connectorEndCap="ARROW_LINES">HS3-1b&amp;gt;HS3-MD</connector>
+    <connector id="8:1426" x="340" y="887" connectorStart="5:929" connectorStartCap="NONE" connectorEnd="5:941" connectorEndCap="ARROW_LINES">HS3-1a&amp;gt;HS3-HI</connector>
+    <connector id="8:1446" x="780" y="621" connectorStart="5:925" connectorStartCap="NONE" connectorEnd="5:937" connectorEndCap="ARROW_LINES">HS3-1&amp;gt;HS3-1c</connector>
+    <connector id="8:1434" x="780" y="621" connectorStart="5:925" connectorStartCap="NONE" connectorEnd="5:933" connectorEndCap="ARROW_LINES">HS3-1&amp;gt;HS3-1b</connector>
+    <connector id="8:1422" x="340" y="621" connectorStart="5:925" connectorStartCap="NONE" connectorEnd="5:929" connectorEndCap="ARROW_LINES">HS3-1&amp;gt;HS3-1a</connector>
+    <connector id="8:1418" x="780" y="339" connectorStart="5:921" connectorStartCap="NONE" connectorEnd="5:925" connectorEndCap="ARROW_LINES">HS3&amp;gt;HS3-1</connector>
+    <shape-with-text id="5:921" x="230" y="130" width="1100" height="203" name="ROUNDED_RECTANGLE">STAGE 3 — MEASURE, DOSE THE EXERCISE, RE-TEST
+Every working diagnosis from Stage 2 comes here. The 2025 hip osteoarthritis guideline’s best-practice set is one self-report questionnaire, one performance test, and impairments (range, strength in all directions, FABER, pain). The diagnosis adds one module; irritability sets the starting dose.</shape-with-text>
+    <shape-with-text id="5:925" x="520" y="433" width="520" height="182" name="ROUNDED_RECTANGLE">HS3-1 · How irritable is the hip?
+ASK: “Tell me about your last bad flare. What sets it off, and how long does it take to settle?” Ask about the last 24 hours too.</shape-with-text>
+    <shape-with-text id="5:929" x="180" y="705" width="320" height="176" name="ROUNDED_RECTANGLE">HIGH: night or rest pain; limping on most steps; flares with small movements; settles over hours or by the next day</shape-with-text>
+    <shape-with-text id="5:933" x="620" y="705" width="320" height="153" name="ROUNDED_RECTANGLE">MODERATE: pain with stairs, squatting or long walks; settles within an hour or two</shape-with-text>
+    <shape-with-text id="5:937" x="1060" y="705" width="320" height="153" name="ROUNDED_RECTANGLE">LOW: pain only at high load or at the end of range; settles within minutes</shape-with-text>
+    <shape-with-text id="5:941" x="160" y="951" width="360" height="228" name="ROUNDED_RECTANGLE">START GENTLE
+Isometric holds, pain-free range, a walking aid, advice on positions. Baseline limited to pain, the Patient-Specific Functional Scale (PSFS), range and a gait video.</shape-with-text>
+    <shape-with-text id="5:945" x="600" y="951" width="360" height="182" name="ROUNDED_RECTANGLE">START MODERATE
+Progressive strengthening in all directions and practice of real tasks within the pain rule. Full core battery.</shape-with-text>
+    <shape-with-text id="5:949" x="1040" y="951" width="360" height="182" name="ROUNDED_RECTANGLE">START STRONGER
+Heavier and single-leg loading; sport- or work-specific tasks. Full core battery.</shape-with-text>
+    <shape-with-text id="5:953" x="100" y="1289" width="640" height="573" name="ROUNDED_RECTANGLE">HS3-2 · CORE BASELINE BATTERY (about 12 minutes)
+Needs: a chair, a stopwatch, 10 m of floor, a step, a wall and a phone. Repeat the SAME set at week 0, 4 and 12.
+1. Pain 0–10 (faces version): average and worst in the last week.
+2. Patient-Specific Functional Scale (PSFS): their 3 hardest tasks, each rated 0–10 — this becomes the goal list. Prompt with local tasks: cross-legged floor sitting, rising from the floor, squatting toilet, putting on footwear, climbing into a bus or tractor, field work.
+3. 30-second chair stand: count full stands in 30 s, arms crossed.
+4. 40 m fast-paced walk: 4 × 10 m, timed.
+5. Timed Up-and-Go: rise, walk 3 m, turn, walk back, sit; usual walking aid allowed (walking transitions and falls risk).
+6. Hip range of motion: internal rotation with the hip bent 90°, bending, extension — compare sides (phone inclinometer on the shin for rotation).
+7. Hip strength in all six directions: handheld dynamometer if available; otherwise side-lying leg-lift hold time and single-leg bridge count.
+8. Single-leg stance + Trendelenburg sign: up to 30 s; watch whether the opposite side of the pelvis drops or the trunk leans (weak hip abductors).
+9. Gait video: 10 s from the front and side (limp, trunk lean, short stride).
+Tests 3–5 come from the OARSI recommended set (Dobson 2013) and the 2025 hip osteoarthritis guideline.</shape-with-text>
+    <shape-with-text id="5:957" x="820" y="1289" width="640" height="488" name="ROUNDED_RECTANGLE">HS3-3 · ADD-ON MODULE — pick the one that matches the working diagnosis
+Hip osteoarthritis module (HD1): HOOS or WOMAC questionnaire (Hip disability and Osteoarthritis Outcome Score / Western Ontario and McMaster Universities Osteoarthritis Index — check for a validated local-language version); FABER test (figure-4 position: Flexion, ABduction, External Rotation) recorded over time; stair climb or 6-minute walk.
+Young-hip module (HD2): iHOT-12 (International Hip Outcome Tool) or HAGOS (Copenhagen Hip and Groin Outcome Score) — built for young active adults; FADIR pain 0–10; pain-free squat depth (maps to floor sitting and squatting).
+Side-of-hip module (HD7): VISA-G (Victorian Institute of Sport Assessment — gluteal); single-leg stance time until pain; minutes of side-lying at night before pain.
+Groin module (HD3–HD6): HAGOS; adductor squeeze pain 0–10.
+Hamstring module (HD9–HD11): active knee extension range; pain on resisted knee bending 0–10.</shape-with-text>
+    <shape-with-text id="5:961" x="1540" y="1289" width="460" height="228" name="ROUNDED_RECTANGLE">PAIN RULE FOR HOME EXERCISE
+Pain up to about 5 out of 10 during exercise is acceptable if it has settled back to its usual level by the next morning. If not, hold or step down one level. Warn patients that pain may rise a little at first (NICE NG226).</shape-with-text>
+    <shape-with-text id="5:965" x="540" y="1972" width="480" height="159" name="ROUNDED_RECTANGLE">HS3-4 · WEEK 1 — dose check
+ASK: “Did the pain settle back to normal by the next morning after exercising?”</shape-with-text>
+    <shape-with-text id="5:969" x="420" y="2211" width="280" height="130" name="ROUNDED_RECTANGLE">Yes — keep the same level (don’t level up yet)</shape-with-text>
+    <shape-with-text id="5:973" x="860" y="2211" width="280" height="130" name="ROUNDED_RECTANGLE">No — hold or step down one level</shape-with-text>
+    <shape-with-text id="5:977" x="540" y="2431" width="480" height="159" name="ROUNDED_RECTANGLE">HS3-5 · WEEK 4 — first re-test
+Repeat the core battery the same way. Is it improving? (PSFS scores, chair stand, Timed Up-and-Go, pain)</shape-with-text>
+    <shape-with-text id="5:981" x="340" y="2670" width="280" height="107" name="ROUNDED_RECTANGLE">Improving</shape-with-text>
+    <shape-with-text id="5:985" x="940" y="2670" width="280" height="107" name="ROUNDED_RECTANGLE">Not improving</shape-with-text>
+    <shape-with-text id="5:989" x="280" y="2847" width="400" height="159" name="ROUNDED_RECTANGLE">LEVEL UP
+Add load and single-leg work. Continue to week 12.</shape-with-text>
+    <shape-with-text id="5:993" x="860" y="2847" width="440" height="182" name="ROUNDED_RECTANGLE">RE-CHECK BEFORE CONTINUING
+Physio video exam; re-screen the back (H10) and Stage 1 checks H4–H5 (stress fracture, bone death); doctor review.</shape-with-text>
+    <shape-with-text id="5:997" x="240" y="3119" width="480" height="136" name="ROUNDED_RECTANGLE">HS3-6 · WEEK 12 — programme review
+Most change shows by now. Better?</shape-with-text>
+    <shape-with-text id="5:1001" x="120" y="3335" width="280" height="153" name="ROUNDED_RECTANGLE">Yes — continue and move towards self-management</shape-with-text>
+    <shape-with-text id="5:1005" x="540" y="3335" width="320" height="222" name="ROUNDED_RECTANGLE">Still no change after a real trial — revise the diagnosis or refer (the hip osteoarthritis guideline says to rethink when symptoms aren’t improving with treatment)</shape-with-text>
+  </section>
+  <section id="7:541" name="Hip · Stage 2 · Which hip problem" x="15500" y="10043" width="9550" height="3024">
+    <connector id="8:798" x="5945" y="313" connectorStart="5:724" connectorStartCap="NONE" connectorEnd="5:728" connectorEndCap="ARROW_LINES">HS2&amp;gt;HQ1</connector>
+    <connector id="8:1142" x="2700" y="702" connectorStart="5:728" connectorStartCap="NONE" connectorEnd="5:732" connectorEndCap="ARROW_LINES">HQ1&amp;gt;HQ1a</connector>
+    <connector id="8:1230" x="5490" y="702" connectorStart="5:728" connectorStartCap="NONE" connectorEnd="5:736" connectorEndCap="ARROW_LINES">HQ1&amp;gt;HQ1b</connector>
+    <connector id="8:1254" x="5945" y="702" connectorStart="5:728" connectorStartCap="NONE" connectorEnd="5:740" connectorEndCap="ARROW_LINES">HQ1&amp;gt;HQ1c</connector>
+    <connector id="8:1318" x="5945" y="702" connectorStart="5:728" connectorStartCap="NONE" connectorEnd="5:744" connectorEndCap="ARROW_LINES">HQ1&amp;gt;HQ1d</connector>
+    <connector id="8:1322" x="9190" y="925" connectorStart="5:744" connectorStartCap="NONE" connectorEnd="5:852" connectorEndCap="ARROW_LINES">HQ1d&amp;gt;HD8</connector>
+    <connector id="8:1570" x="6026" y="1202" connectorStart="5:844" connectorStartCap="NONE" connectorEnd="5:852" connectorEndCap="ARROW_LINES">HT3c&amp;gt;HD8</connector>
+    <connector id="8:1258" x="7588" y="902" connectorStart="5:740" connectorStartCap="NONE" connectorEnd="5:856" connectorEndCap="ARROW_LINES">HQ1c&amp;gt;HQ3</connector>
+    <connector id="8:1262" x="6555" y="1207" connectorStart="5:856" connectorStartCap="NONE" connectorEnd="5:860" connectorEndCap="ARROW_LINES">HQ3&amp;gt;HQ3a</connector>
+    <connector id="8:1282" x="7230" y="1207" connectorStart="5:856" connectorStartCap="NONE" connectorEnd="5:864" connectorEndCap="ARROW_LINES">HQ3&amp;gt;HQ3b</connector>
+    <connector id="8:1290" x="7588" y="1207" connectorStart="5:856" connectorStartCap="NONE" connectorEnd="5:868" connectorEndCap="ARROW_LINES">HQ3&amp;gt;HQ3c</connector>
+    <connector id="8:1310" x="7588" y="1207" connectorStart="5:856" connectorStartCap="NONE" connectorEnd="5:872" connectorEndCap="ARROW_LINES">HQ3&amp;gt;HQ3d</connector>
+    <connector id="8:1314" x="8620" y="1476" connectorStart="5:872" connectorStartCap="NONE" connectorEnd="5:912" connectorEndCap="ARROW_LINES">HQ3d&amp;gt;HD11</connector>
+    <connector id="8:1574" x="8316" y="1749.5" connectorStart="5:904" connectorStartCap="NONE" connectorEnd="5:912" connectorEndCap="ARROW_LINES">HT5b&amp;gt;HD11</connector>
+    <connector id="8:1294" x="7965" y="1430" connectorStart="5:868" connectorStartCap="NONE" connectorEnd="5:896" connectorEndCap="ARROW_LINES">HQ3c&amp;gt;HT5</connector>
+    <connector id="8:1298" x="7760" y="1880" connectorStart="5:896" connectorStartCap="NONE" connectorEnd="5:900" connectorEndCap="ARROW_LINES">HT5&amp;gt;HT5a</connector>
+    <connector id="8:1306" x="7965" y="1880" connectorStart="5:896" connectorStartCap="NONE" connectorEnd="5:904" connectorEndCap="ARROW_LINES">HT5&amp;gt;HT5b</connector>
+    <connector id="8:1302" x="7760" y="2057" connectorStart="5:900" connectorStartCap="NONE" connectorEnd="5:908" connectorEndCap="ARROW_LINES">HT5a&amp;gt;HX1</connector>
+    <connector id="8:1286" x="7230" y="1453" connectorStart="5:864" connectorStartCap="NONE" connectorEnd="5:892" connectorEndCap="ARROW_LINES">HQ3b&amp;gt;HD10</connector>
+    <connector id="8:1266" x="6555" y="1453" connectorStart="5:860" connectorStartCap="NONE" connectorEnd="5:876" connectorEndCap="ARROW_LINES">HQ3a&amp;gt;HT4</connector>
+    <connector id="8:1270" x="6330" y="1896" connectorStart="5:876" connectorStartCap="NONE" connectorEnd="5:880" connectorEndCap="ARROW_LINES">HT4&amp;gt;HT4a</connector>
+    <connector id="8:1278" x="6555" y="1896" connectorStart="5:876" connectorStartCap="NONE" connectorEnd="5:884" connectorEndCap="ARROW_LINES">HT4&amp;gt;HT4b</connector>
+    <connector id="8:1274" x="6330" y="2096" connectorStart="5:880" connectorStartCap="NONE" connectorEnd="5:888" connectorEndCap="ARROW_LINES">HT4a&amp;gt;HD9</connector>
+    <connector id="8:1234" x="5490" y="902" connectorStart="5:736" connectorStartCap="NONE" connectorEnd="5:832" connectorEndCap="ARROW_LINES">HQ1b&amp;gt;HT3</connector>
+    <connector id="8:1238" x="5100" y="1467" connectorStart="5:832" connectorStartCap="NONE" connectorEnd="5:836" connectorEndCap="ARROW_LINES">HT3&amp;gt;HT3a</connector>
+    <connector id="8:1246" x="5490" y="1467" connectorStart="5:832" connectorStartCap="NONE" connectorEnd="5:840" connectorEndCap="ARROW_LINES">HT3&amp;gt;HT3b</connector>
+    <connector id="8:1250" x="5490" y="1467" connectorStart="5:832" connectorStartCap="NONE" connectorEnd="5:844" connectorEndCap="ARROW_LINES">HT3&amp;gt;HT3c</connector>
+    <connector id="8:1562" x="956" y="1213.5" connectorStart="5:772" connectorStartCap="NONE" connectorEnd="5:832" connectorEndCap="ARROW_LINES">HT1b&amp;gt;HT3</connector>
+    <connector id="8:1566" x="1016" y="1619" connectorStart="5:840" connectorStartCap="NONE" connectorEnd="5:764" connectorEndCap="ARROW_LINES">HT3b&amp;gt;HT1</connector>
+    <connector id="8:1242" x="5100" y="1690" connectorStart="5:836" connectorStartCap="NONE" connectorEnd="5:848" connectorEndCap="ARROW_LINES">HT3a&amp;gt;HD7</connector>
+    <connector id="8:1146" x="2700" y="902" connectorStart="5:732" connectorStartCap="NONE" connectorEnd="5:748" connectorEndCap="ARROW_LINES">HQ1a&amp;gt;HQ2</connector>
+    <connector id="8:1150" x="750" y="1177" connectorStart="5:748" connectorStartCap="NONE" connectorEnd="5:752" connectorEndCap="ARROW_LINES">HQ2&amp;gt;HQ2a</connector>
+    <connector id="8:1174" x="2700" y="1177" connectorStart="5:748" connectorStartCap="NONE" connectorEnd="5:756" connectorEndCap="ARROW_LINES">HQ2&amp;gt;HQ2b</connector>
+    <connector id="8:1226" x="2700" y="1177" connectorStart="5:748" connectorStartCap="NONE" connectorEnd="5:760" connectorEndCap="ARROW_LINES">HQ2&amp;gt;HQ2c</connector>
+    <connector id="8:1178" x="2895" y="1377" connectorStart="5:756" connectorStartCap="NONE" connectorEnd="5:784" connectorEndCap="ARROW_LINES">HQ2b&amp;gt;HT2</connector>
+    <connector id="8:1182" x="1590" y="1935" connectorStart="5:784" connectorStartCap="NONE" connectorEnd="5:788" connectorEndCap="ARROW_LINES">HT2&amp;gt;HT2a</connector>
+    <connector id="8:1190" x="2160" y="1935" connectorStart="5:784" connectorStartCap="NONE" connectorEnd="5:792" connectorEndCap="ARROW_LINES">HT2&amp;gt;HT2b</connector>
+    <connector id="8:1198" x="2730" y="1935" connectorStart="5:784" connectorStartCap="NONE" connectorEnd="5:796" connectorEndCap="ARROW_LINES">HT2&amp;gt;HT2c</connector>
+    <connector id="8:1206" x="2895" y="1935" connectorStart="5:784" connectorStartCap="NONE" connectorEnd="5:800" connectorEndCap="ARROW_LINES">HT2&amp;gt;HT2d</connector>
+    <connector id="8:1214" x="2895" y="1935" connectorStart="5:784" connectorStartCap="NONE" connectorEnd="5:804" connectorEndCap="ARROW_LINES">HT2&amp;gt;HT2e</connector>
+    <connector id="8:1218" x="2895" y="1935" connectorStart="5:784" connectorStartCap="NONE" connectorEnd="5:808" connectorEndCap="ARROW_LINES">HT2&amp;gt;HT2f</connector>
+    <connector id="8:1222" x="4200" y="2112" connectorStart="5:808" connectorStartCap="NONE" connectorEnd="5:828" connectorEndCap="ARROW_LINES">HT2f&amp;gt;HD6</connector>
+    <connector id="8:1210" x="3300" y="2135" connectorStart="5:800" connectorStartCap="NONE" connectorEnd="5:824" connectorEndCap="ARROW_LINES">HT2d&amp;gt;HD5</connector>
+    <connector id="8:1202" x="2730" y="2135" connectorStart="5:796" connectorStartCap="NONE" connectorEnd="5:820" connectorEndCap="ARROW_LINES">HT2c&amp;gt;HD4</connector>
+    <connector id="8:1194" x="2160" y="2135" connectorStart="5:792" connectorStartCap="NONE" connectorEnd="5:816" connectorEndCap="ARROW_LINES">HT2b&amp;gt;HD3</connector>
+    <connector id="8:1186" x="1590" y="2135" connectorStart="5:788" connectorStartCap="NONE" connectorEnd="5:812" connectorEndCap="ARROW_LINES">HT2a&amp;gt;HD2</connector>
+    <connector id="8:1154" x="750" y="1377" connectorStart="5:752" connectorStartCap="NONE" connectorEnd="5:764" connectorEndCap="ARROW_LINES">HQ2a&amp;gt;HT1</connector>
+    <connector id="8:1158" x="360" y="2011" connectorStart="5:764" connectorStartCap="NONE" connectorEnd="5:768" connectorEndCap="ARROW_LINES">HT1&amp;gt;HT1a</connector>
+    <connector id="8:1166" x="750" y="2011" connectorStart="5:764" connectorStartCap="NONE" connectorEnd="5:772" connectorEndCap="ARROW_LINES">HT1&amp;gt;HT1b</connector>
+    <connector id="8:1170" x="750" y="2011" connectorStart="5:764" connectorStartCap="NONE" connectorEnd="5:776" connectorEndCap="ARROW_LINES">HT1&amp;gt;HT1c</connector>
+    <connector id="8:1162" x="360" y="2257" connectorStart="5:768" connectorStartCap="NONE" connectorEnd="5:780" connectorEndCap="ARROW_LINES">HT1a&amp;gt;HD1</connector>
+    <shape-with-text id="5:724" x="5395" y="130" width="1100" height="177" name="ROUNDED_RECTANGLE">STAGE 2 — WHICH HIP PROBLEM IS IT?
+Where it hurts does most of the work at the hip: groin or front → the joint or the groin muscles; side → the gluteal tendons; buttock → hamstring, sacroiliac joint or deep buttock. Age then separates osteoarthritis from young-adult hip pain.</shape-with-text>
+    <shape-with-text id="5:916" x="6575" y="130" width="560" height="251" name="ROUNDED_RECTANGLE">WHY THE LABEL MATTERS MORE AT THE HIP
+Gluteal tendinopathy needs specific position advice (avoid compression); hip-related pain needs activity modification around deep bending; groin problems in athletes need targeted strengthening. Hip osteoarthritis still runs on the shared core programme. Software should map label → programme module + positions to avoid, not pick exercises per patient.</shape-with-text>
+    <shape-with-text id="5:780" x="100" y="2321" width="520" height="488" name="ROUNDED_RECTANGLE">HD1 · WORKING DIAGNOSIS: Hip osteoarthritis
+WHAT IT IS: “wear and repair” changes in the hip joint; the commonest cause of groin pain in older adults. No X-ray is needed to start care; the guideline keeps X-ray for when the picture is unclear.
+NEXT STEP: exercise therapy is the main treatment (strongest recommendation, grade A, JOSPT 2025): individualised strengthening in all directions plus mobility work, typically 1–5 sessions a week for 5–16 weeks; education on pacing and protecting the joint; a walking stick in the OPPOSITE hand if it keeps them active; practise their goal tasks (rising from the floor, getting into a vehicle); group programmes such as GLA:D where available (NICE NG226).
+AVOID: bracing early in care; passive treatments on their own; weight-loss advice for an underweight patient.
+STAGE 3 ADD-ON: hip osteoarthritis module.</shape-with-text>
+    <shape-with-text id="5:768" x="220" y="2075" width="280" height="176" name="ROUNDED_RECTANGLE">Fits: weight-bearing pain, stiffness under 1 hour, limited or painful internal rotation</shape-with-text>
+    <shape-with-text id="5:772" x="670" y="2075" width="280" height="153" name="ROUNDED_RECTANGLE">Rotation normal and the pain is on the side → side-of-hip check (HT3)</shape-with-text>
+    <shape-with-text id="5:776" x="1000" y="2075" width="280" height="176" name="ROUNDED_RECTANGLE">Younger than typical, with a risk factor (steroids, alcohol, sickle cell) → back to H5</shape-with-text>
+    <shape-with-text id="5:764" x="490" y="1441" width="520" height="564" name="ROUNDED_RECTANGLE">HT1 · Hip osteoarthritis check (JOSPT hip osteoarthritis guideline, Cibulka 2017; revised 2025)
+Typical: age 50+; moderate groin, front or side hip pain with weight-bearing; morning stiffness under 1 hour; trouble with socks, shoes, cross-legged sitting and squatting.
+Key sign — internal rotation (hip and knee bent 90°, swing the foot outward so the hip turns inward): less than 24°, OR internal rotation and bending both 15° less than the other side, and/or pain on passive internal rotation.
+Extra confidence — Sutlive cluster (count 5): 1) squatting aggravates; 2) active hip bending causes side-hip pain; 3) the scour test with adduction causes side-hip or groin pain; 4) active hip extension (leg backward) is painful; 5) passive internal rotation 25° or less. 4 of 5 → LR+ 24.3, probability of osteoarthritis about 91% (Sutlive 2008; small study, not yet validated).
+ACR clinical criteria: sensitivity 86%, specificity 75% (Altman 1991).
+WHO: physio-level (rotation); anyone trained (history)</shape-with-text>
+    <shape-with-text id="5:752" x="610" y="1241" width="280" height="130" name="ROUNDED_RECTANGLE">50 or older (from 45 if the pattern is typical)</shape-with-text>
+    <shape-with-text id="5:812" x="1330" y="2199" width="520" height="725" name="ROUNDED_RECTANGLE">HD2 · WORKING DIAGNOSIS: Hip-related pain — FAI syndrome, hip dysplasia or labral tear (Zurich consensus, Reiman 2020)
+WHAT IT IS: in young and middle-aged active adults: FAI (femoroacetabular impingement — extra bone on the ball or socket pinches during deep bending), dysplasia (a shallow socket), or a tear of the labrum (the cartilage rim of the socket).
+CONFIRM: groin pain with long sitting, deep squats, getting in and out of vehicles, or pivoting; clicking or catching; positive FADIR. FADIR catches 96–99% of cases but is also positive in many people without the problem — a NEGATIVE test helps rule it out; a positive test doesn’t confirm it (Reiman 2015). The subtype cannot be known without imaging, and the exercise approach is shared.
+NEXT STEP: physio-led care: activity modification + exercise (guideline grade B), movement-pattern training and education (grade C) (JOSPT, Enseki 2023). Hip and trunk strength from isometric to heavy; practise squats, stairs and vehicle transfers.
+AVOID EARLY: repeated deep bending with rotation (deep squats, long cross-legged sitting) while irritable — this collides with floor sitting and squatting toilets, so plan around it.
+REFER (X-ray, orthopaedic opinion) IF: no progress by about 12 weeks.
+STAGE 3 ADD-ON: young-hip module.</shape-with-text>
+    <shape-with-text id="5:788" x="1450" y="1999" width="280" height="130" name="ROUNDED_RECTANGLE">A) FADIR reproduces their groin pain</shape-with-text>
+    <shape-with-text id="5:816" x="1900" y="2199" width="520" height="419" name="ROUNDED_RECTANGLE">HD3 · WORKING DIAGNOSIS: Adductor-related groin pain
+WHAT IT IS: an overloaded inner-thigh (adductor) tendon where it attaches near the pubic bone; very common in kicking and cutting sports (football, kabaddi, cricket).
+CONFIRM (Doha): tender adductor tendon + pain on resisted squeeze.
+NEXT STEP: adductor isometrics (squeeze holds), then progressive strengthening such as side-lying and Copenhagen-style adduction; hip and trunk strength; graded return to sprinting, kicking and change of direction.
+AVOID: full kicking and sprinting while the squeeze test is painful.
+STAGE 3 ADD-ON: groin module.</shape-with-text>
+    <shape-with-text id="5:792" x="2020" y="1999" width="280" height="130" name="ROUNDED_RECTANGLE">B) Squeeze or adductor tendon</shape-with-text>
+    <shape-with-text id="5:820" x="2470" y="2199" width="520" height="350" name="ROUNDED_RECTANGLE">HD4 · WORKING DIAGNOSIS: Iliopsoas-related groin pain
+WHAT IT IS: an overloaded deep hip-flexor muscle (iliopsoas) at the front of the groin, from kicking, sprinting or repeated hip bending.
+CONFIRM (Doha): tender iliopsoas + pain on resisted hip bending and/or stretch.
+NEXT STEP: hip-flexor isometrics, then progressive strengthening; trunk and hip strength.
+AVOID: aggressive hip-flexor stretching while irritable.
+STAGE 3 ADD-ON: groin module.</shape-with-text>
+    <shape-with-text id="5:796" x="2590" y="1999" width="280" height="130" name="ROUNDED_RECTANGLE">C) Resisted hip bending or stretch</shape-with-text>
+    <shape-with-text id="5:824" x="3040" y="2199" width="520" height="396" name="ROUNDED_RECTANGLE">HD5 · WORKING DIAGNOSIS: Inguinal-related groin pain
+WHAT IT IS: pain at the inguinal canal (the passage just above the groin crease), with no hernia.
+CONFIRM (Doha): pain and tenderness at the inguinal canal, no palpable hernia, worse with resisted sit-ups, coughing or straining.
+NEXT STEP: graded trunk (abdominal) and hip strengthening.
+AVOID: heavy straining while painful.
+REFER IF: a bulge appears (surgical referral; sometimes an ultrasound is needed to tell the difference).
+STAGE 3 ADD-ON: groin module.</shape-with-text>
+    <shape-with-text id="5:800" x="3160" y="1999" width="280" height="130" name="ROUNDED_RECTANGLE">D) Sit-up, cough or inguinal canal — no lump</shape-with-text>
+    <shape-with-text id="5:804" x="3610" y="1999" width="280" height="153" name="ROUNDED_RECTANGLE">D) A lump that bulges on coughing → hernia, back to H9</shape-with-text>
+    <shape-with-text id="5:828" x="3940" y="2176" width="520" height="373" name="ROUNDED_RECTANGLE">HD6 · WORKING DIAGNOSIS: Pubic-related groin pain
+WHAT IT IS: irritation of the pubic joint at the front of the pelvis; sometimes after pregnancy, more often in kicking and running sports.
+CONFIRM (Doha): local tenderness of the pubic symphysis and the bone right beside it.
+NEXT STEP: graded loading as for adductor-related pain (HD3).
+REFER IF: hopping is painful — a bone stress injury needs imaging (H4).
+STAGE 3 ADD-ON: groin module.</shape-with-text>
+    <shape-with-text id="5:808" x="4060" y="1999" width="280" height="107" name="ROUNDED_RECTANGLE">E) Pubic bone tender</shape-with-text>
+    <shape-with-text id="5:784" x="2635" y="1441" width="520" height="488" name="ROUNDED_RECTANGLE">HT2 · Groin test set for active people (Doha agreement, Weir 2015)
+Do each and note which one reproduces their FAMILIAR pain — more than one can be positive:
+A) FADIR — hip bent to 90°, moved across the body (adduction) and turned inward (internal rotation).
+B) Adductor squeeze — squeeze a fist or ball between the knees; press the inner-thigh tendon near the pubic bone.
+C) Hip-flexor tests — resist lifting the knee while seated; stretch the front of the hip lying at the edge of a bed (Thomas test position); press just below the groin crease.
+D) Abdominal tests — resisted sit-up and a cough; press over the inguinal canal (just above the groin crease) and feel for a lump.
+E) Pubic bone — press directly on the joint at the front midline of the pelvis (pubic symphysis).
+WHO: physio-level</shape-with-text>
+    <shape-with-text id="5:756" x="2755" y="1241" width="280" height="130" name="ROUNDED_RECTANGLE">16–49 and active (sport, heavy work)</shape-with-text>
+    <shape-with-text id="5:760" x="4510" y="1241" width="280" height="130" name="ROUNDED_RECTANGLE">Under 16 → back to H3 (child with a limp)</shape-with-text>
+    <shape-with-text id="5:748" x="2460" y="966" width="480" height="205" name="ROUNDED_RECTANGLE">HQ2 · How old, and how active?
+WHY: hip osteoarthritis is the main cause of groin pain in older adults; in younger active adults, the shape of the hip joint and the groin muscles are more likely causes.</shape-with-text>
+    <shape-with-text id="5:732" x="2560" y="766" width="280" height="130" name="ROUNDED_RECTANGLE">Groin or front of the hip (or the C-sign)</shape-with-text>
+    <shape-with-text id="5:848" x="4840" y="1754" width="520" height="541" name="ROUNDED_RECTANGLE">HD7 · WORKING DIAGNOSIS: Gluteal tendinopathy (side-of-hip pain; often called “trochanteric bursitis”)
+WHAT IT IS: the tendons of the buttock muscles that attach to the bony point on the side of the hip are overloaded and compressed.
+NEXT STEP: education on load + progressive abductor exercise. In the LEAP trial this beat a steroid injection and “wait and see” at 8 weeks, with better overall improvement than injection at 1 year (Mellor 2018).
+• Avoid compressing the tendon: no crossing the legs, hanging on one hip, lying on the painful side without a pillow, or very low seats; a pillow between the knees when side-lying.
+• Isometric side holds for pain relief → bridges, step-ups, single-leg work.
+AVOID: stretches across the side of the hip (they compress the tendon); steroid injection as the first plan; complete rest.
+STAGE 3 ADD-ON: side-of-hip module.</shape-with-text>
+    <shape-with-text id="5:836" x="4960" y="1531" width="280" height="153" name="ROUNDED_RECTANGLE">Tender AND pain on single-leg stance (or another loading test)</shape-with-text>
+    <shape-with-text id="5:840" x="5410" y="1531" width="280" height="176" name="ROUNDED_RECTANGLE">Not tender on the bony point → check the hip joint (HT1) and the back (H10)</shape-with-text>
+    <shape-with-text id="5:844" x="5740" y="1531" width="280" height="153" name="ROUNDED_RECTANGLE">Burning or numbness rather than tenderness → HD8</shape-with-text>
+    <shape-with-text id="5:832" x="5230" y="966" width="520" height="495" name="ROUNDED_RECTANGLE">HT3 · Side-of-hip check (gluteal tendinopathy — Grimaldi 2017, 65 patients compared with MRI)
+1. Press the bony point on the side of the hip (greater trochanter). NOT tender → gluteal tendinopathy is unlikely (palpation sensitivity 80%).
+2. Single-leg stance 30 s: side-on to a wall, one fingertip on the wall, stand on the painful leg for up to 30 seconds. Side-hip pain within 30 s → very likely (specificity 100%, LR+ about 12; small study).
+3. Physio add-ons: FADER (hip bent, moved across the body and turned OUTWARD) and passive adduction lying on the side — specificity about 87% each.
+HISTORY: can’t lie on that side at night; stairs, standing on one leg, crossing the legs and low seats hurt; more common in women from middle age.
+WHO: anyone trained (steps 1–2); physio-level (step 3)</shape-with-text>
+    <shape-with-text id="5:736" x="5350" y="766" width="280" height="130" name="ROUNDED_RECTANGLE">Side of the hip, over the bony point</shape-with-text>
+    <shape-with-text id="5:888" x="6070" y="2160" width="520" height="373" name="ROUNDED_RECTANGLE">HD9 · WORKING DIAGNOSIS: Hamstring strain injury
+WHAT IT IS: a tear in the muscle at the back of the thigh, usually from sprinting or over-stretching.
+NEXT STEP — staged loading: early pain-free isometrics and walking → progressive strengthening including slow lengthening (eccentric) work, with Nordic-type exercises later → graded running up to sprinting. Return when strength and range are close to the other side (Martin 2022).
+AVOID: aggressive stretching early; sprinting before strength and range have recovered.
+STAGE 3 ADD-ON: hamstring module.</shape-with-text>
+    <shape-with-text id="5:880" x="6190" y="1960" width="280" height="130" name="ROUNDED_RECTANGLE">Tender muscle + pain on resisted testing</shape-with-text>
+    <shape-with-text id="5:884" x="6640" y="1960" width="280" height="130" name="ROUNDED_RECTANGLE">Gap or big bruise at the sitting bone → back to H11</shape-with-text>
+    <shape-with-text id="5:876" x="6295" y="1517" width="520" height="373" name="ROUNDED_RECTANGLE">HT4 · Hamstring strain check (JOSPT hamstring guideline, Martin 2022)
+• Find the sorest point and how far the tenderness spreads.
+• Lying face down, resist knee bending at 90° and at 15° — pain and weakness?
+• Active knee extension range: lying, hip held at 90°, straighten the knee; compare sides (used to track recovery).
+POSITIVE IF: tender muscle + pain and weakness on resisted testing.
+DANGER SIGN: a gap or big bruise at the sitting bone after a slip into the splits → H11.
+WHO: physio-level</shape-with-text>
+    <shape-with-text id="5:860" x="6415" y="1271" width="280" height="176" name="ROUNDED_RECTANGLE">Sudden pain at the back of the thigh while sprinting, kicking or over-stretching</shape-with-text>
+    <shape-with-text id="5:892" x="6970" y="1517" width="520" height="419" name="ROUNDED_RECTANGLE">HD10 · WORKING DIAGNOSIS: Proximal hamstring tendinopathy
+WHAT IT IS: the hamstring tendon is irritated where it attaches to the sitting bone.
+CONFIRM: pressing the sitting bone (side-lying, hip bent) reproduces the pain; lying with hip and knee bent, straightening the knee hurts at the sitting bone.
+NEXT STEP: tendon loading without compression in deep hip bending — isometric bridge holds, then progress from shallow to deeper hip bending; a cushion on hard seats (consensus).
+AVOID EARLY: deep hamstring stretches and long sitting on hard surfaces.
+STAGE 3 ADD-ON: hamstring module.</shape-with-text>
+    <shape-with-text id="5:864" x="7090" y="1271" width="280" height="176" name="ROUNDED_RECTANGLE">Deep pain right at the sitting bone; worse on hard seats, uphill or bending forward</shape-with-text>
+    <shape-with-text id="5:908" x="7540" y="2121" width="440" height="212" name="ROUNDED_RECTANGLE">HX1 · SACROILIAC JOINT PAIN → LOW-BACK PATHWAY
+Manage with lumbopelvic and hip strengthening and graded activity; a pelvic belt short-term for pregnancy-related pain. Don’t label it as hip pain.</shape-with-text>
+    <shape-with-text id="5:900" x="7620" y="1944" width="280" height="107" name="ROUNDED_RECTANGLE">3 or more of 6 positive</shape-with-text>
+    <shape-with-text id="5:904" x="8030" y="1944" width="280" height="130" name="ROUNDED_RECTANGLE">0–2 positive → deep gluteal (HD11)</shape-with-text>
+    <shape-with-text id="5:896" x="7705" y="1494" width="520" height="380" name="ROUNDED_RECTANGLE">HT5 · Sacroiliac joint check (the joint between the base of the spine and the pelvis) — Laslett cluster
+Six pain-provocation tests: distraction, thigh thrust, compression, sacral thrust, and Gaenslen’s test on each side. Count those that reproduce the familiar pain.
+EVIDENCE: 3 or more of 6 positive: sensitivity 94%, specificity 78%. If ALL are negative, the sacroiliac joint can be ruled out (Laslett 2005; compared with diagnostic injections).
+RUN ONLY AFTER the back screen (H10).
+WHO: physio-level</shape-with-text>
+    <shape-with-text id="5:868" x="7825" y="1271" width="280" height="153" name="ROUNDED_RECTANGLE">Below the dimples of the low back; after pregnancy or a fall onto the buttock</shape-with-text>
+    <shape-with-text id="5:912" x="8360" y="1540" width="520" height="419" name="ROUNDED_RECTANGLE">HD11 · WORKING DIAGNOSIS: Deep gluteal syndrome (includes “piriformis syndrome”)
+WHAT IT IS: irritation of the sciatic nerve deep in the buttock.
+CONFIRM: tender deep in the buttock; a seated stretch with the hip bent, crossed and turned inward reproduces buttock or sciatica-like pain — AND spine, sacroiliac joint and hamstring have been cleared. A diagnosis of exclusion; low certainty without imaging or nerve studies.
+NEXT STEP: cautious hip strengthening (outward rotators, abductors), sitting breaks and a softer seat (consensus).
+AVOID: forceful stretches that bring on nerve symptoms.
+WATCH: re-test at week 4; worsening nerve signs → doctor.
+STAGE 3 ADD-ON: hamstring module.</shape-with-text>
+    <shape-with-text id="5:872" x="8480" y="1271" width="280" height="199" name="ROUNDED_RECTANGLE">Deep buttock pain with sitting, sometimes sciatica-like, and everything else is negative</shape-with-text>
+    <shape-with-text id="5:856" x="7348" y="966" width="480" height="235" name="ROUNDED_RECTANGLE">HQ3 · Buttock or back-of-thigh pain: how did it start, and where exactly?
+FIRST: the back must already be cleared (H10) — the spine is a common source of buttock pain.
+ASK: “Show me the exact spot. What were you doing when it started?”</shape-with-text>
+    <shape-with-text id="5:740" x="7448" y="766" width="280" height="130" name="ROUNDED_RECTANGLE">Buttock, or the back of the upper thigh</shape-with-text>
+    <shape-with-text id="5:852" x="8930" y="989" width="520" height="426" name="ROUNDED_RECTANGLE">HD8 · WORKING DIAGNOSIS: Meralgia paresthetica (squeezed skin nerve of the thigh)
+WHAT IT IS: the lateral femoral cutaneous nerve — a skin-sensation nerve — is pinched where it passes the front of the pelvic bone. Causes: tight belts, tool belts, waist-tied saris or dhotis, pregnancy, weight change, diabetes.
+CONFIRM: a patch of burning, tingling or numbness on the outer-front thigh, with NORMAL strength (light-touch map compared with the other side).
+NEXT STEP: loosen belts and waistbands; explain it is a nerve, not the joint. Not an exercise condition (consensus).
+REFER IF: any weakness, or it spreads → back problem (H10) or doctor.</shape-with-text>
+    <shape-with-text id="5:744" x="9050" y="766" width="280" height="153" name="ROUNDED_RECTANGLE">Outer-front thigh: a burning, tingling or numb patch</shape-with-text>
+    <shape-with-text id="5:728" x="5705" y="491" width="480" height="205" name="ROUNDED_RECTANGLE">HQ1 · Where does it hurt?
+ASK: “Point with one finger to the sorest spot.”
+WATCH: a hand cupped around the side of the hip (the “C-sign”) usually means pain from deep inside the hip joint, even though the hand is on the side.</shape-with-text>
+  </section>
+  <connector id="36:2909" x="14568" y="12600" connectorStart="5:828" connectorStartCap="NONE" connectorEnd="36:2801" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2905" x="14568" y="12646" connectorStart="5:824" connectorStartCap="NONE" connectorEnd="36:2801" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2901" x="14568" y="12600" connectorStart="5:820" connectorStartCap="NONE" connectorEnd="36:2801" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2897" x="14568" y="12669" connectorStart="5:816" connectorStartCap="NONE" connectorEnd="36:2801" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2889" x="13688" y="12584" connectorStart="5:888" connectorStartCap="NONE" connectorEnd="36:2787" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2877" x="14568" y="12975" connectorStart="5:812" connectorStartCap="NONE" connectorEnd="34:2756" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2853" x="12808" y="12860" connectorStart="5:780" connectorStartCap="NONE" connectorEnd="34:2726" connectorEndCap="ARROW_LINES"></connector>
+  <section id="7:540" name="Hip · Stage 1 · Safety screen" x="20345" y="3021" width="2040" height="6912">
+    <connector id="8:786" x="1077" y="6539" connectorStart="5:707" connectorStartCap="NONE" connectorEnd="5:715" connectorEndCap="ARROW_LINES">H12&amp;gt;HPASS</connector>
+    <connector id="8:782" x="1406" y="6359.5" connectorStart="5:707" connectorStartCap="NONE" connectorEnd="5:711" connectorEndCap="ARROW_LINES">H12&amp;gt;H12Y</connector>
+    <connector id="8:778" x="1077" y="6145" connectorStart="5:699" connectorStartCap="NONE" connectorEnd="5:707" connectorEndCap="ARROW_LINES">H11&amp;gt;H12</connector>
+    <connector id="8:774" x="1406" y="5931" connectorStart="5:699" connectorStartCap="NONE" connectorEnd="5:703" connectorEndCap="ARROW_LINES">H11&amp;gt;H11Y</connector>
+    <connector id="8:770" x="1077" y="5682" connectorStart="5:691" connectorStartCap="NONE" connectorEnd="5:699" connectorEndCap="ARROW_LINES">H10&amp;gt;H11</connector>
+    <connector id="8:766" x="1406" y="5472" connectorStart="5:691" connectorStartCap="NONE" connectorEnd="5:695" connectorEndCap="ARROW_LINES">H10&amp;gt;H10Y</connector>
+    <connector id="8:762" x="1077" y="5226" connectorStart="5:683" connectorStartCap="NONE" connectorEnd="5:691" connectorEndCap="ARROW_LINES">H9&amp;gt;H10</connector>
+    <connector id="8:758" x="1406" y="5016" connectorStart="5:683" connectorStartCap="NONE" connectorEnd="5:687" connectorEndCap="ARROW_LINES">H9&amp;gt;H9Y</connector>
+    <connector id="8:754" x="1077" y="4770" connectorStart="5:675" connectorStartCap="NONE" connectorEnd="5:683" connectorEndCap="ARROW_LINES">H8&amp;gt;H9</connector>
+    <connector id="8:750" x="1406" y="4583" connectorStart="5:675" connectorStartCap="NONE" connectorEnd="5:679" connectorEndCap="ARROW_LINES">H8&amp;gt;H8Y</connector>
+    <connector id="8:746" x="1077" y="4360" connectorStart="5:667" connectorStartCap="NONE" connectorEnd="5:675" connectorEndCap="ARROW_LINES">H7&amp;gt;H8</connector>
+    <connector id="8:742" x="1406" y="4100.5" connectorStart="5:667" connectorStartCap="NONE" connectorEnd="5:671" connectorEndCap="ARROW_LINES">H7&amp;gt;H7Y</connector>
+    <connector id="8:738" x="1077" y="3805" connectorStart="5:659" connectorStartCap="NONE" connectorEnd="5:667" connectorEndCap="ARROW_LINES">H6&amp;gt;H7</connector>
+    <connector id="8:734" x="1406" y="3618" connectorStart="5:659" connectorStartCap="NONE" connectorEnd="5:663" connectorEndCap="ARROW_LINES">H6&amp;gt;H6Y</connector>
+    <connector id="8:730" x="1077" y="3395" connectorStart="5:651" connectorStartCap="NONE" connectorEnd="5:659" connectorEndCap="ARROW_LINES">H5&amp;gt;H6</connector>
+    <connector id="8:726" x="1406" y="3169.5" connectorStart="5:651" connectorStartCap="NONE" connectorEnd="5:655" connectorEndCap="ARROW_LINES">H5&amp;gt;H5Y</connector>
+    <connector id="8:722" x="1077" y="2909" connectorStart="5:643" connectorStartCap="NONE" connectorEnd="5:651" connectorEndCap="ARROW_LINES">H4&amp;gt;H5</connector>
+    <connector id="8:718" x="1406" y="2630" connectorStart="5:643" connectorStartCap="NONE" connectorEnd="5:647" connectorEndCap="ARROW_LINES">H4&amp;gt;H4Y</connector>
+    <connector id="8:714" x="1077" y="2315" connectorStart="5:635" connectorStartCap="NONE" connectorEnd="5:643" connectorEndCap="ARROW_LINES">H3&amp;gt;H4</connector>
+    <connector id="8:710" x="1406" y="2059" connectorStart="5:635" connectorStartCap="NONE" connectorEnd="5:639" connectorEndCap="ARROW_LINES">H3&amp;gt;H3Y</connector>
+    <connector id="8:706" x="1077" y="1767" connectorStart="5:627" connectorStartCap="NONE" connectorEnd="5:635" connectorEndCap="ARROW_LINES">H2&amp;gt;H3</connector>
+    <connector id="8:702" x="1406" y="1487.5" connectorStart="5:627" connectorStartCap="NONE" connectorEnd="5:631" connectorEndCap="ARROW_LINES">H2&amp;gt;H2Y</connector>
+    <connector id="8:698" x="1077" y="1173" connectorStart="5:619" connectorStartCap="NONE" connectorEnd="5:627" connectorEndCap="ARROW_LINES">H1&amp;gt;H2</connector>
+    <connector id="8:694" x="1406" y="916.5" connectorStart="5:619" connectorStartCap="NONE" connectorEnd="5:623" connectorEndCap="ARROW_LINES">H1&amp;gt;H1Y</connector>
+    <connector id="8:690" x="1100" y="615" connectorStart="5:615" connectorStartCap="NONE" connectorEnd="5:619" connectorEndCap="ARROW_LINES">HS1&amp;gt;H1</connector>
+    <connector id="8:686" x="1100" y="313" connectorStart="3:109" connectorStartCap="NONE" connectorEnd="5:615" connectorEndCap="ARROW_LINES">G-HIP&amp;gt;HS1</connector>
+    <shape-with-text id="3:109" x="550" y="130" width="1100" height="177" name="ROUNDED_RECTANGLE">HIP PATHWAY
+Stage 1 safety screen (12 checks) → Stage 2 which hip problem is it (12 working diagnoses) → Stage 3 measure, dose the exercise, re-test.</shape-with-text>
+    <shape-with-text id="5:615" x="550" y="387" width="1100" height="222" name="ROUNDED_RECTANGLE">STAGE 1 — SAFETY SCREEN: Is this hip pain safe to treat with exercise?
+“Hip pain” can come from the joint, the tendons around it, the spine, the pelvis or the abdomen. Ask the 12 checks in order, most time-critical first. Any YES stops the pathway and names the action. All NO → Stage 2.</shape-with-text>
+    <shape-with-text id="5:619" x="800" y="709" width="600" height="458" name="ROUNDED_RECTANGLE">H1 · Possible hip fracture
+ASK: Did you fall or hurt the hip? Can you stand and walk on it? Older adult, thin bones (osteoporosis), long-term steroid use?
+CHECK:
+• Lying on the back, compare the legs — is the painful leg shorter and turned outward?
+• Lift the straight leg (active straight-leg raise); gently roll the straight leg in and out (log roll) — groin pain?
+• Patellar-pubic percussion: stethoscope on the pubic bone; tap each kneecap in turn and compare the sound — duller on the painful side = positive. For fractures hidden on the first X-ray: sensitivity 96%, specificity 86% (Tiru 2002, as reported in a 2013 review); a later study found 85% / 70%.
+NOTE: a patient who can walk can still have a non-displaced fracture.
+WHO: anyone trained; basic kit (stethoscope)
+Fall + groin pain + any positive sign?</shape-with-text>
+    <shape-with-text id="5:623" x="1540" y="847" width="400" height="182" name="ROUNDED_RECTANGLE">EMERGENCY
+No weight-bearing; same-day transfer for an X-ray. Treat as a fracture until the X-ray says otherwise.</shape-with-text>
+    <shape-with-text id="5:627" x="800" y="1257" width="600" height="504" name="ROUNDED_RECTANGLE">H2 · Hot, irritable hip — possible joint infection
+ASK: Fever, chills, feeling unwell? Can you put weight on it? Does ANY movement hurt? Recent infection, injection, diabetes or a weak immune system?
+CHECK: temperature; how they hold the leg at rest; very gently roll the leg.
+POSITIVE IF: fever; leg held bent and turned out; any rotation is very painful; won’t bear weight.
+EVIDENCE (children): Kocher criteria — refuses to bear weight, fever above 38.5 °C, raised ESR (erythrocyte sedimentation rate) and white cell count on blood tests. With 0 / 1 / 2 / 3 / 4 present, the chance of infection is 0.2% / 3% / 40% / 93% / 99.6% (Kocher 1999). Without blood tests, fever + refusing to bear weight already scores 2 of 4.
+ADULTS: treat as infected until proven otherwise; fever is absent in about 4 in 10 (Margaretten 2007). A psoas abscess (pus in the deep hip-flexor muscle; fever, hip held bent, TB risk) looks similar.
+WHO: basic kit (thermometer)
+Any sign present?</shape-with-text>
+    <shape-with-text id="5:631" x="1540" y="1418" width="400" height="182" name="ROUNDED_RECTANGLE">EMERGENCY — SAME DAY
+Doctor or emergency department for blood tests and drawing fluid from the joint. No exercise.</shape-with-text>
+    <shape-with-text id="5:635" x="800" y="1851" width="600" height="458" name="ROUNDED_RECTANGLE">H3 · Child or teenager with a limp
+ASK: How old? How long has the limp been there? Fever (→ H2)? Overweight, or in a growth spurt? Pain in the groin, thigh OR knee?
+CHECK:
+• Drehmann sign: lying down, bend the hip to 90° — does the leg swing outward by itself?
+• Internal rotation: hip and knee bent 90°, swing the foot outward so the hip turns inward; compare sides — clearly limited or painful?
+RULE: an older child or teenager with a limp and limited inward rotation = slipped capital femoral epiphysis (the ball of the hip slipping at the growth plate) until an X-ray says otherwise — about 15% present with knee or thigh pain only (Peck 2017). A younger child with a limp: Perthes disease (loss of blood supply to the ball of the hip) is possible. A toddler, or any fever: go to H2.
+WHO: physio-level (hip rotation); anyone trained (history)
+Any of these?</shape-with-text>
+    <shape-with-text id="5:639" x="1540" y="2001" width="400" height="159" name="ROUNDED_RECTANGLE">EMERGENCY — SAME DAY
+Stop weight-bearing (crutches), orthopaedics and a hip X-ray today.</shape-with-text>
+    <shape-with-text id="5:643" x="800" y="2399" width="600" height="504" name="ROUNDED_RECTANGLE">H4 · Stress fracture of the hip (femoral neck)
+ASK: A recent jump in running, marching, walking distance or heavy labour? Deep groin or thigh pain with weight-bearing that comes on earlier each session — now even when walking? For women: missed periods or low food intake? A past stress fracture?
+CHECK:
+• Single-leg hop on the painful leg — sharp groin pain? (stop at the first hop that hurts)
+• Fulcrum test: seated; the examiner’s forearm under the middle of the thigh as a lever; press down on the knee — sharp pain or apprehension. Sensitivity 88–93%, specificity 13–75% (small studies, secondary source).
+• Patellar-pubic percussion as in H1.
+NOTE: suspicion alone is enough to stop impact loading. Early X-rays are often normal, and fractures on the upper side of the femoral neck can displace.
+WHO: physio-level; anyone trained (history)
+Suspected?</shape-with-text>
+    <shape-with-text id="5:647" x="1540" y="2557" width="400" height="189" name="ROUNDED_RECTANGLE">EMERGENCY — STOP IMPACT NOW
+No running or impact, crutches, same-day or next-day doctor for imaging.</shape-with-text>
+    <shape-with-text id="5:651" x="800" y="2993" width="600" height="396" name="ROUNDED_RECTANGLE">H5 · Possible avascular necrosis (bone death in the ball of the hip)
+ASK: Long courses of steroids (tablets or injections)? Heavy alcohol use? Sickle cell disease, HIV, or a past hip fracture or dislocation? Is the deep groin pain getting worse, now even at rest?
+CHECK: inward rotation of the hip (as in H3) — painful and limited in someone younger than is typical for arthritis?
+NOTE: a younger patient with arthritis-like signs plus a risk factor needs imaging — early collapse of the bone changes management. Consensus; no bedside accuracy study. Check local sickle cell prevalence.
+WHO: anyone trained (history); physio-level (rotation)
+Risk factor + worsening deep groin pain?</shape-with-text>
+    <shape-with-text id="5:655" x="1540" y="3100" width="400" height="182" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Doctor for an X-ray (and MRI if the X-ray is normal). Crutches to protect the hip meanwhile.</shape-with-text>
+    <shape-with-text id="5:659" x="800" y="3479" width="600" height="320" name="ROUNDED_RECTANGLE">H6 · Possible tumour, or cancer spread to bone
+ASK: History of cancer (breast, prostate, lung, kidney and thyroid cancers often spread to bone)? Unexplained weight loss? Constant pain, worse at night and at rest, not changed by position?
+NOTE: night pain ALONE is common in hip osteoarthritis. Escalate when night pain comes WITH constant pain, weight loss or a cancer history.
+TEAM DATA: in the NAS records, night-pain patients were referred less often than average (4.7% vs 8.7%).
+WHO: anyone trained
+Night or constant pain PLUS a warning sign?</shape-with-text>
+    <shape-with-text id="5:663" x="1540" y="3560" width="400" height="159" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Doctor for an X-ray and blood tests before any loading exercise.</shape-with-text>
+    <shape-with-text id="5:667" x="800" y="3889" width="600" height="465" name="ROUNDED_RECTANGLE">H7 · Whole-body (inflammatory) or post-viral arthritis
+ASK: Morning stiffness over 60 minutes? Back or buttock pain that started before age 45, eases with exercise and wakes you in the second half of the night (inflammatory back pain)? Other swollen joints, psoriasis, bowel disease, a red painful eye? A high fever with rash before the joint pain (chikungunya)?
+CHECK: count swollen joints — hands, wrists, knees, ankles, feet.
+POSITIVE IF: 3 or more swollen joints, small-joint swelling, or an inflammatory back-pain pattern.
+NOTE: axial spondyloarthritis (inflammatory arthritis of the spine and pelvis) often shows up as buttock or hip pain in young adults. About 25% of chikungunya cases develop long-lasting inflammatory joint disease (Rodriguez-Morales 2016).
+WHO: anyone trained
+Inflammatory pattern present?</shape-with-text>
+    <shape-with-text id="5:671" x="1540" y="4031" width="400" height="182" name="ROUNDED_RECTANGLE">REFER — WITHIN WEEKS
+Doctor or rheumatologist. Medicines first; exercise alongside once treatment has started.</shape-with-text>
+    <shape-with-text id="5:675" x="800" y="4444" width="600" height="320" name="ROUNDED_RECTANGLE">H8 · Possible tuberculosis (TB) of the hip
+ASK: A limp for weeks or months? Night sweats, cough, weight loss, TB contact, HIV or diabetes?
+CHECK: compare thigh and buttock size (wasting); is movement painful and limited?
+NOTE: after the spine, the hip and knee are the commonest TB joints, mostly in younger people in TB-endemic areas (osteoarticular TB review, 2020).
+WHO: anyone trained
+Long-standing limp with TB features?</shape-with-text>
+    <shape-with-text id="5:679" x="1540" y="4525" width="400" height="159" name="ROUNDED_RECTANGLE">REFER
+Doctor for a TB work-up. Hold loading exercise until assessed.</shape-with-text>
+    <shape-with-text id="5:683" x="800" y="4854" width="600" height="366" name="ROUNDED_RECTANGLE">H9 · Not the hip: hernia, abdominal or pelvic organ
+ASK: A lump in the groin that gets bigger when coughing or standing? Pain passing urine, blood in the urine, or pain spreading from the loin to the groin? Pain linked to periods, vaginal discharge, or testicular pain? Abdominal pain, vomiting, or a change in bowel habit?
+CHECK: standing, look at the groin while they cough — a bulge or impulse? Then bend, rotate and load the hip — does that reproduce the pain?
+POSITIVE IF: a groin bulge, organ symptoms, or hip movement does NOT reproduce the pain.
+WHO: anyone trained
+Coming from somewhere else?</shape-with-text>
+    <shape-with-text id="5:687" x="1540" y="4935" width="400" height="205" name="ROUNDED_RECTANGLE">SWITCH PATHWAY
+Doctor for the abdominal, urinary or gynaecological cause. Hernia: routine surgical referral — urgent if painful and it won’t push back in.</shape-with-text>
+    <shape-with-text id="5:691" x="800" y="5310" width="600" height="366" name="ROUNDED_RECTANGLE">H10 · Pain coming from the lower back
+ASK: Does it start in the back? Does bending the back change it? Pain below the knee, numbness or tingling? NEW trouble controlling bladder or bowel, or numbness between the legs (saddle area)?
+CHECK: bend and arch the back; then, lying down, turn the hip in and out. Straight-leg raise (physio-level): lift the straight leg — leg pain below the knee?
+RULE: groin pain on hip rotation points to the hip; buttock pain on back movements points to the spine. Both can exist together (“hip-spine syndrome”) (Zurich consensus, Reiman 2020).
+WHO: anyone trained; physio-level (straight-leg raise)
+Back movements reproduce it, hip rotation doesn’t?</shape-with-text>
+    <shape-with-text id="5:695" x="1540" y="5391" width="400" height="205" name="ROUNDED_RECTANGLE">SWITCH PATHWAY
+Go to the low-back pathway. The sacroiliac joint (pelvis) is handled in Stage 2 (HT5).
+Bladder, bowel or saddle numbness → EMERGENCY, same day.</shape-with-text>
+    <shape-with-text id="5:699" x="800" y="5766" width="600" height="373" name="ROUNDED_RECTANGLE">H11 · Possible proximal hamstring avulsion (hamstring tendon torn off the sitting bone)
+ASK: Did you slip into the splits, or bend forward hard with the knee straight? A pop at the sitting bone, then a big bruise down the back of the thigh?
+CHECK: lying face down, feel just below the sitting bone (ischial tuberosity) for a gap; resist knee bending — marked weakness?
+NOTE: ordinary hamstring strains go to Stage 2. There is no consensus on surgery vs no surgery for complete avulsions, but the surgical option closes with time.
+WHO: physio-level
+Gap or marked weakness after that mechanism?</shape-with-text>
+    <shape-with-text id="5:703" x="1540" y="5873" width="400" height="159" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Orthopaedics for an opinion while surgery is still an option.</shape-with-text>
+    <shape-with-text id="5:707" x="800" y="6229" width="600" height="304" name="ROUNDED_RECTANGLE">H12 · Buttock or thigh cramp when walking — poor artery circulation
+ASK: Cramping after the same walking distance each time, easing within minutes of standing still? Smoker or diabetic?
+CHECK: groin (femoral) and foot pulses — weak or absent?
+NOTE: buttock cramp on walking suggests narrowing of the iliac artery (consensus).
+WHO: anyone trained; basic kit
+Walking-distance cramp with weak pulses?</shape-with-text>
+    <shape-with-text id="5:711" x="1540" y="6313" width="400" height="136" name="ROUNDED_RECTANGLE">REFER — ROUTINE
+Doctor for a circulation assessment.</shape-with-text>
+    <shape-with-text id="5:719" x="100" y="709" width="560" height="534" name="ROUNDED_RECTANGLE">SAFETY MODIFIERS — not stops; they change who signs off and how hard you start
+• Chest pain, breathlessness or fainting with effort → doctor before progressive exercise.
+• Blood pressure clearly uncontrolled → doctor sign-off (local cut-off).
+• Recent falls or poor balance → start with supported exercise and add a falls check (Timed Up-and-Go).
+• Osteoporosis risk (older women, long steroid use) → no high-impact work until assessed.
+
+CONTEXT TO RECORD (changes the plan)
+• Underweight is common here (median BMI 18.8 in the NAS data); weight-loss advice often doesn’t apply.
+• Cross-legged floor sitting, squatting toilets, rising from the floor and field work push the hip into deep bending and rotation. These define both the goals and the positions that may aggravate.
+• Fear of movement, low mood and poor sleep slow recovery; handle them in education.</shape-with-text>
+    <shape-with-text id="5:715" x="800" y="6623" width="600" height="189" name="ROUNDED_RECTANGLE">ALL 12 = NO → EXERCISE-RESPONSIVE (BY EXCLUSION)
+Go to Stage 2. Confirm the label by improvement at the week-4 re-test. If nothing improves, come back here — especially H4, H5 and H10.</shape-with-text>
+  </section>
+  <section id="7:539" name="Knee · Stage 3 · Measure, dose, re-test" x="7403" y="13769" width="2100" height="3631">
+    <connector id="8:1414" x="480" y="3258" connectorStart="5:603" connectorStartCap="NONE" connectorEnd="5:611" connectorEndCap="ARROW_LINES">KS3-6&amp;gt;KS3-6b</connector>
+    <connector id="8:1410" x="260" y="3258" connectorStart="5:603" connectorStartCap="NONE" connectorEnd="5:607" connectorEndCap="ARROW_LINES">KS3-6&amp;gt;KS3-6a</connector>
+    <connector id="8:1406" x="480" y="2986" connectorStart="5:595" connectorStartCap="NONE" connectorEnd="5:603" connectorEndCap="ARROW_LINES">KS3-UP&amp;gt;KS3-6</connector>
+    <connector id="8:1402" x="1080" y="2757" connectorStart="5:591" connectorStartCap="NONE" connectorEnd="5:599" connectorEndCap="ARROW_LINES">KS3-5b&amp;gt;KS3-NO</connector>
+    <connector id="8:1398" x="480" y="2757" connectorStart="5:587" connectorStartCap="NONE" connectorEnd="5:595" connectorEndCap="ARROW_LINES">KS3-5a&amp;gt;KS3-UP</connector>
+    <connector id="8:1394" x="780" y="2570" connectorStart="5:583" connectorStartCap="NONE" connectorEnd="5:591" connectorEndCap="ARROW_LINES">KS3-5&amp;gt;KS3-5b</connector>
+    <connector id="8:1390" x="480" y="2570" connectorStart="5:583" connectorStartCap="NONE" connectorEnd="5:587" connectorEndCap="ARROW_LINES">KS3-5&amp;gt;KS3-5a</connector>
+    <connector id="8:1382" x="560" y="2298" connectorStart="5:575" connectorStartCap="NONE" connectorEnd="5:583" connectorEndCap="ARROW_LINES">KS3-4a&amp;gt;KS3-5</connector>
+    <connector id="8:1386" x="780" y="2298" connectorStart="5:579" connectorStartCap="NONE" connectorEnd="5:583" connectorEndCap="ARROW_LINES">KS3-4b&amp;gt;KS3-5</connector>
+    <connector id="8:1378" x="780" y="2088" connectorStart="5:571" connectorStartCap="NONE" connectorEnd="5:579" connectorEndCap="ARROW_LINES">KS3-4&amp;gt;KS3-4b</connector>
+    <connector id="8:1374" x="560" y="2088" connectorStart="5:571" connectorStartCap="NONE" connectorEnd="5:575" connectorEndCap="ARROW_LINES">KS3-4&amp;gt;KS3-4a</connector>
+    <connector id="8:1370" x="780" y="1780" connectorStart="5:563" connectorStartCap="NONE" connectorEnd="5:571" connectorEndCap="ARROW_LINES">KS3-3&amp;gt;KS3-4</connector>
+    <connector id="8:1366" x="746" y="1518.5" connectorStart="5:559" connectorStartCap="NONE" connectorEnd="5:563" connectorEndCap="ARROW_LINES">KS3-2&amp;gt;KS3-3</connector>
+    <connector id="8:1338" x="340" y="1159" connectorStart="5:547" connectorStartCap="NONE" connectorEnd="5:559" connectorEndCap="ARROW_LINES">KS3-HI&amp;gt;KS3-2</connector>
+    <connector id="8:1350" x="420" y="1113" connectorStart="5:551" connectorStartCap="NONE" connectorEnd="5:559" connectorEndCap="ARROW_LINES">KS3-MD&amp;gt;KS3-2</connector>
+    <connector id="8:1362" x="420" y="1113" connectorStart="5:555" connectorStartCap="NONE" connectorEnd="5:559" connectorEndCap="ARROW_LINES">KS3-LO&amp;gt;KS3-2</connector>
+    <connector id="8:1358" x="1220" y="838" connectorStart="5:543" connectorStartCap="NONE" connectorEnd="5:555" connectorEndCap="ARROW_LINES">KS3-1c&amp;gt;KS3-LO</connector>
+    <connector id="8:1346" x="780" y="838" connectorStart="5:539" connectorStartCap="NONE" connectorEnd="5:551" connectorEndCap="ARROW_LINES">KS3-1b&amp;gt;KS3-MD</connector>
+    <connector id="8:1334" x="340" y="861" connectorStart="5:535" connectorStartCap="NONE" connectorEnd="5:547" connectorEndCap="ARROW_LINES">KS3-1a&amp;gt;KS3-HI</connector>
+    <connector id="8:1354" x="780" y="595" connectorStart="5:531" connectorStartCap="NONE" connectorEnd="5:543" connectorEndCap="ARROW_LINES">KS3-1&amp;gt;KS3-1c</connector>
+    <connector id="8:1342" x="780" y="595" connectorStart="5:531" connectorStartCap="NONE" connectorEnd="5:539" connectorEndCap="ARROW_LINES">KS3-1&amp;gt;KS3-1b</connector>
+    <connector id="8:1330" x="340" y="595" connectorStart="5:531" connectorStartCap="NONE" connectorEnd="5:535" connectorEndCap="ARROW_LINES">KS3-1&amp;gt;KS3-1a</connector>
+    <connector id="8:1326" x="780" y="313" connectorStart="5:527" connectorStartCap="NONE" connectorEnd="5:531" connectorEndCap="ARROW_LINES">KS3&amp;gt;KS3-1</connector>
+    <shape-with-text id="5:527" x="230" y="130" width="1100" height="177" name="ROUNDED_RECTANGLE">STAGE 3 — MEASURE, DOSE THE EXERCISE, RE-TEST
+Every working diagnosis from Stage 2 comes here. Everyone gets the same short core battery so results compare across patients and visits; the diagnosis adds one module; irritability (not the label) sets the starting dose.</shape-with-text>
+    <shape-with-text id="5:531" x="520" y="407" width="520" height="182" name="ROUNDED_RECTANGLE">KS3-1 · How irritable is the knee?
+ASK: “Tell me about your last bad flare. What sets the pain off, and how long does it take to settle?” Ask about the last 24 hours too.</shape-with-text>
+    <shape-with-text id="5:535" x="180" y="679" width="320" height="176" name="ROUNDED_RECTANGLE">HIGH: pain at rest or at night; flares with small movements; takes hours or until the next day to settle</shape-with-text>
+    <shape-with-text id="5:539" x="620" y="679" width="320" height="153" name="ROUNDED_RECTANGLE">MODERATE: pain with specific loads (stairs, squatting); settles within an hour or two</shape-with-text>
+    <shape-with-text id="5:543" x="1060" y="679" width="320" height="153" name="ROUNDED_RECTANGLE">LOW: pain only at high load or at the end of activity; settles within minutes</shape-with-text>
+    <shape-with-text id="5:547" x="160" y="925" width="360" height="228" name="ROUNDED_RECTANGLE">START GENTLE
+Isometric holds, pain-free range of motion, walking in short bouts, education. Baseline limited to pain, the Patient-Specific Functional Scale (PSFS) and range of motion.</shape-with-text>
+    <shape-with-text id="5:551" x="600" y="925" width="360" height="182" name="ROUNDED_RECTANGLE">START MODERATE
+Progressive strengthening and practice of real tasks within the pain rule. Full core battery.</shape-with-text>
+    <shape-with-text id="5:555" x="1040" y="925" width="360" height="182" name="ROUNDED_RECTANGLE">START STRONGER
+Heavier loading, single-leg work, and hopping or sport tasks where relevant. Full core battery.</shape-with-text>
+    <shape-with-text id="5:559" x="100" y="1263" width="640" height="550" name="ROUNDED_RECTANGLE">KS3-2 · CORE BASELINE BATTERY (about 10 minutes)
+Needs: a chair, a stopwatch, 10 m of floor, a step and a phone. Repeat the SAME set at week 0, 4 and 12.
+1. Pain 0–10 (faces version for low literacy): average and worst in the last week.
+2. Patient-Specific Functional Scale (PSFS): the patient names their 3 hardest tasks and rates each 0–10 — this becomes the goal list. Prompt with local tasks: floor sitting and rising, squatting toilet, stairs, kneeling for prayer, carrying water, field work.
+3. 30-second chair stand: fixed-height chair, arms crossed, count full stands in 30 s (leg strength).
+4. 40 m fast-paced walk: 4 × 10 m as fast as safely possible, timed.
+5. Stair climb: time up and down one flight (note the number of steps).
+6. Knee range of motion: phone inclinometer app or goniometer (angle ruler); heel-to-buttock distance if neither.
+7. Straight-leg raise: does the knee sag as the leg lifts (quadriceps lag)?
+8. Single-leg stance: up to 30 s each side (balance).
+9. Gait video: 10 s phone video from the front and side.
+Tests 3–5 are the core set recommended by OARSI, the Osteoarthritis Research Society International (Dobson 2013).</shape-with-text>
+    <shape-with-text id="5:563" x="820" y="1263" width="640" height="511" name="ROUNDED_RECTANGLE">KS3-3 · ADD-ON MODULE — pick the one that matches the working diagnosis
+Osteoarthritis module (KD8, KD12, KD13, KD15): KOOS-12 or WOMAC questionnaire (Knee injury and Osteoarthritis Outcome Score / Western Ontario and McMaster Universities Osteoarthritis Index — check for a validated Marathi or Hindi version); Timed Up-and-Go; optional 6-minute walk.
+Injury module (KD1–KD4): IKDC form (International Knee Documentation Committee) or KOOS; swelling check; quadriceps strength side to side (handheld dynamometer, or single-leg sit-to-stand count); hop tests once pain-free running is possible; ACL-RSI (fear of re-injury questionnaire).
+Kneecap module (KD5, KD9, KD11, KD16): Kujala Anterior Knee Pain Scale; step-down pain; hip abductor and extensor strength (side-lying hold time if no dynamometer).
+Tendon module (KD10): VISA-P (Victorian Institute of Sport Assessment — patellar tendon); single-leg decline squat pain 0–10.
+Growing-knee module (KD6): weekly activity log; kneeling and jumping pain 0–10.</shape-with-text>
+    <shape-with-text id="5:567" x="1540" y="1263" width="460" height="228" name="ROUNDED_RECTANGLE">PAIN RULE FOR HOME EXERCISE
+Pain up to about 5 out of 10 during exercise is acceptable if it has settled back to its usual level by the next morning. If not, hold or step down one level. Warn patients that pain may rise a little at first (NICE NG226).</shape-with-text>
+    <shape-with-text id="5:571" x="540" y="1923" width="480" height="159" name="ROUNDED_RECTANGLE">KS3-4 · WEEK 1 — dose check
+ASK: “Did the pain settle back to normal by the next morning after exercising?”</shape-with-text>
+    <shape-with-text id="5:575" x="420" y="2162" width="280" height="130" name="ROUNDED_RECTANGLE">Yes — keep the same level (don’t level up yet)</shape-with-text>
+    <shape-with-text id="5:579" x="860" y="2162" width="280" height="130" name="ROUNDED_RECTANGLE">No — hold or step down one level</shape-with-text>
+    <shape-with-text id="5:583" x="540" y="2382" width="480" height="182" name="ROUNDED_RECTANGLE">KS3-5 · WEEK 4 — first re-test
+Repeat the core battery on the same chair and the same 10 m. Is it improving? (PSFS scores, chair-stand count, pain)</shape-with-text>
+    <shape-with-text id="5:587" x="340" y="2644" width="280" height="107" name="ROUNDED_RECTANGLE">Improving</shape-with-text>
+    <shape-with-text id="5:591" x="940" y="2644" width="280" height="107" name="ROUNDED_RECTANGLE">Not improving</shape-with-text>
+    <shape-with-text id="5:595" x="280" y="2821" width="400" height="159" name="ROUNDED_RECTANGLE">LEVEL UP
+Add load, depth and single-leg work. Continue to week 12.</shape-with-text>
+    <shape-with-text id="5:599" x="860" y="2821" width="440" height="205" name="ROUNDED_RECTANGLE">RE-CHECK BEFORE CONTINUING
+Physio video exam; check the hip (K12); ask about widespread pain, poor sleep and low mood (pain sensitisation); doctor review; re-run the Stage 1 safety screen.</shape-with-text>
+    <shape-with-text id="5:603" x="240" y="3116" width="480" height="136" name="ROUNDED_RECTANGLE">KS3-6 · WEEK 12 — programme review
+Most change shows by now. Better?</shape-with-text>
+    <shape-with-text id="5:607" x="120" y="3332" width="280" height="153" name="ROUNDED_RECTANGLE">Yes — continue and move towards self-management</shape-with-text>
+    <shape-with-text id="5:611" x="540" y="3332" width="320" height="199" name="ROUNDED_RECTANGLE">Still no change after a real trial — revise the diagnosis or refer (guideline rule: rethink when symptoms don’t improve with treatment)</shape-with-text>
+  </section>
+  <connector id="36:2893" x="13688" y="11987" connectorStart="5:892" connectorStartCap="NONE" connectorEnd="36:2787" connectorEndCap="ARROW_LINES"></connector>
+  <section id="7:538" name="Knee · Stage 2 · Which knee problem" x="-100" y="10649" width="14900" height="2970">
+    <connector id="8:794" x="8283" y="313" connectorStart="5:174" connectorStartCap="NONE" connectorEnd="5:178" connectorEndCap="ARROW_LINES">KS2&amp;gt;KQ1</connector>
+    <connector id="8:802" x="2685" y="656" connectorStart="5:178" connectorStartCap="NONE" connectorEnd="5:182" connectorEndCap="ARROW_LINES">KQ1&amp;gt;KQ1a</connector>
+    <connector id="8:910" x="8283" y="656" connectorStart="5:178" connectorStartCap="NONE" connectorEnd="5:186" connectorEndCap="ARROW_LINES">KQ1&amp;gt;KQ1b</connector>
+    <connector id="8:1094" x="8283" y="656" connectorStart="5:178" connectorStartCap="NONE" connectorEnd="5:190" connectorEndCap="ARROW_LINES">KQ1&amp;gt;KQ1c</connector>
+    <connector id="8:1098" x="13880" y="879" connectorStart="5:190" connectorStartCap="NONE" connectorEnd="5:478" connectorEndCap="ARROW_LINES">KQ1c&amp;gt;KQ6</connector>
+    <connector id="8:1102" x="13170" y="1108" connectorStart="5:478" connectorStartCap="NONE" connectorEnd="5:482" connectorEndCap="ARROW_LINES">KQ6&amp;gt;KQ6a</connector>
+    <connector id="8:1118" x="13740" y="1108" connectorStart="5:478" connectorStartCap="NONE" connectorEnd="5:486" connectorEndCap="ARROW_LINES">KQ6&amp;gt;KQ6b</connector>
+    <connector id="8:1130" x="13880" y="1108" connectorStart="5:478" connectorStartCap="NONE" connectorEnd="5:490" connectorEndCap="ARROW_LINES">KQ6&amp;gt;KQ6c</connector>
+    <connector id="8:1134" x="13880" y="1108" connectorStart="5:478" connectorStartCap="NONE" connectorEnd="5:494" connectorEndCap="ARROW_LINES">KQ6&amp;gt;KQ6d</connector>
+    <connector id="8:1138" x="14590" y="1331" connectorStart="5:494" connectorStartCap="NONE" connectorEnd="5:518" connectorEndCap="ARROW_LINES">KQ6d&amp;gt;KN2</connector>
+    <connector id="8:1554" x="12596" y="1524" connectorStart="5:518" connectorStartCap="NONE" connectorEnd="5:338" connectorEndCap="ARROW_LINES">KN2&amp;gt;KT5</connector>
+    <connector id="8:1546" x="2221" y="1248.5" connectorStart="5:490" connectorStartCap="NONE" connectorEnd="5:238" connectorEndCap="ARROW_LINES">KQ6c&amp;gt;KT2</connector>
+    <connector id="8:1122" x="13740" y="1331" connectorStart="5:486" connectorStartCap="NONE" connectorEnd="5:510" connectorEndCap="ARROW_LINES">KQ6b&amp;gt;KT12</connector>
+    <connector id="8:1126" x="13740" y="1652" connectorStart="5:510" connectorStartCap="NONE" connectorEnd="5:514" connectorEndCap="ARROW_LINES">KT12&amp;gt;KT12a</connector>
+    <connector id="8:1550" x="626" y="1781" connectorStart="5:514" connectorStartCap="NONE" connectorEnd="5:278" connectorEndCap="ARROW_LINES">KT12a&amp;gt;KD1</connector>
+    <connector id="8:1106" x="13170" y="1331" connectorStart="5:482" connectorStartCap="NONE" connectorEnd="5:498" connectorEndCap="ARROW_LINES">KQ6a&amp;gt;KT11</connector>
+    <connector id="8:1110" x="13170" y="1721" connectorStart="5:498" connectorStartCap="NONE" connectorEnd="5:502" connectorEndCap="ARROW_LINES">KT11&amp;gt;KT11a</connector>
+    <connector id="8:1114" x="13170" y="1921" connectorStart="5:502" connectorStartCap="NONE" connectorEnd="5:506" connectorEndCap="ARROW_LINES">KT11a&amp;gt;KD16</connector>
+    <connector id="8:914" x="8940" y="856" connectorStart="5:186" connectorStartCap="NONE" connectorEnd="5:298" connectorEndCap="ARROW_LINES">KQ1b&amp;gt;KQ3</connector>
+    <connector id="8:918" x="5550" y="1085" connectorStart="5:298" connectorStartCap="NONE" connectorEnd="5:302" connectorEndCap="ARROW_LINES">KQ3&amp;gt;KQ3a</connector>
+    <connector id="8:946" x="8940" y="1085" connectorStart="5:298" connectorStartCap="NONE" connectorEnd="5:306" connectorEndCap="ARROW_LINES">KQ3&amp;gt;KQ3b</connector>
+    <connector id="8:1070" x="8940" y="1085" connectorStart="5:298" connectorStartCap="NONE" connectorEnd="5:310" connectorEndCap="ARROW_LINES">KQ3&amp;gt;KQ3c</connector>
+    <connector id="8:1074" x="12330" y="1262" connectorStart="5:310" connectorStartCap="NONE" connectorEnd="5:338" connectorEndCap="ARROW_LINES">KQ3c&amp;gt;KT5</connector>
+    <connector id="8:1078" x="11940" y="1728" connectorStart="5:338" connectorStartCap="NONE" connectorEnd="5:342" connectorEndCap="ARROW_LINES">KT5&amp;gt;KT5a</connector>
+    <connector id="8:1086" x="12330" y="1728" connectorStart="5:338" connectorStartCap="NONE" connectorEnd="5:346" connectorEndCap="ARROW_LINES">KT5&amp;gt;KT5b</connector>
+    <connector id="8:1090" x="12330" y="1728" connectorStart="5:338" connectorStartCap="NONE" connectorEnd="5:350" connectorEndCap="ARROW_LINES">KT5&amp;gt;KT5c</connector>
+    <connector id="8:1530" x="9299" y="1405.5" connectorStart="5:350" connectorStartCap="NONE" connectorEnd="5:358" connectorEndCap="ARROW_LINES">KT5c&amp;gt;KQ5</connector>
+    <connector id="8:1082" x="11940" y="1951" connectorStart="5:342" connectorStartCap="NONE" connectorEnd="5:354" connectorEndCap="ARROW_LINES">KT5a&amp;gt;KD8</connector>
+    <connector id="8:950" x="9053" y="1262" connectorStart="5:306" connectorStartCap="NONE" connectorEnd="5:358" connectorEndCap="ARROW_LINES">KQ3b&amp;gt;KQ5</connector>
+    <connector id="8:954" x="6735" y="1491" connectorStart="5:358" connectorStartCap="NONE" connectorEnd="5:362" connectorEndCap="ARROW_LINES">KQ5&amp;gt;KQ5a</connector>
+    <connector id="8:974" x="7635" y="1491" connectorStart="5:358" connectorStartCap="NONE" connectorEnd="5:366" connectorEndCap="ARROW_LINES">KQ5&amp;gt;KQ5b</connector>
+    <connector id="8:994" x="8535" y="1491" connectorStart="5:358" connectorStartCap="NONE" connectorEnd="5:370" connectorEndCap="ARROW_LINES">KQ5&amp;gt;KQ5c</connector>
+    <connector id="8:1014" x="9053" y="1491" connectorStart="5:358" connectorStartCap="NONE" connectorEnd="5:374" connectorEndCap="ARROW_LINES">KQ5&amp;gt;KQ5d</connector>
+    <connector id="8:1038" x="9053" y="1491" connectorStart="5:358" connectorStartCap="NONE" connectorEnd="5:378" connectorEndCap="ARROW_LINES">KQ5&amp;gt;KQ5e</connector>
+    <connector id="8:1062" x="9053" y="1491" connectorStart="5:358" connectorStartCap="NONE" connectorEnd="5:382" connectorEndCap="ARROW_LINES">KQ5&amp;gt;KQ5f</connector>
+    <connector id="8:1066" x="11370" y="1691" connectorStart="5:382" connectorStartCap="NONE" connectorEnd="5:474" connectorEndCap="ARROW_LINES">KQ5f&amp;gt;KD15</connector>
+    <connector id="8:1042" x="10605" y="1714" connectorStart="5:378" connectorStartCap="NONE" connectorEnd="5:454" connectorEndCap="ARROW_LINES">KQ5e&amp;gt;KT10</connector>
+    <connector id="8:1046" x="10350" y="2065" connectorStart="5:454" connectorStartCap="NONE" connectorEnd="5:458" connectorEndCap="ARROW_LINES">KT10&amp;gt;KT10a</connector>
+    <connector id="8:1054" x="10605" y="2065" connectorStart="5:454" connectorStartCap="NONE" connectorEnd="5:462" connectorEndCap="ARROW_LINES">KT10&amp;gt;KT10b</connector>
+    <connector id="8:1058" x="10860" y="2265" connectorStart="5:462" connectorStartCap="NONE" connectorEnd="5:466" connectorEndCap="ARROW_LINES">KT10b&amp;gt;KX2</connector>
+    <connector id="8:1050" x="10350" y="2242" connectorStart="5:458" connectorStartCap="NONE" connectorEnd="5:470" connectorEndCap="ARROW_LINES">KT10a&amp;gt;KD14</connector>
+    <connector id="8:1018" x="9495" y="1668" connectorStart="5:374" connectorStartCap="NONE" connectorEnd="5:434" connectorEndCap="ARROW_LINES">KQ5d&amp;gt;KT9</connector>
+    <connector id="8:1022" x="9210" y="2035" connectorStart="5:434" connectorStartCap="NONE" connectorEnd="5:438" connectorEndCap="ARROW_LINES">KT9&amp;gt;KT9a</connector>
+    <connector id="8:1030" x="9495" y="2035" connectorStart="5:434" connectorStartCap="NONE" connectorEnd="5:442" connectorEndCap="ARROW_LINES">KT9&amp;gt;KT9b</connector>
+    <connector id="8:1034" x="9780" y="2235" connectorStart="5:442" connectorStartCap="NONE" connectorEnd="5:450" connectorEndCap="ARROW_LINES">KT9b&amp;gt;KD13</connector>
+    <connector id="8:1026" x="9210" y="2235" connectorStart="5:438" connectorStartCap="NONE" connectorEnd="5:446" connectorEndCap="ARROW_LINES">KT9a&amp;gt;KD12</connector>
+    <connector id="8:998" x="8535" y="1668" connectorStart="5:370" connectorStartCap="NONE" connectorEnd="5:418" connectorEndCap="ARROW_LINES">KQ5c&amp;gt;KT8</connector>
+    <connector id="8:1002" x="8310" y="2104" connectorStart="5:418" connectorStartCap="NONE" connectorEnd="5:422" connectorEndCap="ARROW_LINES">KT8&amp;gt;KT8a</connector>
+    <connector id="8:1010" x="8535" y="2104" connectorStart="5:418" connectorStartCap="NONE" connectorEnd="5:426" connectorEndCap="ARROW_LINES">KT8&amp;gt;KT8b</connector>
+    <connector id="8:1542" x="2221" y="1715" connectorStart="5:426" connectorStartCap="NONE" connectorEnd="5:238" connectorEndCap="ARROW_LINES">KT8b&amp;gt;KT2</connector>
+    <connector id="8:1006" x="8310" y="2304" connectorStart="5:422" connectorStartCap="NONE" connectorEnd="5:430" connectorEndCap="ARROW_LINES">KT8a&amp;gt;KD11</connector>
+    <connector id="8:978" x="7635" y="1691" connectorStart="5:366" connectorStartCap="NONE" connectorEnd="5:402" connectorEndCap="ARROW_LINES">KQ5b&amp;gt;KT7</connector>
+    <connector id="8:982" x="7410" y="2180" connectorStart="5:402" connectorStartCap="NONE" connectorEnd="5:406" connectorEndCap="ARROW_LINES">KT7&amp;gt;KT7a</connector>
+    <connector id="8:990" x="7635" y="2180" connectorStart="5:402" connectorStartCap="NONE" connectorEnd="5:410" connectorEndCap="ARROW_LINES">KT7&amp;gt;KT7b</connector>
+    <connector id="8:1534" x="7106" y="1964.5" connectorStart="5:394" connectorStartCap="NONE" connectorEnd="5:402" connectorEndCap="ARROW_LINES">KT6b&amp;gt;KT7</connector>
+    <connector id="8:1538" x="7001" y="1953" connectorStart="5:410" connectorStartCap="NONE" connectorEnd="5:386" connectorEndCap="ARROW_LINES">KT7b&amp;gt;KT6</connector>
+    <connector id="8:986" x="7410" y="2380" connectorStart="5:406" connectorStartCap="NONE" connectorEnd="5:414" connectorEndCap="ARROW_LINES">KT7a&amp;gt;KD10</connector>
+    <connector id="8:958" x="6735" y="1714" connectorStart="5:362" connectorStartCap="NONE" connectorEnd="5:386" connectorEndCap="ARROW_LINES">KQ5a&amp;gt;KT6</connector>
+    <connector id="8:962" x="6510" y="2134" connectorStart="5:386" connectorStartCap="NONE" connectorEnd="5:390" connectorEndCap="ARROW_LINES">KT6&amp;gt;KT6a</connector>
+    <connector id="8:970" x="6735" y="2134" connectorStart="5:386" connectorStartCap="NONE" connectorEnd="5:394" connectorEndCap="ARROW_LINES">KT6&amp;gt;KT6b</connector>
+    <connector id="8:1526" x="5716" y="1654.5" connectorStart="5:322" connectorStartCap="NONE" connectorEnd="5:386" connectorEndCap="ARROW_LINES">KQ4b&amp;gt;KT6</connector>
+    <connector id="8:966" x="6510" y="2334" connectorStart="5:390" connectorStartCap="NONE" connectorEnd="5:398" connectorEndCap="ARROW_LINES">KT6a&amp;gt;KD9</connector>
+    <connector id="8:922" x="5550" y="1262" connectorStart="5:302" connectorStartCap="NONE" connectorEnd="5:314" connectorEndCap="ARROW_LINES">KQ3a&amp;gt;KQ4</connector>
+    <connector id="8:926" x="5120" y="1514" connectorStart="5:314" connectorStartCap="NONE" connectorEnd="5:318" connectorEndCap="ARROW_LINES">KQ4&amp;gt;KQ4a</connector>
+    <connector id="8:934" x="5550" y="1514" connectorStart="5:314" connectorStartCap="NONE" connectorEnd="5:322" connectorEndCap="ARROW_LINES">KQ4&amp;gt;KQ4b</connector>
+    <connector id="8:938" x="5550" y="1514" connectorStart="5:314" connectorStartCap="NONE" connectorEnd="5:326" connectorEndCap="ARROW_LINES">KQ4&amp;gt;KQ4c</connector>
+    <connector id="8:942" x="5980" y="1737" connectorStart="5:326" connectorStartCap="NONE" connectorEnd="5:334" connectorEndCap="ARROW_LINES">KQ4c&amp;gt;KD7</connector>
+    <connector id="8:930" x="5120" y="1760" connectorStart="5:318" connectorStartCap="NONE" connectorEnd="5:330" connectorEndCap="ARROW_LINES">KQ4a&amp;gt;KD6</connector>
+    <connector id="8:806" x="2685" y="879" connectorStart="5:182" connectorStartCap="NONE" connectorEnd="5:194" connectorEndCap="ARROW_LINES">KQ1a&amp;gt;KQ2</connector>
+    <connector id="8:810" x="820" y="1161" connectorStart="5:194" connectorStartCap="NONE" connectorEnd="5:198" connectorEndCap="ARROW_LINES">KQ2&amp;gt;KQ2a</connector>
+    <connector id="8:838" x="1955" y="1161" connectorStart="5:194" connectorStartCap="NONE" connectorEnd="5:202" connectorEndCap="ARROW_LINES">KQ2&amp;gt;KQ2b</connector>
+    <connector id="8:858" x="2685" y="1161" connectorStart="5:194" connectorStartCap="NONE" connectorEnd="5:206" connectorEndCap="ARROW_LINES">KQ2&amp;gt;KQ2c</connector>
+    <connector id="8:882" x="2685" y="1161" connectorStart="5:194" connectorStartCap="NONE" connectorEnd="5:210" connectorEndCap="ARROW_LINES">KQ2&amp;gt;KQ2d</connector>
+    <connector id="8:902" x="2685" y="1161" connectorStart="5:194" connectorStartCap="NONE" connectorEnd="5:214" connectorEndCap="ARROW_LINES">KQ2&amp;gt;KQ2e</connector>
+    <connector id="8:906" x="4550" y="1384" connectorStart="5:214" connectorStartCap="NONE" connectorEnd="5:294" connectorEndCap="ARROW_LINES">KQ2e&amp;gt;KD5</connector>
+    <connector id="8:886" x="3875" y="1361" connectorStart="5:210" connectorStartCap="NONE" connectorEnd="5:266" connectorEndCap="ARROW_LINES">KQ2d&amp;gt;KT4</connector>
+    <connector id="8:890" x="3650" y="1811" connectorStart="5:266" connectorStartCap="NONE" connectorEnd="5:270" connectorEndCap="ARROW_LINES">KT4&amp;gt;KT4a</connector>
+    <connector id="8:898" x="3875" y="1811" connectorStart="5:266" connectorStartCap="NONE" connectorEnd="5:274" connectorEndCap="ARROW_LINES">KT4&amp;gt;KT4b</connector>
+    <connector id="8:1522" x="1086" y="1707" connectorStart="5:274" connectorStartCap="NONE" connectorEnd="5:218" connectorEndCap="ARROW_LINES">KT4b&amp;gt;KT1</connector>
+    <connector id="8:894" x="3650" y="1988" connectorStart="5:270" connectorStartCap="NONE" connectorEnd="5:290" connectorEndCap="ARROW_LINES">KT4a&amp;gt;KD4</connector>
+    <connector id="8:862" x="2885" y="1384" connectorStart="5:206" connectorStartCap="NONE" connectorEnd="5:250" connectorEndCap="ARROW_LINES">KQ2c&amp;gt;KT3</connector>
+    <connector id="8:866" x="2630" y="1903" connectorStart="5:250" connectorStartCap="NONE" connectorEnd="5:254" connectorEndCap="ARROW_LINES">KT3&amp;gt;KT3a</connector>
+    <connector id="8:874" x="2885" y="1903" connectorStart="5:250" connectorStartCap="NONE" connectorEnd="5:258" connectorEndCap="ARROW_LINES">KT3&amp;gt;KT3b</connector>
+    <connector id="8:1518" x="2326" y="1672.5" connectorStart="5:246" connectorStartCap="NONE" connectorEnd="5:250" connectorEndCap="ARROW_LINES">KT2b&amp;gt;KT3</connector>
+    <connector id="8:878" x="3140" y="2103" connectorStart="5:258" connectorStartCap="NONE" connectorEnd="5:262" connectorEndCap="ARROW_LINES">KT3b&amp;gt;KX1</connector>
+    <connector id="8:870" x="2630" y="2103" connectorStart="5:254" connectorStartCap="NONE" connectorEnd="5:286" connectorEndCap="ARROW_LINES">KT3a&amp;gt;KD3</connector>
+    <connector id="8:842" x="1955" y="1407" connectorStart="5:202" connectorStartCap="NONE" connectorEnd="5:238" connectorEndCap="ARROW_LINES">KQ2b&amp;gt;KT2</connector>
+    <connector id="8:846" x="1730" y="1965" connectorStart="5:238" connectorStartCap="NONE" connectorEnd="5:242" connectorEndCap="ARROW_LINES">KT2&amp;gt;KT2a</connector>
+    <connector id="8:854" x="1955" y="1965" connectorStart="5:238" connectorStartCap="NONE" connectorEnd="5:246" connectorEndCap="ARROW_LINES">KT2&amp;gt;KT2b</connector>
+    <connector id="8:1510" x="1426" y="1715" connectorStart="5:230" connectorStartCap="NONE" connectorEnd="5:238" connectorEndCap="ARROW_LINES">KT1c&amp;gt;KT2</connector>
+    <connector id="8:850" x="1730" y="2142" connectorStart="5:242" connectorStartCap="NONE" connectorEnd="5:282" connectorEndCap="ARROW_LINES">KT2a&amp;gt;KD2</connector>
+    <connector id="8:814" x="820" y="1407" connectorStart="5:198" connectorStartCap="NONE" connectorEnd="5:218" connectorEndCap="ARROW_LINES">KQ2a&amp;gt;KT1</connector>
+    <connector id="8:818" x="360" y="1949" connectorStart="5:218" connectorStartCap="NONE" connectorEnd="5:222" connectorEndCap="ARROW_LINES">KT1&amp;gt;KT1a</connector>
+    <connector id="8:826" x="820" y="1949" connectorStart="5:218" connectorStartCap="NONE" connectorEnd="5:226" connectorEndCap="ARROW_LINES">KT1&amp;gt;KT1b</connector>
+    <connector id="8:834" x="820" y="1949" connectorStart="5:218" connectorStartCap="NONE" connectorEnd="5:230" connectorEndCap="ARROW_LINES">KT1&amp;gt;KT1c</connector>
+    <connector id="8:1514" x="820" y="1949" connectorStart="5:234" connectorStartCap="NONE" connectorEnd="5:218" connectorEndCap="ARROW_LINES">KN1&amp;gt;KT1</connector>
+    <connector id="8:830" x="880" y="2149" connectorStart="5:226" connectorStartCap="NONE" connectorEnd="5:234" connectorEndCap="ARROW_LINES">KT1b&amp;gt;KN1</connector>
+    <connector id="8:822" x="360" y="2149" connectorStart="5:222" connectorStartCap="NONE" connectorEnd="5:278" connectorEndCap="ARROW_LINES">KT1a&amp;gt;KD1</connector>
+    <shape-with-text id="5:174" x="7733" y="130" width="1100" height="177" name="ROUNDED_RECTANGLE">STAGE 2 — WHICH KNEE PROBLEM IS IT?
+Ask how it started, then follow the answers. Each branch ends in a hands-on check and a WORKING DIAGNOSIS with its next step. Clusters of findings beat any single test.</shape-with-text>
+    <shape-with-text id="5:522" x="8913" y="130" width="560" height="251" name="ROUNDED_RECTANGLE">WHY THE LABEL MATTERS (OR DOESN’T)
+For osteoarthritis and degenerative meniscus tears the exercise plan is basically the same shared core programme. For patellar tendinopathy, kneecap pain and ACL injury, the label changes the plan a lot. So the diagnosis should pick the programme module, the dose and the positions to avoid — not a custom exercise list per patient.</shape-with-text>
+    <shape-with-text id="5:278" x="100" y="2213" width="520" height="488" name="ROUNDED_RECTANGLE">KD1 · WORKING DIAGNOSIS: ACL injury (torn anterior cruciate ligament)
+WHAT IT IS: the ligament that stops the shin sliding forward is torn; the knee may give way when turning.
+NEXT STEP — rehab first: control swelling, regain full straightening, wake up the thigh muscle; then heavy quadriceps and hamstring strength, balance, landing and cutting practice. Return to sport by strength and hop tests, not by time. In the KANON trial, rehab with optional later surgery did as well as early surgery at 2 and 5 years, and about half of the rehab group never needed surgery (Frobell 2010, 2013).
+AVOID: pivoting sport before strength and hop tests are close to the other side.
+REFER (surgical opinion) IF: the knee keeps giving way in daily life despite good rehab.
+STAGE 3 ADD-ON: injury module.</shape-with-text>
+    <shape-with-text id="5:222" x="220" y="2013" width="280" height="130" name="ROUNDED_RECTANGLE">Lachman OR lever sign positive</shape-with-text>
+    <shape-with-text id="5:234" x="670" y="2213" width="420" height="205" name="ROUNDED_RECTANGLE">KN1 · Can’t clear the ACL yet
+A swollen, guarded knee hides ligament looseness. Protect it, control the swelling, start gentle range and thigh-muscle tightening, and RE-TEST in 1–2 weeks (back to KT1).</shape-with-text>
+    <shape-with-text id="5:226" x="740" y="2013" width="280" height="130" name="ROUNDED_RECTANGLE">Too swollen or guarded to test properly</shape-with-text>
+    <shape-with-text id="5:230" x="1140" y="2013" width="280" height="153" name="ROUNDED_RECTANGLE">Both clearly negative in a relaxed knee → check the meniscus (KT2)</shape-with-text>
+    <shape-with-text id="5:218" x="560" y="1471" width="520" height="472" name="ROUNDED_RECTANGLE">KT1 · Test the ACL (anterior cruciate ligament — the main ligament that stops the shin bone sliding forward)
+• Lachman test: knee bent 20–30°, steady the thigh with one hand, pull the shin forward with the other; compare sides. Extra movement or a soft end-point = positive. Sensitivity 85%, specificity 94% (Benjaminse 2006); 81% / 85% in a 2022 meta-analysis (Sokal 2022).
+• Lever sign: patient lying flat; put a fist under the upper calf and press down on the thigh just above the kneecap. The heel should lift — heel stays down = positive. Sensitivity 83%, specificity 91% (Sokal 2022). Easier for a small examiner or a large leg.
+• Pivot shift (relaxed patient only): very specific (94–98%) but often missed when the patient guards.
+WHO: physio-level</shape-with-text>
+    <shape-with-text id="5:198" x="680" y="1225" width="280" height="176" name="ROUNDED_RECTANGLE">Twisted or landed, felt or heard a POP, swelled within a few hours, couldn’t carry on</shape-with-text>
+    <shape-with-text id="5:282" x="1470" y="2206" width="520" height="419" name="ROUNDED_RECTANGLE">KD2 · WORKING DIAGNOSIS: Traumatic meniscus tear
+WHAT IT IS: one of the two C-shaped cartilage cushions between the thigh bone and shin bone is torn by a twist.
+NEXT STEP: settle swelling and restore full straightening first; then closed-chain strength (sit-to-stand, step-ups, mini squats); then single-leg control, pivoting, and return to work or sport tasks (JOSPT meniscus guideline, Logerstedt 2018).
+AVOID: deep loaded squats and pivoting while it still swells after activity.
+REFER IF: true locking (K6), or catching that blocks progress by week 4–6. Without imaging you can’t tell a repairable tear from a non-repairable one.
+STAGE 3 ADD-ON: injury module.</shape-with-text>
+    <shape-with-text id="5:242" x="1590" y="2029" width="280" height="107" name="ROUNDED_RECTANGLE">3 or more of 5 positive</shape-with-text>
+    <shape-with-text id="5:246" x="2040" y="2029" width="280" height="130" name="ROUNDED_RECTANGLE">0–2 positive → check the side ligaments (KT3)</shape-with-text>
+    <shape-with-text id="5:238" x="1695" y="1471" width="520" height="488" name="ROUNDED_RECTANGLE">KT2 · Meniscus check — count how many of these 5 are positive (Lowery composite)
+1. History of catching or locking
+2. Pain when the knee is pushed fully straight (forced hyperextension)
+3. Pain at full bend (maximum flexion)
+4. Pain or a click on the McMurray test (bend fully, twist the shin in and out, then straighten)
+5. Tenderness when pressing along the joint line (the gap between thigh bone and shin bone)
+EVIDENCE: with all 5 positive, 92% had a meniscus tear; with 3 or more, over 75% did when there was no ACL tear or arthritis (Lowery 2006, 635 knees). Single tests are weak: McMurray sensitivity 61% / specificity 84%; joint-line tenderness 83% / 83%; Thessaly test at 20° 75% / 87% (Smith 2015 meta-analysis).
+WHO: physio-level</shape-with-text>
+    <shape-with-text id="5:202" x="1815" y="1225" width="280" height="176" name="ROUNDED_RECTANGLE">Twisted on a bent, loaded knee; swelling crept up over the next day; now it catches</shape-with-text>
+    <shape-with-text id="5:286" x="2370" y="2167" width="520" height="373" name="ROUNDED_RECTANGLE">KD3 · WORKING DIAGNOSIS: MCL or LCL sprain (side-ligament sprain)
+WHAT IT IS: a stretched or partly torn ligament on the inner (MCL) or outer (LCL) side.
+NEXT STEP: movement from week 1, then progressive strengthening and functional loading; a hinged brace for more severe MCL sprains (JOSPT ligament guideline 2017).
+AVOID: side-to-side stress and pivoting until the stress test is pain-free.
+REFER IF: gapping with the knee straight (KX1), or in a child (possible growth-plate injury).
+STAGE 3 ADD-ON: injury module.</shape-with-text>
+    <shape-with-text id="5:254" x="2490" y="1967" width="280" height="130" name="ROUNDED_RECTANGLE">Painful or opens at 30° only</shape-with-text>
+    <shape-with-text id="5:262" x="2940" y="2167" width="400" height="159" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Likely combined ligament injury. Brace and refer to orthopaedics.</shape-with-text>
+    <shape-with-text id="5:258" x="3000" y="1967" width="280" height="130" name="ROUNDED_RECTANGLE">Opens even with the knee fully straight</shape-with-text>
+    <shape-with-text id="5:250" x="2625" y="1448" width="520" height="449" name="ROUNDED_RECTANGLE">KT3 · Side-ligament check — MCL (medial collateral ligament, inner side) and LCL (lateral collateral ligament, outer side)
+• Push the knee inward (valgus stress — tests the MCL) and outward (varus stress — tests the LCL), first with the knee bent 30°, then fully straight (0°).
+• Feel along the ligament from thigh bone to shin bone.
+POSITIVE IF: pain or gapping at 30° = an isolated sprain. Gapping with the knee fully straight = more than one structure is torn. Tender along the ligament (not on the joint line) supports a sprain.
+EVIDENCE: recommended in the JOSPT knee ligament guideline (Logerstedt 2017); no strong accuracy figures — grading is by feel.
+WHO: physio-level (stress tests); anyone trained (pressing)</shape-with-text>
+    <shape-with-text id="5:206" x="2745" y="1225" width="280" height="153" name="ROUNDED_RECTANGLE">Hit or pushed on the SIDE of the knee; pain on the inner or outer side</shape-with-text>
+    <shape-with-text id="5:290" x="3390" y="2052" width="520" height="396" name="ROUNDED_RECTANGLE">KD4 · WORKING DIAGNOSIS: PCL injury (torn posterior cruciate ligament)
+WHAT IT IS: the ligament that stops the shin sliding backward is torn; often vague pain at the back of the knee with little swelling.
+NEXT STEP: quadriceps-led rehab with a brace in the early phase; gradual return to kneeling and squatting (JOSPT ligament guideline 2017).
+AVOID: resisted hamstring curls early on — they pull the shin backward.
+REFER IF: a combined injury is suspected, or the knee feels unstable when twisting.
+STAGE 3 ADD-ON: injury module.</shape-with-text>
+    <shape-with-text id="5:270" x="3510" y="1875" width="280" height="107" name="ROUNDED_RECTANGLE">Sag or drawer positive</shape-with-text>
+    <shape-with-text id="5:274" x="3960" y="1875" width="280" height="130" name="ROUNDED_RECTANGLE">Negative → test the ACL and meniscus (KT1)</shape-with-text>
+    <shape-with-text id="5:266" x="3615" y="1425" width="520" height="380" name="ROUNDED_RECTANGLE">KT4 · Back-ligament check — PCL (posterior cruciate ligament — stops the shin sliding backward)
+• Posterior sag: lying down, both knees bent to 90° with feet flat; look from the side — does the injured shin sag backward?
+• Posterior drawer: knee bent 90°, push the shin backward; compare with the other side.
+EVIDENCE: clinical exam led by the posterior drawer: sensitivity 90%, specificity 99% (Rubinstein 1994; surgeon examiners, long-standing tears).
+WHO: physio-level</shape-with-text>
+    <shape-with-text id="5:210" x="3735" y="1225" width="280" height="130" name="ROUNDED_RECTANGLE">Fell onto a bent knee, or the shin hit a dashboard</shape-with-text>
+    <shape-with-text id="5:294" x="4290" y="1448" width="520" height="350" name="ROUNDED_RECTANGLE">KD5 · WORKING DIAGNOSIS: First-time kneecap (patellar) dislocation
+WHAT IT IS: the kneecap slid out to the outer side; it often pops back by itself.
+NEXT STEP: X-ray every first dislocation to look for a broken-off fragment; a fragment → urgent knee specialist (BOAST 2024). Otherwise physiotherapy: quadriceps and hip strengthening, balance and landing control, taping or a brace for return to sport.
+IF IT HAPPENS AGAIN: see KQ1 → “keeps giving way”.
+STAGE 3 ADD-ON: kneecap module.</shape-with-text>
+    <shape-with-text id="5:214" x="4410" y="1225" width="280" height="153" name="ROUNDED_RECTANGLE">The kneecap slid out to the side (it may have popped back)</shape-with-text>
+    <shape-with-text id="5:194" x="2445" y="943" width="480" height="212" name="ROUNDED_RECTANGLE">KQ2 · What happened at the moment of injury?
+ASK: “Show me or describe exactly how it happened, and what you felt and saw over the next day.”
+NOTE: fracture (K1) must already be cleared.</shape-with-text>
+    <shape-with-text id="5:182" x="2545" y="720" width="280" height="153" name="ROUNDED_RECTANGLE">A specific injury — a fall, twist, blow or awkward landing</shape-with-text>
+    <shape-with-text id="5:330" x="4860" y="1824" width="520" height="456" name="ROUNDED_RECTANGLE">KD6 · WORKING DIAGNOSIS: Osgood-Schlatter (top of the shin) or Sinding-Larsen-Johansson (bottom tip of the kneecap)
+WHAT IT IS: irritation of a growth plate where the kneecap tendon pulls, in sporty children during a growth spurt.
+CONFIRM: pressing the bump is tender, often swollen; worse with kneeling, jumping and stairs.
+NEXT STEP: reduce jumping and kneeling volume but keep the child active; quadriceps and hip strength, calf and thigh flexibility; a kneeling pad. Usually settles with growth (consensus).
+AVOID: total rest from all sport; injections.
+RED FLAG: constant or night pain → K9.
+STAGE 3 ADD-ON: growing-knee module.</shape-with-text>
+    <shape-with-text id="5:318" x="4980" y="1578" width="280" height="176" name="ROUNDED_RECTANGLE">A bony bump at the top of the shin just below the kneecap, or the bottom tip of the kneecap</shape-with-text>
+    <shape-with-text id="5:322" x="5430" y="1578" width="280" height="153" name="ROUNDED_RECTANGLE">Around or behind the kneecap → kneecap check (KT6)</shape-with-text>
+    <shape-with-text id="5:334" x="5760" y="1801" width="440" height="357" name="ROUNDED_RECTANGLE">KD7 · REFER FOR IMAGING: suspected osteochondritis dissecans
+WHAT IT IS: a patch of bone under the joint cartilage loses its blood supply and can loosen; seen in active teenagers.
+WHY REFER: it cannot be diagnosed without an X-ray — this is where a no-imaging pathway must hand off.
+MEANWHILE: reduce jumping and running; keep thigh strength (consensus).</shape-with-text>
+    <shape-with-text id="5:326" x="5840" y="1578" width="280" height="153" name="ROUNDED_RECTANGLE">Vague pain with repeated swelling or catching, no clear injury</shape-with-text>
+    <shape-with-text id="5:314" x="5310" y="1326" width="480" height="182" name="ROUNDED_RECTANGLE">KQ4 · Child: where does it hurt?
+ASK: “Point with one finger.”
+FIRST: make sure the hip has been checked (K8) — hip problems in children often show up as knee pain.</shape-with-text>
+    <shape-with-text id="5:302" x="5410" y="1149" width="280" height="107" name="ROUNDED_RECTANGLE">Under 16 (still growing)</shape-with-text>
+    <shape-with-text id="5:398" x="6250" y="2398" width="520" height="472" name="ROUNDED_RECTANGLE">KD9 · WORKING DIAGNOSIS: Patellofemoral pain (pain from the joint behind the kneecap)
+WHAT IT IS: overload of the joint between the kneecap and the thigh bone; common in active teenagers and young adults.
+NEXT STEP: hip and knee strengthening is the core treatment — hip abductors and extensors plus quadriceps, high volume where tolerated (about 3 sets of 30+ repetitions, 3 times a week); short-term kneecap taping or off-the-shelf foot insoles as add-ons; change squat depth and stair habits rather than stopping activity (Willy 2019; Crossley 2016 consensus).
+AVOID: knee braces or sleeves; passive treatments on their own.
+STAGE 3 ADD-ON: kneecap module.</shape-with-text>
+    <shape-with-text id="5:390" x="6370" y="2198" width="280" height="130" name="ROUNDED_RECTANGLE">Squatting reproduces the pain</shape-with-text>
+    <shape-with-text id="5:394" x="6820" y="2198" width="280" height="130" name="ROUNDED_RECTANGLE">Squat is pain-free → recheck the spot (KT7)</shape-with-text>
+    <shape-with-text id="5:386" x="6475" y="1778" width="520" height="350" name="ROUNDED_RECTANGLE">KT6 · Kneecap-pain check (patellofemoral pain)
+• Squat: slow double-leg squat as deep as comfortable. Does it reproduce their front-of-knee pain? This is the most useful single sign — NO pain on squatting makes this diagnosis unlikely (JOSPT guideline, Willy 2019).
+• Typical history: pain with stairs (especially going down), kneeling, and long sitting with the knees bent.
+• Step-down or single-leg squat: film from the front — pain; knee drifts inward; hip drops.
+WHO: anyone trained</shape-with-text>
+    <shape-with-text id="5:362" x="6595" y="1555" width="280" height="153" name="ROUNDED_RECTANGLE">Around or behind the kneecap — hard to point to one spot</shape-with-text>
+    <shape-with-text id="5:414" x="7150" y="2444" width="520" height="396" name="ROUNDED_RECTANGLE">KD10 · WORKING DIAGNOSIS: Patellar tendinopathy (“jumper’s knee”)
+WHAT IT IS: the tendon just below the kneecap is overloaded and sensitive.
+NEXT STEP — staged tendon loading: (1) isometric holds such as a wall sit for pain relief → (2) heavy slow strength (squats, leg press) → (3) energy storage (jumps, hops) added slowly → (4) full sport or work. Track decline-squat pain daily: it shouldn’t climb from one day to the next. Rehab often takes months (Malliaras 2015).
+AVOID: complete rest; passive treatments as the main plan; big jumps in jumping volume.
+STAGE 3 ADD-ON: tendon module.</shape-with-text>
+    <shape-with-text id="5:406" x="7270" y="2244" width="280" height="130" name="ROUNDED_RECTANGLE">Tender spot + load-related pain</shape-with-text>
+    <shape-with-text id="5:410" x="7720" y="2244" width="280" height="153" name="ROUNDED_RECTANGLE">Not tender, the pain is diffuse → kneecap check (KT6)</shape-with-text>
+    <shape-with-text id="5:402" x="7375" y="1755" width="520" height="419" name="ROUNDED_RECTANGLE">KT7 · Kneecap-tendon check (patellar tendinopathy)
+• Press the bottom edge of the kneecap with the knee straight and relaxed — tender at one spot?
+• Single-leg decline squat (on a 25° slope): pain at the tendon that rises with depth (physio-level).
+• Typical history: jumping, running or heavy squatting; the pain warms up during activity, then returns afterwards and the next day.
+HALLMARKS: pain at the bottom tip of the kneecap + pain that rises with load on the thigh muscle (Malliaras 2015). Diagnosis stays clinical: tendon changes on scans are common in pain-free athletes.
+WHO: anyone trained (press); physio-level (decline squat)</shape-with-text>
+    <shape-with-text id="5:366" x="7495" y="1555" width="280" height="130" name="ROUNDED_RECTANGLE">One spot at the bottom edge of the kneecap</shape-with-text>
+    <shape-with-text id="5:430" x="8050" y="2368" width="520" height="350" name="ROUNDED_RECTANGLE">KD11 · WORKING DIAGNOSIS: Iliotibial band (ITB) syndrome
+WHAT IT IS: irritation where the thick band of tissue on the outer thigh crosses the knee.
+NEXT STEP: reduce running volume and downhill work for a period; strengthen the hip abductors; return gradually with changes to cadence (step rate) or route (consensus-level evidence).
+AVOID: running through sharp outer-knee pain.
+STAGE 3 ADD-ON: kneecap module (step-down pain, hip strength).</shape-with-text>
+    <shape-with-text id="5:422" x="8170" y="2168" width="280" height="130" name="ROUNDED_RECTANGLE">Tender above the joint line, distance-related pain</shape-with-text>
+    <shape-with-text id="5:426" x="8620" y="2168" width="280" height="153" name="ROUNDED_RECTANGLE">Joint-line tenderness and catching → meniscus check (KT2)</shape-with-text>
+    <shape-with-text id="5:418" x="8275" y="1732" width="520" height="366" name="ROUNDED_RECTANGLE">KT8 · Outer-knee check
+• History: running, cycling or long walks, with pain coming on at a predictable distance?
+• Press the bony outer knee just above the joint line (lateral femoral epicondyle) — tender?
+• Noble compression (physio-level): press that spot while bending and straightening the knee — pain near 30° of bend.
+• Tender ON the joint line instead, with catching? → meniscus check (KT2).
+EVIDENCE: consensus; no validated accuracy figures.
+WHO: anyone trained; physio-level (Noble)</shape-with-text>
+    <shape-with-text id="5:370" x="8395" y="1555" width="280" height="107" name="ROUNDED_RECTANGLE">Outer side of the knee</shape-with-text>
+    <shape-with-text id="5:446" x="8950" y="2299" width="520" height="373" name="ROUNDED_RECTANGLE">KD12 · WORKING DIAGNOSIS: Degenerative meniscus tear
+WHAT IT IS: age-related wear of the inner cartilage cushion, often alongside early osteoarthritis.
+NEXT STEP: treat like knee osteoarthritis — supervised progressive exercise for about 12 weeks before any talk of surgery. In a trial of 140 middle-aged adults, 12 weeks of exercise matched keyhole surgery (arthroscopic partial meniscectomy) at 2 years (Kise 2016).
+AVOID: referral for keyhole surgery as first-line care.
+REFER IF: true locking appears (K6).
+STAGE 3 ADD-ON: osteoarthritis module.</shape-with-text>
+    <shape-with-text id="5:438" x="9070" y="2099" width="280" height="130" name="ROUNDED_RECTANGLE">Tender ON the joint line, middle-aged, catching</shape-with-text>
+    <shape-with-text id="5:450" x="9520" y="2299" width="520" height="327" name="ROUNDED_RECTANGLE">KD13 · WORKING DIAGNOSIS: Pes anserine pain
+WHAT IT IS: a tender spot on the inner shin where three tendons attach, just below the knee; often alongside osteoarthritis.
+NEXT STEP: the osteoarthritis core programme plus hamstring and hip strengthening; a pillow between the knees at night (consensus).
+AVOID: injection as the first plan.
+STAGE 3 ADD-ON: osteoarthritis module.</shape-with-text>
+    <shape-with-text id="5:442" x="9640" y="2099" width="280" height="130" name="ROUNDED_RECTANGLE">Tender BELOW the joint line on the inner shin</shape-with-text>
+    <shape-with-text id="5:434" x="9235" y="1732" width="520" height="297" name="ROUNDED_RECTANGLE">KT9 · Inner-side check
+• Press the joint line with the knee bent 90° (the gap between thigh bone and shin bone on the inner side).
+• Press the inner shin a few centimetres BELOW the joint line (where three tendons attach — the pes anserine).
+• History: middle-aged; little or no injury (e.g. getting up from a squat); catching that frees itself?
+WHO: anyone trained (press); physio-level (meniscus tests, KT2)</shape-with-text>
+    <shape-with-text id="5:374" x="9355" y="1555" width="280" height="107" name="ROUNDED_RECTANGLE">Inner side of the knee</shape-with-text>
+    <shape-with-text id="5:470" x="10090" y="2306" width="520" height="281" name="ROUNDED_RECTANGLE">KD14 · WORKING DIAGNOSIS: Prepatellar bursitis (“housemaid’s knee”)
+WHAT IT IS: an irritated fluid sac on top of the kneecap from kneeling pressure (work, floor cleaning, farming, prayer).
+NEXT STEP: a kneeling pad or a change in kneeling posture; keep thigh strength; treat any joint problem underneath (consensus).
+AVOID: repeated direct kneeling on the swelling.</shape-with-text>
+    <shape-with-text id="5:458" x="10210" y="2129" width="280" height="107" name="ROUNDED_RECTANGLE">Not hot, no fever</shape-with-text>
+    <shape-with-text id="5:466" x="10660" y="2329" width="400" height="159" name="ROUNDED_RECTANGLE">EMERGENCY — SAME DAY
+Possible infected bursa: doctor today (see K3).</shape-with-text>
+    <shape-with-text id="5:462" x="10720" y="2129" width="280" height="130" name="ROUNDED_RECTANGLE">Hot, red, fever or a skin break</shape-with-text>
+    <shape-with-text id="5:454" x="10345" y="1778" width="520" height="281" name="ROUNDED_RECTANGLE">KT10 · Swelling on top of the kneecap — is it infected?
+• Can you feel the edges of the kneecap through the swelling, and does the knee still bend fairly freely? (Yes to both = the swelling is in a fluid sac on top of the kneecap, not inside the joint.)
+• Is it hot or red, with fever or a skin break?
+WHO: basic kit (thermometer)</shape-with-text>
+    <shape-with-text id="5:378" x="10465" y="1555" width="280" height="153" name="ROUNDED_RECTANGLE">A soft swelling ON TOP of the kneecap (often from kneeling)</shape-with-text>
+    <shape-with-text id="5:474" x="11110" y="1755" width="520" height="327" name="ROUNDED_RECTANGLE">KD15 · WORKING DIAGNOSIS: Baker’s (popliteal) cyst
+WHAT IT IS: a fluid sac behind the knee, usually caused by osteoarthritis or a meniscus problem inside the joint.
+CONFIRM: soft swelling at the back of the knee, more obvious when standing or with the knee straight.
+NEXT STEP: treat the joint problem underneath — usually the osteoarthritis core programme (consensus).
+DANGER SIGN: a sudden painful, swollen calf = possible rupture or blood clot → K4 same day.</shape-with-text>
+    <shape-with-text id="5:382" x="11230" y="1555" width="280" height="130" name="ROUNDED_RECTANGLE">Back of the knee — fullness or tightness</shape-with-text>
+    <shape-with-text id="5:358" x="8813" y="1326" width="480" height="159" name="ROUNDED_RECTANGLE">KQ5 · Where does it hurt?
+ASK: “Point with one finger to the sorest spot.” Then look at it and press there.</shape-with-text>
+    <shape-with-text id="5:306" x="8913" y="1149" width="280" height="107" name="ROUNDED_RECTANGLE">16 to 44</shape-with-text>
+    <shape-with-text id="5:354" x="11680" y="2015" width="520" height="557" name="ROUNDED_RECTANGLE">KD8 · WORKING DIAGNOSIS: Knee osteoarthritis (OA)
+WHAT IT IS: “wear and repair” changes in the joint’s cartilage and bone — the most common cause of knee pain from mid-life on. Diagnosed from symptoms; X-ray changes match pain poorly and don’t change first-line care.
+NEXT STEP: education + strengthening + balance (neuromuscular) exercise is the core treatment (NICE NG226; OARSI 2019) — e.g. the GLA:D programme: 2 education sessions + 12 supervised exercise sessions over 6–8 weeks (Skou &amp; Roos 2017). Build up walking in bouts; a walking stick if it keeps them active; practise their own goal tasks (rising from the floor, squatting to a set depth).
+AVOID: passive treatments on their own (electrotherapy, acupuncture, manual therapy), routine braces or insoles, imaging to plan care, “lose weight” advice for an underweight patient.
+OFTEN ALONGSIDE (same programme): degenerative meniscus tear, pes anserine pain, Baker’s cyst.
+STAGE 3 ADD-ON: osteoarthritis module.</shape-with-text>
+    <shape-with-text id="5:342" x="11800" y="1792" width="280" height="153" name="ROUNDED_RECTANGLE">Fits: activity pain, stiffness 30 minutes or less</shape-with-text>
+    <shape-with-text id="5:346" x="12250" y="1792" width="280" height="176" name="ROUNDED_RECTANGLE">Stiffness over 30 minutes, warmth, or several swollen joints → back to K10</shape-with-text>
+    <shape-with-text id="5:350" x="12580" y="1792" width="280" height="130" name="ROUNDED_RECTANGLE">Doesn’t fit — the pain is in one specific spot → KQ5</shape-with-text>
+    <shape-with-text id="5:338" x="12070" y="1326" width="520" height="396" name="ROUNDED_RECTANGLE">KT5 · Osteoarthritis check (no X-ray needed)
+NICE clinical diagnosis — all three: age 45 or older ✓ • pain with activity (walking, stairs, squatting, rising from the floor) that eases with rest • morning stiffness absent or 30 minutes or less (NICE NG226, 2022).
+For extra confidence — ACR clinical criteria (American College of Rheumatology): knee pain plus 3 or more of: age over 50 • stiffness under 30 minutes • creaking or grating on movement (crepitus) • tenderness of the bone at the joint edges • bony enlargement • no warmth. 3 of 6: sensitivity 95%, specificity 69%; 4 of 6: 84% / 89% (Altman 1986).
+WHO: anyone trained</shape-with-text>
+    <shape-with-text id="5:310" x="12190" y="1149" width="280" height="107" name="ROUNDED_RECTANGLE">45 or older</shape-with-text>
+    <shape-with-text id="5:298" x="8700" y="920" width="480" height="159" name="ROUNDED_RECTANGLE">KQ3 · How old is the patient?
+WHY: growth plates (in children) and osteoarthritis risk (from the mid-40s) change what is likely.</shape-with-text>
+    <shape-with-text id="5:186" x="8800" y="720" width="280" height="130" name="ROUNDED_RECTANGLE">Gradually, with no clear injury</shape-with-text>
+    <shape-with-text id="5:506" x="12910" y="1985" width="520" height="304" name="ROUNDED_RECTANGLE">KD16 · WORKING DIAGNOSIS: Recurrent kneecap instability
+NEXT STEP: quadriceps and hip strengthening as for kneecap pain (KD9), balance and landing control, taping or a brace for return to sport.
+AVOID: deep pivoting before control returns.
+REFER IF: repeated dislocations — the bony shape and cartilage damage need imaging.
+STAGE 3 ADD-ON: kneecap module.</shape-with-text>
+    <shape-with-text id="5:502" x="13030" y="1785" width="280" height="130" name="ROUNDED_RECTANGLE">Apprehension or J-sign positive</shape-with-text>
+    <shape-with-text id="5:498" x="12910" y="1395" width="520" height="320" name="ROUNDED_RECTANGLE">KT11 · Kneecap-instability check
+• Apprehension test: knee slightly bent and relaxed; gently push the kneecap outward. Positive = guarding, fear, or “that’s the feeling”.
+• J-sign: watch the kneecap as the seated patient straightens the knee — it jumps sideways near full straightening.
+• History: often teenage girls, loose joints, family history.
+EVIDENCE: consensus; no strong accuracy figures.
+WHO: physio-level</shape-with-text>
+    <shape-with-text id="5:482" x="13030" y="1172" width="280" height="153" name="ROUNDED_RECTANGLE">The kneecap slips out sideways, or has dislocated before</shape-with-text>
+    <shape-with-text id="5:514" x="13600" y="1716" width="280" height="130" name="ROUNDED_RECTANGLE">Positive → same plan as KD1 (ACL injury)</shape-with-text>
+    <shape-with-text id="5:510" x="13480" y="1395" width="520" height="251" name="ROUNDED_RECTANGLE">KT12 · Old ACL tear check
+Run KT1 (Lachman and lever sign) plus the anterior drawer: knee bent 90°, foot steadied, pull the shin forward and compare sides. In long-standing tears the anterior drawer has sensitivity 92% and specificity 91%; it is much weaker in fresh, swollen injuries (Benjaminse 2006).
+WHO: physio-level</shape-with-text>
+    <shape-with-text id="5:486" x="13600" y="1172" width="280" height="153" name="ROUNDED_RECTANGLE">The whole knee buckles when turning or pivoting, after an old injury</shape-with-text>
+    <shape-with-text id="5:490" x="14050" y="1172" width="280" height="153" name="ROUNDED_RECTANGLE">It gives way with pain or catching on the joint line → meniscus check (KT2)</shape-with-text>
+    <shape-with-text id="5:518" x="14380" y="1395" width="420" height="281" name="ROUNDED_RECTANGLE">KN2 · Giving way from weakness or pain
+Pain switches off the thigh muscle, so the knee buckles even though nothing is torn — common in osteoarthritis and kneecap pain. Strengthening fixes it. Go to the osteoarthritis check (KT5) if 45+, otherwise the kneecap check (KT6).</shape-with-text>
+    <shape-with-text id="5:494" x="14450" y="1172" width="280" height="153" name="ROUNDED_RECTANGLE">It gives way from weakness or pain; nothing slips (often older knees)</shape-with-text>
+    <shape-with-text id="5:478" x="13640" y="943" width="480" height="159" name="ROUNDED_RECTANGLE">KQ6 · What gives way?
+ASK: “When it gives way, what exactly happens? Show me the movement.”</shape-with-text>
+    <shape-with-text id="5:190" x="13740" y="720" width="280" height="153" name="ROUNDED_RECTANGLE">It keeps giving way, or the kneecap keeps slipping out</shape-with-text>
+    <shape-with-text id="5:178" x="8043" y="491" width="480" height="159" name="ROUNDED_RECTANGLE">KQ1 · How did it start?
+ASK: “Think back to the first day it hurt. What happened?”</shape-with-text>
+  </section>
+  <connector id="36:2925" x="3550" y="13105" connectorStart="5:290" connectorStartCap="NONE" connectorEnd="36:2808" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2921" x="2530" y="13197" connectorStart="5:286" connectorStartCap="NONE" connectorEnd="36:2808" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2917" x="1630" y="13282" connectorStart="5:282" connectorStartCap="NONE" connectorEnd="36:2808" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2913" x="260" y="13358" connectorStart="5:278" connectorStartCap="NONE" connectorEnd="36:2808" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2885" x="12808" y="12346" connectorStart="5:848" connectorStartCap="NONE" connectorEnd="34:2770" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2881" x="7310" y="13497" connectorStart="5:414" connectorStartCap="NONE" connectorEnd="34:2763" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2869" x="4450" y="12455" connectorStart="5:294" connectorStartCap="NONE" connectorEnd="34:2739" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2865" x="13070" y="12946" connectorStart="5:506" connectorStartCap="NONE" connectorEnd="34:2739" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2861" x="6410" y="13527" connectorStart="5:398" connectorStartCap="NONE" connectorEnd="34:2739" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2857" x="8210" y="13375" connectorStart="5:430" connectorStartCap="NONE" connectorEnd="34:2739" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2849" x="11840" y="13229" connectorStart="5:354" connectorStartCap="NONE" connectorEnd="34:2726" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2845" x="11270" y="12739" connectorStart="5:474" connectorStartCap="NONE" connectorEnd="34:2726" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2841" x="9110" y="13329" connectorStart="5:446" connectorStartCap="NONE" connectorEnd="34:2726" connectorEndCap="ARROW_LINES"></connector>
+  <connector id="36:2837" x="9680" y="13283" connectorStart="5:450" connectorStartCap="NONE" connectorEnd="34:2726" connectorEndCap="ARROW_LINES"></connector>
+  <section id="7:537" name="Knee · Stage 1 · Safety screen" x="7083" y="3021" width="2040" height="7518">
+    <connector id="8:678" x="1077" y="7145" connectorStart="5:157" connectorStartCap="NONE" connectorEnd="5:165" connectorEndCap="ARROW_LINES">K13&amp;gt;KPASS</connector>
+    <connector id="8:674" x="1406" y="6954" connectorStart="5:157" connectorStartCap="NONE" connectorEnd="5:161" connectorEndCap="ARROW_LINES">K13&amp;gt;K13Y</connector>
+    <connector id="8:670" x="1077" y="6728" connectorStart="5:149" connectorStartCap="NONE" connectorEnd="5:157" connectorEndCap="ARROW_LINES">K12&amp;gt;K13</connector>
+    <connector id="8:666" x="1406" y="6479.5" connectorStart="5:149" connectorStartCap="NONE" connectorEnd="5:153" connectorEndCap="ARROW_LINES">K12&amp;gt;K12Y</connector>
+    <connector id="8:662" x="1077" y="6196" connectorStart="5:141" connectorStartCap="NONE" connectorEnd="5:149" connectorEndCap="ARROW_LINES">K11&amp;gt;K12</connector>
+    <connector id="8:658" x="1406" y="6009" connectorStart="5:141" connectorStartCap="NONE" connectorEnd="5:145" connectorEndCap="ARROW_LINES">K11&amp;gt;K11Y</connector>
+    <connector id="8:654" x="1077" y="5786" connectorStart="5:133" connectorStartCap="NONE" connectorEnd="5:141" connectorEndCap="ARROW_LINES">K10&amp;gt;K11</connector>
+    <connector id="8:650" x="1406" y="5526" connectorStart="5:133" connectorStartCap="NONE" connectorEnd="5:137" connectorEndCap="ARROW_LINES">K10&amp;gt;K10Y</connector>
+    <connector id="8:646" x="1077" y="5231" connectorStart="5:125" connectorStartCap="NONE" connectorEnd="5:133" connectorEndCap="ARROW_LINES">K9&amp;gt;K10</connector>
+    <connector id="8:642" x="1406" y="4998" connectorStart="5:125" connectorStartCap="NONE" connectorEnd="5:129" connectorEndCap="ARROW_LINES">K9&amp;gt;K9Y</connector>
+    <connector id="8:638" x="1077" y="4729" connectorStart="5:117" connectorStartCap="NONE" connectorEnd="5:125" connectorEndCap="ARROW_LINES">K8&amp;gt;K9</connector>
+    <connector id="8:634" x="1406" y="4469" connectorStart="5:117" connectorStartCap="NONE" connectorEnd="5:121" connectorEndCap="ARROW_LINES">K8&amp;gt;K8Y</connector>
+    <connector id="8:630" x="1077" y="4174" connectorStart="5:109" connectorStartCap="NONE" connectorEnd="5:117" connectorEndCap="ARROW_LINES">K7&amp;gt;K8</connector>
+    <connector id="8:626" x="1406" y="3948.5" connectorStart="5:109" connectorStartCap="NONE" connectorEnd="5:113" connectorEndCap="ARROW_LINES">K7&amp;gt;K7Y</connector>
+    <connector id="8:622" x="1077" y="3688" connectorStart="5:101" connectorStartCap="NONE" connectorEnd="5:109" connectorEndCap="ARROW_LINES">K6&amp;gt;K7</connector>
+    <connector id="8:618" x="1406" y="3501" connectorStart="5:101" connectorStartCap="NONE" connectorEnd="5:105" connectorEndCap="ARROW_LINES">K6&amp;gt;K6Y</connector>
+    <connector id="8:614" x="1077" y="3278" connectorStart="5:93" connectorStartCap="NONE" connectorEnd="5:101" connectorEndCap="ARROW_LINES">K5&amp;gt;K6</connector>
+    <connector id="8:610" x="1406" y="3052.5" connectorStart="5:93" connectorStartCap="NONE" connectorEnd="5:97" connectorEndCap="ARROW_LINES">K5&amp;gt;K5Y</connector>
+    <connector id="8:606" x="1077" y="2792" connectorStart="5:85" connectorStartCap="NONE" connectorEnd="5:93" connectorEndCap="ARROW_LINES">K4&amp;gt;K5</connector>
+    <connector id="8:602" x="1406" y="2566.5" connectorStart="5:85" connectorStartCap="NONE" connectorEnd="5:89" connectorEndCap="ARROW_LINES">K4&amp;gt;K4Y</connector>
+    <connector id="8:598" x="1077" y="2306" connectorStart="5:77" connectorStartCap="NONE" connectorEnd="5:85" connectorEndCap="ARROW_LINES">K3&amp;gt;K4</connector>
+    <connector id="8:594" x="1406" y="2057.5" connectorStart="5:77" connectorStartCap="NONE" connectorEnd="5:81" connectorEndCap="ARROW_LINES">K3&amp;gt;K3Y</connector>
+    <connector id="8:590" x="1077" y="1774" connectorStart="5:69" connectorStartCap="NONE" connectorEnd="5:77" connectorEndCap="ARROW_LINES">K2&amp;gt;K3</connector>
+    <connector id="8:586" x="1406" y="1491" connectorStart="5:69" connectorStartCap="NONE" connectorEnd="5:73" connectorEndCap="ARROW_LINES">K2&amp;gt;K2Y</connector>
+    <connector id="8:582" x="1077" y="1173" connectorStart="5:61" connectorStartCap="NONE" connectorEnd="5:69" connectorEndCap="ARROW_LINES">K1&amp;gt;K2</connector>
+    <connector id="8:578" x="1406" y="917" connectorStart="5:61" connectorStartCap="NONE" connectorEnd="5:65" connectorEndCap="ARROW_LINES">K1&amp;gt;K1Y</connector>
+    <connector id="8:574" x="1100" y="615" connectorStart="5:57" connectorStartCap="NONE" connectorEnd="5:61" connectorEndCap="ARROW_LINES">KS1&amp;gt;K1</connector>
+    <connector id="8:570" x="1100" y="313" connectorStart="3:105" connectorStartCap="NONE" connectorEnd="5:57" connectorEndCap="ARROW_LINES">G-KNEE&amp;gt;KS1</connector>
+    <shape-with-text id="3:105" x="550" y="130" width="1100" height="177" name="ROUNDED_RECTANGLE">KNEE PATHWAY
+Stage 1 safety screen (13 checks) → Stage 2 which knee problem is it (16 working diagnoses) → Stage 3 measure, dose the exercise, re-test.</shape-with-text>
+    <shape-with-text id="5:57" x="550" y="387" width="1100" height="222" name="ROUNDED_RECTANGLE">STAGE 1 — SAFETY SCREEN: Is this knee pain safe to treat with exercise?
+Ask the 13 checks in order, most time-critical first. Any YES stops the pathway and names the action. All NO → Stage 2. “Exercise-responsive” is decided by ruling these out, then confirmed by improvement at the week-4 re-test (Stage 3).</shape-with-text>
+    <shape-with-text id="5:61" x="800" y="709" width="600" height="458" name="ROUNDED_RECTANGLE">K1 · Possible broken bone (fracture)
+ASK: Did the pain start with a fall, blow, twist or accident in the last 7 days? Could you walk straight afterwards?
+CHECK — Ottawa Knee Rule (any ONE item = positive):
+• age 55 or older
+• tender ONLY over the kneecap (no other bony tenderness)
+• tender at the head of the fibula (the bony bump on the outer side, just below the knee)
+• can’t bend the knee to 90°
+• can’t take 4 steps, both right after the injury and now (limping steps count)
+EVIDENCE: sensitivity about 98.5% (6 studies, 4,249 adults) — a negative rule makes a fracture very unlikely. Specificity is low (about 49%) on purpose: the job here is to miss nothing (Bachmann 2004).
+WHO: anyone trained
+Recent injury AND any item positive?</shape-with-text>
+    <shape-with-text id="5:65" x="1540" y="859" width="400" height="159" name="ROUNDED_RECTANGLE">EMERGENCY
+Splint the knee, no weight-bearing exercise, same-day X-ray through the doctor.</shape-with-text>
+    <shape-with-text id="5:69" x="800" y="1257" width="600" height="511" name="ROUNDED_RECTANGLE">K2 · Dislocated knee, or damage to the artery or nerve
+ASK: High-energy injury (road accident, fall from a height)? Did the knee look out of place? Is the foot cold, pale, numb, tingling or weak? Is the pain far worse than the injury looks, with a tight, swollen calf (possible compartment syndrome — dangerous pressure build-up inside the muscle)?
+CHECK: feel the foot pulses (top of the foot, and behind the inner ankle bone) and compare sides. Press a toenail and compare how fast the pink colour returns with the other foot. Light touch on the top and sole of the foot; wiggle the toes; lift the foot up.
+POSITIVE IF: weaker pulse, slow colour return, cold foot, numbness or foot drop.
+NOTE: a dislocated knee can pop back in by itself and still have a torn artery. Standard emergency teaching (consensus; no bedside accuracy study).
+WHO: anyone trained
+Any sign present?</shape-with-text>
+    <shape-with-text id="5:73" x="1540" y="1433" width="400" height="159" name="ROUNDED_RECTANGLE">EMERGENCY
+Emergency transfer now. Do not wait for the knee to settle.</shape-with-text>
+    <shape-with-text id="5:77" x="800" y="1858" width="600" height="442" name="ROUNDED_RECTANGLE">K3 · Hot, red, swollen knee — possible joint infection (septic arthritis) or gout
+ASK: Did it swell up quickly over hours to days without a clear injury? Fever, chills, feeling unwell? Recent injection into the knee, a skin wound, diabetes, steroid use or a weak immune system? Past attacks like this (gout)?
+CHECK: temperature. Back of the hand on both knees — is one clearly warmer? Look for swelling that fills the dimples beside the kneecap. Can they stand on it and bend it?
+EVIDENCE: fever is present in only 57% of joint infections — a normal temperature does NOT clear this check (Margaretten 2007). Gout and pseudogout look the same at the bedside; only drawing fluid from the joint tells them apart.
+WHO: basic kit (thermometer)
+Hot, swollen joint present?</shape-with-text>
+    <shape-with-text id="5:81" x="1540" y="1988" width="400" height="182" name="ROUNDED_RECTANGLE">EMERGENCY — SAME DAY
+Treat as a joint infection until proven otherwise. Same-day doctor to draw fluid from the joint (aspiration). No exercise.</shape-with-text>
+    <shape-with-text id="5:85" x="800" y="2390" width="600" height="396" name="ROUNDED_RECTANGLE">K4 · Possible blood clot in the leg (deep vein thrombosis, DVT)
+ASK: Calf pain or swelling? Recent surgery, a plaster cast, bed rest or a long journey? Cancer, pregnancy, hormone pills or a past clot?
+CHECK (items from the Wells score): measure both calves 10 cm below the bony bump under the kneecap and compare; pitting swelling (press — does a dent stay?); tenderness along the deep veins at the back of the calf and inner thigh; is the whole leg swollen?
+NOTE: the Wells score itself is calculated by the doctor (Wells 1997). A burst Baker’s cyst (fluid sac behind the knee) can look identical and needs the same check.
+WHO: basic kit (tape measure)
+Clear one-sided calf swelling with risk factors?</shape-with-text>
+    <shape-with-text id="5:89" x="1540" y="2497" width="400" height="182" name="ROUNDED_RECTANGLE">EMERGENCY — SAME DAY
+Doctor to score the risk and arrange an ultrasound scan or a D-dimer blood test. No exercise until cleared.</shape-with-text>
+    <shape-with-text id="5:93" x="800" y="2876" width="600" height="396" name="ROUNDED_RECTANGLE">K5 · Can’t straighten the knee against gravity — torn quadriceps or kneecap tendon
+ASK: After a stumble or awkward landing, did something give way at the front of the knee? Can you lift your leg straight off the bed?
+CHECK: lying on the back, lift the leg with the knee fully straight (active straight-leg raise). Feel above and below the kneecap for a gap; compare kneecap height with the other side.
+POSITIVE IF: can’t lift it, or the knee sags as the leg lifts (extension lag); a gap; the kneecap sits too high or too low.
+NOTE: a good straight-leg raise makes this unlikely (consensus; no accuracy study).
+WHO: anyone trained
+Can’t straighten against gravity after an injury?</shape-with-text>
+    <shape-with-text id="5:97" x="1540" y="2983" width="400" height="182" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Orthopaedics (bone and joint specialist): repair is time-sensitive. Brace the knee straight meanwhile.</shape-with-text>
+    <shape-with-text id="5:101" x="800" y="3362" width="600" height="320" name="ROUNDED_RECTANGLE">K6 · Truly locked knee
+ASK: Is the knee stuck bent so it won’t straighten at all, even with help? Or does it catch and then free itself?
+CHECK: ask them to relax, then gently try to straighten the knee.
+POSITIVE IF: a firm block short of straight (not just pain).
+NOTE: true locking suggests a torn flap of cartilage stuck in the joint (e.g. a “bucket-handle” meniscus tear). Brief catching that frees itself does NOT stop the pathway — it is a clue for Stage 2 (consensus).
+WHO: anyone trained
+Firm block to straightening?</shape-with-text>
+    <shape-with-text id="5:105" x="1540" y="3443" width="400" height="159" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Orthopaedics. Protect the knee; never force it straight.</shape-with-text>
+    <shape-with-text id="5:109" x="800" y="3772" width="600" height="396" name="ROUNDED_RECTANGLE">K7 · Fast swelling after a twist, or the kneecap popped out
+ASK: Did you hear or feel a pop? How fast did it swell? Did the kneecap slide out to the side?
+POSITIVE IF: the knee swelled within the first few hours — that means bleeding inside the joint, typical of a ligament tear (ACL), a fracture or a kneecap dislocation.
+NOTE: this does NOT rule out exercise. ACL tears can be managed rehab-first (KANON trial, Frobell 2010). A first-time kneecap dislocation needs an X-ray to look for a broken-off fragment of bone or cartilage (BOAST 2024).
+WHO: anyone trained
+Fast swelling or a kneecap dislocation?</shape-with-text>
+    <shape-with-text id="5:113" x="1540" y="3818" width="400" height="304" name="ROUNDED_RECTANGLE">SOON — WITHIN ABOUT A WEEK
+Make sure K1 (fracture) is cleared. Refer for a ligament exam within about a week; first kneecap dislocation → X-ray. Start gentle bending and straightening and thigh-muscle tightening now.
+Then continue down this list, and in Stage 2 take the “specific injury” branch (KQ2).</shape-with-text>
+    <shape-with-text id="5:117" x="800" y="4258" width="600" height="465" name="ROUNDED_RECTANGLE">K8 · Child or teen: a HIP problem showing up as knee pain
+ASK: An older child or teenager with a limp and knee or thigh pain? A younger child who won’t stand on the leg? Pain in the groin or thigh as well? Fever?
+CHECK: lying down, bend the hip to 90° — does the leg swing outward by itself (Drehmann sign)? Turn the hip inward — limited or painful compared with the other side? The knee itself often looks normal — that is the clue.
+EVIDENCE: a slipped capital femoral epiphysis (the ball of the hip slips at the growth plate) shows up as knee or thigh pain alone in about 15% of cases and is often missed (Peck 2017). In a feverish child who won’t bear weight, 2 of the 4 Kocher criteria are already present — about a 40% chance of hip infection (Kocher 1999).
+WHO: physio-level (hip rotation); anyone trained (history)
+RULE: every child with knee pain gets a hip exam. Any sign present?</shape-with-text>
+    <shape-with-text id="5:121" x="1540" y="4411" width="400" height="159" name="ROUNDED_RECTANGLE">EMERGENCY — SAME DAY
+No weight-bearing (crutches), orthopaedics and a hip X-ray today.</shape-with-text>
+    <shape-with-text id="5:125" x="800" y="4813" width="600" height="412" name="ROUNDED_RECTANGLE">K9 · Possible tumour or serious bone disease
+ASK: Constant pain that no rest or position eases? Waking at night with it? History of cancer? Unexplained weight loss? A lump? A teenager with deep bone pain around the knee?
+CHECK: compare both thighs and shins; feel for a firm swelling that is not the joint itself.
+NOTE: night pain ALONE is common in knee osteoarthritis. Escalate when night pain comes WITH constant pain, weight loss, a cancer history or a lump. Around the knee, bone tumours also occur in teenagers.
+TEAM DATA: in the NAS records, night-pain patients were referred less often than average (4.7% vs 8.7%) — this check exists to fix that.
+WHO: anyone trained
+Night or constant pain PLUS a warning sign?</shape-with-text>
+    <shape-with-text id="5:129" x="1540" y="4940" width="400" height="159" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Doctor for an X-ray and blood tests before any loading exercise.</shape-with-text>
+    <shape-with-text id="5:133" x="800" y="5315" width="600" height="465" name="ROUNDED_RECTANGLE">K10 · Whole-body (inflammatory) or post-viral arthritis
+ASK: Morning stiffness longer than 30 minutes that eases with movement? Swelling in 3 or more joints, or in the hands, wrists or feet? A high fever with rash before the joint pain (chikungunya, dengue)? Psoriasis (scaly skin rash), bowel disease, a red painful eye, or diarrhoea or a urine infection in the last month? Back pain that improves with exercise and is worse with rest?
+CHECK: count swollen joints — both hands, wrists, knees, ankles and feet.
+POSITIVE IF: 3 or more swollen joints, or any swelling of small joints.
+EVIDENCE: about 25% of people with chikungunya develop long-lasting inflammatory joint disease (27% in Indian studies) (Rodriguez-Morales 2016).
+WHO: anyone trained
+Inflammatory pattern present?</shape-with-text>
+    <shape-with-text id="5:137" x="1540" y="5445" width="400" height="205" name="ROUNDED_RECTANGLE">REFER — WITHIN WEEKS
+Doctor or rheumatologist (specialist in joint inflammation). Medicines come first; exercise helps alongside once treatment has started.</shape-with-text>
+    <shape-with-text id="5:141" x="800" y="5870" width="600" height="320" name="ROUNDED_RECTANGLE">K11 · Possible tuberculosis (TB) of the knee
+ASK: One knee swollen for weeks to months? Night sweats, cough, weight loss, TB in the family or past TB? HIV or diabetes?
+CHECK: compare thigh size (muscle wasting); feel for a soft, thick, “boggy” swelling.
+NOTE: after the spine, the hip and knee are the commonest joints for TB, mostly in younger people in TB-endemic areas (osteoarticular TB review, 2020).
+WHO: anyone trained
+Long-standing single swollen knee with TB features?</shape-with-text>
+    <shape-with-text id="5:145" x="1540" y="5951" width="400" height="159" name="ROUNDED_RECTANGLE">REFER
+Doctor for a TB work-up. Hold loading exercise until assessed.</shape-with-text>
+    <shape-with-text id="5:149" x="800" y="6280" width="600" height="442" name="ROUNDED_RECTANGLE">K12 · Pain coming from the back or the hip (referred pain)
+ASK: Does the pain start in the back or buttock and spread past the knee? Numbness, tingling or weakness in the foot? NEW trouble controlling the bladder or bowel, or numbness between the legs (the “saddle” area)?
+CHECK: do squatting and bending/straightening the knee change the pain? Then: bend and arch the back; straight-leg raise; turn the hip in and out with it bent to 90°.
+POSITIVE IF: knee movements don’t change the pain, but back or hip movements reproduce it.
+NOTE: hip osteoarthritis commonly refers pain to the front and inside of the knee.
+WHO: anyone trained (knee, back); physio-level (hip rotation)
+Is the pain coming from somewhere else?</shape-with-text>
+    <shape-with-text id="5:153" x="1540" y="6387" width="400" height="228" name="ROUNDED_RECTANGLE">SWITCH PATHWAY
+From the hip → go to the HIP PATHWAY (dashed arrow). From the back → low-back pathway.
+Bladder, bowel or saddle numbness → EMERGENCY, same day.</shape-with-text>
+    <shape-with-text id="5:157" x="800" y="6812" width="600" height="327" name="ROUNDED_RECTANGLE">K13 · Calf or thigh cramp when walking — poor artery circulation
+ASK: Does cramping come on after the same walking distance each time, and go away within minutes of standing still? Smoker or diabetic?
+CHECK: foot pulses, skin temperature, hair loss on the shin, shiny skin, slow-healing sores.
+NOTE: this is peripheral arterial disease. Walking exercise still helps, but needs a medical check first (consensus).
+WHO: anyone trained; basic kit
+Walking-distance cramp with poor circulation signs?</shape-with-text>
+    <shape-with-text id="5:161" x="1540" y="6896" width="400" height="159" name="ROUNDED_RECTANGLE">REFER — ROUTINE
+Doctor for a circulation assessment, then supervised walking exercise.</shape-with-text>
+    <shape-with-text id="5:169" x="100" y="709" width="560" height="488" name="ROUNDED_RECTANGLE">SAFETY MODIFIERS — not stops; they change who signs off and how hard you start
+• Chest pain, breathlessness or fainting with effort → doctor before progressive exercise.
+• Blood pressure clearly uncontrolled → doctor sign-off first (use the local cut-off).
+• Diabetes → check feet and skin before kneeling or barefoot work.
+• Pregnancy → avoid lying flat on the back after the first trimester.
+
+CONTEXT TO RECORD (changes the plan)
+• Underweight is common here (median BMI 18.8 in the NAS data), so standard “lose weight” advice often doesn’t apply.
+• Floor sitting, squatting toilets, kneeling for prayer, field work and carrying water define the goals.
+• Fear that exercise will damage the knee, low mood and poor sleep slow recovery — address them in education.</shape-with-text>
+    <shape-with-text id="5:165" x="800" y="7229" width="600" height="189" name="ROUNDED_RECTANGLE">ALL 13 = NO → EXERCISE-RESPONSIVE (BY EXCLUSION)
+Go to Stage 2. This label is confirmed later by improvement at the week-4 re-test. If nothing improves, come back to this list.</shape-with-text>
+  </section>
+  <section id="7:536" name="Start here" x="7943" y="1628" width="13742" height="1263">
+    <connector id="8:550" x="6871" y="848" connectorStart="3:97" connectorStartCap="NONE" connectorEnd="3:101" connectorEndCap="ARROW_LINES">G-A0B&amp;gt;G-N0B</connector>
+    <connector id="8:546" x="6871" y="621" connectorStart="3:85" connectorStartCap="NONE" connectorEnd="3:97" connectorEndCap="ARROW_LINES">G-Q0&amp;gt;G-A0B</connector>
+    <connector id="8:542" x="6871" y="621" connectorStart="3:85" connectorStartCap="NONE" connectorEnd="3:93" connectorEndCap="ARROW_LINES">G-Q0&amp;gt;G-A0H</connector>
+    <connector id="8:538" x="240" y="621" connectorStart="3:85" connectorStartCap="NONE" connectorEnd="3:89" connectorEndCap="ARROW_LINES">G-Q0&amp;gt;G-A0K</connector>
+    <connector id="8:534" x="6871" y="349" connectorStart="3:81" connectorStartCap="NONE" connectorEnd="3:85" connectorEndCap="ARROW_LINES">G-START&amp;gt;G-Q0</connector>
+    <shape-with-text id="3:81" x="6591" y="130" width="560" height="213" name="ROUNDED_RECTANGLE">START
+Patient reports hip or knee pain.
+Already established: the pain is musculoskeletal (bone, joint, muscle, tendon or nerve of the leg) — not coming from the heart, abdomen, skin or another body system.</shape-with-text>
+    <shape-with-text id="3:85" x="6631" y="433" width="480" height="182" name="ROUNDED_RECTANGLE">Q0 · Where is the main pain?
+ASK: &quot;Point with one finger to where it hurts the most.&quot;
+WATCH: a hand cupped around the side of the hip (the &quot;C-sign&quot;) points to the hip joint itself.</shape-with-text>
+    <shape-with-text id="3:89" x="100" y="735" width="280" height="130" name="ROUNDED_RECTANGLE">At the knee, or just above or below it</shape-with-text>
+    <shape-with-text id="3:93" x="13362" y="735" width="280" height="130" name="ROUNDED_RECTANGLE">Groin, side of the hip, buttock or upper thigh</shape-with-text>
+    <shape-with-text id="3:97" x="6731" y="735" width="280" height="107" name="ROUNDED_RECTANGLE">Both, or not sure</shape-with-text>
+    <shape-with-text id="3:101" x="6651" y="912" width="440" height="251" name="ROUNDED_RECTANGLE">Check the HIP first
+Hip problems often send pain down to the knee — especially hip osteoarthritis, and a slipped growth plate at the hip in children. If moving the hip (turning it in and out, bent to 90°) reproduces the knee pain, the hip is the source → HIP PATHWAY. If not → KNEE PATHWAY.</shape-with-text>
+  </section>
+  <section id="7:535" name="Sources" x="15424" y="-130" width="2060" height="987">
+    <shape-with-text id="5:1009" x="100" y="130" width="900" height="757" name="ROUNDED_RECTANGLE">KEY SOURCES (1 of 2) — knee, osteoarthritis and exercise
+• Bachmann LM et al. 2004. Accuracy of the Ottawa knee rule: systematic review. Ann Intern Med 140:121. doi:10.7326/0003-4819-140-5-200403020-00013
+• Benjaminse A et al. 2006. Clinical diagnosis of ACL rupture: meta-analysis. JOSPT 36:267. doi:10.2519/jospt.2006.2011
+• Sokal PA et al. 2022. Clinical tests for ACL tears: meta-analysis. Knee Surg Sports Traumatol Arthrosc.
+• Smith BE et al. 2015. Special tests for meniscal tears: meta-analysis. Evid Based Med 20:88. doi:10.1136/ebmed-2014-110160
+• Lowery DJ et al. 2006. Clinical composite score for meniscal pathology. Arthroscopy 22:1174. doi:10.1016/j.arthro.2006.06.014
+• Rubinstein RA et al. 1994. Clinical examination for PCL injuries. Am J Sports Med 22:550. doi:10.1177/036354659402200419
+• Logerstedt DS et al. 2017. Knee ligament sprain — clinical practice guideline (CPG). JOSPT 47(11).
+• Logerstedt DS et al. 2018. Meniscal and articular cartilage lesions CPG. JOSPT 48(2).
+• Willy RW et al. 2019. Patellofemoral pain CPG. JOSPT 49(9). doi:10.2519/jospt.2019.0302
+• Crossley KM et al. 2016. Patellofemoral pain consensus statement. Br J Sports Med 50:839.
+• Malliaras P et al. 2015. Patellar tendinopathy: diagnosis and load management. JOSPT 45:887.
+• Altman R et al. 1986. ACR classification criteria for knee osteoarthritis. Arthritis Rheum 29:1039.
+• NICE NG226. 2022. Osteoarthritis in over 16s: diagnosis and management.
+• Bannuru RR et al. 2019. OARSI guidelines for non-surgical management of osteoarthritis. Osteoarthritis Cartilage 27:1578.
+• Skou ST, Roos EM. 2017. GLA:D programme. BMC Musculoskelet Disord 18:72.
+• Kise NJ et al. 2016. Exercise vs keyhole surgery for degenerative meniscal tear (RCT). BMJ 354:i3740.
+• Frobell RB et al. 2010, 2013. KANON trial: ACL rehab vs early reconstruction. NEJM 363:331; BMJ 346:f232.
+• Dobson F et al. 2013. OARSI recommended performance-based tests. Osteoarthritis Cartilage 21:1042.
+• BOAST 2024. First-time lateral patellar dislocation (British Orthopaedic Association).
+• Wells PS et al. 1997. Clinical model for deep vein thrombosis. Lancet 350:1795.
+• Margaretten ME et al. 2007. Does this adult patient have septic arthritis? JAMA 297:1478. doi:10.1001/jama.297.13.1478</shape-with-text>
+    <shape-with-text id="5:1013" x="1060" y="130" width="900" height="688" name="ROUNDED_RECTANGLE">KEY SOURCES (2 of 2) — hip, children, red flags, local context
+• Cibulka MT et al. 2017; Koc TA et al. 2025. Hip pain and mobility deficits — hip osteoarthritis CPG. JOSPT.
+• Altman R et al. 1991. ACR classification criteria for hip osteoarthritis. Arthritis Rheum 34:505.
+• Sutlive TG et al. 2008. Clinical prediction rule for hip osteoarthritis. JOSPT 38:542. doi:10.2519/jospt.2008.2753
+• Enseki KR et al. 2023. Nonarthritic hip joint pain CPG. JOSPT 53(7).
+• Reiman MP et al. 2020. Zurich 2018 consensus on hip-related pain. Br J Sports Med 54:631.
+• Reiman MP et al. 2015. Clinical tests for FAI and labral tear: meta-analysis. Br J Sports Med 49:811.
+• Griffin DR et al. 2016. Warwick Agreement on FAI syndrome. Br J Sports Med 50:1169.
+• Weir A et al. 2015. Doha agreement on groin pain in athletes. Br J Sports Med 49:768.
+• Grimaldi A et al. 2017. Clinical tests for MRI-confirmed gluteal tendinopathy. Br J Sports Med 51:519. doi:10.1136/bjsports-2016-096175
+• Mellor R et al. 2018. LEAP trial: education + exercise for gluteal tendinopathy. BMJ 361:k1662.
+• Martin RL et al. 2022. Hamstring strain injury CPG. JOSPT 52(3).
+• Laslett M et al. 2005. Sacroiliac provocation test cluster. Man Ther 10:207. doi:10.1016/j.math.2005.01.003
+• Tiru M et al. 2002. Percussion for occult hip fracture. Singapore Med J 43:467 — accuracy figures as reported in a 2013 review (BMC Musculoskelet Disord 14:257).
+• Fulcrum test accuracy: secondary summary of small primary studies — treat as low certainty.
+• Kocher MS et al. 1999. Septic arthritis vs transient synovitis of the hip in children. J Bone Joint Surg Am 81:1662.
+• Peck DM et al. 2017. Slipped capital femoral epiphysis. Am Fam Physician.
+• Rodriguez-Morales AJ et al. 2016. Chronic inflammatory rheumatism after chikungunya: meta-analysis. Arthritis Care Res.
+• Osteoarticular tuberculosis review, 2020.
+• Team Intelehealth NAS records analysis (internal): 6,077 musculoskeletal visits.
+
+Accuracy figures marked in the boxes were checked against PubMed abstracts where available. Boxes marked “consensus” have no validated accuracy figure.</shape-with-text>
+  </section>
+  <section id="7:534" name="How to read this board" x="12144" y="-130" width="3080" height="1588">
+    <shape-with-text id="3:5" x="100" y="130" width="1500" height="340" name="ROUNDED_RECTANGLE">HIP &amp; KNEE ASSESSMENT FLOWCHART
+A question-by-question pathway from &quot;my knee or hip hurts&quot; to a working diagnosis, a measured baseline and a starting exercise plan — using only questions, observation and hands-on tests. No imaging is assumed.
+Built from: JOSPT physical therapy clinical practice guidelines (knee ligament 2017, meniscus 2018, patellofemoral pain 2019, hip osteoarthritis 2017/2025, non-arthritic hip 2023, hamstring 2022), NICE NG226 (UK osteoarthritis guideline, 2022), OARSI (Osteoarthritis Research Society International), the Zurich and Doha international consensus statements, and diagnostic accuracy studies. Draft for clinical review — a physiotherapist should sign off before use with patients.</shape-with-text>
+    <shape-with-text id="3:9" x="100" y="550" width="700" height="412" name="ROUNDED_RECTANGLE">HOW TO USE THIS BOARD
+1. Start at the black START box and follow the arrows.
+2. Yellow boxes are QUESTIONS. Ask them in plain words, pick the white answer box that matches what the patient says, and follow its arrow.
+3. Blue boxes are HANDS-ON CHECKS. Each one says what to do, what counts as positive, how accurate it is, and who can usually do it.
+4. Every pathway runs in 3 stages: Stage 1 safety screen (is this safe to treat with exercise?) → Stage 2 working diagnosis (which problem is it?) → Stage 3 baseline and plan (measure, set the exercise dose, re-test).
+5. Dashed grey arrows jump to another part of the board. Box codes (e.g. K3, HT2, KD8) let you jump by name.
+
+Starting assumption: non-musculoskeletal causes (heart, abdomen, skin, etc.) have already been ruled out.</shape-with-text>
+    <shape-with-text id="3:13" x="860" y="550" width="700" height="458" name="ROUNDED_RECTANGLE">HOW TO READ THE ACCURACY NUMBERS
+Sensitivity — out of 100 people who really HAVE the problem, how many the test catches. A highly sensitive test that comes back NEGATIVE helps rule the problem OUT.
+Specificity — out of 100 people who do NOT have it, how many the test correctly clears. A highly specific test that comes back POSITIVE helps rule the problem IN.
+Positive predictive value — of the people who test positive, how many actually have it.
+Likelihood ratio (LR) — how strongly a result shifts the odds. LR+ above 10 = strong rule-in; LR− below 0.1 = strong rule-out.
+Cluster — several findings counted together; beats any single test for almost every condition here.
+Consensus — expert agreement only; no accuracy study was found. Treat these boxes with more caution.
+Working diagnosis — the best label you can act on without imaging. It is confirmed, or revised, by how the patient responds at the week-4 re-test.</shape-with-text>
+    <shape-with-text id="3:17" x="1620" y="550" width="700" height="435" name="ROUNDED_RECTANGLE">PLAIN-LANGUAGE GLOSSARY
+Flexion / extension — bending / straightening a joint.
+Internal / external rotation — turning the thigh or shin inward / outward.
+Adduction / abduction — moving the leg toward / away from the middle of the body.
+Medial / lateral — inner side / outer side. Anterior / posterior — front / back.
+Effusion — swelling (fluid) inside the joint.
+Weight-bearing — standing or walking on the leg.
+Isometric exercise — the muscle tightens and holds without the joint moving; usually the least painful way to start loading.
+Irritability — how easily the pain flares up and how long it takes to settle.
+Referred pain — pain felt in one place but coming from another (e.g. a hip problem felt at the knee).
+Imaging — X-ray, ultrasound or MRI scan.
+Doctor — the medical officer on the team. Orthopaedics — bone and joint specialists.
+Osteoarthritis (OA) — &quot;wear and repair&quot; changes in a joint&#39;s cartilage and bone.</shape-with-text>
+    <shape-with-text id="3:21" x="2380" y="550" width="600" height="320" name="ROUNDED_RECTANGLE">WHO CAN DO EACH CHECK (guidance, never a stop)
+Anyone trained — a health worker after short training: questions, looking, pressing, simple movements.
+Basic kit — needs a thermometer, tape measure, blood-pressure cuff or phone app.
+Physio-level — needs a physiotherapist&#39;s or doctor&#39;s hands-on skill; can be done by video review or at referral.
+If nobody with the skill is available: record the history, film the movement, note the test as &quot;not done&quot; and keep going — the pathway still works, with a little less certainty.</shape-with-text>
+    <shape-with-text id="3:25" x="100" y="1098" width="360" height="114" name="ROUNDED_RECTANGLE">COLOUR KEY</shape-with-text>
+    <shape-with-text id="3:29" x="490" y="1098" width="360" height="156" name="ROUNDED_RECTANGLE">START / PATHWAY / STAGE HEADER</shape-with-text>
+    <shape-with-text id="3:33" x="880" y="1098" width="360" height="144" name="ROUNDED_RECTANGLE">QUESTION to ask the patient</shape-with-text>
+    <shape-with-text id="3:37" x="1270" y="1098" width="360" height="107" name="ROUNDED_RECTANGLE">Patient&#39;s answer → follow this arrow</shape-with-text>
+    <shape-with-text id="3:41" x="1660" y="1098" width="360" height="114" name="ROUNDED_RECTANGLE">HANDS-ON CHECK or TEST</shape-with-text>
+    <shape-with-text id="3:45" x="2050" y="1098" width="360" height="144" name="ROUNDED_RECTANGLE">EMERGENCY — act now or same day; no exercise</shape-with-text>
+    <shape-with-text id="3:49" x="2440" y="1098" width="360" height="144" name="ROUNDED_RECTANGLE">URGENT — doctor or specialist within days</shape-with-text>
+    <shape-with-text id="3:53" x="100" y="1284" width="360" height="174" name="ROUNDED_RECTANGLE">SOON — check within about a week; gentle exercise can start</shape-with-text>
+    <shape-with-text id="3:57" x="490" y="1284" width="360" height="204" name="ROUNDED_RECTANGLE">REFER — doctor or specialist within weeks; medical care first, exercise alongside</shape-with-text>
+    <shape-with-text id="3:61" x="880" y="1284" width="360" height="174" name="ROUNDED_RECTANGLE">SWITCH PATHWAY — the pain is coming from somewhere else</shape-with-text>
+    <shape-with-text id="3:65" x="1270" y="1284" width="360" height="114" name="ROUNDED_RECTANGLE">PASSED the safety screen</shape-with-text>
+    <shape-with-text id="3:69" x="1660" y="1284" width="360" height="144" name="ROUNDED_RECTANGLE">WORKING DIAGNOSIS + NEXT STEP</shape-with-text>
+    <shape-with-text id="3:73" x="2050" y="1284" width="360" height="114" name="ROUNDED_RECTANGLE">MEASURE · DOSE · RE-TEST</shape-with-text>
+    <shape-with-text id="3:77" x="2440" y="1284" width="360" height="144" name="ROUNDED_RECTANGLE">NOTE — why this matters, or context</shape-with-text>
+  </section>
+  <connector id="8:554" x="8183" y="2499" connectorStart="3:89" connectorStartCap="NONE" connectorEnd="3:105" connectorEndCap="ARROW_LINES">G-A0K&amp;gt;G-KNEE</connector>
+  <connector id="8:558" x="21445" y="2499" connectorStart="3:93" connectorStartCap="NONE" connectorEnd="3:109" connectorEndCap="ARROW_LINES">G-A0H&amp;gt;G-HIP</connector>
+  <connector id="8:562" x="8739" y="2665.5" connectorStart="3:101" connectorStartCap="NONE" connectorEnd="3:105" connectorEndCap="ARROW_LINES">G-N0B&amp;gt;G-KNEE</connector>
+  <connector id="8:566" x="15040" y="2665.5" connectorStart="3:101" connectorStartCap="NONE" connectorEnd="3:109" connectorEndCap="ARROW_LINES">G-N0B&amp;gt;G-HIP</connector>
+  <connector id="8:682" x="8183" y="10445" connectorStart="5:165" connectorStartCap="NONE" connectorEnd="5:174" connectorEndCap="ARROW_LINES">KPASS&amp;gt;KS2</connector>
+  <connector id="8:790" x="21445" y="9839" connectorStart="5:715" connectorStartCap="NONE" connectorEnd="5:724" connectorEndCap="ARROW_LINES">HPASS&amp;gt;HS2</connector>
+  <connector id="8:1558" x="9029" y="3239.5" connectorStart="5:153" connectorStartCap="NONE" connectorEnd="3:109" connectorEndCap="ARROW_LINES">K12Y&amp;gt;G-HIP</connector>
+  <connector id="10:1317" x="7350" y="13624.5" connectorStart="7:538" connectorStartCap="NONE" connectorEnd="5:527" connectorEndCap="ARROW_LINES">S2&amp;gt;KS3</connector>
+  <connector id="10:1321" x="20275" y="13072.5" connectorStart="7:541" connectorStartCap="NONE" connectorEnd="5:921" connectorEndCap="ARROW_LINES">S2&amp;gt;HS3</connector>
+</canvas>

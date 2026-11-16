@@ -1,0 +1,201 @@
+{
+  "board_key": "rWECNSFkKrOGuJkRPvsQdP",
+  "section": {
+    "id": "1:7328",
+    "name": "Low back · Stage 3 · Exercise groups",
+    "x": "756",
+    "y": "15976",
+    "width": "8927",
+    "height": "2594"
+  },
+  "elements": [
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6763",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6763",
+        "x": "3914",
+        "y": "160",
+        "width": "1100",
+        "height": "326",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "STAGE 3 — EXERCISE GROUPS: diagnoses that share a problem share a programme\nEach working diagnosis points (grey curved arrows) to one or two groups. A group = the shared mechanism + the exercises that target it + how to progress. Pick 3–5 exercises from the group, not all of them, and set the dose in Stage 4. Everyone finishes in the CORE PROGRAMME.\nWhy groups work: no single exercise type beats the others for chronic back pain (Hayden 2021; Owen 2020) — matching the direction of movement (Long 2004), the patient’s preference and a progressive dose matters more than the exact exercise."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6771",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6771",
+        "x": "120",
+        "y": "816",
+        "width": "1000",
+        "height": "697",
+        "name": "SQUARE"
+      },
+      "text": "LX-B · Early movement & mobility (“move it gently, don’t rest it”)\nFor: LD3 acute low back pain with mobility deficits (and any HIGH-irritability start)\nSHARED PROBLEM: a sore, guarded, stiff back where fear and protective spasm limit movement; recovery is faster when people stay active.\n• Walking: short bouts of 5–10 min several times a day, a little longer each day\n• Cat–camel on hands and knees: 10 slow reps\n• Knee rolls side to side lying on the back: 10 each way\n• Pelvic tilts and gentle knees-to-chest: 10 reps\n• Child’s pose / prayer stretch (sit back onto the heels): 3 × 20 s\n• Heat wrap before moving if it helps (short-term relief, French 2006)\nDOSE: little and often — every 2–3 hours; mild-to-moderate pain while moving is OK.\nPROGRESS: within 1–2 weeks → LX-C or the core programme; return to work early on modified duties.\nEVIDENCE: advice to stay active is recommended over bed rest (NICE NG59)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6767",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6767",
+        "x": "1518",
+        "y": "816",
+        "width": "1000",
+        "height": "853",
+        "name": "SQUARE"
+      },
+      "text": "LX-A · Direction-specific repeated movements\nFor: LD1 extension preference · LD2 flexion preference · LD6 centralising sciatica · LD8 spinal stenosis\nSHARED PROBLEM: pain that changes with one direction of movement; repeating the “good” direction calms it and restores movement.\nEXTENSION BRANCH (LD1, LD6):\n• Lying face down, relaxed, 2–3 min → propped on the elbows, 2–3 min\n• Prone press-ups: 10 reps, hips stay down, straighten the arms as able\n• Standing back-bends, hands on the hips: 10 reps (use at work or in the field)\n• Sitting tall with a rolled towel behind the low back\nFLEXION BRANCH (LD2, LD8):\n• Knees-to-chest lying on the back: 10 reps or hold 20–30 s\n• Pelvic tilts (flatten the back into the floor): 10 reps\n• Seated forward bend between the knees: 10 reps\n• Stationary cycling, or walking leaning on a stick or trolley\nDOSE: 10 reps every 2–3 hours while symptoms are active.\nRULE: keep going if leg symptoms move toward the back; STOP if they spread further down the leg.\nPROGRESS: pain stays central → reintroduce the opposite direction gently → core programme."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6787",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6787",
+        "x": "2658",
+        "y": "816",
+        "width": "1000",
+        "height": "771",
+        "name": "SQUARE"
+      },
+      "text": "LX-F · Bone-safe back-extensor strength & balance\nFor: LD12 stable osteoporotic vertebral fracture · older adults with a stooped (hyperkyphotic) back\nSHARED PROBLEM: a weak, stooped back with fragile bones — the goals are extensor strength, upright posture and fewer falls.\n• Lying face down (pillow under the tummy): lift the head and chest a little, 8–10 reps, hold 3 s\n• Seated back extension against a chair back, shoulder blades squeezed: 10 reps\n• Wall stand — heels, buttocks, shoulders and head toward the wall: 5 × 10 s\n• Sit-to-stand and mini squats with a hip-hinge (no rounding); heel raises\n• Balance: tandem stance and heel-to-toe walking beside a support\n• Daily walking\nAVOID: sit-ups, toe touches, twisting with load, lifting from the floor with a rounded back.\nEVIDENCE: back-extensor exercise → 2.7 times fewer vertebral fractures at 10 years (Sinaki 2002); exercise guidance from Too Fit To Fracture (Giangregorio 2014)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6779",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6779",
+        "x": "3798",
+        "y": "816",
+        "width": "1000",
+        "height": "845",
+        "name": "SQUARE"
+      },
+      "text": "LX-D · Nerve-friendly movement (calm the nerve, then load it)\nFor: LD7 non-centralising sciatica · LD6 centralising sciatica (once the leg pain has centralised)\nSHARED PROBLEM: a sensitive, irritated nerve root that dislikes being stretched or squeezed but improves with gentle movement and blood flow.\n• Positions of ease: lying with the calves on a chair; side-lying with a pillow between the knees\n• Seated nerve slider: sitting tall, straighten the knee while looking up, then bend the knee while looking down — 10–15 smooth reps, no stretch pain\n• Lying slider: hold behind the thigh; straighten and bend the knee while pointing and pulling up the foot — 10 reps\n• Short walks several times a day\n• Then rebuild the muscles of that nerve root: bridges, sit-to-stand, step-ups, heel raises\nDOSE: sliders 10–15 reps, 2–3 times a day; any symptoms must settle within minutes.\nRULE: numbness or pain spreading further down = too much — stop and step down.\nAVOID: holding long hamstring or “sciatic” stretches.\nEVIDENCE: neural mobilisation reduced pain (about 1.8 points out of 10) and disability in chronic low back pain (Basson 2017)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6775",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6775",
+        "x": "4938",
+        "y": "816",
+        "width": "1000",
+        "height": "741",
+        "name": "SQUARE"
+      },
+      "text": "LX-C · Motor control & trunk–hip strength\nFor: LD4 movement-control impairment (incl. stable slip, healed pars fracture) · LD9 sacroiliac joint pain · LD10 pregnancy-related pelvic girdle pain\nSHARED PROBLEM: the trunk and pelvis don’t control load well — catching, giving way, or pain when weight passes through the pelvis.\n• Bracing — gently tighten the tummy and pelvic floor, keep breathing: 10 × 10 s\n• Bird-dog on hands and knees, opposite arm and leg: 6–10 each side, hold 5–10 s\n• Side-bridge from the knees → from the feet: 3–5 × 10 s each side\n• Curl-up, hands under the low back, head and shoulders only: 5–10 × 10 s\n• Bridges: 10–15 reps → single-leg bridges\n• Hip-hinge with a stick along the spine → lift a light load from chair height\nPELVIC GIRDLE BRANCH (LD9, LD10): side-lying leg lifts, clams, standing hip extension, single-leg stance holding a support, step-ups; pelvic belt short-term; in pregnancy use side-lying and hands-and-knees versions instead of lying flat.\nDOSE: holds 6–10 × 10 s once or twice daily → 2–3 sets of 8–12 under load.\nEVIDENCE: motor control / stabilisation is among the most effective exercise types for chronic back pain (Owen 2020); the Hicks 2005 rule picks likely responders."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6783",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6783",
+        "x": "6078",
+        "y": "816",
+        "width": "1000",
+        "height": "920",
+        "name": "SQUARE"
+      },
+      "text": "LX-E · Graded activity, aerobic conditioning & pain education\nFor: LD5 chronic non-specific back pain · LD11 widespread pain / central sensitisation · LD8 stenosis (walking programme) · anyone with a HIGH STarT Back score\nSHARED PROBLEM: a sensitised, deconditioned system and fear of movement — the aim is confidence and capacity, not finding “the right muscle”.\n• Pain education: hurt ≠ harm; flare-ups are expected and settle\n• Walking programme: start at 70–80% of today’s comfortable time or distance; add about 10% a week (by plan, not by pain)\n• Graded exposure: list feared activities (bending, lifting, floor sitting) and practise them in small, safe steps\n• Whole-body strength: sit-to-stand, wall push-ups, rows with a band or water bottles, step-ups\n• Yoga- or Pilates-style classes, tai chi, cycling, swimming — whatever they enjoy\n• Relaxed breathing and a regular sleep routine\nDOSE: build toward 150 minutes of moderate activity a week plus 2 strength days (WHO 2020 physical activity guidelines).\nRULE: progress by the plan (time-contingent), not by how the pain feels that day.\nEVIDENCE: exercise reduces pain in chronic back pain with no clear best type (Hayden 2021); stratified, psychologically informed care improved disability and saved costs (Hill 2011)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6791",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6791",
+        "x": "3364",
+        "y": "2066",
+        "width": "2200",
+        "height": "408",
+        "name": "SQUARE"
+      },
+      "text": "LX-CORE · CORE PROGRAMME FOR EVERYONE — where every group ends up\nOnce symptoms are settling, every patient moves here. For chronic back pain the evidence favours any well-dosed, enjoyable, progressive programme over the “perfect” exercise.\nSTRENGTH (2–3 days a week, 2–3 sets of 8–12): sit-to-stand → squat holding a water pot; hip-hinge → lifting a sack or bag from a step; split squats or step-ups; rows with a band; carrying practice (two equal loads, then one-sided).\nENDURANCE: walking, cycling or swimming, building to 150 minutes a week.\nWORK AND LIFE TASKS: practise the patient’s own PSFS goals — floor sitting and rising, squatting toilet, lifting a child, carrying water, field-work postures, riding a two-wheeler.\nFLARE-UP PLAN: drop back one level for 2–3 days, keep walking, use the group’s easing movement, then rebuild.\nWHY KEEP GOING: 69% of people have another episode within 12 months of recovering (da Silva 2019); exercise with education cut the risk of a new episode by about 45% (Steffens 2016)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7782",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7782",
+        "x": "3158",
+        "y": "1593",
+        "connectorStart": "1:6787",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6791",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-F&gt;LX-CORE"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7778",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7778",
+        "x": "4464",
+        "y": "1742",
+        "connectorStart": "1:6783",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6791",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-E&gt;LX-CORE"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7774",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7774",
+        "x": "4298",
+        "y": "1667",
+        "connectorStart": "1:6779",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6791",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-D&gt;LX-CORE"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7770",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7770",
+        "x": "4464",
+        "y": "1563",
+        "connectorStart": "1:6775",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6791",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-C&gt;LX-CORE"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7766",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7766",
+        "x": "620",
+        "y": "1519",
+        "connectorStart": "1:6771",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6791",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-B&gt;LX-CORE"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7762",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7762",
+        "x": "2018",
+        "y": "1675",
+        "connectorStart": "1:6767",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6791",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LX-A&gt;LX-CORE"
+    }
+  ]
+}

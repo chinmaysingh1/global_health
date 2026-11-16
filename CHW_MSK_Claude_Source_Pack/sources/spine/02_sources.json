@@ -1,0 +1,52 @@
+{
+  "board_key": "rWECNSFkKrOGuJkRPvsQdP",
+  "section": {
+    "id": "1:7324",
+    "name": "Sources",
+    "x": "13405",
+    "y": "-3800",
+    "width": "1140",
+    "height": "3100"
+  },
+  "elements": [
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6443",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6443",
+        "x": "120",
+        "y": "160",
+        "width": "900",
+        "height": "1163",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KEY SOURCES (1 of 3) — low back: guidelines, red flags and diagnosis\n• Delitto A et al. 2012. Low back pain — clinical practice guideline (CPG). JOSPT 42(4):A1. George SZ et al. 2021. Interventions for acute and chronic low back pain: CPG revision. JOSPT 51(11):CPG1.\n• NICE NG59. 2016, updated 2020. Low back pain and sciatica in over 16s: assessment and management.\n• WHO. 2023. Guideline for non-surgical management of chronic primary low back pain in adults in primary and community care settings.\n• Hartvigsen J et al.; Foster NE et al. 2018. Lancet Low Back Pain Series. Lancet 391:2356; 391:2368.\n• Finucane LM et al. 2020. International framework for red flags for potential serious spinal pathologies (IFOMPT). JOSPT 50:350. doi:10.2519/jospt.2020.9971\n• Henschke N et al. 2009. Prevalence of and screening for serious spinal pathology in primary care. Arthritis Rheum 60:3072.\n• Downie A et al. 2013. Red flags to screen for malignancy and fracture in low back pain: systematic review. BMJ 347:f7095. doi:10.1136/bmj.f7095\n• Deyo RA et al. 1992. What can the history and physical examination tell us about low back pain? JAMA 268:760.\n• Langdon J et al. 2010. Vertebral compression fractures — new clinical signs (closed-fist percussion, supine sign). Ann R Coll Surg Engl 92:163.\n• Sieper J et al. 2009. ASAS criteria for inflammatory back pain. Ann Rheum Dis 68:784.\n• Grødahl LHJ et al. 2016. History and examination for spondylolysis in athletes: systematic review. Man Ther 24:7. doi:10.1016/j.math.2016.03.011\n• Devillé WL et al. 2000. Straight-leg raise (Lasègue) for disc herniation: systematic review. Spine 25:1140.\n• Majlesi J et al. 2008. Slump and straight-leg raise accuracy. J Clin Rheumatol 14:87.\n• Suri P et al. 2010. Does this older adult have lumbar spinal stenosis? JAMA 304:2628.\n• Fritz JM et al. 1997. Two-stage treadmill test for lumbar spinal stenosis. J Spinal Disord 10:410.\n• Laslett M et al. 2005. Sacroiliac provocation tests and composites. Man Ther 10:207.\n• Mens JM et al. 2001. Active straight-leg raise test in pregnancy-related pelvic pain. Spine 26:1167. doi:10.1097/00007632-200105150-00015\n• Vleeming A et al. 2008. European guidelines for pelvic girdle pain. Eur Spine J 17:794.\n• Long A et al. 2004. Does it matter which exercise? Directional preference RCT. Spine 29:2593. doi:10.1097/01.brs.0000146464.23007.2a\n• Flynn T et al. 2002; Childs JD et al. 2004. Spinal manipulation clinical prediction rule and validation. Spine 27:2835; Ann Intern Med 141:920.\n• Hicks GE et al. 2005. Prediction rule for stabilisation exercise. Arch Phys Med Rehabil 86:1753. doi:10.1016/j.apmr.2005.03.033\n• Alrwaily M et al. 2016. Treatment-based classification system for low back pain. Phys Ther 96:1057.\n• Nijs J et al. 2015. Classification of nociceptive, neuropathic and central sensitisation pain in low back pain. Pain Physician 18:E333.\n• Neblett R et al. 2013. Central Sensitization Inventory cut-off. J Pain 14:438.\n• Hill JC et al. 2008; 2011. STarT Back tool; STarT Back stratified care RCT. Arthritis Rheum 59:632; Lancet 378:1560.\n• Ostelo RW et al. 2008. Minimal important change for back pain measures. Spine 33:90. doi:10.1097/BRS.0b013e31815e3a10\n• Delitto A et al. 2015. Surgery vs physical therapy for lumbar spinal stenosis (RCT). Ann Intern Med 162:465. doi:10.7326/M14-1420"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6447",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6447",
+        "x": "120",
+        "y": "1433",
+        "width": "900",
+        "height": "782",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KEY SOURCES (2 of 3) — neck and upper back\n• Blanpied PR et al. 2017. Neck pain — CPG revision. JOSPT 47(7):A1.\n• Rushton A et al. 2023. International IFOMPT cervical framework: vascular pathologies of the neck. JOSPT 53:7. doi:10.2519/jospt.2022.11147\n• Stiell IG et al. 2001. The Canadian C-Spine Rule. JAMA 286:1841.\n• Hoffman JR et al. 2000. NEXUS criteria to rule out cervical spine injury. NEJM 343:94. doi:10.1056/NEJM200007133430203\n• Cook C et al. 2010. Clustered clinical findings for cervical spine myelopathy. J Man Manip Ther 18:175.\n• Fehlings MG et al. 2017. AO Spine guideline for degenerative cervical myelopathy. Global Spine J 7(3 Suppl):70S. doi:10.1177/2192568217701914\n• Uitvlugt G, Indenbaum S. 1988. Sharp-Purser test for atlanto-axial instability. Arthritis Rheum 31:918. doi:10.1002/art.1780310715\n• Wainner RS et al. 2003. Clinical examination for cervical radiculopathy (test-item cluster). Spine 28:52.\n• Ogince M et al. 2007. Cervical flexion-rotation test in cervicogenic headache. Man Ther 12:256.\n• Jull G et al. 2002. Exercise and manipulative therapy for cervicogenic headache (RCT). Spine 27:1835. doi:10.1097/00007632-200209010-00004\n• Spitzer WO et al. 1995. Quebec Task Force on whiplash-associated disorders. Spine 20(8 Suppl):1S.\n• Ritchie C et al. 2013. Clinical prediction rule for recovery after whiplash. Pain 154:2198.\n• Michaleff ZA et al. 2014. PROMISE trial: exercise programme vs advice for chronic whiplash. Lancet 384:133. doi:10.1016/S0140-6736(14)60457-8\n• Andersen LL et al. 2008. Specific strength training for chronic neck muscle pain (RCT). Arthritis Rheum 59:84. doi:10.1002/art.23256\n• Linton SJ et al. 2011. Short-form Örebro Musculoskeletal Pain Screening Questionnaire. Spine 36:1891. doi:10.1097/BRS.0b013e3181f8f775\n• Katzman WB et al. 2017. SHEAF trial: spine strengthening and posture training for hyperkyphosis. Osteoporos Int 28:2831. doi:10.1007/s00198-017-4109-x\n• International Classification of Headache Disorders, 3rd edition (ICHD-3). 2018. Cervicogenic headache criteria."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6451",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6451",
+        "x": "120",
+        "y": "2325",
+        "width": "900",
+        "height": "655",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KEY SOURCES (3 of 3) — exercise, bone health, context\n• Hayden JA et al. 2021. Exercise therapy for chronic low back pain (Cochrane). CD009790. doi:10.1002/14651858.CD009790.pub2\n• Owen PJ et al. 2020. Which exercise modes work best for chronic low back pain? Network meta-analysis. Br J Sports Med 54:1279. doi:10.1136/bjsports-2019-100886\n• Basson A et al. 2017. Neural mobilisation for neuromusculoskeletal conditions: meta-analysis. JOSPT 47:593. doi:10.2519/jospt.2017.7117\n• Steffens D et al. 2016. Prevention of low back pain: meta-analysis. JAMA Intern Med 176:199. doi:10.1001/jamainternmed.2015.7431\n• da Silva T et al. 2019. Recurrence of low back pain is common. J Physiother 65:159. doi:10.1016/j.jphys.2019.04.010\n• French SD et al. 2006. Superficial heat or cold for low back pain (Cochrane).\n• Sinaki M et al. 2002. Stronger back muscles reduce vertebral fractures: 10-year follow-up. Bone 30:836. doi:10.1016/s8756-3282(02)00739-1\n• Watson SL et al. 2018. LIFTMOR: high-intensity resistance and impact training in low bone mass. J Bone Miner Res 33:211. doi:10.1002/jbmr.3284\n• Giangregorio LM et al. 2014. Too Fit To Fracture: exercise recommendations for osteoporosis. Osteoporos Int 25:821.\n• Bull FC et al. 2020. WHO guidelines on physical activity and sedentary behaviour. Br J Sports Med 54:1451.\n• Osteoarticular tuberculosis review, 2020 (as cited on the Hip & Knee board).\n\nAccuracy figures in the boxes were checked against PubMed abstracts where available. Boxes marked “consensus” have no validated accuracy figure."
+    }
+  ]
+}

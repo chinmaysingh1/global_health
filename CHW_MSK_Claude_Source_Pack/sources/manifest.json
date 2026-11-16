@@ -1,0 +1,209 @@
+{
+  "snapshot_date": "2026-11-15",
+  "extraction_status": "Text and connector structure extracted from FigJam; clinical meaning not validated.",
+  "allowed_languages": [
+    "en",
+    "hi",
+    "mr"
+  ],
+  "boards": [
+    {
+      "name": "spine",
+      "file_key": "rWECNSFkKrOGuJkRPvsQdP",
+      "url": "https://www.figma.com/board/rWECNSFkKrOGuJkRPvsQdP/Spine-Assessment-Flowchart-%E2%80%94-Low-Back-%C2%B7-Neck---Upper-Back?node-id=0-1&p=f",
+      "source_revision": null,
+      "raw_path": "sources/raw/spine.xml",
+      "raw_sha256": "3d674a7cf06144fb0051439a171033cfa2cc0f684ff2bc75b019b672989d040e",
+      "sections": [
+        {
+          "id": "1:7323",
+          "name": "How to read this board",
+          "path": "sources/spine/01_how_to_read_this_board.json",
+          "shape_nodes": 21,
+          "connectors": 0
+        },
+        {
+          "id": "1:7324",
+          "name": "Sources",
+          "path": "sources/spine/02_sources.json",
+          "shape_nodes": 3,
+          "connectors": 0
+        },
+        {
+          "id": "1:7325",
+          "name": "Start here",
+          "path": "sources/spine/03_start_here.json",
+          "shape_nodes": 6,
+          "connectors": 5
+        },
+        {
+          "id": "1:7326",
+          "name": "Low back · Stage 1 · Safety screen",
+          "path": "sources/spine/04_low_back_stage_1_safety_screen.json",
+          "shape_nodes": 28,
+          "connectors": 26
+        },
+        {
+          "id": "1:7327",
+          "name": "Low back · Stage 2 · Which low-back problem",
+          "path": "sources/spine/05_low_back_stage_2_which_low_back_problem.json",
+          "shape_nodes": 50,
+          "connectors": 53
+        },
+        {
+          "id": "1:7328",
+          "name": "Low back · Stage 3 · Exercise groups",
+          "path": "sources/spine/06_low_back_stage_3_exercise_groups.json",
+          "shape_nodes": 8,
+          "connectors": 6
+        },
+        {
+          "id": "1:7329",
+          "name": "Low back · Stage 4 · Measure, dose, re-test",
+          "path": "sources/spine/07_low_back_stage_4_measure_dose_re_test.json",
+          "shape_nodes": 23,
+          "connectors": 24
+        },
+        {
+          "id": "1:7330",
+          "name": "Neck & upper back · Stage 1 · Safety screen",
+          "path": "sources/spine/08_neck_upper_back_stage_1_safety_screen.json",
+          "shape_nodes": 28,
+          "connectors": 26
+        },
+        {
+          "id": "1:7331",
+          "name": "Neck & upper back · Stage 2 · Which problem",
+          "path": "sources/spine/09_neck_upper_back_stage_2_which_problem.json",
+          "shape_nodes": 51,
+          "connectors": 54
+        },
+        {
+          "id": "1:7332",
+          "name": "Neck & upper back · Stage 3 · Exercise groups",
+          "path": "sources/spine/10_neck_upper_back_stage_3_exercise_groups.json",
+          "shape_nodes": 8,
+          "connectors": 6
+        },
+        {
+          "id": "1:7333",
+          "name": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+          "path": "sources/spine/11_neck_upper_back_stage_4_measure_dose_re_test.json",
+          "shape_nodes": 23,
+          "connectors": 24
+        }
+      ],
+      "counts": {
+        "sections": 11,
+        "shape_nodes": 249,
+        "connectors": 273
+      },
+      "structural_review_items": [],
+      "page_level_connectors": "sources/spine/page_level_connectors.json",
+      "all_connectors": "sources/spine/all_connectors.json"
+    },
+    {
+      "name": "hip_knee",
+      "file_key": "cNyP7TFyrcoIYVPUoQlMgw",
+      "url": "https://www.figma.com/board/cNyP7TFyrcoIYVPUoQlMgw/Hip---Knee-Assessment-Flowchart?node-id=0-1&p=f",
+      "source_revision": null,
+      "raw_path": "sources/raw/hip_knee.xml",
+      "raw_sha256": "bc0ee1d02a783df42c1d336db1919c7af9420778efa9f851d156ccb1c2c58acf",
+      "sections": [
+        {
+          "id": "34:1341",
+          "name": "Exercises by Group",
+          "path": "sources/hip_knee/01_exercises_by_group.json",
+          "shape_nodes": 8,
+          "connectors": 0
+        },
+        {
+          "id": "7:542",
+          "name": "Hip · Stage 3 · Measure, dose, re-test",
+          "path": "sources/hip_knee/02_hip_stage_3_measure_dose_re_test.json",
+          "shape_nodes": 22,
+          "connectors": 23
+        },
+        {
+          "id": "7:541",
+          "name": "Hip · Stage 2 · Which hip problem",
+          "path": "sources/hip_knee/03_hip_stage_2_which_hip_problem.json",
+          "shape_nodes": 49,
+          "connectors": 51
+        },
+        {
+          "id": "7:540",
+          "name": "Hip · Stage 1 · Safety screen",
+          "path": "sources/hip_knee/04_hip_stage_1_safety_screen.json",
+          "shape_nodes": 28,
+          "connectors": 26
+        },
+        {
+          "id": "7:539",
+          "name": "Knee · Stage 3 · Measure, dose, re-test",
+          "path": "sources/hip_knee/05_knee_stage_3_measure_dose_re_test.json",
+          "shape_nodes": 22,
+          "connectors": 23
+        },
+        {
+          "id": "7:538",
+          "name": "Knee · Stage 2 · Which knee problem",
+          "path": "sources/hip_knee/06_knee_stage_2_which_knee_problem.json",
+          "shape_nodes": 88,
+          "connectors": 98
+        },
+        {
+          "id": "7:537",
+          "name": "Knee · Stage 1 · Safety screen",
+          "path": "sources/hip_knee/07_knee_stage_1_safety_screen.json",
+          "shape_nodes": 30,
+          "connectors": 28
+        },
+        {
+          "id": "7:536",
+          "name": "Start here",
+          "path": "sources/hip_knee/08_start_here.json",
+          "shape_nodes": 6,
+          "connectors": 5
+        },
+        {
+          "id": "7:535",
+          "name": "Sources",
+          "path": "sources/hip_knee/09_sources.json",
+          "shape_nodes": 2,
+          "connectors": 0
+        },
+        {
+          "id": "7:534",
+          "name": "How to read this board",
+          "path": "sources/hip_knee/10_how_to_read_this_board.json",
+          "shape_nodes": 19,
+          "connectors": 0
+        }
+      ],
+      "counts": {
+        "sections": 10,
+        "shape_nodes": 274,
+        "connectors": 285
+      },
+      "structural_review_items": [
+        {
+          "kind": "non_clinical_node_endpoint",
+          "connector": "10:1317",
+          "endpoint": "connectorStart",
+          "target": "7:538",
+          "target_type": "section"
+        },
+        {
+          "kind": "non_clinical_node_endpoint",
+          "connector": "10:1321",
+          "endpoint": "connectorStart",
+          "target": "7:541",
+          "target_type": "section"
+        }
+      ],
+      "page_level_connectors": "sources/hip_knee/page_level_connectors.json",
+      "all_connectors": "sources/hip_knee/all_connectors.json"
+    }
+  ]
+}

@@ -1,0 +1,741 @@
+{
+  "board_key": "rWECNSFkKrOGuJkRPvsQdP",
+  "section": {
+    "id": "1:7326",
+    "name": "Low back · Stage 1 · Safety screen",
+    "x": "4150",
+    "y": "2414",
+    "width": "2140",
+    "height": "7688"
+  },
+  "elements": [
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6435",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6435",
+        "x": "780",
+        "y": "160",
+        "width": "1100",
+        "height": "190",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LOW BACK PATHWAY\nStage 1 safety screen (12 checks) → Stage 2 which low-back problem is it (12 working diagnoses) → Stage 3 exercise group (6 groups + a core programme) → Stage 4 measure, dose, re-test."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6455",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6455",
+        "x": "780",
+        "y": "460",
+        "width": "1100",
+        "height": "297",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "STAGE 1 — SAFETY SCREEN: Is this back pain safe to treat with exercise?\nAsk the 12 checks in order, most time-critical first. Any YES stops the pathway and names the action. All NO → Stage 2.\nRead this first: fewer than 1 in 100 people with new back pain in primary care have a serious cause, yet 80% have at least one “red flag” (Henschke 2009). A single flag on its own is weak; clusters, the whole story and change over time matter more (IFOMPT red-flag framework, Finucane 2020)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7370",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7370",
+        "x": "1330",
+        "y": "356",
+        "connectorStart": "1:6435",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6455",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-LB&gt;LS1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6559",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6559",
+        "x": "120",
+        "y": "867",
+        "width": "560",
+        "height": "688",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SAFETY MODIFIERS — not stops; they change who signs off and how hard you start\n• Chest pain, breathlessness or fainting with effort → doctor before progressive exercise.\n• Blood pressure clearly uncontrolled → doctor sign-off first (use the local cut-off).\n• Pregnancy → avoid lying flat on the back after the first trimester; pelvic girdle pain is common and exercise-responsive (LD10).\n• Known osteoporosis → avoid loaded bending and twisting of the spine (Group LX-F).\n• Diabetes → check the feet before barefoot work.\n\nYELLOW FLAGS — record now, score in Stage 4\n• Belief that pain means damage, fear of bending, expecting to need a scan or surgery, low mood, poor sleep, worries about work or money. These predict slow recovery better than any scan or tissue label.\n\nCONTEXT TO RECORD (changes the plan)\n• Heavy manual or field work, carrying water or head-loads, long hours bent over (planting, washing clothes, sweeping), two-wheeler or auto-rickshaw driving, floor sitting and squatting toilets define the goals."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6459",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6459",
+        "x": "780",
+        "y": "867",
+        "width": "660",
+        "height": "485",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "L1 · Cauda equina syndrome (pressure on the bundle of nerves at the bottom of the spine)\nASK (privately and plainly): NEW trouble passing urine — hard to start, weak stream, can’t tell when the bladder is full? Leaking urine or stool? Numbness between the legs or around the back passage (the “saddle” area) — e.g. can’t feel the toilet paper? NEW loss of sexual feeling or function? Sciatica in BOTH legs, or leg weakness getting worse?\nCHECK: ask how they last passed urine; light touch on the inner thighs and buttocks if trained and acceptable to the patient.\nEVIDENCE: urinary retention is the most consistent finding (sensitivity about 90%; Deyo 1992), but early cauda equina often shows only subtle bladder or saddle changes — act on symptoms, don’t wait for full retention. No single finding is reliable; any combination needs same-day imaging (consensus; Finucane 2020).\nWHO: anyone trained\nAny NEW bladder, bowel, saddle or sexual change, or sciatica in both legs?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7374",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7374",
+        "x": "1110",
+        "y": "763",
+        "connectorStart": "1:6455",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6459",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS1&gt;L1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6463",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6463",
+        "x": "1600",
+        "y": "986",
+        "width": "420",
+        "height": "247",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — SAME DAY\nSame-day emergency MRI via the doctor or the nearest hospital. No exercise.\nEvery back-pain patient also leaves with the cauda equina warning card: come back immediately if any of these start."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7378",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7378",
+        "x": "1446",
+        "y": "1089.5",
+        "connectorStart": "1:6459",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6463",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L1&gt;L1Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6467",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6467",
+        "x": "780",
+        "y": "1462",
+        "width": "660",
+        "height": "349",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "L2 · Spinal fracture after major injury\nASK: Road accident, fall from a height (roof, tree, ladder, well), a heavy load falling on the back, or a kick from an animal? Can you move your legs and feel your feet?\nCHECK: look for bruising or grazes over the spine; press along the bony midline for one very tender spot; check leg strength and feeling.\nEVIDENCE: severe trauma raises the chance of a spinal fracture to about 11%; a bruise or graze over the spine to about 62% (post-test probabilities, Downie 2013).\nWHO: anyone trained\nMajor injury with midline tenderness, bruising, or any leg weakness or numbness?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7382",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7382",
+        "x": "1089.5",
+        "y": "1358",
+        "connectorStart": "1:6459",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6467",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L1&gt;L2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6471",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6471",
+        "x": "1600",
+        "y": "1538",
+        "width": "420",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY\nKeep them lying flat; move the body as one unit (log-roll); emergency transfer for imaging. No exercise."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7386",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7386",
+        "x": "1446",
+        "y": "1616.5",
+        "connectorStart": "1:6467",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6471",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L2&gt;L2Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6475",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6475",
+        "x": "780",
+        "y": "1921",
+        "width": "660",
+        "height": "409",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "L3 · Spinal infection (bone or disc infection, epidural abscess)\nASK: Fever, chills or night sweats with the back pain? A recent infection (urine, skin, chest), spinal injection or surgery? Injecting drug use, diabetes, kidney failure, HIV, steroid tablets or chemotherapy?\nCHECK: temperature; firm tap (percussion) over each spinal bone for one exquisitely tender level; is the pain severe, constant and worse at night?\nEVIDENCE: fever is often absent in spinal infection, so a normal temperature does NOT clear this check; the classic trio of fever, back pain and weakness is present in only a minority of epidural abscesses (consensus; Finucane 2020).\nWHO: basic kit (thermometer)\nFever, OR constant severe pain with an infection risk factor?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7390",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7390",
+        "x": "1089.5",
+        "y": "1817",
+        "connectorStart": "1:6467",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6475",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L2&gt;L3"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6479",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6479",
+        "x": "1600",
+        "y": "2027",
+        "width": "420",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — SAME DAY\nDoctor today for blood tests (white cells, ESR/CRP) and imaging. Any new leg weakness = emergency transfer. No exercise."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7394",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7394",
+        "x": "1446",
+        "y": "2105.5",
+        "connectorStart": "1:6475",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6479",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L3&gt;L3Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6483",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6483",
+        "x": "780",
+        "y": "2440",
+        "width": "660",
+        "height": "510",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "L4 · Not from the spine — kidney, abdomen, pelvis or a swollen main artery (aortic aneurysm)\nASK: Does the pain stay the same whatever position you take? Does it come in waves (colic), with fever, burning or blood in the urine? Linked to eating, periods, pregnancy or bleeding? An older smoker with deep central back or tummy pain? Fainting or sweating?\nCHECK: do bending, arching and twisting change the pain at all? Gentle fist-tap over each kidney (the angle under the lowest rib). With the patient lying down, feel above the navel for a pulsing mass. Pulse and blood pressure.\nPOSITIVE IF: movement doesn’t change the pain AND any feature above is present.\nNOTE: a leaking aortic aneurysm felt in the back is time-critical — older male smokers with high blood pressure are at most risk. In women who could be pregnant, early-pregnancy pain or bleeding must be ruled out (consensus).\nWHO: anyone trained; basic kit (BP cuff)\nPain not changed by movement, with a kidney, abdominal, pelvic or artery sign?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7398",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7398",
+        "x": "1089.5",
+        "y": "2336",
+        "connectorStart": "1:6475",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6483",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L3&gt;L4"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6487",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6487",
+        "x": "1600",
+        "y": "2584",
+        "width": "420",
+        "height": "222",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — SAME DAY\nPulsing mass, fainting, low blood pressure or sudden severe pain → emergency transfer now. Kidney or pelvic signs → same-day doctor. Not an exercise problem."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7402",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7402",
+        "x": "1446",
+        "y": "2675",
+        "connectorStart": "1:6483",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6487",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L4&gt;L4Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6491",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6491",
+        "x": "780",
+        "y": "3060",
+        "width": "660",
+        "height": "434",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "L5 · Severe or worsening nerve damage (progressive neurological deficit)\nASK: Is a leg or foot getting weaker week by week? Tripping because the foot slaps or drops? Numbness spreading?\nCHECK (compare sides): walk on the heels (L4–L5) and on the toes (S1); 10 single-leg heel raises; lift the big toe against your finger (L5); knee and ankle reflexes if trained; light touch on the shin, top of the foot and outer foot.\nPOSITIVE IF: clear weakness (can’t heel- or toe-walk), foot drop, weakness in more than one nerve-root area, or weakness worse than at the last visit.\nNOTE: a mild, STABLE deficit with sciatica is common and is NOT a stop — it goes to Stage 2 (sciatica). Progression is what matters (consensus; NICE NG59).\nWHO: anyone trained (heel/toe walk); physio-level (reflexes)\nMarked or worsening weakness, or foot drop?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7406",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7406",
+        "x": "1089.5",
+        "y": "2956",
+        "connectorStart": "1:6483",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6491",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L4&gt;L5"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6495",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6495",
+        "x": "1600",
+        "y": "3179",
+        "width": "420",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nDoctor or spine surgeon within days; SAME DAY if it is getting worse quickly. Keep gentle walking; no loaded exercise until reviewed."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7410",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7410",
+        "x": "1446",
+        "y": "3257.5",
+        "connectorStart": "1:6491",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6495",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L5&gt;L5Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6499",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6499",
+        "x": "780",
+        "y": "3604",
+        "width": "660",
+        "height": "502",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "L6 · Fragility (osteoporotic) fracture of a spinal bone\nASK: Over 50 (especially a woman after menopause), or anyone over 70? Long-term steroid tablets? Sudden back pain after a minor strain, cough, sneeze, lifting a child or a small fall? Getting shorter or more stooped?\nCHECK:\n• Closed-fist percussion: patient standing facing a mirror; gently thump down the spine with the side of a closed fist. Sharp, sudden, fracture-like pain = positive. Sensitivity 87.5%, specificity 90% (Langdon 2010).\n• Supine sign: can’t lie flat on the back on one pillow because of severe pain = positive. Sensitivity 81%, specificity 93% (Langdon 2010).\nEVIDENCE: long-term steroid use raises the chance of fracture to about 33%; several red flags together to about 90% (Downie 2013). Age over 70, steroid use, significant trauma and female sex are the informative fracture flags in primary care (Henschke 2009).\nWHO: anyone trained\nRisk factor AND a positive percussion or supine sign?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7414",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7414",
+        "x": "1089.5",
+        "y": "3500",
+        "connectorStart": "1:6491",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6499",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L5&gt;L6"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6503",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6503",
+        "x": "1600",
+        "y": "3719",
+        "width": "420",
+        "height": "273",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nDoctor for an X-ray and a bone-health review (osteoporosis medicines, calcium, vitamin D). Pain relief and gentle walking meanwhile; avoid lifting and loaded bending.\nOnce confirmed stable → Stage 2 box LD12 and Exercise Group LX-F (dashed arrow)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7418",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7418",
+        "x": "1446",
+        "y": "3835.5",
+        "connectorStart": "1:6499",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6503",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L6&gt;L6Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6507",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6507",
+        "x": "780",
+        "y": "4216",
+        "width": "660",
+        "height": "451",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "L7 · Possible cancer in the spine\nASK: Have you EVER had cancer (breast, prostate, lung, kidney, thyroid, blood)? Unexplained weight loss? Pain that is constant, worse lying down or at night, eased by no position? Over 50 with a first-ever episode? Not getting better after 4–6 weeks of good care? Pain in the mid-back (rib level)?\nCHECK: weigh and compare with the record; tap each spinal bone for a single tender level; look and feel for lumps.\nEVIDENCE: a past history of cancer is the most useful single flag — it raises the chance of spinal cancer to about 33% (Downie 2013). Most other flags (age, night pain alone) shift the odds very little on their own.\nNOTE: night pain ALONE is common in ordinary back pain. Escalate night pain that comes WITH a cancer history, weight loss, constant pain or no improvement.\nWHO: anyone trained\nCancer history, OR night/constant pain plus another warning sign?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7422",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7422",
+        "x": "1089.5",
+        "y": "4112",
+        "connectorStart": "1:6499",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6507",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L6&gt;L7"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6511",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6511",
+        "x": "1600",
+        "y": "4343",
+        "width": "420",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nDoctor for blood tests and imaging before any loading exercise. Any leg weakness or bladder change → L1 / L5, same day."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7426",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7426",
+        "x": "1446",
+        "y": "4421.5",
+        "connectorStart": "1:6507",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6511",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L7&gt;L7Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6515",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6515",
+        "x": "780",
+        "y": "4777",
+        "width": "660",
+        "height": "400",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "L8 · Spinal tuberculosis (Pott’s disease)\nASK: Back pain for weeks to months that keeps getting worse? Night sweats, evening fevers, cough, weight loss, poor appetite? TB now or in the past, or in the family? HIV or diabetes?\nCHECK: look from the side for a sharp, angled hump (gibbus); tap each spinal bone for one tender level; a stiff spine held by muscle spasm; leg strength (L5).\nNOTE: the spine is the commonest site of bone and joint TB (about half of cases), usually the lower thoracic and upper lumbar spine; delay risks collapse of the spine and paralysis (osteoarticular TB review, 2020). In TB-endemic areas keep a low threshold.\nWHO: anyone trained\nWorsening back pain with TB features, or a gibbus?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7430",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7430",
+        "x": "1089.5",
+        "y": "4673",
+        "connectorStart": "1:6507",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6515",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L7&gt;L8"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6519",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6519",
+        "x": "1600",
+        "y": "4866",
+        "width": "420",
+        "height": "222",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nDoctor for a TB work-up (blood tests, chest X-ray, spine imaging). No loading exercise or manipulation until assessed. Leg weakness → same day."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7434",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7434",
+        "x": "1446",
+        "y": "4957",
+        "connectorStart": "1:6515",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6519",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L8&gt;L8Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6523",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6523",
+        "x": "780",
+        "y": "5287",
+        "width": "660",
+        "height": "426",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "L9 · Child or teenager with back pain\nASK: Under 18? Pain for more than 4 weeks? Night pain, fever, weight loss? A stiff, curved spine or a limp? A sporty teenager (cricket fast-bowling, gymnastics, dance, weight-lifting, wrestling) whose pain is worse when ARCHING backwards?\nCHECK: forward-bend test — look from behind for a rib hump (scoliosis) and from the side for a sharp angled hump; is the curve painful and rigid? Stand on one leg and arch back (stork test): pain on the standing side?\nNOTE: in children, back pain more often has a structural cause than in adults. In young athletes with pain on arching, a stress fracture at the back of a vertebra (spondylolysis) is common — but the stork test is not accurate enough to rule it in or out (Grødahl 2016); imaging decides.\nWHO: anyone trained\nChild with a warning sign, or a teen athlete with pain on arching?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7438",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7438",
+        "x": "1089.5",
+        "y": "5183",
+        "connectorStart": "1:6515",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6523",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L8&gt;L9"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6527",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6527",
+        "x": "1600",
+        "y": "5338",
+        "width": "420",
+        "height": "324",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SOON — WITHIN ABOUT A WEEK\nTeen athlete with arching pain: doctor for imaging; stop fast-bowling, gymnastics and other arching or impact sport meanwhile — general activity is fine.\nNight pain, fever, neurological signs, or any child under 10 → URGENT (within days).\nAfter clearance (healed or stable pars fracture) → LD4 and Exercise Group LX-C (dashed arrow)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7442",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7442",
+        "x": "1446",
+        "y": "5480",
+        "connectorStart": "1:6523",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6527",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L9&gt;L9Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6531",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6531",
+        "x": "780",
+        "y": "5823",
+        "width": "660",
+        "height": "400",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "L10 · Inflammatory back pain (axial spondyloarthritis)\nASK — the ASAS inflammatory back pain criteria (count them): (1) started before age 40; (2) came on gradually; (3) gets better with exercise; (4) does NOT get better with rest; (5) pain at night that eases on getting up.\nAlso: morning stiffness over 30 minutes? Alternating buttock pain? Psoriasis, bowel disease, a red painful eye, a swollen heel or a “sausage” finger or toe? Family history?\nPOSITIVE IF: 4 or more of the 5.\nEVIDENCE: 4 of 5 = sensitivity 77%, specificity 92% in the expert cohort; 80% and 72% in the validation cohort (Sieper 2009).\nWHO: anyone trained\n4 or more of the 5?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7446",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7446",
+        "x": "1089.5",
+        "y": "5719",
+        "connectorStart": "1:6523",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6531",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L9&gt;L10"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6535",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6535",
+        "x": "1600",
+        "y": "5912",
+        "width": "420",
+        "height": "222",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "REFER — WITHIN WEEKS\nDoctor or rheumatologist (blood tests, pelvic X-ray, medicines). Keep moving meanwhile — daily mobility and posture exercise is a core part of treating axial spondyloarthritis."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7450",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7450",
+        "x": "1446",
+        "y": "6003",
+        "connectorStart": "1:6531",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6535",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L10&gt;L10Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6539",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6539",
+        "x": "780",
+        "y": "6333",
+        "width": "660",
+        "height": "409",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "L11 · Pain coming from the hip (or from the hip AND the back)\nASK: Groin pain? Pain putting on socks or shoes, getting out of a vehicle, or sitting cross-legged on the floor? A limp?\nCHECK: lying on the back, bend the hip to 90° and turn it in and out; compare sides. Does this reproduce the familiar pain while back movements don’t?\nPOSITIVE IF: hip movement reproduces the pain; back movement doesn’t.\nNOTE: hip osteoarthritis and back pain often coexist in older adults (“hip–spine syndrome”); groin pain with painful, limited inward hip rotation points to the hip (consensus).\nWHO: physio-level (hip rotation); anyone trained (history)\nIs the hip the source?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7454",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7454",
+        "x": "1089.5",
+        "y": "6229",
+        "connectorStart": "1:6531",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6539",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L10&gt;L11"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6543",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6543",
+        "x": "1600",
+        "y": "6439",
+        "width": "420",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SWITCH PATHWAY\nGo to the HIP PATHWAY on the Hip & Knee board. If BOTH hip and back movements reproduce it, assess and treat both."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7458",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7458",
+        "x": "1446",
+        "y": "6517.5",
+        "connectorStart": "1:6539",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6543",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L11&gt;L11Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6547",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6547",
+        "x": "780",
+        "y": "6852",
+        "width": "660",
+        "height": "409",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "L12 · Leg cramp when walking — poor artery circulation (vascular claudication)\nASK: Calf, thigh or buttock cramp after the same walking distance each time, eased within minutes by STANDING STILL (no need to sit or bend)? Smoker, diabetes, heart disease?\nCHECK: foot pulses (top of the foot, behind the inner ankle bone); cold, pale, hairless or shiny skin; slow-healing sores.\nNOTE: nerve-related claudication from spinal stenosis eases only with SITTING or BENDING FORWARD; artery-related claudication eases with standing still. Some people have both (consensus).\nWHO: anyone trained; basic kit\nWalking-distance cramp eased by standing still, with poor circulation signs?"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7462",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7462",
+        "x": "1089.5",
+        "y": "6748",
+        "connectorStart": "1:6539",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6547",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L11&gt;L12"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6551",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6551",
+        "x": "1600",
+        "y": "6958",
+        "width": "420",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "REFER — ROUTINE\nDoctor for a circulation check (ankle–brachial pressure index). Supervised walking exercise helps once assessed."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7466",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7466",
+        "x": "1446",
+        "y": "7036.5",
+        "connectorStart": "1:6547",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6551",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L12&gt;L12Y"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6555",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6555",
+        "x": "780",
+        "y": "7371",
+        "width": "660",
+        "height": "197",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ALL 12 = NO → EXERCISE-RESPONSIVE (BY EXCLUSION)\nGo to Stage 2. Give everyone the cauda equina warning card and safety-net advice. This label is confirmed by improvement at the week-4 re-test; if nothing improves, come back to this list."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7470",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7470",
+        "x": "1089.5",
+        "y": "7267",
+        "connectorStart": "1:6547",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6555",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "L12&gt;LPASS"
+    }
+  ]
+}

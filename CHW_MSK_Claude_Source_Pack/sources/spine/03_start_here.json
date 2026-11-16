@@ -1,0 +1,161 @@
+{
+  "board_key": "rWECNSFkKrOGuJkRPvsQdP",
+  "section": {
+    "id": "1:7325",
+    "name": "Start here",
+    "x": "-120",
+    "y": "0",
+    "width": "23880",
+    "height": "1714"
+  },
+  "elements": [
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6411",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6411",
+        "x": "11660",
+        "y": "160",
+        "width": "560",
+        "height": "258",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "START\nPatient reports back, neck or upper-back pain.\nAlready established: the pain seems musculoskeletal (spine, joints, discs, muscles or nerves). Stage 1 still re-checks the organs that most often disguise themselves as back or neck pain."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6415",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6415",
+        "x": "11680",
+        "y": "528",
+        "width": "520",
+        "height": "222",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Q0 · Where is the main pain?\nASK: “Point with one finger to where it hurts the most, then show me everywhere else you feel it.”\nDO: draw it on a body chart — the drawing is reused in Stage 2 and at every re-test."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7334",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7334",
+        "x": "11940",
+        "y": "424",
+        "connectorStart": "1:6411",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6415",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-START&gt;G-Q0"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6419",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6419",
+        "x": "5180",
+        "y": "970",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Low back, buttock or leg (below the lowest ribs)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7338",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7338",
+        "x": "5340",
+        "y": "756",
+        "connectorStart": "1:6415",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6419",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-Q0&gt;G-A0L"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6423",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6423",
+        "x": "11780",
+        "y": "970",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Mid-back at the bottom of the ribs, or both regions, or not sure"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7342",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7342",
+        "x": "11940",
+        "y": "756",
+        "connectorStart": "1:6415",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6423",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-Q0&gt;G-A0B"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6427",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6427",
+        "x": "18200",
+        "y": "970",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Neck, head, top of the shoulder, between or over the shoulder blades, or down the arm"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7346",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7346",
+        "x": "11940",
+        "y": "756",
+        "connectorStart": "1:6415",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6427",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-Q0&gt;G-A0N"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6431",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6431",
+        "x": "11680",
+        "y": "1245",
+        "width": "520",
+        "height": "349",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Use MOVEMENT to decide\nAsk them to bend, arch and twist the low back, then turn, tip and nod the head and lift both arms. The region whose movement reproduces the familiar pain is the source.\nMid-back pain that changes with breathing, twisting the chest or arm movement → NECK & UPPER BACK pathway. Pain that changes with bending and arching the low back → LOW BACK pathway.\nMid-back (thoracic) pain is itself a warning sign for fracture, cancer and TB — run the Stage 1 checks carefully."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7350",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7350",
+        "x": "11940",
+        "y": "1115",
+        "connectorStart": "1:6423",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6431",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-A0B&gt;G-N0B"
+    }
+  ]
+}

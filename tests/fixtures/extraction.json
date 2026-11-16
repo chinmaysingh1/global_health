@@ -1,0 +1,17 @@
+{
+  "_note": "Synthetic typed text written for software tests. These are NOT recordings, not real patients, and say nothing about speech recognition or clinical accuracy. Expected facts are hand-labelled.",
+  "cases": [
+    { "id": "en-1", "lang": "en", "pathway": "knee", "text": "My left knee has been hurting for 3 weeks. I fell from the stairs yesterday. No fever.", "expect": [["hx.onset_duration", "present"], ["hip_knee:K1", "present"]], "forbid": ["hip_knee:K3"] },
+    { "id": "en-2", "lang": "en", "pathway": "knee", "text": "Knee pain for 2 months, I have diabetes, no allergies. My mother had cancer.", "expect": [["hx.onset_duration", "present"], ["mod.diabetes", "present"], ["hx.allergies", "denied"]], "forbid": ["hip_knee:K9"] },
+    { "id": "en-3", "lang": "en", "pathway": "low_back", "text": "Back pain since 10 days. I fell from a tree many years ago, not recently. I am losing weight and I cannot control my urine since yesterday.", "expect": [["hx.onset_duration", "present"], ["spine:L7", "present"], ["spine:L1", "present"]], "forbid": ["spine:L2"] },
+    { "id": "en-4", "lang": "en", "pathway": "neck", "text": "Neck is stiff. I get chest pain when I climb stairs. I am not pregnant.", "expect": [["spine:N1", "present"], ["mod.pregnancy", "denied"]], "forbid": [] },
+    { "id": "hi-1", "lang": "hi", "pathway": "knee", "text": "मेरे बाएँ घुटने में 3 हफ्ते से दर्द है। कल मैं सीढ़ी से गिर गई। बुखार नहीं है।", "expect": [["hx.onset_duration", "present"], ["hip_knee:K1", "present"]], "forbid": ["hip_knee:K3"] },
+    { "id": "hi-2", "lang": "hi", "pathway": "low_back", "text": "कमर में 2 महीने से दर्द है, मुझे शुगर है। पेशाब रोकने में कल से दिक्कत है। मेरी माँ को कैंसर था।", "expect": [["hx.onset_duration", "present"], ["mod.diabetes", "present"], ["spine:L1", "present"]], "forbid": ["spine:L7"] },
+    { "id": "hi-3", "lang": "hi", "pathway": "knee", "text": "घुटने में दर्द है और बुखार है, पिंडली में सूजन भी है। मुझे एलर्जी नहीं है।", "expect": [["hip_knee:K3", "present"], ["hip_knee:K4", "present"], ["hx.allergies", "denied"]], "forbid": [] },
+    { "id": "hi-cs", "lang": "hi", "pathway": "knee", "text": "Knee में pain 2 महीने से है, कल accident हुआ था, fever नहीं है, sugar की problem है।", "expect": [["hx.onset_duration", "present"], ["hip_knee:K1", "present"], ["mod.diabetes", "present"]], "forbid": ["hip_knee:K3"] },
+    { "id": "mr-1", "lang": "mr", "pathway": "knee", "text": "माझा डावा गुडघा 3 आठवडे दुखतो आहे. काल मी जिन्यावरून पडले. ताप नाही.", "expect": [["hx.onset_duration", "present"], ["hip_knee:K1", "present"]], "forbid": ["hip_knee:K3"] },
+    { "id": "mr-2", "lang": "mr", "pathway": "low_back", "text": "कंबर 2 महिने दुखते आहे, मला मधुमेह आहे. कालपासून लघवी थांबवता येत नाही. माझ्या आईला कर्करोग होता.", "expect": [["hx.onset_duration", "present"], ["mod.diabetes", "present"], ["spine:L1", "present"]], "forbid": ["spine:L7"] },
+    { "id": "mr-3", "lang": "mr", "pathway": "knee", "text": "गुडघा दुखतो आणि ताप आहे, पोटरीला सूज आहे. मी गरोदर नाही.", "expect": [["hip_knee:K3", "present"], ["hip_knee:K4", "present"], ["mod.pregnancy", "denied"]], "forbid": [] },
+    { "id": "mr-cs", "lang": "mr", "pathway": "knee", "text": "Knee मध्ये pain 2 महिने आहे, काल accident झाला, fever नाही, sugar चा problem आहे.", "expect": [["hx.onset_duration", "present"], ["hip_knee:K1", "present"], ["mod.diabetes", "present"]], "forbid": ["hip_knee:K3"] }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "board_key": "cNyP7TFyrcoIYVPUoQlMgw",
+  "section": {
+    "id": "7:534",
+    "name": "How to read this board",
+    "x": "12144",
+    "y": "-130",
+    "width": "3080",
+    "height": "1588"
+  },
+  "elements": [
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:5",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:5",
+        "x": "100",
+        "y": "130",
+        "width": "1500",
+        "height": "340",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HIP & KNEE ASSESSMENT FLOWCHART\nA question-by-question pathway from \"my knee or hip hurts\" to a working diagnosis, a measured baseline and a starting exercise plan — using only questions, observation and hands-on tests. No imaging is assumed.\nBuilt from: JOSPT physical therapy clinical practice guidelines (knee ligament 2017, meniscus 2018, patellofemoral pain 2019, hip osteoarthritis 2017/2025, non-arthritic hip 2023, hamstring 2022), NICE NG226 (UK osteoarthritis guideline, 2022), OARSI (Osteoarthritis Research Society International), the Zurich and Doha international consensus statements, and diagnostic accuracy studies. Draft for clinical review — a physiotherapist should sign off before use with patients."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:9",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:9",
+        "x": "100",
+        "y": "550",
+        "width": "700",
+        "height": "412",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HOW TO USE THIS BOARD\n1. Start at the black START box and follow the arrows.\n2. Yellow boxes are QUESTIONS. Ask them in plain words, pick the white answer box that matches what the patient says, and follow its arrow.\n3. Blue boxes are HANDS-ON CHECKS. Each one says what to do, what counts as positive, how accurate it is, and who can usually do it.\n4. Every pathway runs in 3 stages: Stage 1 safety screen (is this safe to treat with exercise?) → Stage 2 working diagnosis (which problem is it?) → Stage 3 baseline and plan (measure, set the exercise dose, re-test).\n5. Dashed grey arrows jump to another part of the board. Box codes (e.g. K3, HT2, KD8) let you jump by name.\n\nStarting assumption: non-musculoskeletal causes (heart, abdomen, skin, etc.) have already been ruled out."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:13",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:13",
+        "x": "860",
+        "y": "550",
+        "width": "700",
+        "height": "458",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HOW TO READ THE ACCURACY NUMBERS\nSensitivity — out of 100 people who really HAVE the problem, how many the test catches. A highly sensitive test that comes back NEGATIVE helps rule the problem OUT.\nSpecificity — out of 100 people who do NOT have it, how many the test correctly clears. A highly specific test that comes back POSITIVE helps rule the problem IN.\nPositive predictive value — of the people who test positive, how many actually have it.\nLikelihood ratio (LR) — how strongly a result shifts the odds. LR+ above 10 = strong rule-in; LR− below 0.1 = strong rule-out.\nCluster — several findings counted together; beats any single test for almost every condition here.\nConsensus — expert agreement only; no accuracy study was found. Treat these boxes with more caution.\nWorking diagnosis — the best label you can act on without imaging. It is confirmed, or revised, by how the patient responds at the week-4 re-test."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:17",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:17",
+        "x": "1620",
+        "y": "550",
+        "width": "700",
+        "height": "435",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "PLAIN-LANGUAGE GLOSSARY\nFlexion / extension — bending / straightening a joint.\nInternal / external rotation — turning the thigh or shin inward / outward.\nAdduction / abduction — moving the leg toward / away from the middle of the body.\nMedial / lateral — inner side / outer side. Anterior / posterior — front / back.\nEffusion — swelling (fluid) inside the joint.\nWeight-bearing — standing or walking on the leg.\nIsometric exercise — the muscle tightens and holds without the joint moving; usually the least painful way to start loading.\nIrritability — how easily the pain flares up and how long it takes to settle.\nReferred pain — pain felt in one place but coming from another (e.g. a hip problem felt at the knee).\nImaging — X-ray, ultrasound or MRI scan.\nDoctor — the medical officer on the team. Orthopaedics — bone and joint specialists.\nOsteoarthritis (OA) — \"wear and repair\" changes in a joint's cartilage and bone."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:21",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:21",
+        "x": "2380",
+        "y": "550",
+        "width": "600",
+        "height": "320",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "WHO CAN DO EACH CHECK (guidance, never a stop)\nAnyone trained — a health worker after short training: questions, looking, pressing, simple movements.\nBasic kit — needs a thermometer, tape measure, blood-pressure cuff or phone app.\nPhysio-level — needs a physiotherapist's or doctor's hands-on skill; can be done by video review or at referral.\nIf nobody with the skill is available: record the history, film the movement, note the test as \"not done\" and keep going — the pathway still works, with a little less certainty."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:25",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:25",
+        "x": "100",
+        "y": "1098",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "COLOUR KEY"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:29",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:29",
+        "x": "490",
+        "y": "1098",
+        "width": "360",
+        "height": "156",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "START / PATHWAY / STAGE HEADER"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:33",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:33",
+        "x": "880",
+        "y": "1098",
+        "width": "360",
+        "height": "144",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "QUESTION to ask the patient"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:37",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:37",
+        "x": "1270",
+        "y": "1098",
+        "width": "360",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Patient's answer → follow this arrow"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:41",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:41",
+        "x": "1660",
+        "y": "1098",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HANDS-ON CHECK or TEST"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:45",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:45",
+        "x": "2050",
+        "y": "1098",
+        "width": "360",
+        "height": "144",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — act now or same day; no exercise"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:49",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:49",
+        "x": "2440",
+        "y": "1098",
+        "width": "360",
+        "height": "144",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — doctor or specialist within days"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:53",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:53",
+        "x": "100",
+        "y": "1284",
+        "width": "360",
+        "height": "174",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SOON — check within about a week; gentle exercise can start"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:57",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:57",
+        "x": "490",
+        "y": "1284",
+        "width": "360",
+        "height": "204",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "REFER — doctor or specialist within weeks; medical care first, exercise alongside"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:61",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:61",
+        "x": "880",
+        "y": "1284",
+        "width": "360",
+        "height": "174",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SWITCH PATHWAY — the pain is coming from somewhere else"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:65",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:65",
+        "x": "1270",
+        "y": "1284",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "PASSED the safety screen"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:69",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:69",
+        "x": "1660",
+        "y": "1284",
+        "width": "360",
+        "height": "144",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "WORKING DIAGNOSIS + NEXT STEP"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:73",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:73",
+        "x": "2050",
+        "y": "1284",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "MEASURE · DOSE · RE-TEST"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:77",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:77",
+        "x": "2440",
+        "y": "1284",
+        "width": "360",
+        "height": "144",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NOTE — why this matters, or context"
+    }
+  ]
+}

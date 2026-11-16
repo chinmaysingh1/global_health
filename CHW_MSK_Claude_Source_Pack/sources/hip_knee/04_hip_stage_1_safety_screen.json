@@ -1,0 +1,741 @@
+{
+  "board_key": "cNyP7TFyrcoIYVPUoQlMgw",
+  "section": {
+    "id": "7:540",
+    "name": "Hip · Stage 1 · Safety screen",
+    "x": "20345",
+    "y": "3021",
+    "width": "2040",
+    "height": "6912"
+  },
+  "elements": [
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:786",
+      "type": "connector",
+      "attributes": {
+        "id": "8:786",
+        "x": "1077",
+        "y": "6539",
+        "connectorStart": "5:707",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:715",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H12&gt;HPASS"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:782",
+      "type": "connector",
+      "attributes": {
+        "id": "8:782",
+        "x": "1406",
+        "y": "6359.5",
+        "connectorStart": "5:707",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:711",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H12&gt;H12Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:778",
+      "type": "connector",
+      "attributes": {
+        "id": "8:778",
+        "x": "1077",
+        "y": "6145",
+        "connectorStart": "5:699",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:707",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H11&gt;H12"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:774",
+      "type": "connector",
+      "attributes": {
+        "id": "8:774",
+        "x": "1406",
+        "y": "5931",
+        "connectorStart": "5:699",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:703",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H11&gt;H11Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:770",
+      "type": "connector",
+      "attributes": {
+        "id": "8:770",
+        "x": "1077",
+        "y": "5682",
+        "connectorStart": "5:691",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:699",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H10&gt;H11"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:766",
+      "type": "connector",
+      "attributes": {
+        "id": "8:766",
+        "x": "1406",
+        "y": "5472",
+        "connectorStart": "5:691",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:695",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H10&gt;H10Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:762",
+      "type": "connector",
+      "attributes": {
+        "id": "8:762",
+        "x": "1077",
+        "y": "5226",
+        "connectorStart": "5:683",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:691",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H9&gt;H10"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:758",
+      "type": "connector",
+      "attributes": {
+        "id": "8:758",
+        "x": "1406",
+        "y": "5016",
+        "connectorStart": "5:683",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:687",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H9&gt;H9Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:754",
+      "type": "connector",
+      "attributes": {
+        "id": "8:754",
+        "x": "1077",
+        "y": "4770",
+        "connectorStart": "5:675",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:683",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H8&gt;H9"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:750",
+      "type": "connector",
+      "attributes": {
+        "id": "8:750",
+        "x": "1406",
+        "y": "4583",
+        "connectorStart": "5:675",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:679",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H8&gt;H8Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:746",
+      "type": "connector",
+      "attributes": {
+        "id": "8:746",
+        "x": "1077",
+        "y": "4360",
+        "connectorStart": "5:667",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:675",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H7&gt;H8"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:742",
+      "type": "connector",
+      "attributes": {
+        "id": "8:742",
+        "x": "1406",
+        "y": "4100.5",
+        "connectorStart": "5:667",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:671",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H7&gt;H7Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:738",
+      "type": "connector",
+      "attributes": {
+        "id": "8:738",
+        "x": "1077",
+        "y": "3805",
+        "connectorStart": "5:659",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:667",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H6&gt;H7"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:734",
+      "type": "connector",
+      "attributes": {
+        "id": "8:734",
+        "x": "1406",
+        "y": "3618",
+        "connectorStart": "5:659",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:663",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H6&gt;H6Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:730",
+      "type": "connector",
+      "attributes": {
+        "id": "8:730",
+        "x": "1077",
+        "y": "3395",
+        "connectorStart": "5:651",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:659",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H5&gt;H6"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:726",
+      "type": "connector",
+      "attributes": {
+        "id": "8:726",
+        "x": "1406",
+        "y": "3169.5",
+        "connectorStart": "5:651",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:655",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H5&gt;H5Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:722",
+      "type": "connector",
+      "attributes": {
+        "id": "8:722",
+        "x": "1077",
+        "y": "2909",
+        "connectorStart": "5:643",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:651",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H4&gt;H5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:718",
+      "type": "connector",
+      "attributes": {
+        "id": "8:718",
+        "x": "1406",
+        "y": "2630",
+        "connectorStart": "5:643",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:647",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H4&gt;H4Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:714",
+      "type": "connector",
+      "attributes": {
+        "id": "8:714",
+        "x": "1077",
+        "y": "2315",
+        "connectorStart": "5:635",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:643",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H3&gt;H4"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:710",
+      "type": "connector",
+      "attributes": {
+        "id": "8:710",
+        "x": "1406",
+        "y": "2059",
+        "connectorStart": "5:635",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:639",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H3&gt;H3Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:706",
+      "type": "connector",
+      "attributes": {
+        "id": "8:706",
+        "x": "1077",
+        "y": "1767",
+        "connectorStart": "5:627",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:635",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H2&gt;H3"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:702",
+      "type": "connector",
+      "attributes": {
+        "id": "8:702",
+        "x": "1406",
+        "y": "1487.5",
+        "connectorStart": "5:627",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:631",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H2&gt;H2Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:698",
+      "type": "connector",
+      "attributes": {
+        "id": "8:698",
+        "x": "1077",
+        "y": "1173",
+        "connectorStart": "5:619",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:627",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H1&gt;H2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:694",
+      "type": "connector",
+      "attributes": {
+        "id": "8:694",
+        "x": "1406",
+        "y": "916.5",
+        "connectorStart": "5:619",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:623",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "H1&gt;H1Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:690",
+      "type": "connector",
+      "attributes": {
+        "id": "8:690",
+        "x": "1100",
+        "y": "615",
+        "connectorStart": "5:615",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:619",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HS1&gt;H1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:686",
+      "type": "connector",
+      "attributes": {
+        "id": "8:686",
+        "x": "1100",
+        "y": "313",
+        "connectorStart": "3:109",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:615",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-HIP&gt;HS1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:109",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:109",
+        "x": "550",
+        "y": "130",
+        "width": "1100",
+        "height": "177",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HIP PATHWAY\nStage 1 safety screen (12 checks) → Stage 2 which hip problem is it (12 working diagnoses) → Stage 3 measure, dose the exercise, re-test."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:615",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:615",
+        "x": "550",
+        "y": "387",
+        "width": "1100",
+        "height": "222",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "STAGE 1 — SAFETY SCREEN: Is this hip pain safe to treat with exercise?\n“Hip pain” can come from the joint, the tendons around it, the spine, the pelvis or the abdomen. Ask the 12 checks in order, most time-critical first. Any YES stops the pathway and names the action. All NO → Stage 2."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:619",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:619",
+        "x": "800",
+        "y": "709",
+        "width": "600",
+        "height": "458",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "H1 · Possible hip fracture\nASK: Did you fall or hurt the hip? Can you stand and walk on it? Older adult, thin bones (osteoporosis), long-term steroid use?\nCHECK:\n• Lying on the back, compare the legs — is the painful leg shorter and turned outward?\n• Lift the straight leg (active straight-leg raise); gently roll the straight leg in and out (log roll) — groin pain?\n• Patellar-pubic percussion: stethoscope on the pubic bone; tap each kneecap in turn and compare the sound — duller on the painful side = positive. For fractures hidden on the first X-ray: sensitivity 96%, specificity 86% (Tiru 2002, as reported in a 2013 review); a later study found 85% / 70%.\nNOTE: a patient who can walk can still have a non-displaced fracture.\nWHO: anyone trained; basic kit (stethoscope)\nFall + groin pain + any positive sign?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:623",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:623",
+        "x": "1540",
+        "y": "847",
+        "width": "400",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY\nNo weight-bearing; same-day transfer for an X-ray. Treat as a fracture until the X-ray says otherwise."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:627",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:627",
+        "x": "800",
+        "y": "1257",
+        "width": "600",
+        "height": "504",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "H2 · Hot, irritable hip — possible joint infection\nASK: Fever, chills, feeling unwell? Can you put weight on it? Does ANY movement hurt? Recent infection, injection, diabetes or a weak immune system?\nCHECK: temperature; how they hold the leg at rest; very gently roll the leg.\nPOSITIVE IF: fever; leg held bent and turned out; any rotation is very painful; won’t bear weight.\nEVIDENCE (children): Kocher criteria — refuses to bear weight, fever above 38.5 °C, raised ESR (erythrocyte sedimentation rate) and white cell count on blood tests. With 0 / 1 / 2 / 3 / 4 present, the chance of infection is 0.2% / 3% / 40% / 93% / 99.6% (Kocher 1999). Without blood tests, fever + refusing to bear weight already scores 2 of 4.\nADULTS: treat as infected until proven otherwise; fever is absent in about 4 in 10 (Margaretten 2007). A psoas abscess (pus in the deep hip-flexor muscle; fever, hip held bent, TB risk) looks similar.\nWHO: basic kit (thermometer)\nAny sign present?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:631",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:631",
+        "x": "1540",
+        "y": "1418",
+        "width": "400",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — SAME DAY\nDoctor or emergency department for blood tests and drawing fluid from the joint. No exercise."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:635",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:635",
+        "x": "800",
+        "y": "1851",
+        "width": "600",
+        "height": "458",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "H3 · Child or teenager with a limp\nASK: How old? How long has the limp been there? Fever (→ H2)? Overweight, or in a growth spurt? Pain in the groin, thigh OR knee?\nCHECK:\n• Drehmann sign: lying down, bend the hip to 90° — does the leg swing outward by itself?\n• Internal rotation: hip and knee bent 90°, swing the foot outward so the hip turns inward; compare sides — clearly limited or painful?\nRULE: an older child or teenager with a limp and limited inward rotation = slipped capital femoral epiphysis (the ball of the hip slipping at the growth plate) until an X-ray says otherwise — about 15% present with knee or thigh pain only (Peck 2017). A younger child with a limp: Perthes disease (loss of blood supply to the ball of the hip) is possible. A toddler, or any fever: go to H2.\nWHO: physio-level (hip rotation); anyone trained (history)\nAny of these?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:639",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:639",
+        "x": "1540",
+        "y": "2001",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — SAME DAY\nStop weight-bearing (crutches), orthopaedics and a hip X-ray today."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:643",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:643",
+        "x": "800",
+        "y": "2399",
+        "width": "600",
+        "height": "504",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "H4 · Stress fracture of the hip (femoral neck)\nASK: A recent jump in running, marching, walking distance or heavy labour? Deep groin or thigh pain with weight-bearing that comes on earlier each session — now even when walking? For women: missed periods or low food intake? A past stress fracture?\nCHECK:\n• Single-leg hop on the painful leg — sharp groin pain? (stop at the first hop that hurts)\n• Fulcrum test: seated; the examiner’s forearm under the middle of the thigh as a lever; press down on the knee — sharp pain or apprehension. Sensitivity 88–93%, specificity 13–75% (small studies, secondary source).\n• Patellar-pubic percussion as in H1.\nNOTE: suspicion alone is enough to stop impact loading. Early X-rays are often normal, and fractures on the upper side of the femoral neck can displace.\nWHO: physio-level; anyone trained (history)\nSuspected?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:647",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:647",
+        "x": "1540",
+        "y": "2557",
+        "width": "400",
+        "height": "189",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — STOP IMPACT NOW\nNo running or impact, crutches, same-day or next-day doctor for imaging."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:651",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:651",
+        "x": "800",
+        "y": "2993",
+        "width": "600",
+        "height": "396",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "H5 · Possible avascular necrosis (bone death in the ball of the hip)\nASK: Long courses of steroids (tablets or injections)? Heavy alcohol use? Sickle cell disease, HIV, or a past hip fracture or dislocation? Is the deep groin pain getting worse, now even at rest?\nCHECK: inward rotation of the hip (as in H3) — painful and limited in someone younger than is typical for arthritis?\nNOTE: a younger patient with arthritis-like signs plus a risk factor needs imaging — early collapse of the bone changes management. Consensus; no bedside accuracy study. Check local sickle cell prevalence.\nWHO: anyone trained (history); physio-level (rotation)\nRisk factor + worsening deep groin pain?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:655",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:655",
+        "x": "1540",
+        "y": "3100",
+        "width": "400",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nDoctor for an X-ray (and MRI if the X-ray is normal). Crutches to protect the hip meanwhile."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:659",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:659",
+        "x": "800",
+        "y": "3479",
+        "width": "600",
+        "height": "320",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "H6 · Possible tumour, or cancer spread to bone\nASK: History of cancer (breast, prostate, lung, kidney and thyroid cancers often spread to bone)? Unexplained weight loss? Constant pain, worse at night and at rest, not changed by position?\nNOTE: night pain ALONE is common in hip osteoarthritis. Escalate when night pain comes WITH constant pain, weight loss or a cancer history.\nTEAM DATA: in the NAS records, night-pain patients were referred less often than average (4.7% vs 8.7%).\nWHO: anyone trained\nNight or constant pain PLUS a warning sign?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:663",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:663",
+        "x": "1540",
+        "y": "3560",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nDoctor for an X-ray and blood tests before any loading exercise."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:667",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:667",
+        "x": "800",
+        "y": "3889",
+        "width": "600",
+        "height": "465",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "H7 · Whole-body (inflammatory) or post-viral arthritis\nASK: Morning stiffness over 60 minutes? Back or buttock pain that started before age 45, eases with exercise and wakes you in the second half of the night (inflammatory back pain)? Other swollen joints, psoriasis, bowel disease, a red painful eye? A high fever with rash before the joint pain (chikungunya)?\nCHECK: count swollen joints — hands, wrists, knees, ankles, feet.\nPOSITIVE IF: 3 or more swollen joints, small-joint swelling, or an inflammatory back-pain pattern.\nNOTE: axial spondyloarthritis (inflammatory arthritis of the spine and pelvis) often shows up as buttock or hip pain in young adults. About 25% of chikungunya cases develop long-lasting inflammatory joint disease (Rodriguez-Morales 2016).\nWHO: anyone trained\nInflammatory pattern present?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:671",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:671",
+        "x": "1540",
+        "y": "4031",
+        "width": "400",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "REFER — WITHIN WEEKS\nDoctor or rheumatologist. Medicines first; exercise alongside once treatment has started."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:675",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:675",
+        "x": "800",
+        "y": "4444",
+        "width": "600",
+        "height": "320",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "H8 · Possible tuberculosis (TB) of the hip\nASK: A limp for weeks or months? Night sweats, cough, weight loss, TB contact, HIV or diabetes?\nCHECK: compare thigh and buttock size (wasting); is movement painful and limited?\nNOTE: after the spine, the hip and knee are the commonest TB joints, mostly in younger people in TB-endemic areas (osteoarticular TB review, 2020).\nWHO: anyone trained\nLong-standing limp with TB features?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:679",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:679",
+        "x": "1540",
+        "y": "4525",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "REFER\nDoctor for a TB work-up. Hold loading exercise until assessed."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:683",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:683",
+        "x": "800",
+        "y": "4854",
+        "width": "600",
+        "height": "366",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "H9 · Not the hip: hernia, abdominal or pelvic organ\nASK: A lump in the groin that gets bigger when coughing or standing? Pain passing urine, blood in the urine, or pain spreading from the loin to the groin? Pain linked to periods, vaginal discharge, or testicular pain? Abdominal pain, vomiting, or a change in bowel habit?\nCHECK: standing, look at the groin while they cough — a bulge or impulse? Then bend, rotate and load the hip — does that reproduce the pain?\nPOSITIVE IF: a groin bulge, organ symptoms, or hip movement does NOT reproduce the pain.\nWHO: anyone trained\nComing from somewhere else?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:687",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:687",
+        "x": "1540",
+        "y": "4935",
+        "width": "400",
+        "height": "205",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SWITCH PATHWAY\nDoctor for the abdominal, urinary or gynaecological cause. Hernia: routine surgical referral — urgent if painful and it won’t push back in."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:691",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:691",
+        "x": "800",
+        "y": "5310",
+        "width": "600",
+        "height": "366",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "H10 · Pain coming from the lower back\nASK: Does it start in the back? Does bending the back change it? Pain below the knee, numbness or tingling? NEW trouble controlling bladder or bowel, or numbness between the legs (saddle area)?\nCHECK: bend and arch the back; then, lying down, turn the hip in and out. Straight-leg raise (physio-level): lift the straight leg — leg pain below the knee?\nRULE: groin pain on hip rotation points to the hip; buttock pain on back movements points to the spine. Both can exist together (“hip-spine syndrome”) (Zurich consensus, Reiman 2020).\nWHO: anyone trained; physio-level (straight-leg raise)\nBack movements reproduce it, hip rotation doesn’t?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:695",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:695",
+        "x": "1540",
+        "y": "5391",
+        "width": "400",
+        "height": "205",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SWITCH PATHWAY\nGo to the low-back pathway. The sacroiliac joint (pelvis) is handled in Stage 2 (HT5).\nBladder, bowel or saddle numbness → EMERGENCY, same day."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:699",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:699",
+        "x": "800",
+        "y": "5766",
+        "width": "600",
+        "height": "373",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "H11 · Possible proximal hamstring avulsion (hamstring tendon torn off the sitting bone)\nASK: Did you slip into the splits, or bend forward hard with the knee straight? A pop at the sitting bone, then a big bruise down the back of the thigh?\nCHECK: lying face down, feel just below the sitting bone (ischial tuberosity) for a gap; resist knee bending — marked weakness?\nNOTE: ordinary hamstring strains go to Stage 2. There is no consensus on surgery vs no surgery for complete avulsions, but the surgical option closes with time.\nWHO: physio-level\nGap or marked weakness after that mechanism?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:703",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:703",
+        "x": "1540",
+        "y": "5873",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nOrthopaedics for an opinion while surgery is still an option."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:707",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:707",
+        "x": "800",
+        "y": "6229",
+        "width": "600",
+        "height": "304",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "H12 · Buttock or thigh cramp when walking — poor artery circulation\nASK: Cramping after the same walking distance each time, easing within minutes of standing still? Smoker or diabetic?\nCHECK: groin (femoral) and foot pulses — weak or absent?\nNOTE: buttock cramp on walking suggests narrowing of the iliac artery (consensus).\nWHO: anyone trained; basic kit\nWalking-distance cramp with weak pulses?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:711",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:711",
+        "x": "1540",
+        "y": "6313",
+        "width": "400",
+        "height": "136",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "REFER — ROUTINE\nDoctor for a circulation assessment."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:719",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:719",
+        "x": "100",
+        "y": "709",
+        "width": "560",
+        "height": "534",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SAFETY MODIFIERS — not stops; they change who signs off and how hard you start\n• Chest pain, breathlessness or fainting with effort → doctor before progressive exercise.\n• Blood pressure clearly uncontrolled → doctor sign-off (local cut-off).\n• Recent falls or poor balance → start with supported exercise and add a falls check (Timed Up-and-Go).\n• Osteoporosis risk (older women, long steroid use) → no high-impact work until assessed.\n\nCONTEXT TO RECORD (changes the plan)\n• Underweight is common here (median BMI 18.8 in the NAS data); weight-loss advice often doesn’t apply.\n• Cross-legged floor sitting, squatting toilets, rising from the floor and field work push the hip into deep bending and rotation. These define both the goals and the positions that may aggravate.\n• Fear of movement, low mood and poor sleep slow recovery; handle them in education."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:715",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:715",
+        "x": "800",
+        "y": "6623",
+        "width": "600",
+        "height": "189",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ALL 12 = NO → EXERCISE-RESPONSIVE (BY EXCLUSION)\nGo to Stage 2. Confirm the label by improvement at the week-4 re-test. If nothing improves, come back here — especially H4, H5 and H10."
+    }
+  ]
+}

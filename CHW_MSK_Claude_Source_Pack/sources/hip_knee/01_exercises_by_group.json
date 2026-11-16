@@ -1,0 +1,117 @@
+{
+  "board_key": "cNyP7TFyrcoIYVPUoQlMgw",
+  "section": {
+    "id": "34:1341",
+    "name": "Exercises by Group",
+    "x": "12304",
+    "y": "16608",
+    "width": "3680",
+    "height": "1488"
+  },
+  "elements": [
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:34:2726",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "34:2726",
+        "x": "112",
+        "y": "192",
+        "width": "784",
+        "height": "576",
+        "name": "SQUARE"
+      },
+      "text": "E1 Joint mobility and general leg strengthening\nKnee OA, Degenerative meniscus, Baker’s cyst w/ joint disease, Hip OA, Pesanserine pain\n\nGentle bending and strengthening: heel slides or seated knee bends\nSit-to-stand: rise slowly from chair, can use hands if needed\nStanding hip abduction: Move leg sideways while holding supports\nLow step-ups and short walking bouts: gradually build strength and endurance"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:34:2739",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "34:2739",
+        "x": "992",
+        "y": "192",
+        "width": "784",
+        "height": "480",
+        "name": "SQUARE"
+      },
+      "text": "E2 Knee and Hip Strength with Movement Control\nPatellofemoral pain & ITB syndrome; Patellar dislocation or recurrent instability after clearance from doctor\n\nShallow squats or chair rises\nBridges: Lift pelvis with both feet planted\nLow step-downs: lower slowly from a small step, keeping the pelvis steady, progress to supported single-leg balance."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:34:2756",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "34:2756",
+        "x": "1872",
+        "y": "192",
+        "width": "784",
+        "height": "512",
+        "name": "SQUARE"
+      },
+      "text": "E3 Hip Joint Strength Within Comfortable Movement\nNonarthritic hip-related pain: suspected FAI, labral pathology, or dysplasia \n\nBridges\nStanding hip abduction and extension\nHigh chair sit-to-stand\nSupported balance: Practice steps and getting in and out of vehicles (or some alternative) within a comfortable range"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:34:2763",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "34:2763",
+        "x": "2752",
+        "y": "192",
+        "width": "784",
+        "height": "512",
+        "name": "SQUARE"
+      },
+      "text": "E4 Progressive Quadriceps and Patellar Tendon Loading\nPatellar tendinopathy\n\nStatic knee-extension holds or a shallow wall-sit: only if tolerated\nSlow chair-rises, squats, and step-ups once ↑ is comfortable \nAdd resistance once ↑ is comfortable\nIntroduce hopping afterwards"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:34:2770",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "34:2770",
+        "x": "112",
+        "y": "816",
+        "width": "784",
+        "height": "480",
+        "name": "SQUARE"
+      },
+      "text": "E5 Lateral Hip Strengthening with Reduced Tendon Compression\nGluteal tendinopathy \n\nSeated outward press: gently press the knees outward against a band without moving\nProgress to standing hip abduction, bridges, low step-ups, and supported single-leg control"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:36:2787",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "36:2787",
+        "x": "992",
+        "y": "816",
+        "width": "784",
+        "height": "512",
+        "name": "SQUARE"
+      },
+      "text": "E6 Progressive Hamstring Strengthening\nHamstring strain & Proximal hamstring tendinopathy\n\nHeel dig holds: lying with knees bent, press the heels into the floor\nProgress to bridges, resisted knee bends, and shallow hip hinges\nGradually increase resistance and introduce controlled lengthening exercises"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:36:2801",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "36:2801",
+        "x": "1872",
+        "y": "816",
+        "width": "784",
+        "height": "576",
+        "name": "SQUARE"
+      },
+      "text": "E7 Groin, Hip, and Trunk Strengthening\nAdductor-related; iliopsoas-related; inguinal-related; pubic-related groin pain\n\nShared base: bridges and gentle abdominal bracing\nAdductor/pubic branch: pillow squeezes between the knees, then resisted inward leg movement\nIliopsoas branch: seated knee-lift holds against the hand, then resisted marching\nInguinal branch: graded trunk exercises without painful straining"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:36:2808",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "36:2808",
+        "x": "2752",
+        "y": "816",
+        "width": "784",
+        "height": "432",
+        "name": "SQUARE"
+      },
+      "text": "E8 Protected Knee Injury Rehabilitation\nACL injury, traumatic meniscus injury, MCL/LCL sprain, PCL injury\n\nQuadriceps tightening and permitted knee movement\nFollowed by chair rises, shallow squats, step-ups, and balance training as restrictions allow\nEventually practice work-related tasks"
+    }
+  ]
+}

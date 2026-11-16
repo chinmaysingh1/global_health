@@ -1,0 +1,795 @@
+{
+  "board_key": "cNyP7TFyrcoIYVPUoQlMgw",
+  "section": {
+    "id": "7:537",
+    "name": "Knee · Stage 1 · Safety screen",
+    "x": "7083",
+    "y": "3021",
+    "width": "2040",
+    "height": "7518"
+  },
+  "elements": [
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:678",
+      "type": "connector",
+      "attributes": {
+        "id": "8:678",
+        "x": "1077",
+        "y": "7145",
+        "connectorStart": "5:157",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:165",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K13&gt;KPASS"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:674",
+      "type": "connector",
+      "attributes": {
+        "id": "8:674",
+        "x": "1406",
+        "y": "6954",
+        "connectorStart": "5:157",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:161",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K13&gt;K13Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:670",
+      "type": "connector",
+      "attributes": {
+        "id": "8:670",
+        "x": "1077",
+        "y": "6728",
+        "connectorStart": "5:149",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:157",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K12&gt;K13"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:666",
+      "type": "connector",
+      "attributes": {
+        "id": "8:666",
+        "x": "1406",
+        "y": "6479.5",
+        "connectorStart": "5:149",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:153",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K12&gt;K12Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:662",
+      "type": "connector",
+      "attributes": {
+        "id": "8:662",
+        "x": "1077",
+        "y": "6196",
+        "connectorStart": "5:141",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:149",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K11&gt;K12"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:658",
+      "type": "connector",
+      "attributes": {
+        "id": "8:658",
+        "x": "1406",
+        "y": "6009",
+        "connectorStart": "5:141",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:145",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K11&gt;K11Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:654",
+      "type": "connector",
+      "attributes": {
+        "id": "8:654",
+        "x": "1077",
+        "y": "5786",
+        "connectorStart": "5:133",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:141",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K10&gt;K11"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:650",
+      "type": "connector",
+      "attributes": {
+        "id": "8:650",
+        "x": "1406",
+        "y": "5526",
+        "connectorStart": "5:133",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:137",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K10&gt;K10Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:646",
+      "type": "connector",
+      "attributes": {
+        "id": "8:646",
+        "x": "1077",
+        "y": "5231",
+        "connectorStart": "5:125",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:133",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K9&gt;K10"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:642",
+      "type": "connector",
+      "attributes": {
+        "id": "8:642",
+        "x": "1406",
+        "y": "4998",
+        "connectorStart": "5:125",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:129",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K9&gt;K9Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:638",
+      "type": "connector",
+      "attributes": {
+        "id": "8:638",
+        "x": "1077",
+        "y": "4729",
+        "connectorStart": "5:117",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:125",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K8&gt;K9"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:634",
+      "type": "connector",
+      "attributes": {
+        "id": "8:634",
+        "x": "1406",
+        "y": "4469",
+        "connectorStart": "5:117",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:121",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K8&gt;K8Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:630",
+      "type": "connector",
+      "attributes": {
+        "id": "8:630",
+        "x": "1077",
+        "y": "4174",
+        "connectorStart": "5:109",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:117",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K7&gt;K8"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:626",
+      "type": "connector",
+      "attributes": {
+        "id": "8:626",
+        "x": "1406",
+        "y": "3948.5",
+        "connectorStart": "5:109",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:113",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K7&gt;K7Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:622",
+      "type": "connector",
+      "attributes": {
+        "id": "8:622",
+        "x": "1077",
+        "y": "3688",
+        "connectorStart": "5:101",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:109",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K6&gt;K7"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:618",
+      "type": "connector",
+      "attributes": {
+        "id": "8:618",
+        "x": "1406",
+        "y": "3501",
+        "connectorStart": "5:101",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:105",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K6&gt;K6Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:614",
+      "type": "connector",
+      "attributes": {
+        "id": "8:614",
+        "x": "1077",
+        "y": "3278",
+        "connectorStart": "5:93",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:101",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K5&gt;K6"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:610",
+      "type": "connector",
+      "attributes": {
+        "id": "8:610",
+        "x": "1406",
+        "y": "3052.5",
+        "connectorStart": "5:93",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:97",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K5&gt;K5Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:606",
+      "type": "connector",
+      "attributes": {
+        "id": "8:606",
+        "x": "1077",
+        "y": "2792",
+        "connectorStart": "5:85",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:93",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K4&gt;K5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:602",
+      "type": "connector",
+      "attributes": {
+        "id": "8:602",
+        "x": "1406",
+        "y": "2566.5",
+        "connectorStart": "5:85",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:89",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K4&gt;K4Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:598",
+      "type": "connector",
+      "attributes": {
+        "id": "8:598",
+        "x": "1077",
+        "y": "2306",
+        "connectorStart": "5:77",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:85",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K3&gt;K4"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:594",
+      "type": "connector",
+      "attributes": {
+        "id": "8:594",
+        "x": "1406",
+        "y": "2057.5",
+        "connectorStart": "5:77",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:81",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K3&gt;K3Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:590",
+      "type": "connector",
+      "attributes": {
+        "id": "8:590",
+        "x": "1077",
+        "y": "1774",
+        "connectorStart": "5:69",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:77",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K2&gt;K3"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:586",
+      "type": "connector",
+      "attributes": {
+        "id": "8:586",
+        "x": "1406",
+        "y": "1491",
+        "connectorStart": "5:69",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:73",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K2&gt;K2Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:582",
+      "type": "connector",
+      "attributes": {
+        "id": "8:582",
+        "x": "1077",
+        "y": "1173",
+        "connectorStart": "5:61",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:69",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K1&gt;K2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:578",
+      "type": "connector",
+      "attributes": {
+        "id": "8:578",
+        "x": "1406",
+        "y": "917",
+        "connectorStart": "5:61",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:65",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "K1&gt;K1Y"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:574",
+      "type": "connector",
+      "attributes": {
+        "id": "8:574",
+        "x": "1100",
+        "y": "615",
+        "connectorStart": "5:57",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:61",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "KS1&gt;K1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:570",
+      "type": "connector",
+      "attributes": {
+        "id": "8:570",
+        "x": "1100",
+        "y": "313",
+        "connectorStart": "3:105",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:57",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-KNEE&gt;KS1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:105",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:105",
+        "x": "550",
+        "y": "130",
+        "width": "1100",
+        "height": "177",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "KNEE PATHWAY\nStage 1 safety screen (13 checks) → Stage 2 which knee problem is it (16 working diagnoses) → Stage 3 measure, dose the exercise, re-test."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:57",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:57",
+        "x": "550",
+        "y": "387",
+        "width": "1100",
+        "height": "222",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "STAGE 1 — SAFETY SCREEN: Is this knee pain safe to treat with exercise?\nAsk the 13 checks in order, most time-critical first. Any YES stops the pathway and names the action. All NO → Stage 2. “Exercise-responsive” is decided by ruling these out, then confirmed by improvement at the week-4 re-test (Stage 3)."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:61",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:61",
+        "x": "800",
+        "y": "709",
+        "width": "600",
+        "height": "458",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K1 · Possible broken bone (fracture)\nASK: Did the pain start with a fall, blow, twist or accident in the last 7 days? Could you walk straight afterwards?\nCHECK — Ottawa Knee Rule (any ONE item = positive):\n• age 55 or older\n• tender ONLY over the kneecap (no other bony tenderness)\n• tender at the head of the fibula (the bony bump on the outer side, just below the knee)\n• can’t bend the knee to 90°\n• can’t take 4 steps, both right after the injury and now (limping steps count)\nEVIDENCE: sensitivity about 98.5% (6 studies, 4,249 adults) — a negative rule makes a fracture very unlikely. Specificity is low (about 49%) on purpose: the job here is to miss nothing (Bachmann 2004).\nWHO: anyone trained\nRecent injury AND any item positive?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:65",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:65",
+        "x": "1540",
+        "y": "859",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY\nSplint the knee, no weight-bearing exercise, same-day X-ray through the doctor."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:69",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:69",
+        "x": "800",
+        "y": "1257",
+        "width": "600",
+        "height": "511",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K2 · Dislocated knee, or damage to the artery or nerve\nASK: High-energy injury (road accident, fall from a height)? Did the knee look out of place? Is the foot cold, pale, numb, tingling or weak? Is the pain far worse than the injury looks, with a tight, swollen calf (possible compartment syndrome — dangerous pressure build-up inside the muscle)?\nCHECK: feel the foot pulses (top of the foot, and behind the inner ankle bone) and compare sides. Press a toenail and compare how fast the pink colour returns with the other foot. Light touch on the top and sole of the foot; wiggle the toes; lift the foot up.\nPOSITIVE IF: weaker pulse, slow colour return, cold foot, numbness or foot drop.\nNOTE: a dislocated knee can pop back in by itself and still have a torn artery. Standard emergency teaching (consensus; no bedside accuracy study).\nWHO: anyone trained\nAny sign present?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:73",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:73",
+        "x": "1540",
+        "y": "1433",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY\nEmergency transfer now. Do not wait for the knee to settle."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:77",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:77",
+        "x": "800",
+        "y": "1858",
+        "width": "600",
+        "height": "442",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K3 · Hot, red, swollen knee — possible joint infection (septic arthritis) or gout\nASK: Did it swell up quickly over hours to days without a clear injury? Fever, chills, feeling unwell? Recent injection into the knee, a skin wound, diabetes, steroid use or a weak immune system? Past attacks like this (gout)?\nCHECK: temperature. Back of the hand on both knees — is one clearly warmer? Look for swelling that fills the dimples beside the kneecap. Can they stand on it and bend it?\nEVIDENCE: fever is present in only 57% of joint infections — a normal temperature does NOT clear this check (Margaretten 2007). Gout and pseudogout look the same at the bedside; only drawing fluid from the joint tells them apart.\nWHO: basic kit (thermometer)\nHot, swollen joint present?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:81",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:81",
+        "x": "1540",
+        "y": "1988",
+        "width": "400",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — SAME DAY\nTreat as a joint infection until proven otherwise. Same-day doctor to draw fluid from the joint (aspiration). No exercise."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:85",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:85",
+        "x": "800",
+        "y": "2390",
+        "width": "600",
+        "height": "396",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K4 · Possible blood clot in the leg (deep vein thrombosis, DVT)\nASK: Calf pain or swelling? Recent surgery, a plaster cast, bed rest or a long journey? Cancer, pregnancy, hormone pills or a past clot?\nCHECK (items from the Wells score): measure both calves 10 cm below the bony bump under the kneecap and compare; pitting swelling (press — does a dent stay?); tenderness along the deep veins at the back of the calf and inner thigh; is the whole leg swollen?\nNOTE: the Wells score itself is calculated by the doctor (Wells 1997). A burst Baker’s cyst (fluid sac behind the knee) can look identical and needs the same check.\nWHO: basic kit (tape measure)\nClear one-sided calf swelling with risk factors?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:89",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:89",
+        "x": "1540",
+        "y": "2497",
+        "width": "400",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — SAME DAY\nDoctor to score the risk and arrange an ultrasound scan or a D-dimer blood test. No exercise until cleared."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:93",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:93",
+        "x": "800",
+        "y": "2876",
+        "width": "600",
+        "height": "396",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K5 · Can’t straighten the knee against gravity — torn quadriceps or kneecap tendon\nASK: After a stumble or awkward landing, did something give way at the front of the knee? Can you lift your leg straight off the bed?\nCHECK: lying on the back, lift the leg with the knee fully straight (active straight-leg raise). Feel above and below the kneecap for a gap; compare kneecap height with the other side.\nPOSITIVE IF: can’t lift it, or the knee sags as the leg lifts (extension lag); a gap; the kneecap sits too high or too low.\nNOTE: a good straight-leg raise makes this unlikely (consensus; no accuracy study).\nWHO: anyone trained\nCan’t straighten against gravity after an injury?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:97",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:97",
+        "x": "1540",
+        "y": "2983",
+        "width": "400",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nOrthopaedics (bone and joint specialist): repair is time-sensitive. Brace the knee straight meanwhile."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:101",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:101",
+        "x": "800",
+        "y": "3362",
+        "width": "600",
+        "height": "320",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K6 · Truly locked knee\nASK: Is the knee stuck bent so it won’t straighten at all, even with help? Or does it catch and then free itself?\nCHECK: ask them to relax, then gently try to straighten the knee.\nPOSITIVE IF: a firm block short of straight (not just pain).\nNOTE: true locking suggests a torn flap of cartilage stuck in the joint (e.g. a “bucket-handle” meniscus tear). Brief catching that frees itself does NOT stop the pathway — it is a clue for Stage 2 (consensus).\nWHO: anyone trained\nFirm block to straightening?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:105",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:105",
+        "x": "1540",
+        "y": "3443",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nOrthopaedics. Protect the knee; never force it straight."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:109",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:109",
+        "x": "800",
+        "y": "3772",
+        "width": "600",
+        "height": "396",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K7 · Fast swelling after a twist, or the kneecap popped out\nASK: Did you hear or feel a pop? How fast did it swell? Did the kneecap slide out to the side?\nPOSITIVE IF: the knee swelled within the first few hours — that means bleeding inside the joint, typical of a ligament tear (ACL), a fracture or a kneecap dislocation.\nNOTE: this does NOT rule out exercise. ACL tears can be managed rehab-first (KANON trial, Frobell 2010). A first-time kneecap dislocation needs an X-ray to look for a broken-off fragment of bone or cartilage (BOAST 2024).\nWHO: anyone trained\nFast swelling or a kneecap dislocation?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:113",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:113",
+        "x": "1540",
+        "y": "3818",
+        "width": "400",
+        "height": "304",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SOON — WITHIN ABOUT A WEEK\nMake sure K1 (fracture) is cleared. Refer for a ligament exam within about a week; first kneecap dislocation → X-ray. Start gentle bending and straightening and thigh-muscle tightening now.\nThen continue down this list, and in Stage 2 take the “specific injury” branch (KQ2)."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:117",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:117",
+        "x": "800",
+        "y": "4258",
+        "width": "600",
+        "height": "465",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K8 · Child or teen: a HIP problem showing up as knee pain\nASK: An older child or teenager with a limp and knee or thigh pain? A younger child who won’t stand on the leg? Pain in the groin or thigh as well? Fever?\nCHECK: lying down, bend the hip to 90° — does the leg swing outward by itself (Drehmann sign)? Turn the hip inward — limited or painful compared with the other side? The knee itself often looks normal — that is the clue.\nEVIDENCE: a slipped capital femoral epiphysis (the ball of the hip slips at the growth plate) shows up as knee or thigh pain alone in about 15% of cases and is often missed (Peck 2017). In a feverish child who won’t bear weight, 2 of the 4 Kocher criteria are already present — about a 40% chance of hip infection (Kocher 1999).\nWHO: physio-level (hip rotation); anyone trained (history)\nRULE: every child with knee pain gets a hip exam. Any sign present?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:121",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:121",
+        "x": "1540",
+        "y": "4411",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — SAME DAY\nNo weight-bearing (crutches), orthopaedics and a hip X-ray today."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:125",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:125",
+        "x": "800",
+        "y": "4813",
+        "width": "600",
+        "height": "412",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K9 · Possible tumour or serious bone disease\nASK: Constant pain that no rest or position eases? Waking at night with it? History of cancer? Unexplained weight loss? A lump? A teenager with deep bone pain around the knee?\nCHECK: compare both thighs and shins; feel for a firm swelling that is not the joint itself.\nNOTE: night pain ALONE is common in knee osteoarthritis. Escalate when night pain comes WITH constant pain, weight loss, a cancer history or a lump. Around the knee, bone tumours also occur in teenagers.\nTEAM DATA: in the NAS records, night-pain patients were referred less often than average (4.7% vs 8.7%) — this check exists to fix that.\nWHO: anyone trained\nNight or constant pain PLUS a warning sign?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:129",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:129",
+        "x": "1540",
+        "y": "4940",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — WITHIN DAYS\nDoctor for an X-ray and blood tests before any loading exercise."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:133",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:133",
+        "x": "800",
+        "y": "5315",
+        "width": "600",
+        "height": "465",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K10 · Whole-body (inflammatory) or post-viral arthritis\nASK: Morning stiffness longer than 30 minutes that eases with movement? Swelling in 3 or more joints, or in the hands, wrists or feet? A high fever with rash before the joint pain (chikungunya, dengue)? Psoriasis (scaly skin rash), bowel disease, a red painful eye, or diarrhoea or a urine infection in the last month? Back pain that improves with exercise and is worse with rest?\nCHECK: count swollen joints — both hands, wrists, knees, ankles and feet.\nPOSITIVE IF: 3 or more swollen joints, or any swelling of small joints.\nEVIDENCE: about 25% of people with chikungunya develop long-lasting inflammatory joint disease (27% in Indian studies) (Rodriguez-Morales 2016).\nWHO: anyone trained\nInflammatory pattern present?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:137",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:137",
+        "x": "1540",
+        "y": "5445",
+        "width": "400",
+        "height": "205",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "REFER — WITHIN WEEKS\nDoctor or rheumatologist (specialist in joint inflammation). Medicines come first; exercise helps alongside once treatment has started."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:141",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:141",
+        "x": "800",
+        "y": "5870",
+        "width": "600",
+        "height": "320",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K11 · Possible tuberculosis (TB) of the knee\nASK: One knee swollen for weeks to months? Night sweats, cough, weight loss, TB in the family or past TB? HIV or diabetes?\nCHECK: compare thigh size (muscle wasting); feel for a soft, thick, “boggy” swelling.\nNOTE: after the spine, the hip and knee are the commonest joints for TB, mostly in younger people in TB-endemic areas (osteoarticular TB review, 2020).\nWHO: anyone trained\nLong-standing single swollen knee with TB features?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:145",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:145",
+        "x": "1540",
+        "y": "5951",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "REFER\nDoctor for a TB work-up. Hold loading exercise until assessed."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:149",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:149",
+        "x": "800",
+        "y": "6280",
+        "width": "600",
+        "height": "442",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K12 · Pain coming from the back or the hip (referred pain)\nASK: Does the pain start in the back or buttock and spread past the knee? Numbness, tingling or weakness in the foot? NEW trouble controlling the bladder or bowel, or numbness between the legs (the “saddle” area)?\nCHECK: do squatting and bending/straightening the knee change the pain? Then: bend and arch the back; straight-leg raise; turn the hip in and out with it bent to 90°.\nPOSITIVE IF: knee movements don’t change the pain, but back or hip movements reproduce it.\nNOTE: hip osteoarthritis commonly refers pain to the front and inside of the knee.\nWHO: anyone trained (knee, back); physio-level (hip rotation)\nIs the pain coming from somewhere else?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:153",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:153",
+        "x": "1540",
+        "y": "6387",
+        "width": "400",
+        "height": "228",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SWITCH PATHWAY\nFrom the hip → go to the HIP PATHWAY (dashed arrow). From the back → low-back pathway.\nBladder, bowel or saddle numbness → EMERGENCY, same day."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:157",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:157",
+        "x": "800",
+        "y": "6812",
+        "width": "600",
+        "height": "327",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "K13 · Calf or thigh cramp when walking — poor artery circulation\nASK: Does cramping come on after the same walking distance each time, and go away within minutes of standing still? Smoker or diabetic?\nCHECK: foot pulses, skin temperature, hair loss on the shin, shiny skin, slow-healing sores.\nNOTE: this is peripheral arterial disease. Walking exercise still helps, but needs a medical check first (consensus).\nWHO: anyone trained; basic kit\nWalking-distance cramp with poor circulation signs?"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:161",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:161",
+        "x": "1540",
+        "y": "6896",
+        "width": "400",
+        "height": "159",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "REFER — ROUTINE\nDoctor for a circulation assessment, then supervised walking exercise."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:169",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:169",
+        "x": "100",
+        "y": "709",
+        "width": "560",
+        "height": "488",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SAFETY MODIFIERS — not stops; they change who signs off and how hard you start\n• Chest pain, breathlessness or fainting with effort → doctor before progressive exercise.\n• Blood pressure clearly uncontrolled → doctor sign-off first (use the local cut-off).\n• Diabetes → check feet and skin before kneeling or barefoot work.\n• Pregnancy → avoid lying flat on the back after the first trimester.\n\nCONTEXT TO RECORD (changes the plan)\n• Underweight is common here (median BMI 18.8 in the NAS data), so standard “lose weight” advice often doesn’t apply.\n• Floor sitting, squatting toilets, kneeling for prayer, field work and carrying water define the goals.\n• Fear that exercise will damage the knee, low mood and poor sleep slow recovery — address them in education."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:165",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:165",
+        "x": "800",
+        "y": "7229",
+        "width": "600",
+        "height": "189",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ALL 13 = NO → EXERCISE-RESPONSIVE (BY EXCLUSION)\nGo to Stage 2. This label is confirmed later by improvement at the week-4 re-test. If nothing improves, come back to this list."
+    }
+  ]
+}

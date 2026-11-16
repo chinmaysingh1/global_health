@@ -1,0 +1,286 @@
+{
+  "board_key": "rWECNSFkKrOGuJkRPvsQdP",
+  "section": {
+    "id": "1:7323",
+    "name": "How to read this board",
+    "x": "9095",
+    "y": "-3800",
+    "width": "3610",
+    "height": "1871"
+  },
+  "elements": [
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6327",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6327",
+        "x": "1055",
+        "y": "160",
+        "width": "1500",
+        "height": "430",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SPINE ASSESSMENT FLOWCHART — LOW BACK · NECK & UPPER BACK\nA question-by-question pathway from “my back (or neck) hurts” to a working diagnosis, an exercise group, a measured baseline and a re-test plan — using only questions, observation and hands-on tests. No imaging is assumed.\nBuilt from: JOSPT physical therapy clinical practice guidelines (low back pain 2012 and 2021 revision, neck pain 2017), NICE NG59 (low back pain and sciatica, 2016/2020), the WHO guideline on chronic primary low back pain (2023), the IFOMPT international frameworks for spinal red flags (2020) and cervical vascular screening (2023), the Lancet Low Back Pain Series (2018), the STarT Back trial, and diagnostic accuracy studies. Draft for clinical review — a physiotherapist should sign off before use with patients."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6331",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6331",
+        "x": "350",
+        "y": "700",
+        "width": "700",
+        "height": "527",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HOW TO USE THIS BOARD\n1. Start at the black START box and follow the arrows.\n2. Yellow boxes are QUESTIONS. Ask them in plain words, pick the white answer box that matches what the patient says, and follow its arrow.\n3. Blue boxes are HANDS-ON CHECKS. Each one says what to do, what counts as positive, how accurate it is, and who can usually do it.\n4. Every pathway runs in 4 stages: Stage 1 safety screen (is this safe to treat with exercise?) → Stage 2 working diagnosis (which problem is it?) → Stage 3 exercise group (diagnoses that share a problem share a programme) → Stage 4 measure, dose the exercise, re-test.\n5. Dashed grey arrows jump to another part of the board. Grey curved arrows link each working diagnosis to its exercise group(s). Box codes (e.g. L3, LT2, ND4, LX-C) let you jump by name.\n\nStarting assumption: the pain has been checked as musculoskeletal. But back and neck pain are the commonest disguise for heart, blood-vessel, kidney and abdominal problems, so Stage 1 re-checks them."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6335",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6335",
+        "x": "1120",
+        "y": "700",
+        "width": "700",
+        "height": "476",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HOW TO READ THE ACCURACY NUMBERS\nSensitivity — out of 100 people who really HAVE the problem, how many the test catches. A highly sensitive test that comes back NEGATIVE helps rule the problem OUT.\nSpecificity — out of 100 people who do NOT have it, how many the test correctly clears. A highly specific test that comes back POSITIVE helps rule the problem IN.\nLikelihood ratio (LR) — how strongly a result shifts the odds. LR+ above 10 = strong rule-in; LR− below 0.1 = strong rule-out; LR+ 2–5 = small shift.\nPost-test probability — the chance the problem is really there once this finding is present (used for red flags, Downie 2013).\nCluster — several findings counted together; beats any single test for almost every condition here.\nConsensus — expert agreement only; no accuracy study was found. Treat these boxes with more caution.\nWorking diagnosis — the best label you can act on without imaging. It is confirmed, or revised, by how the patient responds at the week-4 re-test."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6339",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6339",
+        "x": "1890",
+        "y": "700",
+        "width": "700",
+        "height": "553",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "PLAIN-LANGUAGE GLOSSARY\nFlexion / extension — bending forward / arching backward. Rotation / side-bending — twisting / tipping sideways.\nLumbar / thoracic / cervical — low back / mid and upper back (rib level) / neck.\nRadicular pain — shooting pain along a nerve root: below the knee in the leg, below the elbow in the arm. Radiculopathy — the same plus numbness, weakness or reflex loss.\nReferred pain — pain felt away from its source without nerve-root signs (e.g. back pain felt in the buttock or thigh).\nCentralisation — leg or arm symptoms retreat toward the spine with a repeated movement: a good sign. Peripheralisation — they spread further out: a warning sign.\nDirectional preference — one direction of repeated movement (usually arching or bending) eases the pain and improves movement.\nMyelopathy — pressure on the spinal cord: clumsy hands, unsteady walking.\nCentral sensitisation / nociplastic pain — the nervous system’s alarm is turned up; pain is widespread and out of proportion to tissue findings.\nYellow flags — beliefs, fears, mood, sleep and work factors that predict slow recovery.\nDermatome / myotome — skin area / muscle group supplied by one nerve root.\nImaging — X-ray, CT or MRI. Doctor — the medical officer on the team."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6343",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6343",
+        "x": "2660",
+        "y": "700",
+        "width": "600",
+        "height": "349",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "WHO CAN DO EACH CHECK (guidance, never a stop)\nAnyone trained — a health worker after short training: questions, looking, pressing, simple movements.\nBasic kit — needs a thermometer, tape measure, blood-pressure cuff or phone app.\nPhysio-level — needs a physiotherapist’s or doctor’s hands-on skill; can be done by video review or at referral.\nIf nobody with the skill is available: record the history, film the movement, note the test as “not done” and keep going — the pathway still works, with a little less certainty."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6347",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6347",
+        "x": "120",
+        "y": "1363",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "COLOUR KEY"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6351",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6351",
+        "x": "550",
+        "y": "1363",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "START / PATHWAY / STAGE HEADER"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6355",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6355",
+        "x": "980",
+        "y": "1363",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "QUESTION to ask the patient"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6359",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6359",
+        "x": "1410",
+        "y": "1363",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Patient’s answer → follow this arrow"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6363",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6363",
+        "x": "1840",
+        "y": "1363",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HANDS-ON CHECK or TEST"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6367",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6367",
+        "x": "2270",
+        "y": "1363",
+        "width": "360",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "EMERGENCY — act now or same day; no exercise"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6371",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6371",
+        "x": "2700",
+        "y": "1363",
+        "width": "360",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "URGENT — doctor or specialist within days"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6375",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6375",
+        "x": "3130",
+        "y": "1363",
+        "width": "360",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SOON — check within about a week; gentle exercise can start"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6379",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6379",
+        "x": "120",
+        "y": "1612",
+        "width": "360",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "REFER — doctor or specialist within weeks; exercise alongside"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6383",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6383",
+        "x": "550",
+        "y": "1612",
+        "width": "360",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SWITCH PATHWAY — the pain is coming from somewhere else"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6387",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6387",
+        "x": "980",
+        "y": "1612",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "PASSED the safety screen"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6391",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6391",
+        "x": "1410",
+        "y": "1612",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "WORKING DIAGNOSIS + NEXT STEP"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6395",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6395",
+        "x": "1840",
+        "y": "1612",
+        "width": "360",
+        "height": "139",
+        "name": "SQUARE"
+      },
+      "text": "EXERCISE GROUP (square corners) — diagnoses that share a programme"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6399",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6399",
+        "x": "2270",
+        "y": "1612",
+        "width": "360",
+        "height": "139",
+        "name": "SQUARE"
+      },
+      "text": "CORE PROGRAMME — where every group ends up"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6403",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6403",
+        "x": "2700",
+        "y": "1612",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "MEASURE · DOSE · RE-TEST"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6407",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6407",
+        "x": "3130",
+        "y": "1612",
+        "width": "360",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NOTE — why this matters, or context"
+    }
+  ]
+}

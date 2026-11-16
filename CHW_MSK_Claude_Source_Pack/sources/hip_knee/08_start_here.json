@@ -1,0 +1,161 @@
+{
+  "board_key": "cNyP7TFyrcoIYVPUoQlMgw",
+  "section": {
+    "id": "7:536",
+    "name": "Start here",
+    "x": "7943",
+    "y": "1628",
+    "width": "13742",
+    "height": "1263"
+  },
+  "elements": [
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:550",
+      "type": "connector",
+      "attributes": {
+        "id": "8:550",
+        "x": "6871",
+        "y": "848",
+        "connectorStart": "3:97",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "3:101",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-A0B&gt;G-N0B"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:546",
+      "type": "connector",
+      "attributes": {
+        "id": "8:546",
+        "x": "6871",
+        "y": "621",
+        "connectorStart": "3:85",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "3:97",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-Q0&gt;G-A0B"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:542",
+      "type": "connector",
+      "attributes": {
+        "id": "8:542",
+        "x": "6871",
+        "y": "621",
+        "connectorStart": "3:85",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "3:93",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-Q0&gt;G-A0H"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:538",
+      "type": "connector",
+      "attributes": {
+        "id": "8:538",
+        "x": "240",
+        "y": "621",
+        "connectorStart": "3:85",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "3:89",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-Q0&gt;G-A0K"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:534",
+      "type": "connector",
+      "attributes": {
+        "id": "8:534",
+        "x": "6871",
+        "y": "349",
+        "connectorStart": "3:81",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "3:85",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "G-START&gt;G-Q0"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:81",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:81",
+        "x": "6591",
+        "y": "130",
+        "width": "560",
+        "height": "213",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "START\nPatient reports hip or knee pain.\nAlready established: the pain is musculoskeletal (bone, joint, muscle, tendon or nerve of the leg) — not coming from the heart, abdomen, skin or another body system."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:85",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:85",
+        "x": "6631",
+        "y": "433",
+        "width": "480",
+        "height": "182",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Q0 · Where is the main pain?\nASK: \"Point with one finger to where it hurts the most.\"\nWATCH: a hand cupped around the side of the hip (the \"C-sign\") points to the hip joint itself."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:89",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:89",
+        "x": "100",
+        "y": "735",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "At the knee, or just above or below it"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:93",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:93",
+        "x": "13362",
+        "y": "735",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Groin, side of the hip, buttock or upper thigh"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:97",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:97",
+        "x": "6731",
+        "y": "735",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Both, or not sure"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:3:101",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "3:101",
+        "x": "6651",
+        "y": "912",
+        "width": "440",
+        "height": "251",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Check the HIP first\nHip problems often send pain down to the knee — especially hip osteoarthritis, and a slipped growth plate at the hip in children. If moving the hip (turning it in and out, bent to 90°) reproduces the knee pain, the hip is the source → HIP PATHWAY. If not → KNEE PATHWAY."
+    }
+  ]
+}

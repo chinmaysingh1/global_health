@@ -1,0 +1,1432 @@
+{
+  "board_key": "rWECNSFkKrOGuJkRPvsQdP",
+  "section": {
+    "id": "1:7331",
+    "name": "Neck & upper back · Stage 2 · Which problem",
+    "x": "12840",
+    "y": "10903",
+    "width": "10800",
+    "height": "3214"
+  },
+  "elements": [
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6995",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6995",
+        "x": "4850",
+        "y": "160",
+        "width": "1100",
+        "height": "219",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "STAGE 2 — WHICH NECK OR UPPER-BACK PROBLEM IS IT?\nThe JOSPT neck pain guideline (Blanpied 2017) sorts neck pain into 4 patterns that each need a different emphasis: mobility deficits, movement-coordination problems (including whiplash), headache from the neck, and radiating arm pain. This stage adds the upper back (thoracic spine and ribs) and widespread pain, then hands each working diagnosis to an exercise group."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7003",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7003",
+        "x": "5140",
+        "y": "619",
+        "width": "520",
+        "height": "205",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NQ1 · Where do the symptoms go? (use the body chart from Q0)\nASK: “Show me everywhere you feel it. Does it go into the arm or the head? Any pins and needles or numbness?”"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8002",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8002",
+        "x": "5400",
+        "y": "385",
+        "connectorStart": "1:6995",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7003",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NS2&gt;NQ1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7007",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7007",
+        "x": "1940",
+        "y": "934",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Neck only, or neck to the top of the shoulder or shoulder blade"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8006",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8006",
+        "x": "2100",
+        "y": "830",
+        "connectorStart": "1:7003",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7007",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1&gt;NQ1a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7027",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7027",
+        "x": "1840",
+        "y": "1183",
+        "width": "520",
+        "height": "171",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NQ2 · How did it start?\nASK: “What happened on the first day? Was there an accident or a jolt?”"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8026",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8026",
+        "x": "2100",
+        "y": "1079",
+        "connectorStart": "1:7007",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7027",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1a&gt;NQ2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7031",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7031",
+        "x": "770",
+        "y": "1464",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "A road accident or sudden jolt — whiplash"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8030",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8030",
+        "x": "930",
+        "y": "1360",
+        "connectorStart": "1:7027",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7031",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ2&gt;NQ2a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7043",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7043",
+        "x": "620",
+        "y": "1713",
+        "width": "620",
+        "height": "459",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NT1 · Whiplash grading (Quebec Task Force) and recovery risk\nGRADE (Spitzer 1995): 0 — no neck complaint; I — neck pain or stiffness only, no signs; II — plus reduced movement and tender points; III — plus neurological signs (weakness, reflex or sensory loss) → also run the arm-nerve check (NT3); IV — fracture or dislocation (should already have been caught at N2).\nRECOVERY RISK (Ritchie 2013 prediction rule): older age, high early disability on the Neck Disability Index and stress-reaction (hyperarousal) symptoms predict chronic moderate-to-severe disability; younger people with low early disability are likely to recover fully.\nALSO ASK: headache, dizziness or poor concentration after a head knock → doctor for a concussion check.\nWHO: anyone trained"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8042",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8042",
+        "x": "930",
+        "y": "1609",
+        "connectorStart": "1:7031",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7043",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ2a&gt;NT1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7047",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7047",
+        "x": "250",
+        "y": "2282",
+        "width": "320",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Grade I–II, low-risk features"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8046",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8046",
+        "x": "410",
+        "y": "2178",
+        "connectorStart": "1:7043",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7047",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT1&gt;NT1a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7059",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7059",
+        "x": "120",
+        "y": "2506",
+        "width": "580",
+        "height": "443",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ND3 · WORKING DIAGNOSIS: Whiplash-associated disorder (grade I–II), low risk — neck pain with movement-coordination impairment\nWHAT IT IS: sprain-type neck pain after a sudden acceleration–deceleration; most people recover within weeks to a few months.\nNEXT STEP: reassurance and advice to stay active and keep the neck moving; early active range-of-motion exercise; then deep-neck-flexor, shoulder-blade and endurance training. Education plus active exercise is the recommended first-line care (JOSPT 2017).\nAVOID: soft collars and rest; repeated passive treatments.\nEXERCISE GROUPS: NX-B (early mobility) → NX-A (deep neck & shoulder-blade control)\nSTAGE 4 MODULE: whiplash module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8058",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8058",
+        "x": "410",
+        "y": "2402",
+        "connectorStart": "1:7047",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7059",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT1a&gt;ND3"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7051",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7051",
+        "x": "900",
+        "y": "2282",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Grade I–II with high-risk features (high disability, stress symptoms, older age)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8050",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8050",
+        "x": "930",
+        "y": "2178",
+        "connectorStart": "1:7043",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7051",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT1&gt;NT1b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7063",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7063",
+        "x": "770",
+        "y": "2557",
+        "width": "580",
+        "height": "510",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ND4 · WORKING DIAGNOSIS: Whiplash-associated disorder — HIGH risk of persistent pain\nWHAT IT IS: whiplash with high early pain and disability, stress-reaction symptoms or widespread sensitivity — a pattern linked with slow recovery.\nNEXT STEP: the same active approach delivered as psychologically informed care: education about pain and stress, graded activity, pacing and sleep; screen for post-traumatic stress and low mood and involve a counsellor or doctor; follow up closely in the first 3 months. In established chronic whiplash, a comprehensive 12-session exercise programme was no better than simple advice (Michaleff 2014, PROMISE trial) — so keep it simple, active and confidence-building rather than intensive.\nAVOID: collars, rest, frequent passive treatment, alarming explanations.\nEXERCISE GROUPS: NX-E (graded activity) + NX-A\nSTAGE 4 MODULE: whiplash module + yellow-flag module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8062",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8062",
+        "x": "1060",
+        "y": "2453",
+        "connectorStart": "1:7051",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7063",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT1b&gt;ND4"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7055",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7055",
+        "x": "1420",
+        "y": "2282",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Grade III — arm symptoms or neurological signs → arm-nerve check (NT3)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8054",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8054",
+        "x": "930",
+        "y": "2178",
+        "connectorStart": "1:7043",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7055",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT1&gt;NT1c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7035",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7035",
+        "x": "1940",
+        "y": "1464",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Woke up with it — neck stuck to one side, sudden, no injury"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8034",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8034",
+        "x": "2100",
+        "y": "1360",
+        "connectorStart": "1:7027",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7035",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ2&gt;NQ2b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7067",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7067",
+        "x": "1810",
+        "y": "1713",
+        "width": "580",
+        "height": "434",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ND5 · WORKING DIAGNOSIS: Acute wry neck (acute torticollis, adult)\nWHAT IT IS: sudden painful locking of the neck, often on waking, turned or tilted to one side, with no injury and no neurological signs. Usually settles over days to a week or two (consensus).\nNEXT STEP: reassurance; heat; gentle active movement in the pain-free direction first, then easing into the stiff direction; keep usual activities. A physio may add gentle mobilisation.\nAVOID: forcing the neck into the painful direction; collars.\nCHECK: a CHILD with a wry neck, fever or neurological signs belongs at N4 / N10, not here.\nEXERCISE GROUP: NX-B (mobility)\nSTAGE 4 MODULE: neck module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8070",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8070",
+        "x": "2100",
+        "y": "1609",
+        "connectorStart": "1:7035",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7067",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ2b&gt;ND5"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7039",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7039",
+        "x": "3110",
+        "y": "1464",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Gradually — long hours at a desk, machine or phone, or carrying loads; stiff, sore to turn"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8038",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8038",
+        "x": "2100",
+        "y": "1360",
+        "connectorStart": "1:7027",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7039",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ2&gt;NQ2c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7071",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7071",
+        "x": "2960",
+        "y": "1739",
+        "width": "620",
+        "height": "426",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NT2 · Neck movement and endurance check\n• Active range: turn left and right, tip each ear to the shoulder, look up and down (phone inclinometer app if available). Note which movements are limited and painful at the end of range.\n• Upper-back stiffness: sitting with hands behind the head, twist and arch; lying face down, gentle pressure on each thoracic vertebra (physio-level) — stiff, sore levels?\n• Deep neck flexor endurance: lying on the back, tuck the chin (a gentle nod) and lift the head 2–3 cm; time the hold until the chin pokes forward or the head drops. Record the seconds as a baseline (consensus).\n• Load pattern: do sustained desk, sewing or phone postures, or repetitive arm work, reproduce the pain more than single neck movements?\nWHO: anyone trained; physio-level (segmental pressure)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8074",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8074",
+        "x": "3270",
+        "y": "1635",
+        "connectorStart": "1:7039",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7071",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ2c&gt;NT2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7075",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7075",
+        "x": "2590",
+        "y": "2275",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Clearly limited and painful at end-range; recent (under about 12 weeks)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8078",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8078",
+        "x": "2750",
+        "y": "2171",
+        "connectorStart": "1:7071",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7075",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT2&gt;NT2a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7087",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7087",
+        "x": "2460",
+        "y": "2550",
+        "width": "580",
+        "height": "409",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ND1 · WORKING DIAGNOSIS: Neck pain with mobility deficits (mechanical neck pain)\nWHAT IT IS: central or one-sided neck pain with limited, painful end-range movement and stiff neck or upper-back segments; may refer to the shoulder blade or upper arm (not below the elbow).\nNEXT STEP: neck range-of-motion exercise, upper-back (thoracic) mobility, shoulder-blade strengthening and deep-neck-flexor work. A physio may add thoracic manipulation and neck mobilisation, which the JOSPT guideline supports alongside exercise (Blanpied 2017).\nAVOID: prolonged rest, collars.\nEXERCISE GROUPS: NX-B (mobility) → NX-C (strength & endurance)\nSTAGE 4 MODULE: neck module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8090",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8090",
+        "x": "2750",
+        "y": "2446",
+        "connectorStart": "1:7075",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7087",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT2a&gt;ND1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7079",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7079",
+        "x": "3240",
+        "y": "2275",
+        "width": "320",
+        "height": "190",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Moves fairly well, but pain builds with sustained postures or repetitive arm work; poor endurance"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8082",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8082",
+        "x": "3270",
+        "y": "2171",
+        "connectorStart": "1:7071",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7079",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT2&gt;NT2b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7091",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7091",
+        "x": "3110",
+        "y": "2575",
+        "width": "580",
+        "height": "519",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ND2 · WORKING DIAGNOSIS: Neck pain with movement-coordination / endurance impairment (posture- and load-related neck pain)\nWHAT IT IS: neck and upper-shoulder (trapezius) pain that builds with sustained postures — sewing, desk or phone work, driving — or repetitive arm work, with poor endurance of the deep neck and shoulder-blade muscles. The posture is not “wrong”; the tissues are under-prepared for the hours spent in it.\nNEXT STEP: specific neck–shoulder strengthening — in women office workers with chronic neck muscle pain, 10 weeks of shoulder strength training cut the worst neck pain by about 79% (Andersen 2008) — plus deep-neck-flexor endurance, postural variety and a short movement break every 30–45 minutes.\nAVOID: “posture correction” or long static stretching on their own.\nEXERCISE GROUPS: NX-C (strength & endurance) + NX-A\nSTAGE 4 MODULE: neck module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8094",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8094",
+        "x": "3400",
+        "y": "2471",
+        "connectorStart": "1:7079",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7091",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT2b&gt;ND2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7083",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7083",
+        "x": "3760",
+        "y": "2275",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Long-standing, spreading and very sensitive → widespread pain check (NT6)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8086",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8086",
+        "x": "3270",
+        "y": "2171",
+        "connectorStart": "1:7071",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7083",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT2&gt;NT2c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7011",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7011",
+        "x": "4995",
+        "y": "934",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Down the arm below the elbow, often with pins and needles or numbness in the hand"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8010",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8010",
+        "x": "5155",
+        "y": "830",
+        "connectorStart": "1:7003",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7011",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1&gt;NQ1b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7095",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7095",
+        "x": "4845",
+        "y": "1209",
+        "width": "620",
+        "height": "638",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NT3 · Arm nerve-root check (cervical radiculopathy) — Wainner cluster\n• Upper limb tension test A (median nerve): lying on the back; hold the shoulder blade down, take the arm out to the side palm up, extend the wrist and fingers, slowly straighten the elbow, then tip the head away. Reproduces the arm symptoms = positive. A NEGATIVE test is the most useful single finding for ruling radiculopathy out (Wainner 2003).\n• Spurling’s test: head tipped toward the painful side with gentle downward pressure — reproduces the arm pain.\n• Distraction test: gently lifting the head (taking its weight) eases the arm pain.\n• Rotation under 60° toward the painful side.\nCLUSTER: all 4 positive → LR+ 30.3 (Wainner 2003); 3 of 4 → likely.\n• Shoulder abduction relief sign: resting the hand on top of the head eases the arm pain — supports a nerve-root cause.\n• Neurological screen (compare sides): C5 — lift the arm sideways, biceps reflex; C6 — bend the elbow, extend the wrist, thumb feeling; C7 — straighten the elbow, triceps reflex, middle-finger feeling; C8 — grip, little-finger feeling; T1 — spread the fingers.\nWHO: physio-level (tests, reflexes); anyone trained (history, hand-on-head sign)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8102",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8102",
+        "x": "5155",
+        "y": "1105",
+        "connectorStart": "1:7011",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7095",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1b&gt;NT3"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8066",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8066",
+        "x": "1746",
+        "y": "1528",
+        "connectorStart": "1:7055",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7095",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT1c&gt;NT3"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7099",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7099",
+        "x": "4280",
+        "y": "1957",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Cluster positive or a clear nerve-root pattern, with no or stable weakness"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8106",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8106",
+        "x": "4440",
+        "y": "1853",
+        "connectorStart": "1:7095",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7099",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3&gt;NT3a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7115",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7115",
+        "x": "4150",
+        "y": "2232",
+        "width": "580",
+        "height": "536",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ND7 · WORKING DIAGNOSIS: Cervical radiculopathy (pinched nerve root in the neck)\nWHAT IT IS: an irritated nerve root (from a disc bulge or bony narrowing) causing arm pain, usually below the elbow, with pins and needles, numbness or mild weakness in one root’s area. Most people improve over weeks to months without surgery.\nNEXT STEP: positions of ease (hand resting on the head, pillow support); repeated chin tucks if they ease or centralise the arm pain; nerve sliders; deep-neck-flexor and shoulder-blade strengthening. A physio may add intermittent traction combined with exercise and mobilisation, which the JOSPT guideline supports (Blanpied 2017).\nAVOID: sustained looking up or tipping the head toward the painful side; nerve stretching; heavy overhead lifting while it is acute.\nREFER IF: worsening weakness, symptoms in both arms (N6), or severe pain not improving by 6–12 weeks.\nEXERCISE GROUPS: NX-D (nerve-friendly) + NX-A\nSTAGE 4 MODULE: arm-pain module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8122",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8122",
+        "x": "4440",
+        "y": "2128",
+        "connectorStart": "1:7099",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7115",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3a&gt;ND7"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7103",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7103",
+        "x": "4930",
+        "y": "1957",
+        "width": "320",
+        "height": "190",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Tingling mainly on the little-finger side, worse with arms overhead or carrying; neck tests negative"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8110",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8110",
+        "x": "5090",
+        "y": "1853",
+        "connectorStart": "1:7095",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7103",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3&gt;NT3b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7119",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7119",
+        "x": "4800",
+        "y": "2257",
+        "width": "580",
+        "height": "561",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ND8 · WORKING DIAGNOSIS: Suspected neurogenic thoracic outlet syndrome\nWHAT IT IS: irritation of the arm nerves (brachial plexus) between the collarbone, first rib and neck muscles: tingling, heaviness or aching down the inner arm to the ring and little fingers, worse with arms overhead or carrying heavy bags or head-loads. No bedside test is accurate — it is a pattern diagnosis after the neck and wrist have been checked (consensus).\nCHECK ALSO: night tingling in the thumb, index and middle fingers, shaken off on waking → carpal tunnel syndrome at the wrist (not this pathway).\nNEXT STEP: shoulder-blade elevation and retraction strength, posture variety, relaxed belly breathing, nerve sliders, load management (bag weight, strap position, head-load technique).\nREFER IF: hand swelling, colour change or coldness (blood-vessel type — urgent), or wasting of the small hand muscles.\nEXERCISE GROUPS: NX-D (nerve-friendly) + NX-C\nSTAGE 4 MODULE: arm-pain module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8126",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8126",
+        "x": "5090",
+        "y": "2153",
+        "connectorStart": "1:7103",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7119",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3b&gt;ND8"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7107",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7107",
+        "x": "5450",
+        "y": "1957",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Tests negative; arm ache vague and above the elbow → neck movement check (NT2)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8130",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8130",
+        "x": "3586",
+        "y": "1952",
+        "connectorStart": "1:7107",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7071",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3c&gt;NT2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8114",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8114",
+        "x": "5155",
+        "y": "1853",
+        "connectorStart": "1:7095",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7107",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3&gt;NT3c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7111",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7111",
+        "x": "5840",
+        "y": "1957",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Weakness getting worse, both arms, or clumsy hands → STOP: back to N6"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8118",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8118",
+        "x": "5155",
+        "y": "1853",
+        "connectorStart": "1:7095",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7111",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT3&gt;NT3d"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7015",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7015",
+        "x": "6605",
+        "y": "934",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Headache that starts in the neck and spreads to the forehead or eye, on one side"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8014",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8014",
+        "x": "5400",
+        "y": "830",
+        "connectorStart": "1:7003",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7015",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1&gt;NQ1c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7123",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7123",
+        "x": "6455",
+        "y": "1209",
+        "width": "620",
+        "height": "510",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NT4 · Headache-from-the-neck check (cervicogenic headache)\nFIRST: any new, sudden, “worst ever”, steadily worsening, morning-vomiting or neurological headache → back to N3 / N4 / N5.\nFEATURES (ICHD-3): one-sided headache that starts in the neck and spreads forward; brought on by neck movement or sustained neck postures; reduced neck movement; pressing on the upper neck reproduces the headache.\nCHECK — cervical flexion-rotation test: lying on the back, bend the neck fully forward, then turn the head each way. Rotation limited by about 10° or more compared with the other side = positive. Sensitivity 91%, specificity 90% for C1–2 cervicogenic headache in experienced hands (Ogince 2007).\nALSO SCREEN: migraine (throbbing, nausea, light sensitivity, aura) and tension-type headache (both sides, band-like pressure) — these need a different plan.\nWHO: physio-level (flexion-rotation test); anyone trained (history)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8138",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8138",
+        "x": "6765",
+        "y": "1105",
+        "connectorStart": "1:7015",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7123",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1c&gt;NT4"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7127",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7127",
+        "x": "6360",
+        "y": "1829",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Features fit and the flexion-rotation test is positive"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8142",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8142",
+        "x": "6520",
+        "y": "1725",
+        "connectorStart": "1:7123",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7127",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT4&gt;NT4a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7135",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7135",
+        "x": "6230",
+        "y": "2078",
+        "width": "580",
+        "height": "485",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ND9 · WORKING DIAGNOSIS: Cervicogenic headache (neck pain with headache)\nWHAT IT IS: headache referred from the upper neck joints (C1–C3) and muscles: one-sided, starting in the neck, brought on by neck postures or movement.\nNEXT STEP: craniocervical flexion training (deep neck flexors), shoulder-blade muscle training and posture variety, plus neck mobility; a physio may add upper-neck mobilisation or manipulation. In a 12-month trial, specific exercise and manipulative therapy each reduced headache frequency and intensity, and the effects lasted (Jull 2002).\nAVOID: long static postures without breaks; daily painkillers (risk of medication-overuse headache).\nEXERCISE GROUPS: NX-A (deep neck & shoulder-blade control) + NX-B\nSTAGE 4 MODULE: headache module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8150",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8150",
+        "x": "6520",
+        "y": "1974",
+        "connectorStart": "1:7127",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7135",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT4a&gt;ND9"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7131",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7131",
+        "x": "6930",
+        "y": "1829",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Migraine or tension-type pattern instead"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8146",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8146",
+        "x": "6765",
+        "y": "1725",
+        "connectorStart": "1:7123",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7131",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT4&gt;NT4b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7139",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7139",
+        "x": "6880",
+        "y": "2078",
+        "width": "420",
+        "height": "273",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HEADACHE NOT FROM THE NECK\nDoctor for headache diagnosis and medicines. Regular aerobic exercise and neck–shoulder strengthening can still help alongside for migraine and tension-type headache (consensus); use Group NX-C or NX-E if neck pain coexists."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8154",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8154",
+        "x": "7090",
+        "y": "1974",
+        "connectorStart": "1:7131",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7139",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT4b&gt;NX1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7019",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7019",
+        "x": "8345",
+        "y": "934",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Upper or mid-back between the shoulder blades, or around the ribs"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8018",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8018",
+        "x": "5400",
+        "y": "830",
+        "connectorStart": "1:7003",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7019",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1&gt;NQ1d"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7143",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7143",
+        "x": "8245",
+        "y": "1209",
+        "width": "520",
+        "height": "171",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NQ3 · What brings on the upper-back pain?\nASK: “What makes it worse — breathing, coughing, twisting, sitting, lifting the arms?”"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8158",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8158",
+        "x": "8505",
+        "y": "1105",
+        "connectorStart": "1:7019",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7143",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1d&gt;NQ3"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7147",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7147",
+        "x": "7695",
+        "y": "1490",
+        "width": "320",
+        "height": "190",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Twisting, deep breaths, coughing or rolling in bed — sharp, one-sided, near the spine or along a rib"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8162",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8162",
+        "x": "7855",
+        "y": "1386",
+        "connectorStart": "1:7143",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7147",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ3&gt;NQ3a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7159",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7159",
+        "x": "7545",
+        "y": "1790",
+        "width": "620",
+        "height": "324",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NT5 · Rib (costovertebral) joint check\n• Press along the rib where it meets the spine, and along the rib itself: one tender spot that reproduces the familiar pain?\n• Do a deep breath, a cough, side-bending away and trunk rotation reproduce it?\n• Spring the rib gently (physio-level).\n• Re-check N1 and N9 first: chest pain with effort or breathlessness, or a burning band with skin sensitivity, is NOT a rib-joint problem.\nWHO: anyone trained; physio-level (rib springing)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8174",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8174",
+        "x": "7855",
+        "y": "1686",
+        "connectorStart": "1:7147",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7159",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ3a&gt;NT5"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7163",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7163",
+        "x": "7500",
+        "y": "2224",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "A local tender rib or joint reproduces the pain"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8178",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8178",
+        "x": "7660",
+        "y": "2120",
+        "connectorStart": "1:7159",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7163",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT5&gt;NT5a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7175",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7175",
+        "x": "7370",
+        "y": "2473",
+        "width": "580",
+        "height": "434",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ND10 · WORKING DIAGNOSIS: Rib (costovertebral) joint pain\nWHAT IT IS: a sprained or irritated joint where a rib meets the spine — sharp, one-sided pain with breathing, coughing, twisting or rolling in bed, often after lifting, a twist or a bout of coughing. Usually settles over weeks (consensus).\nNEXT STEP: breathing exercise (slow deep breaths, expanding the sore side into a hand placed on the ribs), gentle rotation and side-bending mobility, then trunk and shoulder-blade strength.\nAVOID: heavy one-sided lifting and twisting while it is irritable.\nDANGER: fever, breathlessness, or chest pain with effort → N1.\nEXERCISE GROUP: NX-B (mobility — breathing branch)\nSTAGE 4 MODULE: upper-back module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8186",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8186",
+        "x": "7660",
+        "y": "2369",
+        "connectorStart": "1:7163",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7175",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT5a&gt;ND10"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7167",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7167",
+        "x": "8020",
+        "y": "2224",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Not reproduced locally → thoracic mobility deficit (ND6)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8182",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8182",
+        "x": "7855",
+        "y": "2120",
+        "connectorStart": "1:7159",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7167",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT5&gt;NT5b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7151",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7151",
+        "x": "8540",
+        "y": "1490",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Sitting, slouching, desk or sewing work — stiff, aching across the mid-back"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8166",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8166",
+        "x": "8505",
+        "y": "1386",
+        "connectorStart": "1:7143",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7151",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ3&gt;NQ3b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7171",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7171",
+        "x": "8410",
+        "y": "1765",
+        "width": "580",
+        "height": "383",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ND6 · WORKING DIAGNOSIS: Thoracic (mid / upper-back) pain with mobility deficits\nWHAT IT IS: aching, stiffness and local pain between or below the shoulder blades, linked with long sitting or bent postures, with stiff, tender thoracic segments and no Stage 1 warning signs.\nNEXT STEP: thoracic extension and rotation mobility, shoulder-blade strengthening, breathing and posture variety; a physio may add thoracic mobilisation or manipulation.\nAVOID: long slumped postures without breaks.\nEXERCISE GROUPS: NX-B (mobility) + NX-C\nSTAGE 4 MODULE: upper-back module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8194",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8194",
+        "x": "8180",
+        "y": "1717",
+        "connectorStart": "1:7167",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7171",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT5b&gt;ND6"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8190",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8190",
+        "x": "8700",
+        "y": "1661",
+        "connectorStart": "1:7151",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7171",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ3b&gt;ND6"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7155",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7155",
+        "x": "9190",
+        "y": "1490",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Older or stooped, with a rounded upper back that’s getting worse (Stage 1 already clear)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8170",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8170",
+        "x": "8505",
+        "y": "1386",
+        "connectorStart": "1:7143",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7155",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ3&gt;NQ3c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7179",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7179",
+        "x": "9060",
+        "y": "1765",
+        "width": "580",
+        "height": "527",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ND11 · WORKING DIAGNOSIS: Stooped upper back — age-related hyperkyphosis, or a stable osteoporotic fracture or Scheuermann’s after clearance (from N8 / N10)\nWHAT IT IS: a rounded upper back with weak back-extensor muscles, with or without a healed compression fracture confirmed by the doctor, or teenage Scheuermann’s kyphosis confirmed on X-ray.\nNEXT STEP: spinal-extensor strengthening, posture training, chest-opening mobility, balance and fall prevention. In adults over 60 with hyperkyphosis, 6 months of spine-strengthening and posture training reduced the kyphosis angle compared with health education (Katzman 2017); back-extensor exercise was linked with fewer vertebral fractures (Sinaki 2002).\nAVOID: loaded bending and twisting of the spine (sit-ups, toe touches).\nEXERCISE GROUP: NX-F (spinal extensor & bone-safe strength)\nSTAGE 4 MODULE: bone-health module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8198",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8198",
+        "x": "9350",
+        "y": "1661",
+        "connectorStart": "1:7155",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7179",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ3c&gt;ND11"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7023",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7023",
+        "x": "10035",
+        "y": "934",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Pain in many places — neck plus back, arms or legs; “everything hurts”"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8022",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8022",
+        "x": "5400",
+        "y": "830",
+        "connectorStart": "1:7003",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7023",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1&gt;NQ1e"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7183",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7183",
+        "x": "9885",
+        "y": "1209",
+        "width": "620",
+        "height": "375",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "NT6 · Widespread pain / central sensitisation check\n• Clinical criteria (all 3): pain out of proportion to the injury or findings; pain spread widely or not following anatomy; over-sensitive to touch, pressure, cold, light, sound or stress (Nijs 2015).\n• Central Sensitization Inventory: 40 or more out of 100 suggests central sensitisation (sensitivity 81%, specificity 75%; Neblett 2013).\n• After whiplash, widespread sensitivity and stress symptoms often travel together — check NT1 risk features.\n• Re-check N5 (polymyalgia) and N11 (inflammatory disease) in older or morning-stiff patients.\nWHO: anyone trained (questions); physio-level (interpretation)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8202",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8202",
+        "x": "10195",
+        "y": "1105",
+        "connectorStart": "1:7023",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7183",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NQ1e&gt;NT6"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8098",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8098",
+        "x": "4086",
+        "y": "1396.5",
+        "connectorStart": "1:7083",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7183",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT2c&gt;NT6"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7187",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7187",
+        "x": "9840",
+        "y": "1694",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Yes — widespread, out of proportion, over-sensitive"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8206",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8206",
+        "x": "10000",
+        "y": "1590",
+        "connectorStart": "1:7183",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7187",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT6&gt;NT6a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7195",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7195",
+        "x": "9710",
+        "y": "1943",
+        "width": "580",
+        "height": "519",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "ND12 · WORKING DIAGNOSIS: Chronic neck pain with widespread pain / central sensitisation (nociplastic pain)\nWHAT IT IS: a sensitised nervous system: neck pain plus pain in many areas, flaring easily and out of proportion to any tissue problem; often with poor sleep, fatigue and stress. Real pain — not imagined, and not damage.\nNEXT STEP: pain education first; graded activity and graded exposure to avoided tasks (driving, overhead work, looking up); regular aerobic exercise starting low and building slowly; gentle neck–shoulder strength; sleep and stress strategies; psychological support (CBT-based) where available.\nAVOID: repeated scans, collars, long rest after flares, passive-only care, opioids.\nEXERCISE GROUP: NX-E (graded activity & pain education)\nSTAGE 4 MODULE: yellow-flag module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8214",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8214",
+        "x": "10000",
+        "y": "1839",
+        "connectorStart": "1:7187",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7195",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT6a&gt;ND12"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7191",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:7191",
+        "x": "10360",
+        "y": "1694",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "No — mainly a neck problem → neck movement check (NT2)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8218",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8218",
+        "x": "3586",
+        "y": "1763.5",
+        "connectorStart": "1:7191",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7071",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT6b&gt;NT2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:8210",
+      "type": "connector",
+      "attributes": {
+        "id": "1:8210",
+        "x": "10195",
+        "y": "1590",
+        "connectorStart": "1:7183",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:7191",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "NT6&gt;NT6b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6999",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6999",
+        "x": "6090",
+        "y": "160",
+        "width": "560",
+        "height": "349",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "WHY THE LABEL MATTERS (OR DOESN’T)\nMost neck pain has no single tissue cause you can prove without imaging — and scans often show “wear” in people with no pain. What changes care is the pattern: stiff vs poorly controlled, arm-nerve involvement, headache, whiplash recovery risk, and how widespread and sensitised the pain is. So Stage 2 picks the exercise group, the positions to favour and avoid, and the starting dose.\nPosture: no single “correct” posture prevents neck pain. Teach variety and breaks, and build the capacity of the tissues for the hours the patient actually spends in that position."
+    }
+  ]
+}

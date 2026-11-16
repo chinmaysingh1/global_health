@@ -1,0 +1,1364 @@
+{
+  "board_key": "cNyP7TFyrcoIYVPUoQlMgw",
+  "section": {
+    "id": "7:541",
+    "name": "Hip · Stage 2 · Which hip problem",
+    "x": "15500",
+    "y": "10043",
+    "width": "9550",
+    "height": "3024"
+  },
+  "elements": [
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:798",
+      "type": "connector",
+      "attributes": {
+        "id": "8:798",
+        "x": "5945",
+        "y": "313",
+        "connectorStart": "5:724",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:728",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HS2&gt;HQ1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1142",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1142",
+        "x": "2700",
+        "y": "702",
+        "connectorStart": "5:728",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:732",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ1&gt;HQ1a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1230",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1230",
+        "x": "5490",
+        "y": "702",
+        "connectorStart": "5:728",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:736",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ1&gt;HQ1b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1254",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1254",
+        "x": "5945",
+        "y": "702",
+        "connectorStart": "5:728",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:740",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ1&gt;HQ1c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1318",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1318",
+        "x": "5945",
+        "y": "702",
+        "connectorStart": "5:728",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:744",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ1&gt;HQ1d"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1322",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1322",
+        "x": "9190",
+        "y": "925",
+        "connectorStart": "5:744",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:852",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ1d&gt;HD8"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1570",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1570",
+        "x": "6026",
+        "y": "1202",
+        "connectorStart": "5:844",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:852",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT3c&gt;HD8"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1258",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1258",
+        "x": "7588",
+        "y": "902",
+        "connectorStart": "5:740",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:856",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ1c&gt;HQ3"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1262",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1262",
+        "x": "6555",
+        "y": "1207",
+        "connectorStart": "5:856",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:860",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ3&gt;HQ3a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1282",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1282",
+        "x": "7230",
+        "y": "1207",
+        "connectorStart": "5:856",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:864",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ3&gt;HQ3b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1290",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1290",
+        "x": "7588",
+        "y": "1207",
+        "connectorStart": "5:856",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:868",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ3&gt;HQ3c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1310",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1310",
+        "x": "7588",
+        "y": "1207",
+        "connectorStart": "5:856",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:872",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ3&gt;HQ3d"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1314",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1314",
+        "x": "8620",
+        "y": "1476",
+        "connectorStart": "5:872",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:912",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ3d&gt;HD11"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1574",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1574",
+        "x": "8316",
+        "y": "1749.5",
+        "connectorStart": "5:904",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:912",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT5b&gt;HD11"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1294",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1294",
+        "x": "7965",
+        "y": "1430",
+        "connectorStart": "5:868",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:896",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ3c&gt;HT5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1298",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1298",
+        "x": "7760",
+        "y": "1880",
+        "connectorStart": "5:896",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:900",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT5&gt;HT5a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1306",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1306",
+        "x": "7965",
+        "y": "1880",
+        "connectorStart": "5:896",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:904",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT5&gt;HT5b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1302",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1302",
+        "x": "7760",
+        "y": "2057",
+        "connectorStart": "5:900",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:908",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT5a&gt;HX1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1286",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1286",
+        "x": "7230",
+        "y": "1453",
+        "connectorStart": "5:864",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:892",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ3b&gt;HD10"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1266",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1266",
+        "x": "6555",
+        "y": "1453",
+        "connectorStart": "5:860",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:876",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ3a&gt;HT4"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1270",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1270",
+        "x": "6330",
+        "y": "1896",
+        "connectorStart": "5:876",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:880",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT4&gt;HT4a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1278",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1278",
+        "x": "6555",
+        "y": "1896",
+        "connectorStart": "5:876",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:884",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT4&gt;HT4b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1274",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1274",
+        "x": "6330",
+        "y": "2096",
+        "connectorStart": "5:880",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:888",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT4a&gt;HD9"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1234",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1234",
+        "x": "5490",
+        "y": "902",
+        "connectorStart": "5:736",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:832",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ1b&gt;HT3"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1238",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1238",
+        "x": "5100",
+        "y": "1467",
+        "connectorStart": "5:832",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:836",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT3&gt;HT3a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1246",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1246",
+        "x": "5490",
+        "y": "1467",
+        "connectorStart": "5:832",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:840",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT3&gt;HT3b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1250",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1250",
+        "x": "5490",
+        "y": "1467",
+        "connectorStart": "5:832",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:844",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT3&gt;HT3c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1562",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1562",
+        "x": "956",
+        "y": "1213.5",
+        "connectorStart": "5:772",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:832",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT1b&gt;HT3"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1566",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1566",
+        "x": "1016",
+        "y": "1619",
+        "connectorStart": "5:840",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:764",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT3b&gt;HT1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1242",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1242",
+        "x": "5100",
+        "y": "1690",
+        "connectorStart": "5:836",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:848",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT3a&gt;HD7"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1146",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1146",
+        "x": "2700",
+        "y": "902",
+        "connectorStart": "5:732",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:748",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ1a&gt;HQ2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1150",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1150",
+        "x": "750",
+        "y": "1177",
+        "connectorStart": "5:748",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:752",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ2&gt;HQ2a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1174",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1174",
+        "x": "2700",
+        "y": "1177",
+        "connectorStart": "5:748",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:756",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ2&gt;HQ2b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1226",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1226",
+        "x": "2700",
+        "y": "1177",
+        "connectorStart": "5:748",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:760",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ2&gt;HQ2c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1178",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1178",
+        "x": "2895",
+        "y": "1377",
+        "connectorStart": "5:756",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:784",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ2b&gt;HT2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1182",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1182",
+        "x": "1590",
+        "y": "1935",
+        "connectorStart": "5:784",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:788",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT2&gt;HT2a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1190",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1190",
+        "x": "2160",
+        "y": "1935",
+        "connectorStart": "5:784",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:792",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT2&gt;HT2b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1198",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1198",
+        "x": "2730",
+        "y": "1935",
+        "connectorStart": "5:784",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:796",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT2&gt;HT2c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1206",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1206",
+        "x": "2895",
+        "y": "1935",
+        "connectorStart": "5:784",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:800",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT2&gt;HT2d"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1214",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1214",
+        "x": "2895",
+        "y": "1935",
+        "connectorStart": "5:784",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:804",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT2&gt;HT2e"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1218",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1218",
+        "x": "2895",
+        "y": "1935",
+        "connectorStart": "5:784",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:808",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT2&gt;HT2f"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1222",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1222",
+        "x": "4200",
+        "y": "2112",
+        "connectorStart": "5:808",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:828",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT2f&gt;HD6"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1210",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1210",
+        "x": "3300",
+        "y": "2135",
+        "connectorStart": "5:800",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:824",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT2d&gt;HD5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1202",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1202",
+        "x": "2730",
+        "y": "2135",
+        "connectorStart": "5:796",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:820",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT2c&gt;HD4"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1194",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1194",
+        "x": "2160",
+        "y": "2135",
+        "connectorStart": "5:792",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:816",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT2b&gt;HD3"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1186",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1186",
+        "x": "1590",
+        "y": "2135",
+        "connectorStart": "5:788",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:812",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT2a&gt;HD2"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1154",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1154",
+        "x": "750",
+        "y": "1377",
+        "connectorStart": "5:752",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:764",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HQ2a&gt;HT1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1158",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1158",
+        "x": "360",
+        "y": "2011",
+        "connectorStart": "5:764",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:768",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT1&gt;HT1a"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1166",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1166",
+        "x": "750",
+        "y": "2011",
+        "connectorStart": "5:764",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:772",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT1&gt;HT1b"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1170",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1170",
+        "x": "750",
+        "y": "2011",
+        "connectorStart": "5:764",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:776",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT1&gt;HT1c"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:8:1162",
+      "type": "connector",
+      "attributes": {
+        "id": "8:1162",
+        "x": "360",
+        "y": "2257",
+        "connectorStart": "5:768",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "5:780",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "HT1a&gt;HD1"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:724",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:724",
+        "x": "5395",
+        "y": "130",
+        "width": "1100",
+        "height": "177",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "STAGE 2 — WHICH HIP PROBLEM IS IT?\nWhere it hurts does most of the work at the hip: groin or front → the joint or the groin muscles; side → the gluteal tendons; buttock → hamstring, sacroiliac joint or deep buttock. Age then separates osteoarthritis from young-adult hip pain."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:916",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:916",
+        "x": "6575",
+        "y": "130",
+        "width": "560",
+        "height": "251",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "WHY THE LABEL MATTERS MORE AT THE HIP\nGluteal tendinopathy needs specific position advice (avoid compression); hip-related pain needs activity modification around deep bending; groin problems in athletes need targeted strengthening. Hip osteoarthritis still runs on the shared core programme. Software should map label → programme module + positions to avoid, not pick exercises per patient."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:780",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:780",
+        "x": "100",
+        "y": "2321",
+        "width": "520",
+        "height": "488",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HD1 · WORKING DIAGNOSIS: Hip osteoarthritis\nWHAT IT IS: “wear and repair” changes in the hip joint; the commonest cause of groin pain in older adults. No X-ray is needed to start care; the guideline keeps X-ray for when the picture is unclear.\nNEXT STEP: exercise therapy is the main treatment (strongest recommendation, grade A, JOSPT 2025): individualised strengthening in all directions plus mobility work, typically 1–5 sessions a week for 5–16 weeks; education on pacing and protecting the joint; a walking stick in the OPPOSITE hand if it keeps them active; practise their goal tasks (rising from the floor, getting into a vehicle); group programmes such as GLA:D where available (NICE NG226).\nAVOID: bracing early in care; passive treatments on their own; weight-loss advice for an underweight patient.\nSTAGE 3 ADD-ON: hip osteoarthritis module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:768",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:768",
+        "x": "220",
+        "y": "2075",
+        "width": "280",
+        "height": "176",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Fits: weight-bearing pain, stiffness under 1 hour, limited or painful internal rotation"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:772",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:772",
+        "x": "670",
+        "y": "2075",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Rotation normal and the pain is on the side → side-of-hip check (HT3)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:776",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:776",
+        "x": "1000",
+        "y": "2075",
+        "width": "280",
+        "height": "176",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Younger than typical, with a risk factor (steroids, alcohol, sickle cell) → back to H5"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:764",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:764",
+        "x": "490",
+        "y": "1441",
+        "width": "520",
+        "height": "564",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HT1 · Hip osteoarthritis check (JOSPT hip osteoarthritis guideline, Cibulka 2017; revised 2025)\nTypical: age 50+; moderate groin, front or side hip pain with weight-bearing; morning stiffness under 1 hour; trouble with socks, shoes, cross-legged sitting and squatting.\nKey sign — internal rotation (hip and knee bent 90°, swing the foot outward so the hip turns inward): less than 24°, OR internal rotation and bending both 15° less than the other side, and/or pain on passive internal rotation.\nExtra confidence — Sutlive cluster (count 5): 1) squatting aggravates; 2) active hip bending causes side-hip pain; 3) the scour test with adduction causes side-hip or groin pain; 4) active hip extension (leg backward) is painful; 5) passive internal rotation 25° or less. 4 of 5 → LR+ 24.3, probability of osteoarthritis about 91% (Sutlive 2008; small study, not yet validated).\nACR clinical criteria: sensitivity 86%, specificity 75% (Altman 1991).\nWHO: physio-level (rotation); anyone trained (history)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:752",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:752",
+        "x": "610",
+        "y": "1241",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "50 or older (from 45 if the pattern is typical)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:812",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:812",
+        "x": "1330",
+        "y": "2199",
+        "width": "520",
+        "height": "725",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HD2 · WORKING DIAGNOSIS: Hip-related pain — FAI syndrome, hip dysplasia or labral tear (Zurich consensus, Reiman 2020)\nWHAT IT IS: in young and middle-aged active adults: FAI (femoroacetabular impingement — extra bone on the ball or socket pinches during deep bending), dysplasia (a shallow socket), or a tear of the labrum (the cartilage rim of the socket).\nCONFIRM: groin pain with long sitting, deep squats, getting in and out of vehicles, or pivoting; clicking or catching; positive FADIR. FADIR catches 96–99% of cases but is also positive in many people without the problem — a NEGATIVE test helps rule it out; a positive test doesn’t confirm it (Reiman 2015). The subtype cannot be known without imaging, and the exercise approach is shared.\nNEXT STEP: physio-led care: activity modification + exercise (guideline grade B), movement-pattern training and education (grade C) (JOSPT, Enseki 2023). Hip and trunk strength from isometric to heavy; practise squats, stairs and vehicle transfers.\nAVOID EARLY: repeated deep bending with rotation (deep squats, long cross-legged sitting) while irritable — this collides with floor sitting and squatting toilets, so plan around it.\nREFER (X-ray, orthopaedic opinion) IF: no progress by about 12 weeks.\nSTAGE 3 ADD-ON: young-hip module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:788",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:788",
+        "x": "1450",
+        "y": "1999",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "A) FADIR reproduces their groin pain"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:816",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:816",
+        "x": "1900",
+        "y": "2199",
+        "width": "520",
+        "height": "419",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HD3 · WORKING DIAGNOSIS: Adductor-related groin pain\nWHAT IT IS: an overloaded inner-thigh (adductor) tendon where it attaches near the pubic bone; very common in kicking and cutting sports (football, kabaddi, cricket).\nCONFIRM (Doha): tender adductor tendon + pain on resisted squeeze.\nNEXT STEP: adductor isometrics (squeeze holds), then progressive strengthening such as side-lying and Copenhagen-style adduction; hip and trunk strength; graded return to sprinting, kicking and change of direction.\nAVOID: full kicking and sprinting while the squeeze test is painful.\nSTAGE 3 ADD-ON: groin module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:792",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:792",
+        "x": "2020",
+        "y": "1999",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "B) Squeeze or adductor tendon"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:820",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:820",
+        "x": "2470",
+        "y": "2199",
+        "width": "520",
+        "height": "350",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HD4 · WORKING DIAGNOSIS: Iliopsoas-related groin pain\nWHAT IT IS: an overloaded deep hip-flexor muscle (iliopsoas) at the front of the groin, from kicking, sprinting or repeated hip bending.\nCONFIRM (Doha): tender iliopsoas + pain on resisted hip bending and/or stretch.\nNEXT STEP: hip-flexor isometrics, then progressive strengthening; trunk and hip strength.\nAVOID: aggressive hip-flexor stretching while irritable.\nSTAGE 3 ADD-ON: groin module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:796",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:796",
+        "x": "2590",
+        "y": "1999",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "C) Resisted hip bending or stretch"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:824",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:824",
+        "x": "3040",
+        "y": "2199",
+        "width": "520",
+        "height": "396",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HD5 · WORKING DIAGNOSIS: Inguinal-related groin pain\nWHAT IT IS: pain at the inguinal canal (the passage just above the groin crease), with no hernia.\nCONFIRM (Doha): pain and tenderness at the inguinal canal, no palpable hernia, worse with resisted sit-ups, coughing or straining.\nNEXT STEP: graded trunk (abdominal) and hip strengthening.\nAVOID: heavy straining while painful.\nREFER IF: a bulge appears (surgical referral; sometimes an ultrasound is needed to tell the difference).\nSTAGE 3 ADD-ON: groin module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:800",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:800",
+        "x": "3160",
+        "y": "1999",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "D) Sit-up, cough or inguinal canal — no lump"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:804",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:804",
+        "x": "3610",
+        "y": "1999",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "D) A lump that bulges on coughing → hernia, back to H9"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:828",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:828",
+        "x": "3940",
+        "y": "2176",
+        "width": "520",
+        "height": "373",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HD6 · WORKING DIAGNOSIS: Pubic-related groin pain\nWHAT IT IS: irritation of the pubic joint at the front of the pelvis; sometimes after pregnancy, more often in kicking and running sports.\nCONFIRM (Doha): local tenderness of the pubic symphysis and the bone right beside it.\nNEXT STEP: graded loading as for adductor-related pain (HD3).\nREFER IF: hopping is painful — a bone stress injury needs imaging (H4).\nSTAGE 3 ADD-ON: groin module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:808",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:808",
+        "x": "4060",
+        "y": "1999",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "E) Pubic bone tender"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:784",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:784",
+        "x": "2635",
+        "y": "1441",
+        "width": "520",
+        "height": "488",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HT2 · Groin test set for active people (Doha agreement, Weir 2015)\nDo each and note which one reproduces their FAMILIAR pain — more than one can be positive:\nA) FADIR — hip bent to 90°, moved across the body (adduction) and turned inward (internal rotation).\nB) Adductor squeeze — squeeze a fist or ball between the knees; press the inner-thigh tendon near the pubic bone.\nC) Hip-flexor tests — resist lifting the knee while seated; stretch the front of the hip lying at the edge of a bed (Thomas test position); press just below the groin crease.\nD) Abdominal tests — resisted sit-up and a cough; press over the inguinal canal (just above the groin crease) and feel for a lump.\nE) Pubic bone — press directly on the joint at the front midline of the pelvis (pubic symphysis).\nWHO: physio-level"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:756",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:756",
+        "x": "2755",
+        "y": "1241",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "16–49 and active (sport, heavy work)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:760",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:760",
+        "x": "4510",
+        "y": "1241",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Under 16 → back to H3 (child with a limp)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:748",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:748",
+        "x": "2460",
+        "y": "966",
+        "width": "480",
+        "height": "205",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HQ2 · How old, and how active?\nWHY: hip osteoarthritis is the main cause of groin pain in older adults; in younger active adults, the shape of the hip joint and the groin muscles are more likely causes."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:732",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:732",
+        "x": "2560",
+        "y": "766",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Groin or front of the hip (or the C-sign)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:848",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:848",
+        "x": "4840",
+        "y": "1754",
+        "width": "520",
+        "height": "541",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HD7 · WORKING DIAGNOSIS: Gluteal tendinopathy (side-of-hip pain; often called “trochanteric bursitis”)\nWHAT IT IS: the tendons of the buttock muscles that attach to the bony point on the side of the hip are overloaded and compressed.\nNEXT STEP: education on load + progressive abductor exercise. In the LEAP trial this beat a steroid injection and “wait and see” at 8 weeks, with better overall improvement than injection at 1 year (Mellor 2018).\n• Avoid compressing the tendon: no crossing the legs, hanging on one hip, lying on the painful side without a pillow, or very low seats; a pillow between the knees when side-lying.\n• Isometric side holds for pain relief → bridges, step-ups, single-leg work.\nAVOID: stretches across the side of the hip (they compress the tendon); steroid injection as the first plan; complete rest.\nSTAGE 3 ADD-ON: side-of-hip module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:836",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:836",
+        "x": "4960",
+        "y": "1531",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Tender AND pain on single-leg stance (or another loading test)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:840",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:840",
+        "x": "5410",
+        "y": "1531",
+        "width": "280",
+        "height": "176",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Not tender on the bony point → check the hip joint (HT1) and the back (H10)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:844",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:844",
+        "x": "5740",
+        "y": "1531",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Burning or numbness rather than tenderness → HD8"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:832",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:832",
+        "x": "5230",
+        "y": "966",
+        "width": "520",
+        "height": "495",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HT3 · Side-of-hip check (gluteal tendinopathy — Grimaldi 2017, 65 patients compared with MRI)\n1. Press the bony point on the side of the hip (greater trochanter). NOT tender → gluteal tendinopathy is unlikely (palpation sensitivity 80%).\n2. Single-leg stance 30 s: side-on to a wall, one fingertip on the wall, stand on the painful leg for up to 30 seconds. Side-hip pain within 30 s → very likely (specificity 100%, LR+ about 12; small study).\n3. Physio add-ons: FADER (hip bent, moved across the body and turned OUTWARD) and passive adduction lying on the side — specificity about 87% each.\nHISTORY: can’t lie on that side at night; stairs, standing on one leg, crossing the legs and low seats hurt; more common in women from middle age.\nWHO: anyone trained (steps 1–2); physio-level (step 3)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:736",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:736",
+        "x": "5350",
+        "y": "766",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Side of the hip, over the bony point"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:888",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:888",
+        "x": "6070",
+        "y": "2160",
+        "width": "520",
+        "height": "373",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HD9 · WORKING DIAGNOSIS: Hamstring strain injury\nWHAT IT IS: a tear in the muscle at the back of the thigh, usually from sprinting or over-stretching.\nNEXT STEP — staged loading: early pain-free isometrics and walking → progressive strengthening including slow lengthening (eccentric) work, with Nordic-type exercises later → graded running up to sprinting. Return when strength and range are close to the other side (Martin 2022).\nAVOID: aggressive stretching early; sprinting before strength and range have recovered.\nSTAGE 3 ADD-ON: hamstring module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:880",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:880",
+        "x": "6190",
+        "y": "1960",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Tender muscle + pain on resisted testing"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:884",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:884",
+        "x": "6640",
+        "y": "1960",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Gap or big bruise at the sitting bone → back to H11"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:876",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:876",
+        "x": "6295",
+        "y": "1517",
+        "width": "520",
+        "height": "373",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HT4 · Hamstring strain check (JOSPT hamstring guideline, Martin 2022)\n• Find the sorest point and how far the tenderness spreads.\n• Lying face down, resist knee bending at 90° and at 15° — pain and weakness?\n• Active knee extension range: lying, hip held at 90°, straighten the knee; compare sides (used to track recovery).\nPOSITIVE IF: tender muscle + pain and weakness on resisted testing.\nDANGER SIGN: a gap or big bruise at the sitting bone after a slip into the splits → H11.\nWHO: physio-level"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:860",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:860",
+        "x": "6415",
+        "y": "1271",
+        "width": "280",
+        "height": "176",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Sudden pain at the back of the thigh while sprinting, kicking or over-stretching"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:892",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:892",
+        "x": "6970",
+        "y": "1517",
+        "width": "520",
+        "height": "419",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HD10 · WORKING DIAGNOSIS: Proximal hamstring tendinopathy\nWHAT IT IS: the hamstring tendon is irritated where it attaches to the sitting bone.\nCONFIRM: pressing the sitting bone (side-lying, hip bent) reproduces the pain; lying with hip and knee bent, straightening the knee hurts at the sitting bone.\nNEXT STEP: tendon loading without compression in deep hip bending — isometric bridge holds, then progress from shallow to deeper hip bending; a cushion on hard seats (consensus).\nAVOID EARLY: deep hamstring stretches and long sitting on hard surfaces.\nSTAGE 3 ADD-ON: hamstring module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:864",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:864",
+        "x": "7090",
+        "y": "1271",
+        "width": "280",
+        "height": "176",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Deep pain right at the sitting bone; worse on hard seats, uphill or bending forward"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:908",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:908",
+        "x": "7540",
+        "y": "2121",
+        "width": "440",
+        "height": "212",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HX1 · SACROILIAC JOINT PAIN → LOW-BACK PATHWAY\nManage with lumbopelvic and hip strengthening and graded activity; a pelvic belt short-term for pregnancy-related pain. Don’t label it as hip pain."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:900",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:900",
+        "x": "7620",
+        "y": "1944",
+        "width": "280",
+        "height": "107",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "3 or more of 6 positive"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:904",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:904",
+        "x": "8030",
+        "y": "1944",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "0–2 positive → deep gluteal (HD11)"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:896",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:896",
+        "x": "7705",
+        "y": "1494",
+        "width": "520",
+        "height": "380",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HT5 · Sacroiliac joint check (the joint between the base of the spine and the pelvis) — Laslett cluster\nSix pain-provocation tests: distraction, thigh thrust, compression, sacral thrust, and Gaenslen’s test on each side. Count those that reproduce the familiar pain.\nEVIDENCE: 3 or more of 6 positive: sensitivity 94%, specificity 78%. If ALL are negative, the sacroiliac joint can be ruled out (Laslett 2005; compared with diagnostic injections).\nRUN ONLY AFTER the back screen (H10).\nWHO: physio-level"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:868",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:868",
+        "x": "7825",
+        "y": "1271",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Below the dimples of the low back; after pregnancy or a fall onto the buttock"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:912",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:912",
+        "x": "8360",
+        "y": "1540",
+        "width": "520",
+        "height": "419",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HD11 · WORKING DIAGNOSIS: Deep gluteal syndrome (includes “piriformis syndrome”)\nWHAT IT IS: irritation of the sciatic nerve deep in the buttock.\nCONFIRM: tender deep in the buttock; a seated stretch with the hip bent, crossed and turned inward reproduces buttock or sciatica-like pain — AND spine, sacroiliac joint and hamstring have been cleared. A diagnosis of exclusion; low certainty without imaging or nerve studies.\nNEXT STEP: cautious hip strengthening (outward rotators, abductors), sitting breaks and a softer seat (consensus).\nAVOID: forceful stretches that bring on nerve symptoms.\nWATCH: re-test at week 4; worsening nerve signs → doctor.\nSTAGE 3 ADD-ON: hamstring module."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:872",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:872",
+        "x": "8480",
+        "y": "1271",
+        "width": "280",
+        "height": "199",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Deep buttock pain with sitting, sometimes sciatica-like, and everything else is negative"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:856",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:856",
+        "x": "7348",
+        "y": "966",
+        "width": "480",
+        "height": "235",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HQ3 · Buttock or back-of-thigh pain: how did it start, and where exactly?\nFIRST: the back must already be cleared (H10) — the spine is a common source of buttock pain.\nASK: “Show me the exact spot. What were you doing when it started?”"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:740",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:740",
+        "x": "7448",
+        "y": "766",
+        "width": "280",
+        "height": "130",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Buttock, or the back of the upper thigh"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:852",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:852",
+        "x": "8930",
+        "y": "989",
+        "width": "520",
+        "height": "426",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HD8 · WORKING DIAGNOSIS: Meralgia paresthetica (squeezed skin nerve of the thigh)\nWHAT IT IS: the lateral femoral cutaneous nerve — a skin-sensation nerve — is pinched where it passes the front of the pelvic bone. Causes: tight belts, tool belts, waist-tied saris or dhotis, pregnancy, weight change, diabetes.\nCONFIRM: a patch of burning, tingling or numbness on the outer-front thigh, with NORMAL strength (light-touch map compared with the other side).\nNEXT STEP: loosen belts and waistbands; explain it is a nerve, not the joint. Not an exercise condition (consensus).\nREFER IF: any weakness, or it spreads → back problem (H10) or doctor."
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:744",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:744",
+        "x": "9050",
+        "y": "766",
+        "width": "280",
+        "height": "153",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Outer-front thigh: a burning, tingling or numb patch"
+    },
+    {
+      "source_id": "cNyP7TFyrcoIYVPUoQlMgw:5:728",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "5:728",
+        "x": "5705",
+        "y": "491",
+        "width": "480",
+        "height": "205",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "HQ1 · Where does it hurt?\nASK: “Point with one finger to the sorest spot.”\nWATCH: a hand cupped around the side of the hip (the “C-sign”) usually means pain from deep inside the hip joint, even though the hand is on the side."
+    }
+  ]
+}

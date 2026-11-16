@@ -1,0 +1,7067 @@
+{
+ "snapshotDate": "2026-11-15",
+ "boards": [
+  {
+   "board": "spine",
+   "fileKey": "rWECNSFkKrOGuJkRPvsQdP",
+   "rawSha256": "3d674a7cf06144fb0051439a171033cfa2cc0f684ff2bc75b019b672989d040e",
+   "rawShaVerified": true,
+   "url": "https://www.figma.com/board/rWECNSFkKrOGuJkRPvsQdP/Spine-Assessment-Flowchart-%E2%80%94-Low-Back-%C2%B7-Neck---Upper-Back?node-id=0-1&p=f"
+  },
+  {
+   "board": "hip_knee",
+   "fileKey": "cNyP7TFyrcoIYVPUoQlMgw",
+   "rawSha256": "bc0ee1d02a783df42c1d336db1919c7af9420778efa9f851d156ccb1c2c58acf",
+   "rawShaVerified": true,
+   "url": "https://www.figma.com/board/cNyP7TFyrcoIYVPUoQlMgw/Hip---Knee-Assessment-Flowchart?node-id=0-1&p=f"
+  }
+ ],
+ "nodes": [
+  {
+   "id": "spine:1:6327",
+   "section": "How to read this board",
+   "textSha": "73449e122a7c031e",
+   "title": "SPINE ASSESSMENT FLOWCHART — LOW BACK · NECK & UPPER BACK"
+  },
+  {
+   "id": "spine:1:6331",
+   "section": "How to read this board",
+   "textSha": "5802f4767f330c73",
+   "title": "HOW TO USE THIS BOARD"
+  },
+  {
+   "id": "spine:1:6335",
+   "section": "How to read this board",
+   "textSha": "c117a4a9b4796a84",
+   "title": "HOW TO READ THE ACCURACY NUMBERS"
+  },
+  {
+   "id": "spine:1:6339",
+   "section": "How to read this board",
+   "textSha": "716d0742676abac6",
+   "title": "PLAIN-LANGUAGE GLOSSARY"
+  },
+  {
+   "id": "spine:1:6343",
+   "section": "How to read this board",
+   "textSha": "767acf5b75463d35",
+   "title": "WHO CAN DO EACH CHECK (guidance, never a stop)"
+  },
+  {
+   "id": "spine:1:6347",
+   "section": "How to read this board",
+   "textSha": "c20259e6a06c38b3",
+   "title": "COLOUR KEY"
+  },
+  {
+   "id": "spine:1:6351",
+   "section": "How to read this board",
+   "textSha": "a644ef8f6b3ed565",
+   "title": "START / PATHWAY / STAGE HEADER"
+  },
+  {
+   "id": "spine:1:6355",
+   "section": "How to read this board",
+   "textSha": "0db3fd1d15aee766",
+   "title": "QUESTION to ask the patient"
+  },
+  {
+   "id": "spine:1:6359",
+   "section": "How to read this board",
+   "textSha": "a5ddf918c2062edb",
+   "title": "Patient’s answer → follow this arrow"
+  },
+  {
+   "id": "spine:1:6363",
+   "section": "How to read this board",
+   "textSha": "844521093472f941",
+   "title": "HANDS-ON CHECK or TEST"
+  },
+  {
+   "id": "spine:1:6367",
+   "section": "How to read this board",
+   "textSha": "ab8f0969ed49b757",
+   "title": "EMERGENCY — act now or same day; no exercise"
+  },
+  {
+   "id": "spine:1:6371",
+   "section": "How to read this board",
+   "textSha": "c888faa0a50cbc19",
+   "title": "URGENT — doctor or specialist within days"
+  },
+  {
+   "id": "spine:1:6375",
+   "section": "How to read this board",
+   "textSha": "ca88559ee1767175",
+   "title": "SOON — check within about a week; gentle exercise can start"
+  },
+  {
+   "id": "spine:1:6379",
+   "section": "How to read this board",
+   "textSha": "47bb50cb179d59ea",
+   "title": "REFER — doctor or specialist within weeks; exercise alongside"
+  },
+  {
+   "id": "spine:1:6383",
+   "section": "How to read this board",
+   "textSha": "00569983a7c03afe",
+   "title": "SWITCH PATHWAY — the pain is coming from somewhere else"
+  },
+  {
+   "id": "spine:1:6387",
+   "section": "How to read this board",
+   "textSha": "d4ae6d860eb2cf64",
+   "title": "PASSED the safety screen"
+  },
+  {
+   "id": "spine:1:6391",
+   "section": "How to read this board",
+   "textSha": "e27dc08be34edc53",
+   "title": "WORKING DIAGNOSIS + NEXT STEP"
+  },
+  {
+   "id": "spine:1:6395",
+   "section": "How to read this board",
+   "textSha": "45b73d7fe91d9269",
+   "title": "EXERCISE GROUP (square corners) — diagnoses that share a programme"
+  },
+  {
+   "id": "spine:1:6399",
+   "section": "How to read this board",
+   "textSha": "4d33bc6778bb47de",
+   "title": "CORE PROGRAMME — where every group ends up"
+  },
+  {
+   "id": "spine:1:6403",
+   "section": "How to read this board",
+   "textSha": "e59ef915e26a8a75",
+   "title": "MEASURE · DOSE · RE-TEST"
+  },
+  {
+   "id": "spine:1:6407",
+   "section": "How to read this board",
+   "textSha": "c05370c2230b512c",
+   "title": "NOTE — why this matters, or context"
+  },
+  {
+   "id": "spine:1:6443",
+   "section": "Sources",
+   "textSha": "d0c3f06b75803ff6",
+   "title": "KEY SOURCES (1 of 3) — low back: guidelines, red flags and diagnosis"
+  },
+  {
+   "id": "spine:1:6447",
+   "section": "Sources",
+   "textSha": "a5422957c4be4d86",
+   "title": "KEY SOURCES (2 of 3) — neck and upper back"
+  },
+  {
+   "id": "spine:1:6451",
+   "section": "Sources",
+   "textSha": "d8ef2caf66f43f51",
+   "title": "KEY SOURCES (3 of 3) — exercise, bone health, context"
+  },
+  {
+   "id": "spine:1:6411",
+   "section": "Start here",
+   "textSha": "f0897537c5435025",
+   "title": "START"
+  },
+  {
+   "id": "spine:1:6415",
+   "section": "Start here",
+   "textSha": "ea9c2f3f2432551c",
+   "title": "Q0 · Where is the main pain?"
+  },
+  {
+   "id": "spine:1:6419",
+   "section": "Start here",
+   "textSha": "9fb8ed2a285829d9",
+   "title": "Low back, buttock or leg (below the lowest ribs)"
+  },
+  {
+   "id": "spine:1:6423",
+   "section": "Start here",
+   "textSha": "75ac220222f6ed65",
+   "title": "Mid-back at the bottom of the ribs, or both regions, or not sure"
+  },
+  {
+   "id": "spine:1:6427",
+   "section": "Start here",
+   "textSha": "7ffb5cb5b77c95f9",
+   "title": "Neck, head, top of the shoulder, between or over the shoulder blades, or down the arm"
+  },
+  {
+   "id": "spine:1:6431",
+   "section": "Start here",
+   "textSha": "5767293c9e31ee89",
+   "title": "Use MOVEMENT to decide"
+  },
+  {
+   "id": "spine:1:6435",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "d46dac2c4956c899",
+   "title": "LOW BACK PATHWAY"
+  },
+  {
+   "id": "spine:1:6455",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "3167f69101e3d3ee",
+   "title": "STAGE 1 — SAFETY SCREEN: Is this back pain safe to treat with exercise?"
+  },
+  {
+   "id": "spine:1:6559",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "92835dda189a58df",
+   "title": "SAFETY MODIFIERS — not stops; they change who signs off and how hard you start"
+  },
+  {
+   "id": "spine:1:6459",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "4bd1a45c85003871",
+   "title": "L1 · Cauda equina syndrome (pressure on the bundle of nerves at the bottom of the spine)"
+  },
+  {
+   "id": "spine:1:6463",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "6687b33b882c22a4",
+   "title": "EMERGENCY — SAME DAY"
+  },
+  {
+   "id": "spine:1:6467",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "5a624c52f96d5113",
+   "title": "L2 · Spinal fracture after major injury"
+  },
+  {
+   "id": "spine:1:6471",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "14c0d3924dcba6b5",
+   "title": "EMERGENCY"
+  },
+  {
+   "id": "spine:1:6475",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "56752f40a7ac18ed",
+   "title": "L3 · Spinal infection (bone or disc infection, epidural abscess)"
+  },
+  {
+   "id": "spine:1:6479",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "8a36ab9b7e4f9965",
+   "title": "EMERGENCY — SAME DAY"
+  },
+  {
+   "id": "spine:1:6483",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "70a03680cac890d8",
+   "title": "L4 · Not from the spine — kidney, abdomen, pelvis or a swollen main artery (aortic aneurysm)"
+  },
+  {
+   "id": "spine:1:6487",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "0024a19504e99382",
+   "title": "EMERGENCY — SAME DAY"
+  },
+  {
+   "id": "spine:1:6491",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "81fd2fc034f3f57b",
+   "title": "L5 · Severe or worsening nerve damage (progressive neurological deficit)"
+  },
+  {
+   "id": "spine:1:6495",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "a6b603f6d573df11",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "spine:1:6499",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "c92969e6511ba821",
+   "title": "L6 · Fragility (osteoporotic) fracture of a spinal bone"
+  },
+  {
+   "id": "spine:1:6503",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "db768b7f7847294d",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "spine:1:6507",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "1a29b02c22866831",
+   "title": "L7 · Possible cancer in the spine"
+  },
+  {
+   "id": "spine:1:6511",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "48714658d8229ba7",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "spine:1:6515",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "405b5c91ca7cae23",
+   "title": "L8 · Spinal tuberculosis (Pott’s disease)"
+  },
+  {
+   "id": "spine:1:6519",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "eed86c70cf6f9cb3",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "spine:1:6523",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "7edd6f7968cf81de",
+   "title": "L9 · Child or teenager with back pain"
+  },
+  {
+   "id": "spine:1:6527",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "1f7ebf02402ce485",
+   "title": "SOON — WITHIN ABOUT A WEEK"
+  },
+  {
+   "id": "spine:1:6531",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "1822bbaa671b0638",
+   "title": "L10 · Inflammatory back pain (axial spondyloarthritis)"
+  },
+  {
+   "id": "spine:1:6535",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "0222a6ea4b9f0eaa",
+   "title": "REFER — WITHIN WEEKS"
+  },
+  {
+   "id": "spine:1:6539",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "79ff8c40afc110ec",
+   "title": "L11 · Pain coming from the hip (or from the hip AND the back)"
+  },
+  {
+   "id": "spine:1:6543",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "a0d5da9ab4f21dba",
+   "title": "SWITCH PATHWAY"
+  },
+  {
+   "id": "spine:1:6547",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "6376b009acf15342",
+   "title": "L12 · Leg cramp when walking — poor artery circulation (vascular claudication)"
+  },
+  {
+   "id": "spine:1:6551",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "d6a46e75d4414ca0",
+   "title": "REFER — ROUTINE"
+  },
+  {
+   "id": "spine:1:6555",
+   "section": "Low back · Stage 1 · Safety screen",
+   "textSha": "ce50d932a8dc6bdb",
+   "title": "ALL 12 = NO → EXERCISE-RESPONSIVE (BY EXCLUSION)"
+  },
+  {
+   "id": "spine:1:6563",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "b56f63c56d44abae",
+   "title": "STAGE 2 — WHICH LOW-BACK PROBLEM IS IT?"
+  },
+  {
+   "id": "spine:1:6571",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "b9396e6357d31c45",
+   "title": "LQ1 · Where do the symptoms go? (use the body chart from Q0)"
+  },
+  {
+   "id": "spine:1:6575",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "61260e566b1bb5fc",
+   "title": "Back and/or buttock, maybe the thigh — nothing below the knee"
+  },
+  {
+   "id": "spine:1:6595",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "40de3db5385bf7ae",
+   "title": "LT1 · Repeated-movement test — is there a DIRECTIONAL PREFERENCE?"
+  },
+  {
+   "id": "spine:1:6599",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "ea866132bd7120e6",
+   "title": "Arching (extension) centralises or eases it — sitting and bending are usually what hurt"
+  },
+  {
+   "id": "spine:1:6615",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "3f1d3c140be2ecf5",
+   "title": "LD1 · WORKING DIAGNOSIS: Low back pain with a directional preference for EXTENSION (centralising back pain)"
+  },
+  {
+   "id": "spine:1:6603",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "09281969ede3b2fe",
+   "title": "Bending (flexion) eases it — standing, walking and arching are usually what hurt"
+  },
+  {
+   "id": "spine:1:6619",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "35915595c3ab8b23",
+   "title": "LD2 · WORKING DIAGNOSIS: Low back pain with a directional preference for FLEXION (extension-intolerant back pain)"
+  },
+  {
+   "id": "spine:1:6607",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "a4d390fd45223262",
+   "title": "No direction helps, or too sore to test → ask about the history (LQ2)"
+  },
+  {
+   "id": "spine:1:6623",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "a5393e5baefac9c3",
+   "title": "LQ2 · How long has this episode lasted, and how does it behave?"
+  },
+  {
+   "id": "spine:1:6627",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "0e8767e115d22a43",
+   "title": "Under 6 weeks, first or occasional episode; stiff, guarded, sore to move in all directions"
+  },
+  {
+   "id": "spine:1:6639",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "82896c0a4cfaddf5",
+   "title": "LD3 · WORKING DIAGNOSIS: Acute low back pain with mobility deficits (“acute lumbago”)"
+  },
+  {
+   "id": "spine:1:6631",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "91096bcd1f064c55",
+   "title": "Keeps coming back; “catches”, “gives way” or locks when bending or coming back up; feels better in a belt"
+  },
+  {
+   "id": "spine:1:6643",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "6da177f20c1a0a8f",
+   "title": "LT4 · Movement-control check — does the back move in a jerky, poorly controlled way?"
+  },
+  {
+   "id": "spine:1:6647",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "2a39a8dd3d11f1c0",
+   "title": "Aberrant movement, or prone instability test positive"
+  },
+  {
+   "id": "spine:1:6655",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "a9c20e3077829f1f",
+   "title": "LD4 · WORKING DIAGNOSIS: Low back pain with movement-control impairment (recurrent, “unstable-feeling” back)"
+  },
+  {
+   "id": "spine:1:6651",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "7a547f84d4ca1b87",
+   "title": "Moves smoothly; tests negative → treat as persistent non-specific back pain (LD5)"
+  },
+  {
+   "id": "spine:1:6635",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "fa1c6208a5e4da81",
+   "title": "More than 3 months; mainly in the back; worse with activity and long sitting"
+  },
+  {
+   "id": "spine:1:6659",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "2647febd1ad4b2bd",
+   "title": "LD5 · WORKING DIAGNOSIS: Chronic (persistent) non-specific low back pain"
+  },
+  {
+   "id": "spine:1:6611",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "dde6b366369020c3",
+   "title": "Pain spreads further down the leg with BOTH directions → nerve-root check (LT2)"
+  },
+  {
+   "id": "spine:1:6579",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "92fb724d38fee37b",
+   "title": "Shooting pain below the knee into the foot, often with numbness or pins and needles"
+  },
+  {
+   "id": "spine:1:6663",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "4067b977efd0e38e",
+   "title": "LT2 · Nerve-root check (sciatica)"
+  },
+  {
+   "id": "spine:1:6667",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "a4a378cdfba28dd7",
+   "title": "SLR or slump reproduces the leg pain, with or without numbness or mild, stable weakness"
+  },
+  {
+   "id": "spine:1:6679",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "1aa7067be7b4e009",
+   "title": "LQ3 · Does repeated arching bring the leg pain back up toward the back?"
+  },
+  {
+   "id": "spine:1:6683",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "dfed436f6ec3af02",
+   "title": "Yes — the leg pain retreats toward the back"
+  },
+  {
+   "id": "spine:1:6691",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "f6c76adda9e78bea",
+   "title": "LD6 · WORKING DIAGNOSIS: Sciatica (lumbar radicular pain) that CENTRALISES"
+  },
+  {
+   "id": "spine:1:6687",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "c3e0a73ba394bd70",
+   "title": "No change, or it spreads further down (stop that direction)"
+  },
+  {
+   "id": "spine:1:6695",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "83aa731861ba2ae4",
+   "title": "LD7 · WORKING DIAGNOSIS: Sciatica (lumbar radicular pain / radiculopathy) — NOT centralising"
+  },
+  {
+   "id": "spine:1:6671",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "c8e9c94d463187ef",
+   "title": "Both negative, no nerve signs → this is referred pain; test for a directional preference (LT1)"
+  },
+  {
+   "id": "spine:1:6675",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "c80d4026958dfbe8",
+   "title": "Weakness getting worse, foot drop, or both legs → STOP: back to L1 / L5"
+  },
+  {
+   "id": "spine:1:6583",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "2c6c146cfff29f49",
+   "title": "One or both legs heavy, aching or numb when standing or walking; eased by sitting or bending forward"
+  },
+  {
+   "id": "spine:1:6699",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "73eba42671edac14",
+   "title": "LT5 · Spinal stenosis check (narrowing that squeezes the nerves when standing upright) — Suri 2010 review"
+  },
+  {
+   "id": "spine:1:6703",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "8874f02bc72a64fc",
+   "title": "Several features (usually over 60), eased by sitting or bending forward"
+  },
+  {
+   "id": "spine:1:6715",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "f3de24ec617c899c",
+   "title": "LD8 · WORKING DIAGNOSIS: Lumbar spinal stenosis (neurogenic claudication)"
+  },
+  {
+   "id": "spine:1:6707",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "2cee7c525e9cf221",
+   "title": "Eased just by standing still; weak foot pulses → circulation (L12)"
+  },
+  {
+   "id": "spine:1:6711",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "5cf5037d2332c4c1",
+   "title": "Neither picture fits → directional preference test (LT1)"
+  },
+  {
+   "id": "spine:1:6587",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "9c65305fa26098ea",
+   "title": "One-sided pain low over the back of the pelvis, below the belt line; pregnant, recently delivered, or after a fall on the buttock"
+  },
+  {
+   "id": "spine:1:6719",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "59ea2bb5ebed58f9",
+   "title": "LT6 · Sacroiliac joint (SIJ) and pelvic girdle check"
+  },
+  {
+   "id": "spine:1:6723",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "4c0cb910f8202758",
+   "title": "Positive, and pregnant or within about a year of giving birth"
+  },
+  {
+   "id": "spine:1:6739",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "d39896bf8f526370",
+   "title": "LD10 · WORKING DIAGNOSIS: Pregnancy-related pelvic girdle pain"
+  },
+  {
+   "id": "spine:1:6727",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "7f8188e9ec810f4d",
+   "title": "Positive, not pregnancy-related"
+  },
+  {
+   "id": "spine:1:6735",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "b5cbe616f10da9b1",
+   "title": "LD9 · WORKING DIAGNOSIS: Sacroiliac joint pain"
+  },
+  {
+   "id": "spine:1:6731",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "3f533221889a96e3",
+   "title": "Negative → directional preference test (LT1)"
+  },
+  {
+   "id": "spine:1:6591",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "9fa399b0d460ba10",
+   "title": "Pain in many places — back plus neck, shoulders, arms or legs; “everything hurts”"
+  },
+  {
+   "id": "spine:1:6743",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "ffa37fcd071850b5",
+   "title": "LT7 · Widespread pain / central sensitisation check"
+  },
+  {
+   "id": "spine:1:6747",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "22c334d63e381fde",
+   "title": "Yes — widespread, out of proportion, over-sensitive"
+  },
+  {
+   "id": "spine:1:6755",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "40a2f90dd552c66b",
+   "title": "LD11 · WORKING DIAGNOSIS: Chronic back pain with widespread pain / central sensitisation (nociplastic pain)"
+  },
+  {
+   "id": "spine:1:6751",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "0ad3e7531f27be78",
+   "title": "No — mainly a back problem with some other aches → directional preference test (LT1)"
+  },
+  {
+   "id": "spine:1:6567",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "577e11dd3c678751",
+   "title": "WHY THE LABEL MATTERS (OR DOESN’T)"
+  },
+  {
+   "id": "spine:1:6759",
+   "section": "Low back · Stage 2 · Which low-back problem",
+   "textSha": "dd1ab5645c44fceb",
+   "title": "LD12 · WORKING DIAGNOSIS: Stable osteoporotic vertebral fracture (entry only after medical clearance — from L6)"
+  },
+  {
+   "id": "spine:1:6763",
+   "section": "Low back · Stage 3 · Exercise groups",
+   "textSha": "064b8a6000a7878b",
+   "title": "STAGE 3 — EXERCISE GROUPS: diagnoses that share a problem share a programme"
+  },
+  {
+   "id": "spine:1:6771",
+   "section": "Low back · Stage 3 · Exercise groups",
+   "textSha": "18a5e2ea2b4e47e1",
+   "title": "LX-B · Early movement & mobility (“move it gently, don’t rest it”)"
+  },
+  {
+   "id": "spine:1:6767",
+   "section": "Low back · Stage 3 · Exercise groups",
+   "textSha": "bde4f9404c0212ed",
+   "title": "LX-A · Direction-specific repeated movements"
+  },
+  {
+   "id": "spine:1:6787",
+   "section": "Low back · Stage 3 · Exercise groups",
+   "textSha": "0696f7637ae4fbd0",
+   "title": "LX-F · Bone-safe back-extensor strength & balance"
+  },
+  {
+   "id": "spine:1:6779",
+   "section": "Low back · Stage 3 · Exercise groups",
+   "textSha": "61cd1a7794537e1b",
+   "title": "LX-D · Nerve-friendly movement (calm the nerve, then load it)"
+  },
+  {
+   "id": "spine:1:6775",
+   "section": "Low back · Stage 3 · Exercise groups",
+   "textSha": "26d070e761ec20f9",
+   "title": "LX-C · Motor control & trunk–hip strength"
+  },
+  {
+   "id": "spine:1:6783",
+   "section": "Low back · Stage 3 · Exercise groups",
+   "textSha": "2780fcf4503fb285",
+   "title": "LX-E · Graded activity, aerobic conditioning & pain education"
+  },
+  {
+   "id": "spine:1:6791",
+   "section": "Low back · Stage 3 · Exercise groups",
+   "textSha": "373731f19f267b3e",
+   "title": "LX-CORE · CORE PROGRAMME FOR EVERYONE — where every group ends up"
+  },
+  {
+   "id": "spine:1:6795",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "a3daf39c9b6323ce",
+   "title": "STAGE 4 — MEASURE, DOSE THE EXERCISE, RE-TEST"
+  },
+  {
+   "id": "spine:1:6799",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "0c848a2f340d8331",
+   "title": "LS4-1 · How irritable is the back?"
+  },
+  {
+   "id": "spine:1:6803",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "3a938ce4201f5c46",
+   "title": "HIGH: pain at rest or wakes you; small movements flare it; takes hours or until the next day to settle"
+  },
+  {
+   "id": "spine:1:6807",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "d8305c2bdf944d9f",
+   "title": "MODERATE: pain with some activities; settles within an hour or two"
+  },
+  {
+   "id": "spine:1:6811",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "1a289fbe2faf2baf",
+   "title": "LOW: pain only with heavy or long activity; settles within minutes"
+  },
+  {
+   "id": "spine:1:6815",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "93fbd5ddc02177f2",
+   "title": "START GENTLE"
+  },
+  {
+   "id": "spine:1:6819",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "b653df7095107952",
+   "title": "START MODERATE"
+  },
+  {
+   "id": "spine:1:6823",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "a0cebe97373bb99b",
+   "title": "START STRONGER"
+  },
+  {
+   "id": "spine:1:6827",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "abcae210b7e79c2c",
+   "title": "LS4-2 · STarT Back screening tool (9 questions, about 2 minutes)"
+  },
+  {
+   "id": "spine:1:6831",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "593187dedf1dc4dd",
+   "title": "LS4-3 · CORE BASELINE BATTERY (about 10 minutes)"
+  },
+  {
+   "id": "spine:1:6835",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "71e81cba827784cf",
+   "title": "LS4-4 · ADD-ON MODULE — pick the one that matches the working diagnosis"
+  },
+  {
+   "id": "spine:1:6839",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "1fb595c86b5d62d3",
+   "title": "PAIN RULES FOR HOME EXERCISE"
+  },
+  {
+   "id": "spine:1:6843",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "8ca29f9f72163e73",
+   "title": "LS4-5 · WEEK 1 — dose check"
+  },
+  {
+   "id": "spine:1:6847",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "602c1d873811ae8f",
+   "title": "Settled, leg pain the same or more central — keep the same level (don’t level up yet)"
+  },
+  {
+   "id": "spine:1:6851",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "f8908310623e50ec",
+   "title": "Not settled, or leg pain spreading — step down a level and re-check the direction (LT1)"
+  },
+  {
+   "id": "spine:1:6855",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "a3dc8931589263c0",
+   "title": "LS4-6 · WEEK 4 — first re-test"
+  },
+  {
+   "id": "spine:1:6859",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "85a39ab345d672ff",
+   "title": "Yes"
+  },
+  {
+   "id": "spine:1:6863",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "1ea442a134b2a184",
+   "title": "No"
+  },
+  {
+   "id": "spine:1:6867",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "3e075f68520f27cc",
+   "title": "LEVEL UP"
+  },
+  {
+   "id": "spine:1:6871",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "146fabf468c651b3",
+   "title": "RE-CHECK BEFORE CONTINUING"
+  },
+  {
+   "id": "spine:1:6875",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "a70b2f00233cb9cc",
+   "title": "LS4-7 · WEEK 12 — programme review"
+  },
+  {
+   "id": "spine:1:6879",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "3503132ef8e753c3",
+   "title": "Yes — continue the core programme and move to self-management with a flare-up plan"
+  },
+  {
+   "id": "spine:1:6883",
+   "section": "Low back · Stage 4 · Measure, dose, re-test",
+   "textSha": "e4acd31f62d2fbe3",
+   "title": "Still no change after a real trial — revise the diagnosis, refer to a physiotherapist or doctor, consider a combined physical and psychological programme (NICE NG59)"
+  },
+  {
+   "id": "spine:1:6439",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "77e2b21f6ac1a578",
+   "title": "NECK & UPPER BACK PATHWAY"
+  },
+  {
+   "id": "spine:1:6887",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "e96b5f451315d761",
+   "title": "STAGE 1 — SAFETY SCREEN: Is this neck or upper-back pain safe to treat with exercise?"
+  },
+  {
+   "id": "spine:1:6991",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "a9658f685759dc4f",
+   "title": "SAFETY MODIFIERS — not stops; they change who signs off and how hard you start"
+  },
+  {
+   "id": "spine:1:6891",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "7aca93563c72fa7b",
+   "title": "N1 · Heart, aorta or lungs disguised as neck or upper-back pain"
+  },
+  {
+   "id": "spine:1:6895",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "8b80727a8e15930a",
+   "title": "EMERGENCY — NOW"
+  },
+  {
+   "id": "spine:1:6899",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "f2bf71bcba2d9631",
+   "title": "N2 · Neck fracture or ligament injury after trauma — Canadian C-Spine Rule"
+  },
+  {
+   "id": "spine:1:6903",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "5511b164b3199774",
+   "title": "EMERGENCY"
+  },
+  {
+   "id": "spine:1:6907",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "caa0495d5bcfb738",
+   "title": "N3 · Stroke or torn neck artery (cervical artery dissection, posterior circulation problem)"
+  },
+  {
+   "id": "spine:1:6911",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "ad9567e79c801b51",
+   "title": "EMERGENCY — NOW"
+  },
+  {
+   "id": "spine:1:6915",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "c256685cf3b33700",
+   "title": "N4 · Meningitis or other serious infection"
+  },
+  {
+   "id": "spine:1:6919",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "087a724d40dde209",
+   "title": "EMERGENCY — NOW"
+  },
+  {
+   "id": "spine:1:6923",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "64a7d65d4918a68a",
+   "title": "N5 · Giant cell arteritis or polymyalgia rheumatica (over 50)"
+  },
+  {
+   "id": "spine:1:6927",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "a992a3e5259a06f9",
+   "title": "EMERGENCY — SAME DAY (headache, jaw or vision)"
+  },
+  {
+   "id": "spine:1:6931",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "88a100cdd84414aa",
+   "title": "N6 · Spinal cord compression in the neck (degenerative cervical myelopathy)"
+  },
+  {
+   "id": "spine:1:6935",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "cbb6558f016abe5d",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "spine:1:6939",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "0254d3d7446dd255",
+   "title": "N7 · Unstable upper neck (atlanto-axial instability)"
+  },
+  {
+   "id": "spine:1:6943",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "a5a7fb3367d95d0b",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "spine:1:6947",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "5dafc7e925b13bc0",
+   "title": "N8 · Fracture without major trauma, cancer, or TB in the neck or upper back"
+  },
+  {
+   "id": "spine:1:6951",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "dc4c9ccffea1d981",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "spine:1:6955",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "2d6e266778f6cc97",
+   "title": "N9 · Shingles (herpes zoster) — a band of burning pain"
+  },
+  {
+   "id": "spine:1:6959",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "099bcd4a042ccf0d",
+   "title": "URGENT — WITHIN 1–2 DAYS"
+  },
+  {
+   "id": "spine:1:6963",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "7b57efd5af433ae4",
+   "title": "N10 · Child or teenager with neck or upper-back pain"
+  },
+  {
+   "id": "spine:1:6967",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "37998360d1172bef",
+   "title": "SOON — WITHIN ABOUT A WEEK"
+  },
+  {
+   "id": "spine:1:6971",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "04768553c5749e22",
+   "title": "N11 · Inflammatory spinal disease (axial spondyloarthritis) or rheumatoid neck"
+  },
+  {
+   "id": "spine:1:6975",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "91e359e474651c45",
+   "title": "REFER — WITHIN WEEKS"
+  },
+  {
+   "id": "spine:1:6979",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "7f9e3f6a79f87695",
+   "title": "N12 · Pain coming from the shoulder (or elsewhere)"
+  },
+  {
+   "id": "spine:1:6983",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "7653becd8b68af4c",
+   "title": "SWITCH PATHWAY"
+  },
+  {
+   "id": "spine:1:6987",
+   "section": "Neck & upper back · Stage 1 · Safety screen",
+   "textSha": "b905856e561e0aac",
+   "title": "ALL 12 = NO → EXERCISE-RESPONSIVE (BY EXCLUSION)"
+  },
+  {
+   "id": "spine:1:6995",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "a6c45caa99e20df5",
+   "title": "STAGE 2 — WHICH NECK OR UPPER-BACK PROBLEM IS IT?"
+  },
+  {
+   "id": "spine:1:7003",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "8538b05a0b11a1c9",
+   "title": "NQ1 · Where do the symptoms go? (use the body chart from Q0)"
+  },
+  {
+   "id": "spine:1:7007",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "d28f9da036011aa0",
+   "title": "Neck only, or neck to the top of the shoulder or shoulder blade"
+  },
+  {
+   "id": "spine:1:7027",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "45df14c4f13a0ca5",
+   "title": "NQ2 · How did it start?"
+  },
+  {
+   "id": "spine:1:7031",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "e0549b803cc68bfb",
+   "title": "A road accident or sudden jolt — whiplash"
+  },
+  {
+   "id": "spine:1:7043",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "1c45f2340686fb0a",
+   "title": "NT1 · Whiplash grading (Quebec Task Force) and recovery risk"
+  },
+  {
+   "id": "spine:1:7047",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "13f25214a66084a7",
+   "title": "Grade I–II, low-risk features"
+  },
+  {
+   "id": "spine:1:7059",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "2d62c50b145108a7",
+   "title": "ND3 · WORKING DIAGNOSIS: Whiplash-associated disorder (grade I–II), low risk — neck pain with movement-coordination impairment"
+  },
+  {
+   "id": "spine:1:7051",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "96b0155ce413cd17",
+   "title": "Grade I–II with high-risk features (high disability, stress symptoms, older age)"
+  },
+  {
+   "id": "spine:1:7063",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "4f2d86e0d52841a1",
+   "title": "ND4 · WORKING DIAGNOSIS: Whiplash-associated disorder — HIGH risk of persistent pain"
+  },
+  {
+   "id": "spine:1:7055",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "e9cff6d9f0116a66",
+   "title": "Grade III — arm symptoms or neurological signs → arm-nerve check (NT3)"
+  },
+  {
+   "id": "spine:1:7035",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "9441f4f06bc1e1bb",
+   "title": "Woke up with it — neck stuck to one side, sudden, no injury"
+  },
+  {
+   "id": "spine:1:7067",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "eaee03ac63b16cae",
+   "title": "ND5 · WORKING DIAGNOSIS: Acute wry neck (acute torticollis, adult)"
+  },
+  {
+   "id": "spine:1:7039",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "b258848891c431d8",
+   "title": "Gradually — long hours at a desk, machine or phone, or carrying loads; stiff, sore to turn"
+  },
+  {
+   "id": "spine:1:7071",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "bea2ac17b96b24cf",
+   "title": "NT2 · Neck movement and endurance check"
+  },
+  {
+   "id": "spine:1:7075",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "6819ef26d29353eb",
+   "title": "Clearly limited and painful at end-range; recent (under about 12 weeks)"
+  },
+  {
+   "id": "spine:1:7087",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "ba1ae376e9832852",
+   "title": "ND1 · WORKING DIAGNOSIS: Neck pain with mobility deficits (mechanical neck pain)"
+  },
+  {
+   "id": "spine:1:7079",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "0508cb74c986bdb2",
+   "title": "Moves fairly well, but pain builds with sustained postures or repetitive arm work; poor endurance"
+  },
+  {
+   "id": "spine:1:7091",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "6c0276a9b4dae7e0",
+   "title": "ND2 · WORKING DIAGNOSIS: Neck pain with movement-coordination / endurance impairment (posture- and load-related neck pain)"
+  },
+  {
+   "id": "spine:1:7083",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "c6e482d203a9a51b",
+   "title": "Long-standing, spreading and very sensitive → widespread pain check (NT6)"
+  },
+  {
+   "id": "spine:1:7011",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "97b5fb35e47d9ec5",
+   "title": "Down the arm below the elbow, often with pins and needles or numbness in the hand"
+  },
+  {
+   "id": "spine:1:7095",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "7a942a0931bd5634",
+   "title": "NT3 · Arm nerve-root check (cervical radiculopathy) — Wainner cluster"
+  },
+  {
+   "id": "spine:1:7099",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "ba0e98e71d2aec9e",
+   "title": "Cluster positive or a clear nerve-root pattern, with no or stable weakness"
+  },
+  {
+   "id": "spine:1:7115",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "3aea00f73de005bc",
+   "title": "ND7 · WORKING DIAGNOSIS: Cervical radiculopathy (pinched nerve root in the neck)"
+  },
+  {
+   "id": "spine:1:7103",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "7536d47b7213d0e9",
+   "title": "Tingling mainly on the little-finger side, worse with arms overhead or carrying; neck tests negative"
+  },
+  {
+   "id": "spine:1:7119",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "dde73acd9c7d5e71",
+   "title": "ND8 · WORKING DIAGNOSIS: Suspected neurogenic thoracic outlet syndrome"
+  },
+  {
+   "id": "spine:1:7107",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "b4bafc640546e169",
+   "title": "Tests negative; arm ache vague and above the elbow → neck movement check (NT2)"
+  },
+  {
+   "id": "spine:1:7111",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "6f86b38f75746905",
+   "title": "Weakness getting worse, both arms, or clumsy hands → STOP: back to N6"
+  },
+  {
+   "id": "spine:1:7015",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "4a7ea7b4662b5f7d",
+   "title": "Headache that starts in the neck and spreads to the forehead or eye, on one side"
+  },
+  {
+   "id": "spine:1:7123",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "50bf86d880605214",
+   "title": "NT4 · Headache-from-the-neck check (cervicogenic headache)"
+  },
+  {
+   "id": "spine:1:7127",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "5ca4fbf8537fa10f",
+   "title": "Features fit and the flexion-rotation test is positive"
+  },
+  {
+   "id": "spine:1:7135",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "84ac1aa404a8ec01",
+   "title": "ND9 · WORKING DIAGNOSIS: Cervicogenic headache (neck pain with headache)"
+  },
+  {
+   "id": "spine:1:7131",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "14e373e36510bedf",
+   "title": "Migraine or tension-type pattern instead"
+  },
+  {
+   "id": "spine:1:7139",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "37c856f8b89088d9",
+   "title": "HEADACHE NOT FROM THE NECK"
+  },
+  {
+   "id": "spine:1:7019",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "795d0e4ebed096ec",
+   "title": "Upper or mid-back between the shoulder blades, or around the ribs"
+  },
+  {
+   "id": "spine:1:7143",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "37414df735ffa89a",
+   "title": "NQ3 · What brings on the upper-back pain?"
+  },
+  {
+   "id": "spine:1:7147",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "332586fa570c7da2",
+   "title": "Twisting, deep breaths, coughing or rolling in bed — sharp, one-sided, near the spine or along a rib"
+  },
+  {
+   "id": "spine:1:7159",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "33ab585f942127ba",
+   "title": "NT5 · Rib (costovertebral) joint check"
+  },
+  {
+   "id": "spine:1:7163",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "cbe591684b324758",
+   "title": "A local tender rib or joint reproduces the pain"
+  },
+  {
+   "id": "spine:1:7175",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "f719b8a75cd7cfeb",
+   "title": "ND10 · WORKING DIAGNOSIS: Rib (costovertebral) joint pain"
+  },
+  {
+   "id": "spine:1:7167",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "568cd96e673118eb",
+   "title": "Not reproduced locally → thoracic mobility deficit (ND6)"
+  },
+  {
+   "id": "spine:1:7151",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "d1fc22d1295f6477",
+   "title": "Sitting, slouching, desk or sewing work — stiff, aching across the mid-back"
+  },
+  {
+   "id": "spine:1:7171",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "8b1527c527763cee",
+   "title": "ND6 · WORKING DIAGNOSIS: Thoracic (mid / upper-back) pain with mobility deficits"
+  },
+  {
+   "id": "spine:1:7155",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "68956e33dc7c3a2f",
+   "title": "Older or stooped, with a rounded upper back that’s getting worse (Stage 1 already clear)"
+  },
+  {
+   "id": "spine:1:7179",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "b5bb7a0fd7acc8f9",
+   "title": "ND11 · WORKING DIAGNOSIS: Stooped upper back — age-related hyperkyphosis, or a stable osteoporotic fracture or Scheuermann’s after clearance (from N8 / N10)"
+  },
+  {
+   "id": "spine:1:7023",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "f35dfe95ffa9ee07",
+   "title": "Pain in many places — neck plus back, arms or legs; “everything hurts”"
+  },
+  {
+   "id": "spine:1:7183",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "139c04b766cfa0b3",
+   "title": "NT6 · Widespread pain / central sensitisation check"
+  },
+  {
+   "id": "spine:1:7187",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "22c334d63e381fde",
+   "title": "Yes — widespread, out of proportion, over-sensitive"
+  },
+  {
+   "id": "spine:1:7195",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "1f67a5a86dae6733",
+   "title": "ND12 · WORKING DIAGNOSIS: Chronic neck pain with widespread pain / central sensitisation (nociplastic pain)"
+  },
+  {
+   "id": "spine:1:7191",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "0688559c6b201f12",
+   "title": "No — mainly a neck problem → neck movement check (NT2)"
+  },
+  {
+   "id": "spine:1:6999",
+   "section": "Neck & upper back · Stage 2 · Which problem",
+   "textSha": "6715ad4ea8c38bd8",
+   "title": "WHY THE LABEL MATTERS (OR DOESN’T)"
+  },
+  {
+   "id": "spine:1:7199",
+   "section": "Neck & upper back · Stage 3 · Exercise groups",
+   "textSha": "5cc12a786320ef04",
+   "title": "STAGE 3 — EXERCISE GROUPS: diagnoses that share a problem share a programme"
+  },
+  {
+   "id": "spine:1:7203",
+   "section": "Neck & upper back · Stage 3 · Exercise groups",
+   "textSha": "752e1de587b2bf76",
+   "title": "NX-A · Deep neck flexor & shoulder-blade control"
+  },
+  {
+   "id": "spine:1:7207",
+   "section": "Neck & upper back · Stage 3 · Exercise groups",
+   "textSha": "1748cfd4450793f2",
+   "title": "NX-B · Neck & upper-back mobility (move early)"
+  },
+  {
+   "id": "spine:1:7215",
+   "section": "Neck & upper back · Stage 3 · Exercise groups",
+   "textSha": "0ac764be9f3d1b00",
+   "title": "NX-D · Nerve-friendly arm-pain care"
+  },
+  {
+   "id": "spine:1:7211",
+   "section": "Neck & upper back · Stage 3 · Exercise groups",
+   "textSha": "83e8697f1bd4d65c",
+   "title": "NX-C · Neck–shoulder strength & endurance"
+  },
+  {
+   "id": "spine:1:7219",
+   "section": "Neck & upper back · Stage 3 · Exercise groups",
+   "textSha": "ad4cf7334a391ab8",
+   "title": "NX-E · Graded activity & pain education"
+  },
+  {
+   "id": "spine:1:7223",
+   "section": "Neck & upper back · Stage 3 · Exercise groups",
+   "textSha": "0670cf614ffb6bef",
+   "title": "NX-F · Spinal extensor & bone-safe strength (upper back)"
+  },
+  {
+   "id": "spine:1:7227",
+   "section": "Neck & upper back · Stage 3 · Exercise groups",
+   "textSha": "e194e1348f202626",
+   "title": "NX-CORE · CORE PROGRAMME FOR EVERYONE — where every group ends up"
+  },
+  {
+   "id": "spine:1:7231",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "7d1da26332e95ee7",
+   "title": "STAGE 4 — MEASURE, DOSE THE EXERCISE, RE-TEST"
+  },
+  {
+   "id": "spine:1:7235",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "14bf27c39b4653c0",
+   "title": "NS4-1 · How irritable is the neck?"
+  },
+  {
+   "id": "spine:1:7239",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "3a938ce4201f5c46",
+   "title": "HIGH: pain at rest or wakes you; small movements flare it; takes hours or until the next day to settle"
+  },
+  {
+   "id": "spine:1:7243",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "d8305c2bdf944d9f",
+   "title": "MODERATE: pain with some activities; settles within an hour or two"
+  },
+  {
+   "id": "spine:1:7247",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "cbef951850c26fd5",
+   "title": "LOW: pain only with long or heavy activity; settles within minutes"
+  },
+  {
+   "id": "spine:1:7251",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "592814898c74bea8",
+   "title": "START GENTLE"
+  },
+  {
+   "id": "spine:1:7255",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "b653df7095107952",
+   "title": "START MODERATE"
+  },
+  {
+   "id": "spine:1:7259",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "e471dd4ae8b854e4",
+   "title": "START STRONGER"
+  },
+  {
+   "id": "spine:1:7263",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "ed64735204647361",
+   "title": "NS4-2 · Short-form Örebro Musculoskeletal Pain Screening Questionnaire (10 questions)"
+  },
+  {
+   "id": "spine:1:7267",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "96a9da4c9ee61f8c",
+   "title": "NS4-3 · CORE BASELINE BATTERY (about 10 minutes)"
+  },
+  {
+   "id": "spine:1:7271",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "6a4a532dd57b024f",
+   "title": "NS4-4 · ADD-ON MODULE — pick the one that matches the working diagnosis"
+  },
+  {
+   "id": "spine:1:7275",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "33bd66af62d7c7b6",
+   "title": "PAIN RULES FOR HOME EXERCISE"
+  },
+  {
+   "id": "spine:1:7279",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "fdbc8440fd879958",
+   "title": "NS4-5 · WEEK 1 — dose check"
+  },
+  {
+   "id": "spine:1:7283",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "cee726d44ddca63b",
+   "title": "Settled, arm symptoms the same or better — keep the same level (don’t level up yet)"
+  },
+  {
+   "id": "spine:1:7287",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "7f03575b0c3cb345",
+   "title": "Not settled, or arm symptoms spreading — step down a level and re-check (NT3)"
+  },
+  {
+   "id": "spine:1:7291",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "57f09eeab6cd0a5f",
+   "title": "NS4-6 · WEEK 4 — first re-test"
+  },
+  {
+   "id": "spine:1:7295",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "85a39ab345d672ff",
+   "title": "Yes"
+  },
+  {
+   "id": "spine:1:7299",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "1ea442a134b2a184",
+   "title": "No"
+  },
+  {
+   "id": "spine:1:7303",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "d37ef224ccee8994",
+   "title": "LEVEL UP"
+  },
+  {
+   "id": "spine:1:7307",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "748d6fbafd1e8342",
+   "title": "RE-CHECK BEFORE CONTINUING"
+  },
+  {
+   "id": "spine:1:7311",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "ffdf3f8c7a5141e6",
+   "title": "NS4-7 · WEEK 12 — programme review"
+  },
+  {
+   "id": "spine:1:7315",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "3503132ef8e753c3",
+   "title": "Yes — continue the core programme and move to self-management with a flare-up plan"
+  },
+  {
+   "id": "spine:1:7319",
+   "section": "Neck & upper back · Stage 4 · Measure, dose, re-test",
+   "textSha": "fe67ba411a957c90",
+   "title": "Still no change after a real trial — revise the diagnosis, refer to a physiotherapist or doctor, consider combined physical and psychological care"
+  },
+  {
+   "id": "hip_knee:34:2726",
+   "section": "Exercises by Group",
+   "textSha": "b5ec8fe01c23854e",
+   "title": "E1 Joint mobility and general leg strengthening"
+  },
+  {
+   "id": "hip_knee:34:2739",
+   "section": "Exercises by Group",
+   "textSha": "7e5c7e3fb96dc43f",
+   "title": "E2 Knee and Hip Strength with Movement Control"
+  },
+  {
+   "id": "hip_knee:34:2756",
+   "section": "Exercises by Group",
+   "textSha": "0d3e6e28ad5dbf1d",
+   "title": "E3 Hip Joint Strength Within Comfortable Movement"
+  },
+  {
+   "id": "hip_knee:34:2763",
+   "section": "Exercises by Group",
+   "textSha": "6dd6ef03aee01058",
+   "title": "E4 Progressive Quadriceps and Patellar Tendon Loading"
+  },
+  {
+   "id": "hip_knee:34:2770",
+   "section": "Exercises by Group",
+   "textSha": "8b9cb01b5efabb85",
+   "title": "E5 Lateral Hip Strengthening with Reduced Tendon Compression"
+  },
+  {
+   "id": "hip_knee:36:2787",
+   "section": "Exercises by Group",
+   "textSha": "aea7b98274a26061",
+   "title": "E6 Progressive Hamstring Strengthening"
+  },
+  {
+   "id": "hip_knee:36:2801",
+   "section": "Exercises by Group",
+   "textSha": "03078fb4f6281455",
+   "title": "E7 Groin, Hip, and Trunk Strengthening"
+  },
+  {
+   "id": "hip_knee:36:2808",
+   "section": "Exercises by Group",
+   "textSha": "aff79fdc8e6c1d69",
+   "title": "E8 Protected Knee Injury Rehabilitation"
+  },
+  {
+   "id": "hip_knee:5:921",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "3d15b42f7952ff7e",
+   "title": "STAGE 3 — MEASURE, DOSE THE EXERCISE, RE-TEST"
+  },
+  {
+   "id": "hip_knee:5:925",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "98a8c0ac847017d7",
+   "title": "HS3-1 · How irritable is the hip?"
+  },
+  {
+   "id": "hip_knee:5:929",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "57a95833a7f6e080",
+   "title": "HIGH: night or rest pain; limping on most steps; flares with small movements; settles over hours or by the next day"
+  },
+  {
+   "id": "hip_knee:5:933",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "6804f1162ece4513",
+   "title": "MODERATE: pain with stairs, squatting or long walks; settles within an hour or two"
+  },
+  {
+   "id": "hip_knee:5:937",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "dea831bec2986696",
+   "title": "LOW: pain only at high load or at the end of range; settles within minutes"
+  },
+  {
+   "id": "hip_knee:5:941",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "a556dfb2079d81ff",
+   "title": "START GENTLE"
+  },
+  {
+   "id": "hip_knee:5:945",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "31c1105c5e5e4723",
+   "title": "START MODERATE"
+  },
+  {
+   "id": "hip_knee:5:949",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "6dc39e689c7647ff",
+   "title": "START STRONGER"
+  },
+  {
+   "id": "hip_knee:5:953",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "207ac6ef36c2ad42",
+   "title": "HS3-2 · CORE BASELINE BATTERY (about 12 minutes)"
+  },
+  {
+   "id": "hip_knee:5:957",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "ef976c21f85f66db",
+   "title": "HS3-3 · ADD-ON MODULE — pick the one that matches the working diagnosis"
+  },
+  {
+   "id": "hip_knee:5:961",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "713c977e062b7ead",
+   "title": "PAIN RULE FOR HOME EXERCISE"
+  },
+  {
+   "id": "hip_knee:5:965",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "424c33deb039a0af",
+   "title": "HS3-4 · WEEK 1 — dose check"
+  },
+  {
+   "id": "hip_knee:5:969",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "7941f9950ebb9b7c",
+   "title": "Yes — keep the same level (don’t level up yet)"
+  },
+  {
+   "id": "hip_knee:5:973",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "e1dba9d2adafc7aa",
+   "title": "No — hold or step down one level"
+  },
+  {
+   "id": "hip_knee:5:977",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "c4dba102a24e65f5",
+   "title": "HS3-5 · WEEK 4 — first re-test"
+  },
+  {
+   "id": "hip_knee:5:981",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "5e16b11200859ab0",
+   "title": "Improving"
+  },
+  {
+   "id": "hip_knee:5:985",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "d073bb0e7fb33f94",
+   "title": "Not improving"
+  },
+  {
+   "id": "hip_knee:5:989",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "7857bf91087acaad",
+   "title": "LEVEL UP"
+  },
+  {
+   "id": "hip_knee:5:993",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "e935653c1d599f74",
+   "title": "RE-CHECK BEFORE CONTINUING"
+  },
+  {
+   "id": "hip_knee:5:997",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "e06b1b176b829dd4",
+   "title": "HS3-6 · WEEK 12 — programme review"
+  },
+  {
+   "id": "hip_knee:5:1001",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "f7a2289d97619531",
+   "title": "Yes — continue and move towards self-management"
+  },
+  {
+   "id": "hip_knee:5:1005",
+   "section": "Hip · Stage 3 · Measure, dose, re-test",
+   "textSha": "3aa1149127ee660f",
+   "title": "Still no change after a real trial — revise the diagnosis or refer (the hip osteoarthritis guideline says to rethink when symptoms aren’t improving with treatment)"
+  },
+  {
+   "id": "hip_knee:5:724",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "ef055a7f72450267",
+   "title": "STAGE 2 — WHICH HIP PROBLEM IS IT?"
+  },
+  {
+   "id": "hip_knee:5:916",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "eefcfd2a1479b050",
+   "title": "WHY THE LABEL MATTERS MORE AT THE HIP"
+  },
+  {
+   "id": "hip_knee:5:780",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "dc0e2ceddccfa91a",
+   "title": "HD1 · WORKING DIAGNOSIS: Hip osteoarthritis"
+  },
+  {
+   "id": "hip_knee:5:768",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "0045215068a519cd",
+   "title": "Fits: weight-bearing pain, stiffness under 1 hour, limited or painful internal rotation"
+  },
+  {
+   "id": "hip_knee:5:772",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "9699f35dac1df7ce",
+   "title": "Rotation normal and the pain is on the side → side-of-hip check (HT3)"
+  },
+  {
+   "id": "hip_knee:5:776",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "3cf4f080fb7e25e9",
+   "title": "Younger than typical, with a risk factor (steroids, alcohol, sickle cell) → back to H5"
+  },
+  {
+   "id": "hip_knee:5:764",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "6b98cf9c370d2d51",
+   "title": "HT1 · Hip osteoarthritis check (JOSPT hip osteoarthritis guideline, Cibulka 2017; revised 2025)"
+  },
+  {
+   "id": "hip_knee:5:752",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "28afc5641867cd67",
+   "title": "50 or older (from 45 if the pattern is typical)"
+  },
+  {
+   "id": "hip_knee:5:812",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "3a45df5af82f754f",
+   "title": "HD2 · WORKING DIAGNOSIS: Hip-related pain — FAI syndrome, hip dysplasia or labral tear (Zurich consensus, Reiman 2020)"
+  },
+  {
+   "id": "hip_knee:5:788",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "afa3e58f4d680ac5",
+   "title": "A) FADIR reproduces their groin pain"
+  },
+  {
+   "id": "hip_knee:5:816",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "c772720d5569bc65",
+   "title": "HD3 · WORKING DIAGNOSIS: Adductor-related groin pain"
+  },
+  {
+   "id": "hip_knee:5:792",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "d0e0ca890d483b21",
+   "title": "B) Squeeze or adductor tendon"
+  },
+  {
+   "id": "hip_knee:5:820",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "03db5e12ad098a19",
+   "title": "HD4 · WORKING DIAGNOSIS: Iliopsoas-related groin pain"
+  },
+  {
+   "id": "hip_knee:5:796",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "26a724738cf35c4c",
+   "title": "C) Resisted hip bending or stretch"
+  },
+  {
+   "id": "hip_knee:5:824",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "ee0a05cdbf84c79b",
+   "title": "HD5 · WORKING DIAGNOSIS: Inguinal-related groin pain"
+  },
+  {
+   "id": "hip_knee:5:800",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "4bac72515e3bd52c",
+   "title": "D) Sit-up, cough or inguinal canal — no lump"
+  },
+  {
+   "id": "hip_knee:5:804",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "8ae3b9da7047e1fe",
+   "title": "D) A lump that bulges on coughing → hernia, back to H9"
+  },
+  {
+   "id": "hip_knee:5:828",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "acbc45fe8c50d6f8",
+   "title": "HD6 · WORKING DIAGNOSIS: Pubic-related groin pain"
+  },
+  {
+   "id": "hip_knee:5:808",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "57d80e356534bd30",
+   "title": "E) Pubic bone tender"
+  },
+  {
+   "id": "hip_knee:5:784",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "8275e9fef53f6ab4",
+   "title": "HT2 · Groin test set for active people (Doha agreement, Weir 2015)"
+  },
+  {
+   "id": "hip_knee:5:756",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "106821cd295ad566",
+   "title": "16–49 and active (sport, heavy work)"
+  },
+  {
+   "id": "hip_knee:5:760",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "3ea74df70b7771af",
+   "title": "Under 16 → back to H3 (child with a limp)"
+  },
+  {
+   "id": "hip_knee:5:748",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "059e030875ad495b",
+   "title": "HQ2 · How old, and how active?"
+  },
+  {
+   "id": "hip_knee:5:732",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "ce03519162a492e3",
+   "title": "Groin or front of the hip (or the C-sign)"
+  },
+  {
+   "id": "hip_knee:5:848",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "9428a0730f337c9e",
+   "title": "HD7 · WORKING DIAGNOSIS: Gluteal tendinopathy (side-of-hip pain; often called “trochanteric bursitis”)"
+  },
+  {
+   "id": "hip_knee:5:836",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "11cea7e6c2b2e20b",
+   "title": "Tender AND pain on single-leg stance (or another loading test)"
+  },
+  {
+   "id": "hip_knee:5:840",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "801b819ade8815f6",
+   "title": "Not tender on the bony point → check the hip joint (HT1) and the back (H10)"
+  },
+  {
+   "id": "hip_knee:5:844",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "9f5daac46114df64",
+   "title": "Burning or numbness rather than tenderness → HD8"
+  },
+  {
+   "id": "hip_knee:5:832",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "ccfa4f1c9a6a40cc",
+   "title": "HT3 · Side-of-hip check (gluteal tendinopathy — Grimaldi 2017, 65 patients compared with MRI)"
+  },
+  {
+   "id": "hip_knee:5:736",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "52775cb1774905e1",
+   "title": "Side of the hip, over the bony point"
+  },
+  {
+   "id": "hip_knee:5:888",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "ebb7e616cfe487f0",
+   "title": "HD9 · WORKING DIAGNOSIS: Hamstring strain injury"
+  },
+  {
+   "id": "hip_knee:5:880",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "0b041a1a87531347",
+   "title": "Tender muscle + pain on resisted testing"
+  },
+  {
+   "id": "hip_knee:5:884",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "fdc2c3af358c9664",
+   "title": "Gap or big bruise at the sitting bone → back to H11"
+  },
+  {
+   "id": "hip_knee:5:876",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "d646d33abbcb7908",
+   "title": "HT4 · Hamstring strain check (JOSPT hamstring guideline, Martin 2022)"
+  },
+  {
+   "id": "hip_knee:5:860",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "e45467be52264b3c",
+   "title": "Sudden pain at the back of the thigh while sprinting, kicking or over-stretching"
+  },
+  {
+   "id": "hip_knee:5:892",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "6824b84a6c1da053",
+   "title": "HD10 · WORKING DIAGNOSIS: Proximal hamstring tendinopathy"
+  },
+  {
+   "id": "hip_knee:5:864",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "520d992359779435",
+   "title": "Deep pain right at the sitting bone; worse on hard seats, uphill or bending forward"
+  },
+  {
+   "id": "hip_knee:5:908",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "d0b93e7b628311d5",
+   "title": "HX1 · SACROILIAC JOINT PAIN → LOW-BACK PATHWAY"
+  },
+  {
+   "id": "hip_knee:5:900",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "56eea2d92d20c715",
+   "title": "3 or more of 6 positive"
+  },
+  {
+   "id": "hip_knee:5:904",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "50e7286e5e883560",
+   "title": "0–2 positive → deep gluteal (HD11)"
+  },
+  {
+   "id": "hip_knee:5:896",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "58f4e59783fdc9c2",
+   "title": "HT5 · Sacroiliac joint check (the joint between the base of the spine and the pelvis) — Laslett cluster"
+  },
+  {
+   "id": "hip_knee:5:868",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "7cd1ea07aefcb9e2",
+   "title": "Below the dimples of the low back; after pregnancy or a fall onto the buttock"
+  },
+  {
+   "id": "hip_knee:5:912",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "905aebc979119ed3",
+   "title": "HD11 · WORKING DIAGNOSIS: Deep gluteal syndrome (includes “piriformis syndrome”)"
+  },
+  {
+   "id": "hip_knee:5:872",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "5dcbd383d9e3d7b6",
+   "title": "Deep buttock pain with sitting, sometimes sciatica-like, and everything else is negative"
+  },
+  {
+   "id": "hip_knee:5:856",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "df72a83d84414e59",
+   "title": "HQ3 · Buttock or back-of-thigh pain: how did it start, and where exactly?"
+  },
+  {
+   "id": "hip_knee:5:740",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "95f24e1120996103",
+   "title": "Buttock, or the back of the upper thigh"
+  },
+  {
+   "id": "hip_knee:5:852",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "f712d15f9ef17d11",
+   "title": "HD8 · WORKING DIAGNOSIS: Meralgia paresthetica (squeezed skin nerve of the thigh)"
+  },
+  {
+   "id": "hip_knee:5:744",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "2a539975c9869555",
+   "title": "Outer-front thigh: a burning, tingling or numb patch"
+  },
+  {
+   "id": "hip_knee:5:728",
+   "section": "Hip · Stage 2 · Which hip problem",
+   "textSha": "6e807f8548003975",
+   "title": "HQ1 · Where does it hurt?"
+  },
+  {
+   "id": "hip_knee:3:109",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "302f5bf4116505c7",
+   "title": "HIP PATHWAY"
+  },
+  {
+   "id": "hip_knee:5:615",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "70ecf7a4a695af32",
+   "title": "STAGE 1 — SAFETY SCREEN: Is this hip pain safe to treat with exercise?"
+  },
+  {
+   "id": "hip_knee:5:619",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "0e9c4f08e9c5940a",
+   "title": "H1 · Possible hip fracture"
+  },
+  {
+   "id": "hip_knee:5:623",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "562fd26a4e4c5ef8",
+   "title": "EMERGENCY"
+  },
+  {
+   "id": "hip_knee:5:627",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "708fe24853f92ece",
+   "title": "H2 · Hot, irritable hip — possible joint infection"
+  },
+  {
+   "id": "hip_knee:5:631",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "2bae9733f7c71718",
+   "title": "EMERGENCY — SAME DAY"
+  },
+  {
+   "id": "hip_knee:5:635",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "17910486a3cb20d6",
+   "title": "H3 · Child or teenager with a limp"
+  },
+  {
+   "id": "hip_knee:5:639",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "1191a00d8ee6a5aa",
+   "title": "EMERGENCY — SAME DAY"
+  },
+  {
+   "id": "hip_knee:5:643",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "1bc084c900de49a6",
+   "title": "H4 · Stress fracture of the hip (femoral neck)"
+  },
+  {
+   "id": "hip_knee:5:647",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "4ce7b0a38c981a5e",
+   "title": "EMERGENCY — STOP IMPACT NOW"
+  },
+  {
+   "id": "hip_knee:5:651",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "ff9cffdb4d498e2c",
+   "title": "H5 · Possible avascular necrosis (bone death in the ball of the hip)"
+  },
+  {
+   "id": "hip_knee:5:655",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "b7ec4b7092360191",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "hip_knee:5:659",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "2e1b63065864df02",
+   "title": "H6 · Possible tumour, or cancer spread to bone"
+  },
+  {
+   "id": "hip_knee:5:663",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "0330947fc4b43d51",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "hip_knee:5:667",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "2328cc92bf79c793",
+   "title": "H7 · Whole-body (inflammatory) or post-viral arthritis"
+  },
+  {
+   "id": "hip_knee:5:671",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "31c3211a1f7b4558",
+   "title": "REFER — WITHIN WEEKS"
+  },
+  {
+   "id": "hip_knee:5:675",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "fd667a5840ad6829",
+   "title": "H8 · Possible tuberculosis (TB) of the hip"
+  },
+  {
+   "id": "hip_knee:5:679",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "25bc5924f4aa6ba9",
+   "title": "REFER"
+  },
+  {
+   "id": "hip_knee:5:683",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "58fa5ca19be813df",
+   "title": "H9 · Not the hip: hernia, abdominal or pelvic organ"
+  },
+  {
+   "id": "hip_knee:5:687",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "7be9a04cbc170685",
+   "title": "SWITCH PATHWAY"
+  },
+  {
+   "id": "hip_knee:5:691",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "c841e4cddd4bc84b",
+   "title": "H10 · Pain coming from the lower back"
+  },
+  {
+   "id": "hip_knee:5:695",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "3978301c2ed282f1",
+   "title": "SWITCH PATHWAY"
+  },
+  {
+   "id": "hip_knee:5:699",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "e769e6d2abc126c7",
+   "title": "H11 · Possible proximal hamstring avulsion (hamstring tendon torn off the sitting bone)"
+  },
+  {
+   "id": "hip_knee:5:703",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "d7435629e1b03717",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "hip_knee:5:707",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "f7a02caf18bfc096",
+   "title": "H12 · Buttock or thigh cramp when walking — poor artery circulation"
+  },
+  {
+   "id": "hip_knee:5:711",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "e7d35767d30f81a4",
+   "title": "REFER — ROUTINE"
+  },
+  {
+   "id": "hip_knee:5:719",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "3fc5c4e7f5eafa9f",
+   "title": "SAFETY MODIFIERS — not stops; they change who signs off and how hard you start"
+  },
+  {
+   "id": "hip_knee:5:715",
+   "section": "Hip · Stage 1 · Safety screen",
+   "textSha": "39e0504d1044faeb",
+   "title": "ALL 12 = NO → EXERCISE-RESPONSIVE (BY EXCLUSION)"
+  },
+  {
+   "id": "hip_knee:5:527",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "ddfea7153744000a",
+   "title": "STAGE 3 — MEASURE, DOSE THE EXERCISE, RE-TEST"
+  },
+  {
+   "id": "hip_knee:5:531",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "c8ef01d7c5fad075",
+   "title": "KS3-1 · How irritable is the knee?"
+  },
+  {
+   "id": "hip_knee:5:535",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "8159a9111b44fe42",
+   "title": "HIGH: pain at rest or at night; flares with small movements; takes hours or until the next day to settle"
+  },
+  {
+   "id": "hip_knee:5:539",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "a8326eefb551886c",
+   "title": "MODERATE: pain with specific loads (stairs, squatting); settles within an hour or two"
+  },
+  {
+   "id": "hip_knee:5:543",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "be0758571c2677c7",
+   "title": "LOW: pain only at high load or at the end of activity; settles within minutes"
+  },
+  {
+   "id": "hip_knee:5:547",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "0d257ef738205e28",
+   "title": "START GENTLE"
+  },
+  {
+   "id": "hip_knee:5:551",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "7c6acdc5d8493d71",
+   "title": "START MODERATE"
+  },
+  {
+   "id": "hip_knee:5:555",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "d333b361ea31ac96",
+   "title": "START STRONGER"
+  },
+  {
+   "id": "hip_knee:5:559",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "0d80223a7b300816",
+   "title": "KS3-2 · CORE BASELINE BATTERY (about 10 minutes)"
+  },
+  {
+   "id": "hip_knee:5:563",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "ced2d36afd736a51",
+   "title": "KS3-3 · ADD-ON MODULE — pick the one that matches the working diagnosis"
+  },
+  {
+   "id": "hip_knee:5:567",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "713c977e062b7ead",
+   "title": "PAIN RULE FOR HOME EXERCISE"
+  },
+  {
+   "id": "hip_knee:5:571",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "af737c5622967d45",
+   "title": "KS3-4 · WEEK 1 — dose check"
+  },
+  {
+   "id": "hip_knee:5:575",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "7941f9950ebb9b7c",
+   "title": "Yes — keep the same level (don’t level up yet)"
+  },
+  {
+   "id": "hip_knee:5:579",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "e1dba9d2adafc7aa",
+   "title": "No — hold or step down one level"
+  },
+  {
+   "id": "hip_knee:5:583",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "41f839bbf1488a78",
+   "title": "KS3-5 · WEEK 4 — first re-test"
+  },
+  {
+   "id": "hip_knee:5:587",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "5e16b11200859ab0",
+   "title": "Improving"
+  },
+  {
+   "id": "hip_knee:5:591",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "d073bb0e7fb33f94",
+   "title": "Not improving"
+  },
+  {
+   "id": "hip_knee:5:595",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "33d7e156561f5d5e",
+   "title": "LEVEL UP"
+  },
+  {
+   "id": "hip_knee:5:599",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "6531e71b5fb1f7e2",
+   "title": "RE-CHECK BEFORE CONTINUING"
+  },
+  {
+   "id": "hip_knee:5:603",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "9c9ba061e64ea86d",
+   "title": "KS3-6 · WEEK 12 — programme review"
+  },
+  {
+   "id": "hip_knee:5:607",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "f7a2289d97619531",
+   "title": "Yes — continue and move towards self-management"
+  },
+  {
+   "id": "hip_knee:5:611",
+   "section": "Knee · Stage 3 · Measure, dose, re-test",
+   "textSha": "b63bb17c2317df50",
+   "title": "Still no change after a real trial — revise the diagnosis or refer (guideline rule: rethink when symptoms don’t improve with treatment)"
+  },
+  {
+   "id": "hip_knee:5:174",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "23d974b44d335ef0",
+   "title": "STAGE 2 — WHICH KNEE PROBLEM IS IT?"
+  },
+  {
+   "id": "hip_knee:5:522",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "4d3773a6d52ff697",
+   "title": "WHY THE LABEL MATTERS (OR DOESN’T)"
+  },
+  {
+   "id": "hip_knee:5:278",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "308406fff56f63c6",
+   "title": "KD1 · WORKING DIAGNOSIS: ACL injury (torn anterior cruciate ligament)"
+  },
+  {
+   "id": "hip_knee:5:222",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "376ed8f41dd2d29a",
+   "title": "Lachman OR lever sign positive"
+  },
+  {
+   "id": "hip_knee:5:234",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "184279c79ae99185",
+   "title": "KN1 · Can’t clear the ACL yet"
+  },
+  {
+   "id": "hip_knee:5:226",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "a254db7c1086f742",
+   "title": "Too swollen or guarded to test properly"
+  },
+  {
+   "id": "hip_knee:5:230",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "0bcdcecf85380502",
+   "title": "Both clearly negative in a relaxed knee → check the meniscus (KT2)"
+  },
+  {
+   "id": "hip_knee:5:218",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "e5135a4ac4af15ad",
+   "title": "KT1 · Test the ACL (anterior cruciate ligament — the main ligament that stops the shin bone sliding forward)"
+  },
+  {
+   "id": "hip_knee:5:198",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "cf6c0bff72dd30c4",
+   "title": "Twisted or landed, felt or heard a POP, swelled within a few hours, couldn’t carry on"
+  },
+  {
+   "id": "hip_knee:5:282",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "0dc6a07b2f760ab1",
+   "title": "KD2 · WORKING DIAGNOSIS: Traumatic meniscus tear"
+  },
+  {
+   "id": "hip_knee:5:242",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "22b10b0ef116081f",
+   "title": "3 or more of 5 positive"
+  },
+  {
+   "id": "hip_knee:5:246",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "2d603719fe3cb76e",
+   "title": "0–2 positive → check the side ligaments (KT3)"
+  },
+  {
+   "id": "hip_knee:5:238",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "952587b10833a8e0",
+   "title": "KT2 · Meniscus check — count how many of these 5 are positive (Lowery composite)"
+  },
+  {
+   "id": "hip_knee:5:202",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "d1076606c13ada35",
+   "title": "Twisted on a bent, loaded knee; swelling crept up over the next day; now it catches"
+  },
+  {
+   "id": "hip_knee:5:286",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "11ce25471e7cf1b3",
+   "title": "KD3 · WORKING DIAGNOSIS: MCL or LCL sprain (side-ligament sprain)"
+  },
+  {
+   "id": "hip_knee:5:254",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "939b82113c293dd0",
+   "title": "Painful or opens at 30° only"
+  },
+  {
+   "id": "hip_knee:5:262",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "c5f94c29a285a494",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "hip_knee:5:258",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "8d2d436da7d5c44c",
+   "title": "Opens even with the knee fully straight"
+  },
+  {
+   "id": "hip_knee:5:250",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "200ddfbfaae5574d",
+   "title": "KT3 · Side-ligament check — MCL (medial collateral ligament, inner side) and LCL (lateral collateral ligament, outer side)"
+  },
+  {
+   "id": "hip_knee:5:206",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "0ea8b1d7cbe8efce",
+   "title": "Hit or pushed on the SIDE of the knee; pain on the inner or outer side"
+  },
+  {
+   "id": "hip_knee:5:290",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "2720a04c654a92fc",
+   "title": "KD4 · WORKING DIAGNOSIS: PCL injury (torn posterior cruciate ligament)"
+  },
+  {
+   "id": "hip_knee:5:270",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "056163ed3b10488c",
+   "title": "Sag or drawer positive"
+  },
+  {
+   "id": "hip_knee:5:274",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "32366b1fb6108329",
+   "title": "Negative → test the ACL and meniscus (KT1)"
+  },
+  {
+   "id": "hip_knee:5:266",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "89df0a09ee4f1101",
+   "title": "KT4 · Back-ligament check — PCL (posterior cruciate ligament — stops the shin sliding backward)"
+  },
+  {
+   "id": "hip_knee:5:210",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "da2cf46aee712b04",
+   "title": "Fell onto a bent knee, or the shin hit a dashboard"
+  },
+  {
+   "id": "hip_knee:5:294",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "956160f001e191c6",
+   "title": "KD5 · WORKING DIAGNOSIS: First-time kneecap (patellar) dislocation"
+  },
+  {
+   "id": "hip_knee:5:214",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "824b369902e721d6",
+   "title": "The kneecap slid out to the side (it may have popped back)"
+  },
+  {
+   "id": "hip_knee:5:194",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "30ef0ca63213b29c",
+   "title": "KQ2 · What happened at the moment of injury?"
+  },
+  {
+   "id": "hip_knee:5:182",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "72ed1e8c41e354c8",
+   "title": "A specific injury — a fall, twist, blow or awkward landing"
+  },
+  {
+   "id": "hip_knee:5:330",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "d66bbdbce46432a6",
+   "title": "KD6 · WORKING DIAGNOSIS: Osgood-Schlatter (top of the shin) or Sinding-Larsen-Johansson (bottom tip of the kneecap)"
+  },
+  {
+   "id": "hip_knee:5:318",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "039c17e3d2a880a5",
+   "title": "A bony bump at the top of the shin just below the kneecap, or the bottom tip of the kneecap"
+  },
+  {
+   "id": "hip_knee:5:322",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "775a11a944e24811",
+   "title": "Around or behind the kneecap → kneecap check (KT6)"
+  },
+  {
+   "id": "hip_knee:5:334",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "2ff3441890165428",
+   "title": "KD7 · REFER FOR IMAGING: suspected osteochondritis dissecans"
+  },
+  {
+   "id": "hip_knee:5:326",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "df9f2f0cafe01174",
+   "title": "Vague pain with repeated swelling or catching, no clear injury"
+  },
+  {
+   "id": "hip_knee:5:314",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "4d8b1e909d9f346a",
+   "title": "KQ4 · Child: where does it hurt?"
+  },
+  {
+   "id": "hip_knee:5:302",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "fa21351648cf2305",
+   "title": "Under 16 (still growing)"
+  },
+  {
+   "id": "hip_knee:5:398",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "2582cf286924fd72",
+   "title": "KD9 · WORKING DIAGNOSIS: Patellofemoral pain (pain from the joint behind the kneecap)"
+  },
+  {
+   "id": "hip_knee:5:390",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "7cbcb6a116b8c5d8",
+   "title": "Squatting reproduces the pain"
+  },
+  {
+   "id": "hip_knee:5:394",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "5c4c3a8350ee2cac",
+   "title": "Squat is pain-free → recheck the spot (KT7)"
+  },
+  {
+   "id": "hip_knee:5:386",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "0fa8fa191afcaf6d",
+   "title": "KT6 · Kneecap-pain check (patellofemoral pain)"
+  },
+  {
+   "id": "hip_knee:5:362",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "b749908ef0168a8e",
+   "title": "Around or behind the kneecap — hard to point to one spot"
+  },
+  {
+   "id": "hip_knee:5:414",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "dd0e12b7b1b8e8a7",
+   "title": "KD10 · WORKING DIAGNOSIS: Patellar tendinopathy (“jumper’s knee”)"
+  },
+  {
+   "id": "hip_knee:5:406",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "e341603ed3610644",
+   "title": "Tender spot + load-related pain"
+  },
+  {
+   "id": "hip_knee:5:410",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "3704ea7bc10f7552",
+   "title": "Not tender, the pain is diffuse → kneecap check (KT6)"
+  },
+  {
+   "id": "hip_knee:5:402",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "75b6d17b8d454f23",
+   "title": "KT7 · Kneecap-tendon check (patellar tendinopathy)"
+  },
+  {
+   "id": "hip_knee:5:366",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "73ee502eff5d6712",
+   "title": "One spot at the bottom edge of the kneecap"
+  },
+  {
+   "id": "hip_knee:5:430",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "3cb80067cc3a8ce8",
+   "title": "KD11 · WORKING DIAGNOSIS: Iliotibial band (ITB) syndrome"
+  },
+  {
+   "id": "hip_knee:5:422",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "b108cc2dee129ca9",
+   "title": "Tender above the joint line, distance-related pain"
+  },
+  {
+   "id": "hip_knee:5:426",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "538b039e69608995",
+   "title": "Joint-line tenderness and catching → meniscus check (KT2)"
+  },
+  {
+   "id": "hip_knee:5:418",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "425b3130ab081857",
+   "title": "KT8 · Outer-knee check"
+  },
+  {
+   "id": "hip_knee:5:370",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "94874d296830b26b",
+   "title": "Outer side of the knee"
+  },
+  {
+   "id": "hip_knee:5:446",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "54a1bb77a19b875d",
+   "title": "KD12 · WORKING DIAGNOSIS: Degenerative meniscus tear"
+  },
+  {
+   "id": "hip_knee:5:438",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "2f6050afbefcd91a",
+   "title": "Tender ON the joint line, middle-aged, catching"
+  },
+  {
+   "id": "hip_knee:5:450",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "dc6202bf187acf02",
+   "title": "KD13 · WORKING DIAGNOSIS: Pes anserine pain"
+  },
+  {
+   "id": "hip_knee:5:442",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "f6dafb6fbb35f3d4",
+   "title": "Tender BELOW the joint line on the inner shin"
+  },
+  {
+   "id": "hip_knee:5:434",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "f1958faf025a4313",
+   "title": "KT9 · Inner-side check"
+  },
+  {
+   "id": "hip_knee:5:374",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "db00cf769a167d6c",
+   "title": "Inner side of the knee"
+  },
+  {
+   "id": "hip_knee:5:470",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "cf771c8fb4b0e0c6",
+   "title": "KD14 · WORKING DIAGNOSIS: Prepatellar bursitis (“housemaid’s knee”)"
+  },
+  {
+   "id": "hip_knee:5:458",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "c3d1fbf866a3b8c3",
+   "title": "Not hot, no fever"
+  },
+  {
+   "id": "hip_knee:5:466",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "87139b3daedfeb3a",
+   "title": "EMERGENCY — SAME DAY"
+  },
+  {
+   "id": "hip_knee:5:462",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "a707e9d2900d2a8c",
+   "title": "Hot, red, fever or a skin break"
+  },
+  {
+   "id": "hip_knee:5:454",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "4c5e874f67486b96",
+   "title": "KT10 · Swelling on top of the kneecap — is it infected?"
+  },
+  {
+   "id": "hip_knee:5:378",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "786b0719b3f8c60a",
+   "title": "A soft swelling ON TOP of the kneecap (often from kneeling)"
+  },
+  {
+   "id": "hip_knee:5:474",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "cad9186a3326c338",
+   "title": "KD15 · WORKING DIAGNOSIS: Baker’s (popliteal) cyst"
+  },
+  {
+   "id": "hip_knee:5:382",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "ffc8776b202601e0",
+   "title": "Back of the knee — fullness or tightness"
+  },
+  {
+   "id": "hip_knee:5:358",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "e34f601c682162c5",
+   "title": "KQ5 · Where does it hurt?"
+  },
+  {
+   "id": "hip_knee:5:306",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "b8c651c305814557",
+   "title": "16 to 44"
+  },
+  {
+   "id": "hip_knee:5:354",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "f0cc8cfc2215e9c0",
+   "title": "KD8 · WORKING DIAGNOSIS: Knee osteoarthritis (OA)"
+  },
+  {
+   "id": "hip_knee:5:342",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "f1b7d338ef957132",
+   "title": "Fits: activity pain, stiffness 30 minutes or less"
+  },
+  {
+   "id": "hip_knee:5:346",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "73754592d9d8b111",
+   "title": "Stiffness over 30 minutes, warmth, or several swollen joints → back to K10"
+  },
+  {
+   "id": "hip_knee:5:350",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "3d7f303ea245ca0a",
+   "title": "Doesn’t fit — the pain is in one specific spot → KQ5"
+  },
+  {
+   "id": "hip_knee:5:338",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "c83dbf484303c94f",
+   "title": "KT5 · Osteoarthritis check (no X-ray needed)"
+  },
+  {
+   "id": "hip_knee:5:310",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "420cc22be990fd6a",
+   "title": "45 or older"
+  },
+  {
+   "id": "hip_knee:5:298",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "50811f4a2b0f42be",
+   "title": "KQ3 · How old is the patient?"
+  },
+  {
+   "id": "hip_knee:5:186",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "bf101909b6da3bbc",
+   "title": "Gradually, with no clear injury"
+  },
+  {
+   "id": "hip_knee:5:506",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "a5abdada4eaf9ccf",
+   "title": "KD16 · WORKING DIAGNOSIS: Recurrent kneecap instability"
+  },
+  {
+   "id": "hip_knee:5:502",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "e26e1ee25b7489bc",
+   "title": "Apprehension or J-sign positive"
+  },
+  {
+   "id": "hip_knee:5:498",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "0769c9234ea2a1cd",
+   "title": "KT11 · Kneecap-instability check"
+  },
+  {
+   "id": "hip_knee:5:482",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "8f870ca7c4929c11",
+   "title": "The kneecap slips out sideways, or has dislocated before"
+  },
+  {
+   "id": "hip_knee:5:514",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "7f27bb261f0db696",
+   "title": "Positive → same plan as KD1 (ACL injury)"
+  },
+  {
+   "id": "hip_knee:5:510",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "4845d4d6d99d628d",
+   "title": "KT12 · Old ACL tear check"
+  },
+  {
+   "id": "hip_knee:5:486",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "5f9a50730c5dd737",
+   "title": "The whole knee buckles when turning or pivoting, after an old injury"
+  },
+  {
+   "id": "hip_knee:5:490",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "b4f0df71c243160e",
+   "title": "It gives way with pain or catching on the joint line → meniscus check (KT2)"
+  },
+  {
+   "id": "hip_knee:5:518",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "252b73d8d537d632",
+   "title": "KN2 · Giving way from weakness or pain"
+  },
+  {
+   "id": "hip_knee:5:494",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "f644916df9d1654b",
+   "title": "It gives way from weakness or pain; nothing slips (often older knees)"
+  },
+  {
+   "id": "hip_knee:5:478",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "9a228482790b012c",
+   "title": "KQ6 · What gives way?"
+  },
+  {
+   "id": "hip_knee:5:190",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "c2f8f1636ce7c34e",
+   "title": "It keeps giving way, or the kneecap keeps slipping out"
+  },
+  {
+   "id": "hip_knee:5:178",
+   "section": "Knee · Stage 2 · Which knee problem",
+   "textSha": "0dd8a6042cffb1fc",
+   "title": "KQ1 · How did it start?"
+  },
+  {
+   "id": "hip_knee:3:105",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "c107b1a17a20e26a",
+   "title": "KNEE PATHWAY"
+  },
+  {
+   "id": "hip_knee:5:57",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "c3e2c6a09dcb3974",
+   "title": "STAGE 1 — SAFETY SCREEN: Is this knee pain safe to treat with exercise?"
+  },
+  {
+   "id": "hip_knee:5:61",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "3c6e27bea419e467",
+   "title": "K1 · Possible broken bone (fracture)"
+  },
+  {
+   "id": "hip_knee:5:65",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "779f6ee03e9f715c",
+   "title": "EMERGENCY"
+  },
+  {
+   "id": "hip_knee:5:69",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "e5f287c00973adf3",
+   "title": "K2 · Dislocated knee, or damage to the artery or nerve"
+  },
+  {
+   "id": "hip_knee:5:73",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "1d35204f8b1a07e9",
+   "title": "EMERGENCY"
+  },
+  {
+   "id": "hip_knee:5:77",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "16ba3c47c392200d",
+   "title": "K3 · Hot, red, swollen knee — possible joint infection (septic arthritis) or gout"
+  },
+  {
+   "id": "hip_knee:5:81",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "ce0a863d283209a0",
+   "title": "EMERGENCY — SAME DAY"
+  },
+  {
+   "id": "hip_knee:5:85",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "6f8a62a81b75ab49",
+   "title": "K4 · Possible blood clot in the leg (deep vein thrombosis, DVT)"
+  },
+  {
+   "id": "hip_knee:5:89",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "b5b298da69c6eaa6",
+   "title": "EMERGENCY — SAME DAY"
+  },
+  {
+   "id": "hip_knee:5:93",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "217568d3f2e86f7a",
+   "title": "K5 · Can’t straighten the knee against gravity — torn quadriceps or kneecap tendon"
+  },
+  {
+   "id": "hip_knee:5:97",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "71368d3bc37a4ad4",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "hip_knee:5:101",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "5843a52a16502158",
+   "title": "K6 · Truly locked knee"
+  },
+  {
+   "id": "hip_knee:5:105",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "7ca92e314de4b6ea",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "hip_knee:5:109",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "3550b90b501c3627",
+   "title": "K7 · Fast swelling after a twist, or the kneecap popped out"
+  },
+  {
+   "id": "hip_knee:5:113",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "18ddf63e7165f304",
+   "title": "SOON — WITHIN ABOUT A WEEK"
+  },
+  {
+   "id": "hip_knee:5:117",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "89d99650e291ac78",
+   "title": "K8 · Child or teen: a HIP problem showing up as knee pain"
+  },
+  {
+   "id": "hip_knee:5:121",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "909049ddd090e630",
+   "title": "EMERGENCY — SAME DAY"
+  },
+  {
+   "id": "hip_knee:5:125",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "0c173ed199dcd7b7",
+   "title": "K9 · Possible tumour or serious bone disease"
+  },
+  {
+   "id": "hip_knee:5:129",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "0330947fc4b43d51",
+   "title": "URGENT — WITHIN DAYS"
+  },
+  {
+   "id": "hip_knee:5:133",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "b8f1fb612032b1b9",
+   "title": "K10 · Whole-body (inflammatory) or post-viral arthritis"
+  },
+  {
+   "id": "hip_knee:5:137",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "7f9c59d0c3eb9b1f",
+   "title": "REFER — WITHIN WEEKS"
+  },
+  {
+   "id": "hip_knee:5:141",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "b3fabc4f4f14dee2",
+   "title": "K11 · Possible tuberculosis (TB) of the knee"
+  },
+  {
+   "id": "hip_knee:5:145",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "25bc5924f4aa6ba9",
+   "title": "REFER"
+  },
+  {
+   "id": "hip_knee:5:149",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "100da49b1d1b79f5",
+   "title": "K12 · Pain coming from the back or the hip (referred pain)"
+  },
+  {
+   "id": "hip_knee:5:153",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "67bbdbc5139fc1f1",
+   "title": "SWITCH PATHWAY"
+  },
+  {
+   "id": "hip_knee:5:157",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "1085c5b93f608454",
+   "title": "K13 · Calf or thigh cramp when walking — poor artery circulation"
+  },
+  {
+   "id": "hip_knee:5:161",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "4bc0bbbd6f017fe6",
+   "title": "REFER — ROUTINE"
+  },
+  {
+   "id": "hip_knee:5:169",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "fc960f13eb507011",
+   "title": "SAFETY MODIFIERS — not stops; they change who signs off and how hard you start"
+  },
+  {
+   "id": "hip_knee:5:165",
+   "section": "Knee · Stage 1 · Safety screen",
+   "textSha": "7775b539f2233608",
+   "title": "ALL 13 = NO → EXERCISE-RESPONSIVE (BY EXCLUSION)"
+  },
+  {
+   "id": "hip_knee:3:81",
+   "section": "Start here",
+   "textSha": "071274d7024e3699",
+   "title": "START"
+  },
+  {
+   "id": "hip_knee:3:85",
+   "section": "Start here",
+   "textSha": "6d61fef1f4628fc8",
+   "title": "Q0 · Where is the main pain?"
+  },
+  {
+   "id": "hip_knee:3:89",
+   "section": "Start here",
+   "textSha": "945ed6df840d3553",
+   "title": "At the knee, or just above or below it"
+  },
+  {
+   "id": "hip_knee:3:93",
+   "section": "Start here",
+   "textSha": "17b82f33c7ec4050",
+   "title": "Groin, side of the hip, buttock or upper thigh"
+  },
+  {
+   "id": "hip_knee:3:97",
+   "section": "Start here",
+   "textSha": "ab8cc4008c034dc3",
+   "title": "Both, or not sure"
+  },
+  {
+   "id": "hip_knee:3:101",
+   "section": "Start here",
+   "textSha": "b765d41a977af084",
+   "title": "Check the HIP first"
+  },
+  {
+   "id": "hip_knee:5:1009",
+   "section": "Sources",
+   "textSha": "7543423ae11140c0",
+   "title": "KEY SOURCES (1 of 2) — knee, osteoarthritis and exercise"
+  },
+  {
+   "id": "hip_knee:5:1013",
+   "section": "Sources",
+   "textSha": "a66c9b9336051dc1",
+   "title": "KEY SOURCES (2 of 2) — hip, children, red flags, local context"
+  },
+  {
+   "id": "hip_knee:3:5",
+   "section": "How to read this board",
+   "textSha": "3d2feb1d855353bc",
+   "title": "HIP & KNEE ASSESSMENT FLOWCHART"
+  },
+  {
+   "id": "hip_knee:3:9",
+   "section": "How to read this board",
+   "textSha": "c3e060551233b3ae",
+   "title": "HOW TO USE THIS BOARD"
+  },
+  {
+   "id": "hip_knee:3:13",
+   "section": "How to read this board",
+   "textSha": "ee03465b3e1703d2",
+   "title": "HOW TO READ THE ACCURACY NUMBERS"
+  },
+  {
+   "id": "hip_knee:3:17",
+   "section": "How to read this board",
+   "textSha": "9eea70aac3962ecf",
+   "title": "PLAIN-LANGUAGE GLOSSARY"
+  },
+  {
+   "id": "hip_knee:3:21",
+   "section": "How to read this board",
+   "textSha": "db29350705b13699",
+   "title": "WHO CAN DO EACH CHECK (guidance, never a stop)"
+  },
+  {
+   "id": "hip_knee:3:25",
+   "section": "How to read this board",
+   "textSha": "c20259e6a06c38b3",
+   "title": "COLOUR KEY"
+  },
+  {
+   "id": "hip_knee:3:29",
+   "section": "How to read this board",
+   "textSha": "a644ef8f6b3ed565",
+   "title": "START / PATHWAY / STAGE HEADER"
+  },
+  {
+   "id": "hip_knee:3:33",
+   "section": "How to read this board",
+   "textSha": "0db3fd1d15aee766",
+   "title": "QUESTION to ask the patient"
+  },
+  {
+   "id": "hip_knee:3:37",
+   "section": "How to read this board",
+   "textSha": "ca7021130a97672b",
+   "title": "Patient's answer → follow this arrow"
+  },
+  {
+   "id": "hip_knee:3:41",
+   "section": "How to read this board",
+   "textSha": "844521093472f941",
+   "title": "HANDS-ON CHECK or TEST"
+  },
+  {
+   "id": "hip_knee:3:45",
+   "section": "How to read this board",
+   "textSha": "ab8f0969ed49b757",
+   "title": "EMERGENCY — act now or same day; no exercise"
+  },
+  {
+   "id": "hip_knee:3:49",
+   "section": "How to read this board",
+   "textSha": "c888faa0a50cbc19",
+   "title": "URGENT — doctor or specialist within days"
+  },
+  {
+   "id": "hip_knee:3:53",
+   "section": "How to read this board",
+   "textSha": "ca88559ee1767175",
+   "title": "SOON — check within about a week; gentle exercise can start"
+  },
+  {
+   "id": "hip_knee:3:57",
+   "section": "How to read this board",
+   "textSha": "55a56d7421c9a153",
+   "title": "REFER — doctor or specialist within weeks; medical care first, exercise alongside"
+  },
+  {
+   "id": "hip_knee:3:61",
+   "section": "How to read this board",
+   "textSha": "00569983a7c03afe",
+   "title": "SWITCH PATHWAY — the pain is coming from somewhere else"
+  },
+  {
+   "id": "hip_knee:3:65",
+   "section": "How to read this board",
+   "textSha": "d4ae6d860eb2cf64",
+   "title": "PASSED the safety screen"
+  },
+  {
+   "id": "hip_knee:3:69",
+   "section": "How to read this board",
+   "textSha": "e27dc08be34edc53",
+   "title": "WORKING DIAGNOSIS + NEXT STEP"
+  },
+  {
+   "id": "hip_knee:3:73",
+   "section": "How to read this board",
+   "textSha": "e59ef915e26a8a75",
+   "title": "MEASURE · DOSE · RE-TEST"
+  },
+  {
+   "id": "hip_knee:3:77",
+   "section": "How to read this board",
+   "textSha": "c05370c2230b512c",
+   "title": "NOTE — why this matters, or context"
+  }
+ ],
+ "edges": [
+  {
+   "id": "spine:1:7334",
+   "from": "1:6411",
+   "to": "1:6415",
+   "label": "G-START>G-Q0",
+   "storedIn": "1:7325"
+  },
+  {
+   "id": "spine:1:7338",
+   "from": "1:6415",
+   "to": "1:6419",
+   "label": "G-Q0>G-A0L",
+   "storedIn": "1:7325"
+  },
+  {
+   "id": "spine:1:7342",
+   "from": "1:6415",
+   "to": "1:6423",
+   "label": "G-Q0>G-A0B",
+   "storedIn": "1:7325"
+  },
+  {
+   "id": "spine:1:7346",
+   "from": "1:6415",
+   "to": "1:6427",
+   "label": "G-Q0>G-A0N",
+   "storedIn": "1:7325"
+  },
+  {
+   "id": "spine:1:7350",
+   "from": "1:6423",
+   "to": "1:6431",
+   "label": "G-A0B>G-N0B",
+   "storedIn": "1:7325"
+  },
+  {
+   "id": "spine:1:7370",
+   "from": "1:6435",
+   "to": "1:6455",
+   "label": "G-LB>LS1",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7374",
+   "from": "1:6455",
+   "to": "1:6459",
+   "label": "LS1>L1",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7378",
+   "from": "1:6459",
+   "to": "1:6463",
+   "label": "L1>L1Y",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7382",
+   "from": "1:6459",
+   "to": "1:6467",
+   "label": "L1>L2",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7386",
+   "from": "1:6467",
+   "to": "1:6471",
+   "label": "L2>L2Y",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7390",
+   "from": "1:6467",
+   "to": "1:6475",
+   "label": "L2>L3",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7394",
+   "from": "1:6475",
+   "to": "1:6479",
+   "label": "L3>L3Y",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7398",
+   "from": "1:6475",
+   "to": "1:6483",
+   "label": "L3>L4",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7402",
+   "from": "1:6483",
+   "to": "1:6487",
+   "label": "L4>L4Y",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7406",
+   "from": "1:6483",
+   "to": "1:6491",
+   "label": "L4>L5",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7410",
+   "from": "1:6491",
+   "to": "1:6495",
+   "label": "L5>L5Y",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7414",
+   "from": "1:6491",
+   "to": "1:6499",
+   "label": "L5>L6",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7418",
+   "from": "1:6499",
+   "to": "1:6503",
+   "label": "L6>L6Y",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7422",
+   "from": "1:6499",
+   "to": "1:6507",
+   "label": "L6>L7",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7426",
+   "from": "1:6507",
+   "to": "1:6511",
+   "label": "L7>L7Y",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7430",
+   "from": "1:6507",
+   "to": "1:6515",
+   "label": "L7>L8",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7434",
+   "from": "1:6515",
+   "to": "1:6519",
+   "label": "L8>L8Y",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7438",
+   "from": "1:6515",
+   "to": "1:6523",
+   "label": "L8>L9",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7442",
+   "from": "1:6523",
+   "to": "1:6527",
+   "label": "L9>L9Y",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7446",
+   "from": "1:6523",
+   "to": "1:6531",
+   "label": "L9>L10",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7450",
+   "from": "1:6531",
+   "to": "1:6535",
+   "label": "L10>L10Y",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7454",
+   "from": "1:6531",
+   "to": "1:6539",
+   "label": "L10>L11",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7458",
+   "from": "1:6539",
+   "to": "1:6543",
+   "label": "L11>L11Y",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7462",
+   "from": "1:6539",
+   "to": "1:6547",
+   "label": "L11>L12",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7466",
+   "from": "1:6547",
+   "to": "1:6551",
+   "label": "L12>L12Y",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7470",
+   "from": "1:6547",
+   "to": "1:6555",
+   "label": "L12>LPASS",
+   "storedIn": "1:7326"
+  },
+  {
+   "id": "spine:1:7486",
+   "from": "1:6563",
+   "to": "1:6571",
+   "label": "LS2>LQ1",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7490",
+   "from": "1:6571",
+   "to": "1:6575",
+   "label": "LQ1>LQ1a",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7510",
+   "from": "1:6575",
+   "to": "1:6595",
+   "label": "LQ1a>LT1",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7514",
+   "from": "1:6595",
+   "to": "1:6599",
+   "label": "LT1>LT1a",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7530",
+   "from": "1:6599",
+   "to": "1:6615",
+   "label": "LT1a>LD1",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7518",
+   "from": "1:6595",
+   "to": "1:6603",
+   "label": "LT1>LT1b",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7534",
+   "from": "1:6603",
+   "to": "1:6619",
+   "label": "LT1b>LD2",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7522",
+   "from": "1:6595",
+   "to": "1:6607",
+   "label": "LT1>LT1c",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7538",
+   "from": "1:6607",
+   "to": "1:6623",
+   "label": "LT1c>LQ2",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7546",
+   "from": "1:6623",
+   "to": "1:6627",
+   "label": "LQ2>LQ2a",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7558",
+   "from": "1:6627",
+   "to": "1:6639",
+   "label": "LQ2a>LD3",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7550",
+   "from": "1:6623",
+   "to": "1:6631",
+   "label": "LQ2>LQ2b",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7562",
+   "from": "1:6631",
+   "to": "1:6643",
+   "label": "LQ2b>LT4",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7566",
+   "from": "1:6643",
+   "to": "1:6647",
+   "label": "LT4>LT4a",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7574",
+   "from": "1:6647",
+   "to": "1:6655",
+   "label": "LT4a>LD4",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7570",
+   "from": "1:6643",
+   "to": "1:6651",
+   "label": "LT4>LT4b",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7554",
+   "from": "1:6623",
+   "to": "1:6635",
+   "label": "LQ2>LQ2c",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7582",
+   "from": "1:6651",
+   "to": "1:6659",
+   "label": "LT4b>LD5",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7578",
+   "from": "1:6635",
+   "to": "1:6659",
+   "label": "LQ2c>LD5",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7526",
+   "from": "1:6595",
+   "to": "1:6611",
+   "label": "LT1>LT1d",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7494",
+   "from": "1:6571",
+   "to": "1:6579",
+   "label": "LQ1>LQ1b",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7586",
+   "from": "1:6579",
+   "to": "1:6663",
+   "label": "LQ1b>LT2",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7542",
+   "from": "1:6611",
+   "to": "1:6663",
+   "label": "LT1d>LT2",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7590",
+   "from": "1:6663",
+   "to": "1:6667",
+   "label": "LT2>LT2a",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7602",
+   "from": "1:6667",
+   "to": "1:6679",
+   "label": "LT2a>LQ3",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7614",
+   "from": "1:6679",
+   "to": "1:6683",
+   "label": "LQ3>LQ3a",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7622",
+   "from": "1:6683",
+   "to": "1:6691",
+   "label": "LQ3a>LD6",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7618",
+   "from": "1:6679",
+   "to": "1:6687",
+   "label": "LQ3>LQ3b",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7626",
+   "from": "1:6687",
+   "to": "1:6695",
+   "label": "LQ3b>LD7",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7606",
+   "from": "1:6671",
+   "to": "1:6595",
+   "label": "LT2b>LT1",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7594",
+   "from": "1:6663",
+   "to": "1:6671",
+   "label": "LT2>LT2b",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7598",
+   "from": "1:6663",
+   "to": "1:6675",
+   "label": "LT2>LT2c",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7498",
+   "from": "1:6571",
+   "to": "1:6583",
+   "label": "LQ1>LQ1c",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7630",
+   "from": "1:6583",
+   "to": "1:6699",
+   "label": "LQ1c>LT5",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7634",
+   "from": "1:6699",
+   "to": "1:6703",
+   "label": "LT5>LT5a",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7646",
+   "from": "1:6703",
+   "to": "1:6715",
+   "label": "LT5a>LD8",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7638",
+   "from": "1:6699",
+   "to": "1:6707",
+   "label": "LT5>LT5b",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7654",
+   "from": "1:6711",
+   "to": "1:6595",
+   "label": "LT5c>LT1",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7642",
+   "from": "1:6699",
+   "to": "1:6711",
+   "label": "LT5>LT5c",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7502",
+   "from": "1:6571",
+   "to": "1:6587",
+   "label": "LQ1>LQ1d",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7658",
+   "from": "1:6587",
+   "to": "1:6719",
+   "label": "LQ1d>LT6",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7662",
+   "from": "1:6719",
+   "to": "1:6723",
+   "label": "LT6>LT6a",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7674",
+   "from": "1:6723",
+   "to": "1:6739",
+   "label": "LT6a>LD10",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7666",
+   "from": "1:6719",
+   "to": "1:6727",
+   "label": "LT6>LT6b",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7678",
+   "from": "1:6727",
+   "to": "1:6735",
+   "label": "LT6b>LD9",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7682",
+   "from": "1:6731",
+   "to": "1:6595",
+   "label": "LT6c>LT1",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7670",
+   "from": "1:6719",
+   "to": "1:6731",
+   "label": "LT6>LT6c",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7506",
+   "from": "1:6571",
+   "to": "1:6591",
+   "label": "LQ1>LQ1e",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7686",
+   "from": "1:6591",
+   "to": "1:6743",
+   "label": "LQ1e>LT7",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7690",
+   "from": "1:6743",
+   "to": "1:6747",
+   "label": "LT7>LT7a",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7698",
+   "from": "1:6747",
+   "to": "1:6755",
+   "label": "LT7a>LD11",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7702",
+   "from": "1:6751",
+   "to": "1:6595",
+   "label": "LT7b>LT1",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7694",
+   "from": "1:6743",
+   "to": "1:6751",
+   "label": "LT7>LT7b",
+   "storedIn": "1:7327"
+  },
+  {
+   "id": "spine:1:7782",
+   "from": "1:6787",
+   "to": "1:6791",
+   "label": "LX-F>LX-CORE",
+   "storedIn": "1:7328"
+  },
+  {
+   "id": "spine:1:7778",
+   "from": "1:6783",
+   "to": "1:6791",
+   "label": "LX-E>LX-CORE",
+   "storedIn": "1:7328"
+  },
+  {
+   "id": "spine:1:7774",
+   "from": "1:6779",
+   "to": "1:6791",
+   "label": "LX-D>LX-CORE",
+   "storedIn": "1:7328"
+  },
+  {
+   "id": "spine:1:7770",
+   "from": "1:6775",
+   "to": "1:6791",
+   "label": "LX-C>LX-CORE",
+   "storedIn": "1:7328"
+  },
+  {
+   "id": "spine:1:7766",
+   "from": "1:6771",
+   "to": "1:6791",
+   "label": "LX-B>LX-CORE",
+   "storedIn": "1:7328"
+  },
+  {
+   "id": "spine:1:7762",
+   "from": "1:6767",
+   "to": "1:6791",
+   "label": "LX-A>LX-CORE",
+   "storedIn": "1:7328"
+  },
+  {
+   "id": "spine:1:7790",
+   "from": "1:6795",
+   "to": "1:6799",
+   "label": "LS4>LS4-1",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7794",
+   "from": "1:6799",
+   "to": "1:6803",
+   "label": "LS4-1>LS4-1a",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7798",
+   "from": "1:6799",
+   "to": "1:6807",
+   "label": "LS4-1>LS4-1b",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7802",
+   "from": "1:6799",
+   "to": "1:6811",
+   "label": "LS4-1>LS4-1c",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7806",
+   "from": "1:6803",
+   "to": "1:6815",
+   "label": "LS4-1a>LS4-HI",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7810",
+   "from": "1:6807",
+   "to": "1:6819",
+   "label": "LS4-1b>LS4-MD",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7814",
+   "from": "1:6811",
+   "to": "1:6823",
+   "label": "LS4-1c>LS4-LO",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7826",
+   "from": "1:6823",
+   "to": "1:6827",
+   "label": "LS4-LO>LS4-2",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7822",
+   "from": "1:6819",
+   "to": "1:6827",
+   "label": "LS4-MD>LS4-2",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7818",
+   "from": "1:6815",
+   "to": "1:6827",
+   "label": "LS4-HI>LS4-2",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7830",
+   "from": "1:6827",
+   "to": "1:6831",
+   "label": "LS4-2>LS4-3",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7834",
+   "from": "1:6827",
+   "to": "1:6835",
+   "label": "LS4-2>LS4-4",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7838",
+   "from": "1:6831",
+   "to": "1:6843",
+   "label": "LS4-3>LS4-5",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7842",
+   "from": "1:6843",
+   "to": "1:6847",
+   "label": "LS4-5>LS4-5a",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7854",
+   "from": "1:6851",
+   "to": "1:6799",
+   "label": "LS4-5b>LS4-1",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7846",
+   "from": "1:6843",
+   "to": "1:6851",
+   "label": "LS4-5>LS4-5b",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7850",
+   "from": "1:6847",
+   "to": "1:6855",
+   "label": "LS4-5a>LS4-6",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7858",
+   "from": "1:6855",
+   "to": "1:6859",
+   "label": "LS4-6>LS4-6a",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7862",
+   "from": "1:6855",
+   "to": "1:6863",
+   "label": "LS4-6>LS4-6b",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7866",
+   "from": "1:6859",
+   "to": "1:6867",
+   "label": "LS4-6a>LS4-UP",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7870",
+   "from": "1:6863",
+   "to": "1:6871",
+   "label": "LS4-6b>LS4-NO",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7874",
+   "from": "1:6867",
+   "to": "1:6875",
+   "label": "LS4-UP>LS4-7",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7878",
+   "from": "1:6875",
+   "to": "1:6879",
+   "label": "LS4-7>LS4-7a",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7882",
+   "from": "1:6875",
+   "to": "1:6883",
+   "label": "LS4-7>LS4-7b",
+   "storedIn": "1:7329"
+  },
+  {
+   "id": "spine:1:7886",
+   "from": "1:6439",
+   "to": "1:6887",
+   "label": "G-NK>NS1",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7890",
+   "from": "1:6887",
+   "to": "1:6891",
+   "label": "NS1>N1",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7894",
+   "from": "1:6891",
+   "to": "1:6895",
+   "label": "N1>N1Y",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7898",
+   "from": "1:6891",
+   "to": "1:6899",
+   "label": "N1>N2",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7902",
+   "from": "1:6899",
+   "to": "1:6903",
+   "label": "N2>N2Y",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7906",
+   "from": "1:6899",
+   "to": "1:6907",
+   "label": "N2>N3",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7910",
+   "from": "1:6907",
+   "to": "1:6911",
+   "label": "N3>N3Y",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7914",
+   "from": "1:6907",
+   "to": "1:6915",
+   "label": "N3>N4",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7918",
+   "from": "1:6915",
+   "to": "1:6919",
+   "label": "N4>N4Y",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7922",
+   "from": "1:6915",
+   "to": "1:6923",
+   "label": "N4>N5",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7926",
+   "from": "1:6923",
+   "to": "1:6927",
+   "label": "N5>N5Y",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7930",
+   "from": "1:6923",
+   "to": "1:6931",
+   "label": "N5>N6",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7934",
+   "from": "1:6931",
+   "to": "1:6935",
+   "label": "N6>N6Y",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7938",
+   "from": "1:6931",
+   "to": "1:6939",
+   "label": "N6>N7",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7942",
+   "from": "1:6939",
+   "to": "1:6943",
+   "label": "N7>N7Y",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7946",
+   "from": "1:6939",
+   "to": "1:6947",
+   "label": "N7>N8",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7950",
+   "from": "1:6947",
+   "to": "1:6951",
+   "label": "N8>N8Y",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7954",
+   "from": "1:6947",
+   "to": "1:6955",
+   "label": "N8>N9",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7958",
+   "from": "1:6955",
+   "to": "1:6959",
+   "label": "N9>N9Y",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7962",
+   "from": "1:6955",
+   "to": "1:6963",
+   "label": "N9>N10",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7966",
+   "from": "1:6963",
+   "to": "1:6967",
+   "label": "N10>N10Y",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7970",
+   "from": "1:6963",
+   "to": "1:6971",
+   "label": "N10>N11",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7974",
+   "from": "1:6971",
+   "to": "1:6975",
+   "label": "N11>N11Y",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7978",
+   "from": "1:6971",
+   "to": "1:6979",
+   "label": "N11>N12",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7982",
+   "from": "1:6979",
+   "to": "1:6983",
+   "label": "N12>N12Y",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:7986",
+   "from": "1:6979",
+   "to": "1:6987",
+   "label": "N12>NPASS",
+   "storedIn": "1:7330"
+  },
+  {
+   "id": "spine:1:8002",
+   "from": "1:6995",
+   "to": "1:7003",
+   "label": "NS2>NQ1",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8006",
+   "from": "1:7003",
+   "to": "1:7007",
+   "label": "NQ1>NQ1a",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8026",
+   "from": "1:7007",
+   "to": "1:7027",
+   "label": "NQ1a>NQ2",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8030",
+   "from": "1:7027",
+   "to": "1:7031",
+   "label": "NQ2>NQ2a",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8042",
+   "from": "1:7031",
+   "to": "1:7043",
+   "label": "NQ2a>NT1",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8046",
+   "from": "1:7043",
+   "to": "1:7047",
+   "label": "NT1>NT1a",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8058",
+   "from": "1:7047",
+   "to": "1:7059",
+   "label": "NT1a>ND3",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8050",
+   "from": "1:7043",
+   "to": "1:7051",
+   "label": "NT1>NT1b",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8062",
+   "from": "1:7051",
+   "to": "1:7063",
+   "label": "NT1b>ND4",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8054",
+   "from": "1:7043",
+   "to": "1:7055",
+   "label": "NT1>NT1c",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8034",
+   "from": "1:7027",
+   "to": "1:7035",
+   "label": "NQ2>NQ2b",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8070",
+   "from": "1:7035",
+   "to": "1:7067",
+   "label": "NQ2b>ND5",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8038",
+   "from": "1:7027",
+   "to": "1:7039",
+   "label": "NQ2>NQ2c",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8074",
+   "from": "1:7039",
+   "to": "1:7071",
+   "label": "NQ2c>NT2",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8078",
+   "from": "1:7071",
+   "to": "1:7075",
+   "label": "NT2>NT2a",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8090",
+   "from": "1:7075",
+   "to": "1:7087",
+   "label": "NT2a>ND1",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8082",
+   "from": "1:7071",
+   "to": "1:7079",
+   "label": "NT2>NT2b",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8094",
+   "from": "1:7079",
+   "to": "1:7091",
+   "label": "NT2b>ND2",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8086",
+   "from": "1:7071",
+   "to": "1:7083",
+   "label": "NT2>NT2c",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8010",
+   "from": "1:7003",
+   "to": "1:7011",
+   "label": "NQ1>NQ1b",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8102",
+   "from": "1:7011",
+   "to": "1:7095",
+   "label": "NQ1b>NT3",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8066",
+   "from": "1:7055",
+   "to": "1:7095",
+   "label": "NT1c>NT3",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8106",
+   "from": "1:7095",
+   "to": "1:7099",
+   "label": "NT3>NT3a",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8122",
+   "from": "1:7099",
+   "to": "1:7115",
+   "label": "NT3a>ND7",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8110",
+   "from": "1:7095",
+   "to": "1:7103",
+   "label": "NT3>NT3b",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8126",
+   "from": "1:7103",
+   "to": "1:7119",
+   "label": "NT3b>ND8",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8130",
+   "from": "1:7107",
+   "to": "1:7071",
+   "label": "NT3c>NT2",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8114",
+   "from": "1:7095",
+   "to": "1:7107",
+   "label": "NT3>NT3c",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8118",
+   "from": "1:7095",
+   "to": "1:7111",
+   "label": "NT3>NT3d",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8014",
+   "from": "1:7003",
+   "to": "1:7015",
+   "label": "NQ1>NQ1c",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8138",
+   "from": "1:7015",
+   "to": "1:7123",
+   "label": "NQ1c>NT4",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8142",
+   "from": "1:7123",
+   "to": "1:7127",
+   "label": "NT4>NT4a",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8150",
+   "from": "1:7127",
+   "to": "1:7135",
+   "label": "NT4a>ND9",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8146",
+   "from": "1:7123",
+   "to": "1:7131",
+   "label": "NT4>NT4b",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8154",
+   "from": "1:7131",
+   "to": "1:7139",
+   "label": "NT4b>NX1",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8018",
+   "from": "1:7003",
+   "to": "1:7019",
+   "label": "NQ1>NQ1d",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8158",
+   "from": "1:7019",
+   "to": "1:7143",
+   "label": "NQ1d>NQ3",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8162",
+   "from": "1:7143",
+   "to": "1:7147",
+   "label": "NQ3>NQ3a",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8174",
+   "from": "1:7147",
+   "to": "1:7159",
+   "label": "NQ3a>NT5",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8178",
+   "from": "1:7159",
+   "to": "1:7163",
+   "label": "NT5>NT5a",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8186",
+   "from": "1:7163",
+   "to": "1:7175",
+   "label": "NT5a>ND10",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8182",
+   "from": "1:7159",
+   "to": "1:7167",
+   "label": "NT5>NT5b",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8166",
+   "from": "1:7143",
+   "to": "1:7151",
+   "label": "NQ3>NQ3b",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8194",
+   "from": "1:7167",
+   "to": "1:7171",
+   "label": "NT5b>ND6",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8190",
+   "from": "1:7151",
+   "to": "1:7171",
+   "label": "NQ3b>ND6",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8170",
+   "from": "1:7143",
+   "to": "1:7155",
+   "label": "NQ3>NQ3c",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8198",
+   "from": "1:7155",
+   "to": "1:7179",
+   "label": "NQ3c>ND11",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8022",
+   "from": "1:7003",
+   "to": "1:7023",
+   "label": "NQ1>NQ1e",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8202",
+   "from": "1:7023",
+   "to": "1:7183",
+   "label": "NQ1e>NT6",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8098",
+   "from": "1:7083",
+   "to": "1:7183",
+   "label": "NT2c>NT6",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8206",
+   "from": "1:7183",
+   "to": "1:7187",
+   "label": "NT6>NT6a",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8214",
+   "from": "1:7187",
+   "to": "1:7195",
+   "label": "NT6a>ND12",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8218",
+   "from": "1:7191",
+   "to": "1:7071",
+   "label": "NT6b>NT2",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8210",
+   "from": "1:7183",
+   "to": "1:7191",
+   "label": "NT6>NT6b",
+   "storedIn": "1:7331"
+  },
+  {
+   "id": "spine:1:8322",
+   "from": "1:7223",
+   "to": "1:7227",
+   "label": "NX-F>NX-CORE",
+   "storedIn": "1:7332"
+  },
+  {
+   "id": "spine:1:8318",
+   "from": "1:7219",
+   "to": "1:7227",
+   "label": "NX-E>NX-CORE",
+   "storedIn": "1:7332"
+  },
+  {
+   "id": "spine:1:8314",
+   "from": "1:7215",
+   "to": "1:7227",
+   "label": "NX-D>NX-CORE",
+   "storedIn": "1:7332"
+  },
+  {
+   "id": "spine:1:8310",
+   "from": "1:7211",
+   "to": "1:7227",
+   "label": "NX-C>NX-CORE",
+   "storedIn": "1:7332"
+  },
+  {
+   "id": "spine:1:8306",
+   "from": "1:7207",
+   "to": "1:7227",
+   "label": "NX-B>NX-CORE",
+   "storedIn": "1:7332"
+  },
+  {
+   "id": "spine:1:8302",
+   "from": "1:7203",
+   "to": "1:7227",
+   "label": "NX-A>NX-CORE",
+   "storedIn": "1:7332"
+  },
+  {
+   "id": "spine:1:8330",
+   "from": "1:7231",
+   "to": "1:7235",
+   "label": "NS4>NS4-1",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8334",
+   "from": "1:7235",
+   "to": "1:7239",
+   "label": "NS4-1>NS4-1a",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8338",
+   "from": "1:7235",
+   "to": "1:7243",
+   "label": "NS4-1>NS4-1b",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8342",
+   "from": "1:7235",
+   "to": "1:7247",
+   "label": "NS4-1>NS4-1c",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8346",
+   "from": "1:7239",
+   "to": "1:7251",
+   "label": "NS4-1a>NS4-HI",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8350",
+   "from": "1:7243",
+   "to": "1:7255",
+   "label": "NS4-1b>NS4-MD",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8354",
+   "from": "1:7247",
+   "to": "1:7259",
+   "label": "NS4-1c>NS4-LO",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8366",
+   "from": "1:7259",
+   "to": "1:7263",
+   "label": "NS4-LO>NS4-2",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8362",
+   "from": "1:7255",
+   "to": "1:7263",
+   "label": "NS4-MD>NS4-2",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8358",
+   "from": "1:7251",
+   "to": "1:7263",
+   "label": "NS4-HI>NS4-2",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8370",
+   "from": "1:7263",
+   "to": "1:7267",
+   "label": "NS4-2>NS4-3",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8374",
+   "from": "1:7263",
+   "to": "1:7271",
+   "label": "NS4-2>NS4-4",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8378",
+   "from": "1:7267",
+   "to": "1:7279",
+   "label": "NS4-3>NS4-5",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8382",
+   "from": "1:7279",
+   "to": "1:7283",
+   "label": "NS4-5>NS4-5a",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8394",
+   "from": "1:7287",
+   "to": "1:7235",
+   "label": "NS4-5b>NS4-1",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8386",
+   "from": "1:7279",
+   "to": "1:7287",
+   "label": "NS4-5>NS4-5b",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8390",
+   "from": "1:7283",
+   "to": "1:7291",
+   "label": "NS4-5a>NS4-6",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8398",
+   "from": "1:7291",
+   "to": "1:7295",
+   "label": "NS4-6>NS4-6a",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8402",
+   "from": "1:7291",
+   "to": "1:7299",
+   "label": "NS4-6>NS4-6b",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8406",
+   "from": "1:7295",
+   "to": "1:7303",
+   "label": "NS4-6a>NS4-UP",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8410",
+   "from": "1:7299",
+   "to": "1:7307",
+   "label": "NS4-6b>NS4-NO",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8414",
+   "from": "1:7303",
+   "to": "1:7311",
+   "label": "NS4-UP>NS4-7",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8418",
+   "from": "1:7311",
+   "to": "1:7315",
+   "label": "NS4-7>NS4-7a",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:8422",
+   "from": "1:7311",
+   "to": "1:7319",
+   "label": "NS4-7>NS4-7b",
+   "storedIn": "1:7333"
+  },
+  {
+   "id": "spine:1:7354",
+   "from": "1:6419",
+   "to": "1:6435",
+   "label": "G-A0L>G-LB",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7358",
+   "from": "1:6427",
+   "to": "1:6439",
+   "label": "G-A0N>G-NK",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7362",
+   "from": "1:6431",
+   "to": "1:6435",
+   "label": "G-N0B>G-LB",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7366",
+   "from": "1:6431",
+   "to": "1:6439",
+   "label": "G-N0B>G-NK",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7474",
+   "from": "1:6555",
+   "to": "1:6563",
+   "label": "LPASS>LS2",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7478",
+   "from": "1:6503",
+   "to": "1:6759",
+   "label": "L6Y>LD12",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7482",
+   "from": "1:6527",
+   "to": "1:6655",
+   "label": "L9Y>LD4",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7610",
+   "from": "1:6675",
+   "to": "1:6491",
+   "label": "LT2c>L5",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7650",
+   "from": "1:6707",
+   "to": "1:6547",
+   "label": "LT5b>L12",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7706",
+   "from": "1:6615",
+   "to": "1:6767",
+   "label": "LD1>LX-A",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7710",
+   "from": "1:6619",
+   "to": "1:6767",
+   "label": "LD2>LX-A",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7714",
+   "from": "1:6691",
+   "to": "1:6767",
+   "label": "LD6>LX-A",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7718",
+   "from": "1:6715",
+   "to": "1:6767",
+   "label": "LD8>LX-A",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7722",
+   "from": "1:6639",
+   "to": "1:6771",
+   "label": "LD3>LX-B",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7726",
+   "from": "1:6655",
+   "to": "1:6775",
+   "label": "LD4>LX-C",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7730",
+   "from": "1:6735",
+   "to": "1:6775",
+   "label": "LD9>LX-C",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7734",
+   "from": "1:6739",
+   "to": "1:6775",
+   "label": "LD10>LX-C",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7738",
+   "from": "1:6691",
+   "to": "1:6779",
+   "label": "LD6>LX-D",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7742",
+   "from": "1:6695",
+   "to": "1:6779",
+   "label": "LD7>LX-D",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7746",
+   "from": "1:6659",
+   "to": "1:6783",
+   "label": "LD5>LX-E",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7750",
+   "from": "1:6715",
+   "to": "1:6783",
+   "label": "LD8>LX-E",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7754",
+   "from": "1:6755",
+   "to": "1:6783",
+   "label": "LD11>LX-E",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7758",
+   "from": "1:6759",
+   "to": "1:6787",
+   "label": "LD12>LX-F",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7786",
+   "from": "1:6791",
+   "to": "1:6795",
+   "label": "LX-CORE>LS4",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7990",
+   "from": "1:6987",
+   "to": "1:6995",
+   "label": "NPASS>NS2",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7994",
+   "from": "1:6951",
+   "to": "1:7179",
+   "label": "N8Y>ND11",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:7998",
+   "from": "1:6967",
+   "to": "1:7179",
+   "label": "N10Y>ND11",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8134",
+   "from": "1:7111",
+   "to": "1:6931",
+   "label": "NT3d>N6",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8222",
+   "from": "1:7135",
+   "to": "1:7203",
+   "label": "ND9>NX-A",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8226",
+   "from": "1:7059",
+   "to": "1:7203",
+   "label": "ND3>NX-A",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8230",
+   "from": "1:7063",
+   "to": "1:7203",
+   "label": "ND4>NX-A",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8234",
+   "from": "1:7091",
+   "to": "1:7203",
+   "label": "ND2>NX-A",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8238",
+   "from": "1:7115",
+   "to": "1:7203",
+   "label": "ND7>NX-A",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8242",
+   "from": "1:7087",
+   "to": "1:7207",
+   "label": "ND1>NX-B",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8246",
+   "from": "1:7067",
+   "to": "1:7207",
+   "label": "ND5>NX-B",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8250",
+   "from": "1:7059",
+   "to": "1:7207",
+   "label": "ND3>NX-B",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8254",
+   "from": "1:7171",
+   "to": "1:7207",
+   "label": "ND6>NX-B",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8258",
+   "from": "1:7175",
+   "to": "1:7207",
+   "label": "ND10>NX-B",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8262",
+   "from": "1:7135",
+   "to": "1:7207",
+   "label": "ND9>NX-B",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8266",
+   "from": "1:7091",
+   "to": "1:7211",
+   "label": "ND2>NX-C",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8270",
+   "from": "1:7087",
+   "to": "1:7211",
+   "label": "ND1>NX-C",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8274",
+   "from": "1:7171",
+   "to": "1:7211",
+   "label": "ND6>NX-C",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8278",
+   "from": "1:7119",
+   "to": "1:7211",
+   "label": "ND8>NX-C",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8282",
+   "from": "1:7115",
+   "to": "1:7215",
+   "label": "ND7>NX-D",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8286",
+   "from": "1:7119",
+   "to": "1:7215",
+   "label": "ND8>NX-D",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8290",
+   "from": "1:7195",
+   "to": "1:7219",
+   "label": "ND12>NX-E",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8294",
+   "from": "1:7063",
+   "to": "1:7219",
+   "label": "ND4>NX-E",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8298",
+   "from": "1:7179",
+   "to": "1:7223",
+   "label": "ND11>NX-F",
+   "storedIn": "page"
+  },
+  {
+   "id": "spine:1:8326",
+   "from": "1:7227",
+   "to": "1:7231",
+   "label": "NX-CORE>NS4",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:8:1506",
+   "from": "5:997",
+   "to": "5:1005",
+   "label": "HS3-6>HS3-6b",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1502",
+   "from": "5:997",
+   "to": "5:1001",
+   "label": "HS3-6>HS3-6a",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1498",
+   "from": "5:989",
+   "to": "5:997",
+   "label": "HS3-UP>HS3-6",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1494",
+   "from": "5:985",
+   "to": "5:993",
+   "label": "HS3-5b>HS3-NO",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1490",
+   "from": "5:981",
+   "to": "5:989",
+   "label": "HS3-5a>HS3-UP",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1486",
+   "from": "5:977",
+   "to": "5:985",
+   "label": "HS3-5>HS3-5b",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1482",
+   "from": "5:977",
+   "to": "5:981",
+   "label": "HS3-5>HS3-5a",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1474",
+   "from": "5:969",
+   "to": "5:977",
+   "label": "HS3-4a>HS3-5",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1478",
+   "from": "5:973",
+   "to": "5:977",
+   "label": "HS3-4b>HS3-5",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1470",
+   "from": "5:965",
+   "to": "5:973",
+   "label": "HS3-4>HS3-4b",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1466",
+   "from": "5:965",
+   "to": "5:969",
+   "label": "HS3-4>HS3-4a",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1462",
+   "from": "5:957",
+   "to": "5:965",
+   "label": "HS3-3>HS3-4",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1458",
+   "from": "5:953",
+   "to": "5:957",
+   "label": "HS3-2>HS3-3",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1430",
+   "from": "5:941",
+   "to": "5:953",
+   "label": "HS3-HI>HS3-2",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1442",
+   "from": "5:945",
+   "to": "5:953",
+   "label": "HS3-MD>HS3-2",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1454",
+   "from": "5:949",
+   "to": "5:953",
+   "label": "HS3-LO>HS3-2",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1450",
+   "from": "5:937",
+   "to": "5:949",
+   "label": "HS3-1c>HS3-LO",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1438",
+   "from": "5:933",
+   "to": "5:945",
+   "label": "HS3-1b>HS3-MD",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1426",
+   "from": "5:929",
+   "to": "5:941",
+   "label": "HS3-1a>HS3-HI",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1446",
+   "from": "5:925",
+   "to": "5:937",
+   "label": "HS3-1>HS3-1c",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1434",
+   "from": "5:925",
+   "to": "5:933",
+   "label": "HS3-1>HS3-1b",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1422",
+   "from": "5:925",
+   "to": "5:929",
+   "label": "HS3-1>HS3-1a",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:1418",
+   "from": "5:921",
+   "to": "5:925",
+   "label": "HS3>HS3-1",
+   "storedIn": "7:542"
+  },
+  {
+   "id": "hip_knee:8:798",
+   "from": "5:724",
+   "to": "5:728",
+   "label": "HS2>HQ1",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1142",
+   "from": "5:728",
+   "to": "5:732",
+   "label": "HQ1>HQ1a",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1230",
+   "from": "5:728",
+   "to": "5:736",
+   "label": "HQ1>HQ1b",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1254",
+   "from": "5:728",
+   "to": "5:740",
+   "label": "HQ1>HQ1c",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1318",
+   "from": "5:728",
+   "to": "5:744",
+   "label": "HQ1>HQ1d",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1322",
+   "from": "5:744",
+   "to": "5:852",
+   "label": "HQ1d>HD8",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1570",
+   "from": "5:844",
+   "to": "5:852",
+   "label": "HT3c>HD8",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1258",
+   "from": "5:740",
+   "to": "5:856",
+   "label": "HQ1c>HQ3",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1262",
+   "from": "5:856",
+   "to": "5:860",
+   "label": "HQ3>HQ3a",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1282",
+   "from": "5:856",
+   "to": "5:864",
+   "label": "HQ3>HQ3b",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1290",
+   "from": "5:856",
+   "to": "5:868",
+   "label": "HQ3>HQ3c",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1310",
+   "from": "5:856",
+   "to": "5:872",
+   "label": "HQ3>HQ3d",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1314",
+   "from": "5:872",
+   "to": "5:912",
+   "label": "HQ3d>HD11",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1574",
+   "from": "5:904",
+   "to": "5:912",
+   "label": "HT5b>HD11",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1294",
+   "from": "5:868",
+   "to": "5:896",
+   "label": "HQ3c>HT5",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1298",
+   "from": "5:896",
+   "to": "5:900",
+   "label": "HT5>HT5a",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1306",
+   "from": "5:896",
+   "to": "5:904",
+   "label": "HT5>HT5b",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1302",
+   "from": "5:900",
+   "to": "5:908",
+   "label": "HT5a>HX1",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1286",
+   "from": "5:864",
+   "to": "5:892",
+   "label": "HQ3b>HD10",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1266",
+   "from": "5:860",
+   "to": "5:876",
+   "label": "HQ3a>HT4",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1270",
+   "from": "5:876",
+   "to": "5:880",
+   "label": "HT4>HT4a",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1278",
+   "from": "5:876",
+   "to": "5:884",
+   "label": "HT4>HT4b",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1274",
+   "from": "5:880",
+   "to": "5:888",
+   "label": "HT4a>HD9",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1234",
+   "from": "5:736",
+   "to": "5:832",
+   "label": "HQ1b>HT3",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1238",
+   "from": "5:832",
+   "to": "5:836",
+   "label": "HT3>HT3a",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1246",
+   "from": "5:832",
+   "to": "5:840",
+   "label": "HT3>HT3b",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1250",
+   "from": "5:832",
+   "to": "5:844",
+   "label": "HT3>HT3c",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1562",
+   "from": "5:772",
+   "to": "5:832",
+   "label": "HT1b>HT3",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1566",
+   "from": "5:840",
+   "to": "5:764",
+   "label": "HT3b>HT1",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1242",
+   "from": "5:836",
+   "to": "5:848",
+   "label": "HT3a>HD7",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1146",
+   "from": "5:732",
+   "to": "5:748",
+   "label": "HQ1a>HQ2",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1150",
+   "from": "5:748",
+   "to": "5:752",
+   "label": "HQ2>HQ2a",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1174",
+   "from": "5:748",
+   "to": "5:756",
+   "label": "HQ2>HQ2b",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1226",
+   "from": "5:748",
+   "to": "5:760",
+   "label": "HQ2>HQ2c",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1178",
+   "from": "5:756",
+   "to": "5:784",
+   "label": "HQ2b>HT2",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1182",
+   "from": "5:784",
+   "to": "5:788",
+   "label": "HT2>HT2a",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1190",
+   "from": "5:784",
+   "to": "5:792",
+   "label": "HT2>HT2b",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1198",
+   "from": "5:784",
+   "to": "5:796",
+   "label": "HT2>HT2c",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1206",
+   "from": "5:784",
+   "to": "5:800",
+   "label": "HT2>HT2d",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1214",
+   "from": "5:784",
+   "to": "5:804",
+   "label": "HT2>HT2e",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1218",
+   "from": "5:784",
+   "to": "5:808",
+   "label": "HT2>HT2f",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1222",
+   "from": "5:808",
+   "to": "5:828",
+   "label": "HT2f>HD6",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1210",
+   "from": "5:800",
+   "to": "5:824",
+   "label": "HT2d>HD5",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1202",
+   "from": "5:796",
+   "to": "5:820",
+   "label": "HT2c>HD4",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1194",
+   "from": "5:792",
+   "to": "5:816",
+   "label": "HT2b>HD3",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1186",
+   "from": "5:788",
+   "to": "5:812",
+   "label": "HT2a>HD2",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1154",
+   "from": "5:752",
+   "to": "5:764",
+   "label": "HQ2a>HT1",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1158",
+   "from": "5:764",
+   "to": "5:768",
+   "label": "HT1>HT1a",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1166",
+   "from": "5:764",
+   "to": "5:772",
+   "label": "HT1>HT1b",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1170",
+   "from": "5:764",
+   "to": "5:776",
+   "label": "HT1>HT1c",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:1162",
+   "from": "5:768",
+   "to": "5:780",
+   "label": "HT1a>HD1",
+   "storedIn": "7:541"
+  },
+  {
+   "id": "hip_knee:8:786",
+   "from": "5:707",
+   "to": "5:715",
+   "label": "H12>HPASS",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:782",
+   "from": "5:707",
+   "to": "5:711",
+   "label": "H12>H12Y",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:778",
+   "from": "5:699",
+   "to": "5:707",
+   "label": "H11>H12",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:774",
+   "from": "5:699",
+   "to": "5:703",
+   "label": "H11>H11Y",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:770",
+   "from": "5:691",
+   "to": "5:699",
+   "label": "H10>H11",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:766",
+   "from": "5:691",
+   "to": "5:695",
+   "label": "H10>H10Y",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:762",
+   "from": "5:683",
+   "to": "5:691",
+   "label": "H9>H10",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:758",
+   "from": "5:683",
+   "to": "5:687",
+   "label": "H9>H9Y",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:754",
+   "from": "5:675",
+   "to": "5:683",
+   "label": "H8>H9",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:750",
+   "from": "5:675",
+   "to": "5:679",
+   "label": "H8>H8Y",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:746",
+   "from": "5:667",
+   "to": "5:675",
+   "label": "H7>H8",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:742",
+   "from": "5:667",
+   "to": "5:671",
+   "label": "H7>H7Y",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:738",
+   "from": "5:659",
+   "to": "5:667",
+   "label": "H6>H7",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:734",
+   "from": "5:659",
+   "to": "5:663",
+   "label": "H6>H6Y",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:730",
+   "from": "5:651",
+   "to": "5:659",
+   "label": "H5>H6",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:726",
+   "from": "5:651",
+   "to": "5:655",
+   "label": "H5>H5Y",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:722",
+   "from": "5:643",
+   "to": "5:651",
+   "label": "H4>H5",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:718",
+   "from": "5:643",
+   "to": "5:647",
+   "label": "H4>H4Y",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:714",
+   "from": "5:635",
+   "to": "5:643",
+   "label": "H3>H4",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:710",
+   "from": "5:635",
+   "to": "5:639",
+   "label": "H3>H3Y",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:706",
+   "from": "5:627",
+   "to": "5:635",
+   "label": "H2>H3",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:702",
+   "from": "5:627",
+   "to": "5:631",
+   "label": "H2>H2Y",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:698",
+   "from": "5:619",
+   "to": "5:627",
+   "label": "H1>H2",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:694",
+   "from": "5:619",
+   "to": "5:623",
+   "label": "H1>H1Y",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:690",
+   "from": "5:615",
+   "to": "5:619",
+   "label": "HS1>H1",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:686",
+   "from": "3:109",
+   "to": "5:615",
+   "label": "G-HIP>HS1",
+   "storedIn": "7:540"
+  },
+  {
+   "id": "hip_knee:8:1414",
+   "from": "5:603",
+   "to": "5:611",
+   "label": "KS3-6>KS3-6b",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1410",
+   "from": "5:603",
+   "to": "5:607",
+   "label": "KS3-6>KS3-6a",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1406",
+   "from": "5:595",
+   "to": "5:603",
+   "label": "KS3-UP>KS3-6",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1402",
+   "from": "5:591",
+   "to": "5:599",
+   "label": "KS3-5b>KS3-NO",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1398",
+   "from": "5:587",
+   "to": "5:595",
+   "label": "KS3-5a>KS3-UP",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1394",
+   "from": "5:583",
+   "to": "5:591",
+   "label": "KS3-5>KS3-5b",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1390",
+   "from": "5:583",
+   "to": "5:587",
+   "label": "KS3-5>KS3-5a",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1382",
+   "from": "5:575",
+   "to": "5:583",
+   "label": "KS3-4a>KS3-5",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1386",
+   "from": "5:579",
+   "to": "5:583",
+   "label": "KS3-4b>KS3-5",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1378",
+   "from": "5:571",
+   "to": "5:579",
+   "label": "KS3-4>KS3-4b",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1374",
+   "from": "5:571",
+   "to": "5:575",
+   "label": "KS3-4>KS3-4a",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1370",
+   "from": "5:563",
+   "to": "5:571",
+   "label": "KS3-3>KS3-4",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1366",
+   "from": "5:559",
+   "to": "5:563",
+   "label": "KS3-2>KS3-3",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1338",
+   "from": "5:547",
+   "to": "5:559",
+   "label": "KS3-HI>KS3-2",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1350",
+   "from": "5:551",
+   "to": "5:559",
+   "label": "KS3-MD>KS3-2",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1362",
+   "from": "5:555",
+   "to": "5:559",
+   "label": "KS3-LO>KS3-2",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1358",
+   "from": "5:543",
+   "to": "5:555",
+   "label": "KS3-1c>KS3-LO",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1346",
+   "from": "5:539",
+   "to": "5:551",
+   "label": "KS3-1b>KS3-MD",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1334",
+   "from": "5:535",
+   "to": "5:547",
+   "label": "KS3-1a>KS3-HI",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1354",
+   "from": "5:531",
+   "to": "5:543",
+   "label": "KS3-1>KS3-1c",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1342",
+   "from": "5:531",
+   "to": "5:539",
+   "label": "KS3-1>KS3-1b",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1330",
+   "from": "5:531",
+   "to": "5:535",
+   "label": "KS3-1>KS3-1a",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:1326",
+   "from": "5:527",
+   "to": "5:531",
+   "label": "KS3>KS3-1",
+   "storedIn": "7:539"
+  },
+  {
+   "id": "hip_knee:8:794",
+   "from": "5:174",
+   "to": "5:178",
+   "label": "KS2>KQ1",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:802",
+   "from": "5:178",
+   "to": "5:182",
+   "label": "KQ1>KQ1a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:910",
+   "from": "5:178",
+   "to": "5:186",
+   "label": "KQ1>KQ1b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1094",
+   "from": "5:178",
+   "to": "5:190",
+   "label": "KQ1>KQ1c",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1098",
+   "from": "5:190",
+   "to": "5:478",
+   "label": "KQ1c>KQ6",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1102",
+   "from": "5:478",
+   "to": "5:482",
+   "label": "KQ6>KQ6a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1118",
+   "from": "5:478",
+   "to": "5:486",
+   "label": "KQ6>KQ6b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1130",
+   "from": "5:478",
+   "to": "5:490",
+   "label": "KQ6>KQ6c",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1134",
+   "from": "5:478",
+   "to": "5:494",
+   "label": "KQ6>KQ6d",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1138",
+   "from": "5:494",
+   "to": "5:518",
+   "label": "KQ6d>KN2",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1554",
+   "from": "5:518",
+   "to": "5:338",
+   "label": "KN2>KT5",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1546",
+   "from": "5:490",
+   "to": "5:238",
+   "label": "KQ6c>KT2",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1122",
+   "from": "5:486",
+   "to": "5:510",
+   "label": "KQ6b>KT12",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1126",
+   "from": "5:510",
+   "to": "5:514",
+   "label": "KT12>KT12a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1550",
+   "from": "5:514",
+   "to": "5:278",
+   "label": "KT12a>KD1",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1106",
+   "from": "5:482",
+   "to": "5:498",
+   "label": "KQ6a>KT11",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1110",
+   "from": "5:498",
+   "to": "5:502",
+   "label": "KT11>KT11a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1114",
+   "from": "5:502",
+   "to": "5:506",
+   "label": "KT11a>KD16",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:914",
+   "from": "5:186",
+   "to": "5:298",
+   "label": "KQ1b>KQ3",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:918",
+   "from": "5:298",
+   "to": "5:302",
+   "label": "KQ3>KQ3a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:946",
+   "from": "5:298",
+   "to": "5:306",
+   "label": "KQ3>KQ3b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1070",
+   "from": "5:298",
+   "to": "5:310",
+   "label": "KQ3>KQ3c",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1074",
+   "from": "5:310",
+   "to": "5:338",
+   "label": "KQ3c>KT5",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1078",
+   "from": "5:338",
+   "to": "5:342",
+   "label": "KT5>KT5a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1086",
+   "from": "5:338",
+   "to": "5:346",
+   "label": "KT5>KT5b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1090",
+   "from": "5:338",
+   "to": "5:350",
+   "label": "KT5>KT5c",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1530",
+   "from": "5:350",
+   "to": "5:358",
+   "label": "KT5c>KQ5",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1082",
+   "from": "5:342",
+   "to": "5:354",
+   "label": "KT5a>KD8",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:950",
+   "from": "5:306",
+   "to": "5:358",
+   "label": "KQ3b>KQ5",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:954",
+   "from": "5:358",
+   "to": "5:362",
+   "label": "KQ5>KQ5a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:974",
+   "from": "5:358",
+   "to": "5:366",
+   "label": "KQ5>KQ5b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:994",
+   "from": "5:358",
+   "to": "5:370",
+   "label": "KQ5>KQ5c",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1014",
+   "from": "5:358",
+   "to": "5:374",
+   "label": "KQ5>KQ5d",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1038",
+   "from": "5:358",
+   "to": "5:378",
+   "label": "KQ5>KQ5e",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1062",
+   "from": "5:358",
+   "to": "5:382",
+   "label": "KQ5>KQ5f",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1066",
+   "from": "5:382",
+   "to": "5:474",
+   "label": "KQ5f>KD15",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1042",
+   "from": "5:378",
+   "to": "5:454",
+   "label": "KQ5e>KT10",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1046",
+   "from": "5:454",
+   "to": "5:458",
+   "label": "KT10>KT10a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1054",
+   "from": "5:454",
+   "to": "5:462",
+   "label": "KT10>KT10b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1058",
+   "from": "5:462",
+   "to": "5:466",
+   "label": "KT10b>KX2",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1050",
+   "from": "5:458",
+   "to": "5:470",
+   "label": "KT10a>KD14",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1018",
+   "from": "5:374",
+   "to": "5:434",
+   "label": "KQ5d>KT9",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1022",
+   "from": "5:434",
+   "to": "5:438",
+   "label": "KT9>KT9a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1030",
+   "from": "5:434",
+   "to": "5:442",
+   "label": "KT9>KT9b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1034",
+   "from": "5:442",
+   "to": "5:450",
+   "label": "KT9b>KD13",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1026",
+   "from": "5:438",
+   "to": "5:446",
+   "label": "KT9a>KD12",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:998",
+   "from": "5:370",
+   "to": "5:418",
+   "label": "KQ5c>KT8",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1002",
+   "from": "5:418",
+   "to": "5:422",
+   "label": "KT8>KT8a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1010",
+   "from": "5:418",
+   "to": "5:426",
+   "label": "KT8>KT8b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1542",
+   "from": "5:426",
+   "to": "5:238",
+   "label": "KT8b>KT2",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1006",
+   "from": "5:422",
+   "to": "5:430",
+   "label": "KT8a>KD11",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:978",
+   "from": "5:366",
+   "to": "5:402",
+   "label": "KQ5b>KT7",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:982",
+   "from": "5:402",
+   "to": "5:406",
+   "label": "KT7>KT7a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:990",
+   "from": "5:402",
+   "to": "5:410",
+   "label": "KT7>KT7b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1534",
+   "from": "5:394",
+   "to": "5:402",
+   "label": "KT6b>KT7",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1538",
+   "from": "5:410",
+   "to": "5:386",
+   "label": "KT7b>KT6",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:986",
+   "from": "5:406",
+   "to": "5:414",
+   "label": "KT7a>KD10",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:958",
+   "from": "5:362",
+   "to": "5:386",
+   "label": "KQ5a>KT6",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:962",
+   "from": "5:386",
+   "to": "5:390",
+   "label": "KT6>KT6a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:970",
+   "from": "5:386",
+   "to": "5:394",
+   "label": "KT6>KT6b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1526",
+   "from": "5:322",
+   "to": "5:386",
+   "label": "KQ4b>KT6",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:966",
+   "from": "5:390",
+   "to": "5:398",
+   "label": "KT6a>KD9",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:922",
+   "from": "5:302",
+   "to": "5:314",
+   "label": "KQ3a>KQ4",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:926",
+   "from": "5:314",
+   "to": "5:318",
+   "label": "KQ4>KQ4a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:934",
+   "from": "5:314",
+   "to": "5:322",
+   "label": "KQ4>KQ4b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:938",
+   "from": "5:314",
+   "to": "5:326",
+   "label": "KQ4>KQ4c",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:942",
+   "from": "5:326",
+   "to": "5:334",
+   "label": "KQ4c>KD7",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:930",
+   "from": "5:318",
+   "to": "5:330",
+   "label": "KQ4a>KD6",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:806",
+   "from": "5:182",
+   "to": "5:194",
+   "label": "KQ1a>KQ2",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:810",
+   "from": "5:194",
+   "to": "5:198",
+   "label": "KQ2>KQ2a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:838",
+   "from": "5:194",
+   "to": "5:202",
+   "label": "KQ2>KQ2b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:858",
+   "from": "5:194",
+   "to": "5:206",
+   "label": "KQ2>KQ2c",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:882",
+   "from": "5:194",
+   "to": "5:210",
+   "label": "KQ2>KQ2d",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:902",
+   "from": "5:194",
+   "to": "5:214",
+   "label": "KQ2>KQ2e",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:906",
+   "from": "5:214",
+   "to": "5:294",
+   "label": "KQ2e>KD5",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:886",
+   "from": "5:210",
+   "to": "5:266",
+   "label": "KQ2d>KT4",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:890",
+   "from": "5:266",
+   "to": "5:270",
+   "label": "KT4>KT4a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:898",
+   "from": "5:266",
+   "to": "5:274",
+   "label": "KT4>KT4b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1522",
+   "from": "5:274",
+   "to": "5:218",
+   "label": "KT4b>KT1",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:894",
+   "from": "5:270",
+   "to": "5:290",
+   "label": "KT4a>KD4",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:862",
+   "from": "5:206",
+   "to": "5:250",
+   "label": "KQ2c>KT3",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:866",
+   "from": "5:250",
+   "to": "5:254",
+   "label": "KT3>KT3a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:874",
+   "from": "5:250",
+   "to": "5:258",
+   "label": "KT3>KT3b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1518",
+   "from": "5:246",
+   "to": "5:250",
+   "label": "KT2b>KT3",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:878",
+   "from": "5:258",
+   "to": "5:262",
+   "label": "KT3b>KX1",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:870",
+   "from": "5:254",
+   "to": "5:286",
+   "label": "KT3a>KD3",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:842",
+   "from": "5:202",
+   "to": "5:238",
+   "label": "KQ2b>KT2",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:846",
+   "from": "5:238",
+   "to": "5:242",
+   "label": "KT2>KT2a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:854",
+   "from": "5:238",
+   "to": "5:246",
+   "label": "KT2>KT2b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1510",
+   "from": "5:230",
+   "to": "5:238",
+   "label": "KT1c>KT2",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:850",
+   "from": "5:242",
+   "to": "5:282",
+   "label": "KT2a>KD2",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:814",
+   "from": "5:198",
+   "to": "5:218",
+   "label": "KQ2a>KT1",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:818",
+   "from": "5:218",
+   "to": "5:222",
+   "label": "KT1>KT1a",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:826",
+   "from": "5:218",
+   "to": "5:226",
+   "label": "KT1>KT1b",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:834",
+   "from": "5:218",
+   "to": "5:230",
+   "label": "KT1>KT1c",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:1514",
+   "from": "5:234",
+   "to": "5:218",
+   "label": "KN1>KT1",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:830",
+   "from": "5:226",
+   "to": "5:234",
+   "label": "KT1b>KN1",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:822",
+   "from": "5:222",
+   "to": "5:278",
+   "label": "KT1a>KD1",
+   "storedIn": "7:538"
+  },
+  {
+   "id": "hip_knee:8:678",
+   "from": "5:157",
+   "to": "5:165",
+   "label": "K13>KPASS",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:674",
+   "from": "5:157",
+   "to": "5:161",
+   "label": "K13>K13Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:670",
+   "from": "5:149",
+   "to": "5:157",
+   "label": "K12>K13",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:666",
+   "from": "5:149",
+   "to": "5:153",
+   "label": "K12>K12Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:662",
+   "from": "5:141",
+   "to": "5:149",
+   "label": "K11>K12",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:658",
+   "from": "5:141",
+   "to": "5:145",
+   "label": "K11>K11Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:654",
+   "from": "5:133",
+   "to": "5:141",
+   "label": "K10>K11",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:650",
+   "from": "5:133",
+   "to": "5:137",
+   "label": "K10>K10Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:646",
+   "from": "5:125",
+   "to": "5:133",
+   "label": "K9>K10",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:642",
+   "from": "5:125",
+   "to": "5:129",
+   "label": "K9>K9Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:638",
+   "from": "5:117",
+   "to": "5:125",
+   "label": "K8>K9",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:634",
+   "from": "5:117",
+   "to": "5:121",
+   "label": "K8>K8Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:630",
+   "from": "5:109",
+   "to": "5:117",
+   "label": "K7>K8",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:626",
+   "from": "5:109",
+   "to": "5:113",
+   "label": "K7>K7Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:622",
+   "from": "5:101",
+   "to": "5:109",
+   "label": "K6>K7",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:618",
+   "from": "5:101",
+   "to": "5:105",
+   "label": "K6>K6Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:614",
+   "from": "5:93",
+   "to": "5:101",
+   "label": "K5>K6",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:610",
+   "from": "5:93",
+   "to": "5:97",
+   "label": "K5>K5Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:606",
+   "from": "5:85",
+   "to": "5:93",
+   "label": "K4>K5",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:602",
+   "from": "5:85",
+   "to": "5:89",
+   "label": "K4>K4Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:598",
+   "from": "5:77",
+   "to": "5:85",
+   "label": "K3>K4",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:594",
+   "from": "5:77",
+   "to": "5:81",
+   "label": "K3>K3Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:590",
+   "from": "5:69",
+   "to": "5:77",
+   "label": "K2>K3",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:586",
+   "from": "5:69",
+   "to": "5:73",
+   "label": "K2>K2Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:582",
+   "from": "5:61",
+   "to": "5:69",
+   "label": "K1>K2",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:578",
+   "from": "5:61",
+   "to": "5:65",
+   "label": "K1>K1Y",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:574",
+   "from": "5:57",
+   "to": "5:61",
+   "label": "KS1>K1",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:570",
+   "from": "3:105",
+   "to": "5:57",
+   "label": "G-KNEE>KS1",
+   "storedIn": "7:537"
+  },
+  {
+   "id": "hip_knee:8:550",
+   "from": "3:97",
+   "to": "3:101",
+   "label": "G-A0B>G-N0B",
+   "storedIn": "7:536"
+  },
+  {
+   "id": "hip_knee:8:546",
+   "from": "3:85",
+   "to": "3:97",
+   "label": "G-Q0>G-A0B",
+   "storedIn": "7:536"
+  },
+  {
+   "id": "hip_knee:8:542",
+   "from": "3:85",
+   "to": "3:93",
+   "label": "G-Q0>G-A0H",
+   "storedIn": "7:536"
+  },
+  {
+   "id": "hip_knee:8:538",
+   "from": "3:85",
+   "to": "3:89",
+   "label": "G-Q0>G-A0K",
+   "storedIn": "7:536"
+  },
+  {
+   "id": "hip_knee:8:534",
+   "from": "3:81",
+   "to": "3:85",
+   "label": "G-START>G-Q0",
+   "storedIn": "7:536"
+  },
+  {
+   "id": "hip_knee:36:2909",
+   "from": "5:828",
+   "to": "36:2801",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2905",
+   "from": "5:824",
+   "to": "36:2801",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2901",
+   "from": "5:820",
+   "to": "36:2801",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2897",
+   "from": "5:816",
+   "to": "36:2801",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2889",
+   "from": "5:888",
+   "to": "36:2787",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2877",
+   "from": "5:812",
+   "to": "34:2756",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2853",
+   "from": "5:780",
+   "to": "34:2726",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2893",
+   "from": "5:892",
+   "to": "36:2787",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2925",
+   "from": "5:290",
+   "to": "36:2808",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2921",
+   "from": "5:286",
+   "to": "36:2808",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2917",
+   "from": "5:282",
+   "to": "36:2808",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2913",
+   "from": "5:278",
+   "to": "36:2808",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2885",
+   "from": "5:848",
+   "to": "34:2770",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2881",
+   "from": "5:414",
+   "to": "34:2763",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2869",
+   "from": "5:294",
+   "to": "34:2739",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2865",
+   "from": "5:506",
+   "to": "34:2739",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2861",
+   "from": "5:398",
+   "to": "34:2739",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2857",
+   "from": "5:430",
+   "to": "34:2739",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2849",
+   "from": "5:354",
+   "to": "34:2726",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2845",
+   "from": "5:474",
+   "to": "34:2726",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2841",
+   "from": "5:446",
+   "to": "34:2726",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:36:2837",
+   "from": "5:450",
+   "to": "34:2726",
+   "label": "",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:8:554",
+   "from": "3:89",
+   "to": "3:105",
+   "label": "G-A0K>G-KNEE",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:8:558",
+   "from": "3:93",
+   "to": "3:109",
+   "label": "G-A0H>G-HIP",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:8:562",
+   "from": "3:101",
+   "to": "3:105",
+   "label": "G-N0B>G-KNEE",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:8:566",
+   "from": "3:101",
+   "to": "3:109",
+   "label": "G-N0B>G-HIP",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:8:682",
+   "from": "5:165",
+   "to": "5:174",
+   "label": "KPASS>KS2",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:8:790",
+   "from": "5:715",
+   "to": "5:724",
+   "label": "HPASS>HS2",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:8:1558",
+   "from": "5:153",
+   "to": "3:109",
+   "label": "K12Y>G-HIP",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:10:1317",
+   "from": "7:538",
+   "to": "5:527",
+   "label": "S2>KS3",
+   "storedIn": "page"
+  },
+  {
+   "id": "hip_knee:10:1321",
+   "from": "7:541",
+   "to": "5:921",
+   "label": "S2>HS3",
+   "storedIn": "page"
+  }
+ ]
+}

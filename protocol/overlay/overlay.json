@@ -1,0 +1,247 @@
+{
+  "_comment": "REVIEWED LAYER (engineering proposals). Everything here sits ON TOP of the frozen source snapshot and is status proposed_unreviewed. No clinician has approved any entry. Do not edit generated or compiled files by hand; edit this file and run `npm run protocol:build`.",
+  "protocolVersion": "0.1.0-draft+snapshot.2026-11-15",
+
+  "outcomeOverrides": {
+    "hip_knee:KX1": { "note": "Stage 2 escalation; headline is an urgency class." },
+    "hip_knee:HX1": { "urgency": "switch", "timing": "not stated", "exerciseRestriction": "not_stated" },
+    "spine:NX1": { "urgency": "refer", "timing": "not stated by source", "exerciseRestriction": "medical_review_first" }
+  },
+
+  "switches": {
+    "hip_knee:K12Y": [
+      { "id": "from_hip", "labelKey": "switch.from_hip", "target": "hip" },
+      { "id": "from_back", "labelKey": "switch.from_back", "target": "low_back" },
+      { "id": "cauda_signs", "labelKey": "switch.cauda_signs", "target": "emergency", "note": "Source: 'Bladder, bowel or saddle numbness → EMERGENCY, same day.'" }
+    ],
+    "hip_knee:H9Y": [
+      { "id": "non_msk", "labelKey": "switch.non_msk", "target": "unsupported", "note": "Doctor for abdominal, urinary or gynaecological cause; hernia referral. Not a pathway in these boards." }
+    ],
+    "hip_knee:H10Y": [
+      { "id": "from_back", "labelKey": "switch.from_back", "target": "low_back" },
+      { "id": "cauda_signs", "labelKey": "switch.cauda_signs", "target": "emergency", "note": "Source: 'Bladder, bowel or saddle numbness → EMERGENCY, same day.'" }
+    ],
+    "hip_knee:HX1": [
+      { "id": "to_low_back", "labelKey": "switch.to_low_back", "target": "low_back" }
+    ],
+    "spine:L11Y": [
+      { "id": "from_hip", "labelKey": "switch.from_hip", "target": "hip" },
+      { "id": "both", "labelKey": "switch.both_hip_back", "target": "hip", "continueCurrent": true, "note": "Source: 'If BOTH hip and back movements reproduce it, assess and treat both.'" }
+    ],
+    "spine:N12Y": [
+      { "id": "shoulder", "labelKey": "switch.shoulder", "target": "unsupported", "note": "Shoulder is a separate pathway that is not part of the supplied boards." },
+      { "id": "both", "labelKey": "switch.both_neck_shoulder", "target": "unsupported", "continueCurrent": true, "note": "Source: 'If BOTH neck and shoulder movements reproduce it, assess and treat both.'" }
+    ]
+  },
+
+  "triageDecisions": {
+    "hip_knee:G-N0B": [
+      { "id": "hip_reproduces", "labelKey": "triage.hip_reproduces", "next": "hip_knee:G-HIP" },
+      { "id": "hip_not_reproduces", "labelKey": "triage.hip_not_reproduces", "next": "hip_knee:G-KNEE" }
+    ],
+    "spine:G-N0B": [
+      { "id": "low_back_moves", "labelKey": "triage.low_back_moves", "next": "spine:G-LB" },
+      { "id": "neck_moves", "labelKey": "triage.neck_moves", "next": "spine:G-NK" }
+    ]
+  },
+  "triageCapabilities": { "hip_knee:G-N0B": ["physio"], "spine:G-N0B": ["trained"] },
+
+  "ageRules": {
+    "hip_knee:KQ3a": { "max": 15 },
+    "hip_knee:KQ3b": { "min": 16, "max": 44 },
+    "hip_knee:KQ3c": { "min": 45 },
+    "hip_knee:HQ2a": { "min": 45 },
+    "hip_knee:HQ2b": { "min": 16, "max": 49 },
+    "hip_knee:HQ2c": { "max": 15 }
+  },
+
+  "noteRouting": {
+    "hip_knee:KN2": { "kind": "age", "threshold": 45, "gte": "hip_knee:KT5", "lt": "hip_knee:KT6" }
+  },
+
+  "paediatricAgeBelow": 18,
+
+  "measures": [
+    { "id": "knee.pain_avg", "pathway": "knee", "sourceCode": "KS3-2", "sourceItem": 1, "labelKey": "m.pain_avg", "type": "number", "unit": "0-10", "min": 0, "max": 10, "direction": "lower_better", "inLimitedSet": true },
+    { "id": "knee.pain_worst", "pathway": "knee", "sourceCode": "KS3-2", "sourceItem": 1, "labelKey": "m.pain_worst", "type": "number", "unit": "0-10", "min": 0, "max": 10, "direction": "lower_better", "inLimitedSet": true },
+    { "id": "knee.psfs", "pathway": "knee", "sourceCode": "KS3-2", "sourceItem": 2, "labelKey": "m.psfs", "type": "psfs", "unit": "0-10", "min": 0, "max": 10, "direction": "higher_better", "inLimitedSet": true, "note": "Patient-named tasks. Scoring direction and reuse terms need verification before patient use." },
+    { "id": "knee.chair_stand_30s", "pathway": "knee", "sourceCode": "KS3-2", "sourceItem": 3, "labelKey": "m.chair_stand_30s", "type": "number", "unit": "stands", "min": 0, "max": 60, "direction": "higher_better" },
+    { "id": "knee.walk_40m", "pathway": "knee", "sourceCode": "KS3-2", "sourceItem": 4, "labelKey": "m.walk_40m", "type": "number", "unit": "s", "min": 5, "max": 600, "direction": "lower_better" },
+    { "id": "knee.stair_climb", "pathway": "knee", "sourceCode": "KS3-2", "sourceItem": 5, "labelKey": "m.stair_climb", "type": "number", "unit": "s", "min": 1, "max": 600, "direction": "lower_better", "note": "Record the number of steps; only compare when the same flight is used." },
+    { "id": "knee.stair_steps", "pathway": "knee", "sourceCode": "KS3-2", "sourceItem": 5, "labelKey": "m.stair_steps", "type": "number", "unit": "steps", "min": 1, "max": 60, "direction": "none" },
+    { "id": "knee.rom_flexion", "pathway": "knee", "sourceCode": "KS3-2", "sourceItem": 6, "labelKey": "m.knee_rom_flexion", "type": "number", "unit": "deg", "min": 0, "max": 160, "bilateral": true, "direction": "higher_better", "inLimitedSet": true, "capability": "basic_kit" },
+    { "id": "knee.slr_lag", "pathway": "knee", "sourceCode": "KS3-2", "sourceItem": 7, "labelKey": "m.slr_lag", "type": "boolean", "direction": "none" },
+    { "id": "knee.single_leg_stance", "pathway": "knee", "sourceCode": "KS3-2", "sourceItem": 8, "labelKey": "m.single_leg_stance", "type": "number", "unit": "s", "min": 0, "max": 30, "bilateral": true, "direction": "higher_better" },
+    { "id": "knee.gait_video", "pathway": "knee", "sourceCode": "KS3-2", "sourceItem": 9, "labelKey": "m.gait_video", "type": "not_captured", "note": "Video/media capture is out of scope for this build (needs explicit requirement and consent)." },
+    { "id": "knee.module_score", "pathway": "knee", "sourceCode": "KS3-3", "sourceItem": 0, "labelKey": "m.module_score", "type": "external_score", "note": "Add-on questionnaire (KOOS-12, WOMAC, IKDC, Kujala, VISA-P...). Items are NOT reproduced; enter a total only if the instrument was administered under a verified licence and translation." },
+
+    { "id": "hip.pain_avg", "pathway": "hip", "sourceCode": "HS3-2", "sourceItem": 1, "labelKey": "m.pain_avg", "type": "number", "unit": "0-10", "min": 0, "max": 10, "direction": "lower_better", "inLimitedSet": true },
+    { "id": "hip.pain_worst", "pathway": "hip", "sourceCode": "HS3-2", "sourceItem": 1, "labelKey": "m.pain_worst", "type": "number", "unit": "0-10", "min": 0, "max": 10, "direction": "lower_better", "inLimitedSet": true },
+    { "id": "hip.psfs", "pathway": "hip", "sourceCode": "HS3-2", "sourceItem": 2, "labelKey": "m.psfs", "type": "psfs", "unit": "0-10", "min": 0, "max": 10, "direction": "higher_better", "inLimitedSet": true },
+    { "id": "hip.chair_stand_30s", "pathway": "hip", "sourceCode": "HS3-2", "sourceItem": 3, "labelKey": "m.chair_stand_30s", "type": "number", "unit": "stands", "min": 0, "max": 60, "direction": "higher_better" },
+    { "id": "hip.walk_40m", "pathway": "hip", "sourceCode": "HS3-2", "sourceItem": 4, "labelKey": "m.walk_40m", "type": "number", "unit": "s", "min": 5, "max": 600, "direction": "lower_better" },
+    { "id": "hip.tug", "pathway": "hip", "sourceCode": "HS3-2", "sourceItem": 5, "labelKey": "m.tug", "type": "number", "unit": "s", "min": 1, "max": 300, "direction": "lower_better" },
+    { "id": "hip.rom_ir", "pathway": "hip", "sourceCode": "HS3-2", "sourceItem": 6, "labelKey": "m.hip_rom_ir", "type": "number", "unit": "deg", "min": 0, "max": 90, "bilateral": true, "direction": "higher_better", "inLimitedSet": true, "capability": "physio" },
+    { "id": "hip.strength_hold", "pathway": "hip", "sourceCode": "HS3-2", "sourceItem": 7, "labelKey": "m.hip_strength_hold", "type": "number", "unit": "s", "min": 0, "max": 300, "bilateral": true, "direction": "higher_better", "note": "Side-lying leg-lift hold time (fallback when no dynamometer)." },
+    { "id": "hip.single_leg_stance", "pathway": "hip", "sourceCode": "HS3-2", "sourceItem": 8, "labelKey": "m.single_leg_stance", "type": "number", "unit": "s", "min": 0, "max": 30, "bilateral": true, "direction": "higher_better" },
+    { "id": "hip.trendelenburg", "pathway": "hip", "sourceCode": "HS3-2", "sourceItem": 8, "labelKey": "m.trendelenburg", "type": "boolean", "direction": "none" },
+    { "id": "hip.gait_video", "pathway": "hip", "sourceCode": "HS3-2", "sourceItem": 9, "labelKey": "m.gait_video", "type": "not_captured", "note": "Video/media capture is out of scope for this build." },
+    { "id": "hip.module_score", "pathway": "hip", "sourceCode": "HS3-3", "sourceItem": 0, "labelKey": "m.module_score", "type": "external_score", "note": "Add-on questionnaire (HOOS, WOMAC, iHOT-12, HAGOS, VISA-G). Items are NOT reproduced." },
+
+    { "id": "low_back.pain_avg", "pathway": "low_back", "sourceCode": "LS4-3", "sourceItem": 1, "labelKey": "m.pain_avg", "type": "number", "unit": "0-10", "min": 0, "max": 10, "direction": "lower_better", "inLimitedSet": true },
+    { "id": "low_back.pain_worst", "pathway": "low_back", "sourceCode": "LS4-3", "sourceItem": 1, "labelKey": "m.pain_worst", "type": "number", "unit": "0-10", "min": 0, "max": 10, "direction": "lower_better", "inLimitedSet": true },
+    { "id": "low_back.leg_pain", "pathway": "low_back", "sourceCode": "LS4-3", "sourceItem": 1, "labelKey": "m.leg_pain", "type": "number", "unit": "0-10", "min": 0, "max": 10, "direction": "lower_better", "inLimitedSet": true },
+    { "id": "low_back.psfs", "pathway": "low_back", "sourceCode": "LS4-3", "sourceItem": 2, "labelKey": "m.psfs", "type": "psfs", "unit": "0-10", "min": 0, "max": 10, "direction": "higher_better", "inLimitedSet": true },
+    { "id": "low_back.disability_score", "pathway": "low_back", "sourceCode": "LS4-3", "sourceItem": 3, "labelKey": "m.disability_score", "type": "external_score", "note": "Roland-Morris or Oswestry total. Items are NOT reproduced; a validated Hindi/Marathi version and licence must be confirmed." },
+    { "id": "low_back.symptom_reach", "pathway": "low_back", "sourceCode": "LS4-3", "sourceItem": 4, "labelKey": "m.symptom_reach", "type": "text", "direction": "none", "inLimitedSet": true, "note": "Body chart replaced by a text description of how far symptoms reach." },
+    { "id": "low_back.fingertip_floor", "pathway": "low_back", "sourceCode": "LS4-3", "sourceItem": 5, "labelKey": "m.fingertip_floor", "type": "number", "unit": "cm", "min": 0, "max": 100, "direction": "lower_better", "capability": "basic_kit" },
+    { "id": "low_back.sit_to_stand_5x", "pathway": "low_back", "sourceCode": "LS4-3", "sourceItem": 6, "labelKey": "m.sit_to_stand_5x", "type": "number", "unit": "s", "min": 1, "max": 300, "direction": "lower_better" },
+    { "id": "low_back.walk_10m", "pathway": "low_back", "sourceCode": "LS4-3", "sourceItem": 7, "labelKey": "m.walk_10m", "type": "number", "unit": "s", "min": 1, "max": 300, "direction": "lower_better" },
+    { "id": "low_back.side_bridge", "pathway": "low_back", "sourceCode": "LS4-3", "sourceItem": 8, "labelKey": "m.side_bridge", "type": "number", "unit": "s", "min": 0, "max": 600, "bilateral": true, "direction": "higher_better", "capability": "physio" },
+    { "id": "low_back.slr_angle", "pathway": "low_back", "sourceCode": "LS4-3", "sourceItem": 9, "labelKey": "m.slr_angle", "type": "number", "unit": "deg", "min": 0, "max": 120, "bilateral": true, "direction": "higher_better", "capability": "physio" },
+    { "id": "low_back.risk_tool_score", "pathway": "low_back", "sourceCode": "LS4-2", "sourceItem": 0, "labelKey": "m.risk_tool_score", "type": "external_score", "note": "STarT Back total. Items are NOT reproduced; licence and translation must be confirmed." },
+
+    { "id": "neck.pain_avg", "pathway": "neck", "sourceCode": "NS4-3", "sourceItem": 1, "labelKey": "m.pain_avg", "type": "number", "unit": "0-10", "min": 0, "max": 10, "direction": "lower_better", "inLimitedSet": true },
+    { "id": "neck.pain_worst", "pathway": "neck", "sourceCode": "NS4-3", "sourceItem": 1, "labelKey": "m.pain_worst", "type": "number", "unit": "0-10", "min": 0, "max": 10, "direction": "lower_better", "inLimitedSet": true },
+    { "id": "neck.arm_pain", "pathway": "neck", "sourceCode": "NS4-3", "sourceItem": 1, "labelKey": "m.arm_pain", "type": "number", "unit": "0-10", "min": 0, "max": 10, "direction": "lower_better", "inLimitedSet": true },
+    { "id": "neck.psfs", "pathway": "neck", "sourceCode": "NS4-3", "sourceItem": 2, "labelKey": "m.psfs", "type": "psfs", "unit": "0-10", "min": 0, "max": 10, "direction": "higher_better", "inLimitedSet": true },
+    { "id": "neck.ndi_score", "pathway": "neck", "sourceCode": "NS4-3", "sourceItem": 3, "labelKey": "m.ndi_score", "type": "external_score", "note": "Neck Disability Index total (0-50). Items are NOT reproduced; a validated Hindi/Marathi version and licence must be confirmed." },
+    { "id": "neck.symptom_reach", "pathway": "neck", "sourceCode": "NS4-3", "sourceItem": 4, "labelKey": "m.symptom_reach", "type": "text", "direction": "none", "inLimitedSet": true },
+    { "id": "neck.rotation", "pathway": "neck", "sourceCode": "NS4-3", "sourceItem": 5, "labelKey": "m.neck_rotation", "type": "number", "unit": "deg", "min": 0, "max": 100, "bilateral": true, "direction": "higher_better", "inLimitedSet": true, "capability": "basic_kit" },
+    { "id": "neck.dnf_hold", "pathway": "neck", "sourceCode": "NS4-3", "sourceItem": 6, "labelKey": "m.dnf_hold", "type": "number", "unit": "s", "min": 0, "max": 300, "direction": "higher_better" },
+    { "id": "neck.chest_expansion", "pathway": "neck", "sourceCode": "NS4-3", "sourceItem": 7, "labelKey": "m.chest_expansion", "type": "number", "unit": "cm", "min": 0, "max": 20, "direction": "higher_better", "capability": "basic_kit" },
+    { "id": "neck.bag_carry", "pathway": "neck", "sourceCode": "NS4-3", "sourceItem": 8, "labelKey": "m.bag_carry", "type": "number", "unit": "s", "min": 0, "max": 600, "direction": "higher_better" },
+    { "id": "neck.risk_tool_score", "pathway": "neck", "sourceCode": "NS4-2", "sourceItem": 0, "labelKey": "m.risk_tool_score", "type": "external_score", "note": "Short-form Örebro total. Items are NOT reproduced; licence and translation must be confirmed." }
+  ],
+
+  "amendments": [
+    {
+      "id": "A01-eligibility-gate",
+      "targets": ["hip_knee:G-START", "spine:G-START", "hip_knee:n3_9"],
+      "issue": "Hip/knee START assumes non-musculoskeletal causes were already excluded; the spine START says the pain only 'seems' musculoskeletal. Neither says who established this or how.",
+      "proposal": "Ask who established musculoskeletal eligibility and on what basis before Stage 1. 'Unclear' does not pass automatically: safety screening and history capture continue, but safety clearance, candidate release and any exercise plan stay blocked until a reviewer resolves it.",
+      "implementedAs": "engine: eligibility step + blocker ELIGIBILITY_UNVERIFIED",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A02-not-performed-is-not-negative",
+      "targets": ["spine:n1_6343", "hip_knee:n3_21"],
+      "issue": "Both boards say to note a skilled test as 'not done' and keep going ('never a stop').",
+      "proposal": "Record not_performed with a reason and who lacked the skill. Continue history capture. Never treat it as negative: the dependent diagnosis is not produced, safety clearance stays incomplete, and the plan is blocked until someone with the capability performs the test or a clinician records a decision.",
+      "implementedAs": "engine: answer status not_performed; capability check on safety checks and exams; blockers SAFETY_INCOMPLETE / EXAM_PENDING",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A03-exclusion-is-not-confirmation",
+      "targets": ["hip_knee:KPASS", "hip_knee:HPASS", "spine:LPASS", "spine:NPASS", "hip_knee:KS1"],
+      "issue": "PASS boxes label the problem 'EXERCISE-RESPONSIVE (BY EXCLUSION)' and say the label is 'confirmed' by improvement at week 4.",
+      "proposal": "Display 'No listed safety concern reported on this screen' with the source wording kept in the provenance view. Never state that a diagnosis is confirmed by a negative screen or by week-4 improvement; improvement is recorded as a response, and the working assessment stays a clinician decision.",
+      "implementedAs": "ui wording keys safety.cleared_*; engine never sets 'confirmed' automatically",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A04-section-level-connectors",
+      "targets": ["hip_knee:c10_1317", "hip_knee:c10_1321"],
+      "issue": "Connectors 10:1317 and 10:1321 start at the Stage 2 SECTIONS (7:538, 7:541), not at a node, and end at the Stage 3 headers (KS3, HS3). Label 'S2>KS3' / 'S2>HS3'.",
+      "proposal": "Interpret as: every WORKING DIAGNOSIS in the section proceeds to Stage 3 (consistent with KS3/HS3 text 'Every working diagnosis from Stage 2 comes here'). Referral-only ends (KD7, KX1, KX2, HX1) and unreleased candidates do not proceed.",
+      "implementedAs": "compile: pathway.measureStart; engine: diagnosis -> measureStart only for workingDiagnosis nodes",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A05-exercise-group-links",
+      "targets": ["hip_knee:E1", "hip_knee:E2", "hip_knee:E3", "hip_knee:E4", "hip_knee:E5", "hip_knee:E6", "hip_knee:E7", "hip_knee:E8"],
+      "issue": "Section 34:1341 holds E1-E8. 22 unlabeled page-level connectors run from diagnoses to groups; group text also names conditions. KD6, KD7, KD14, HD8 and HD11 have no group arrow. E2 text adds 'after clearance from doctor' for kneecap dislocation/instability. Diagnosis text separately names a 'Stage 3 add-on' measurement module.",
+      "proposal": "Use the 22 connectors as the diagnosis-to-group mapping (they agree with the group text). Treat the add-on module as a measurement module, not an exercise list. Diagnoses with no arrow get no proposed group (clinician decides). KD5/KD16 carry a doctor-clearance precaution from E2.",
+      "implementedAs": "compile: node.exerciseGroups from connectors; plan: precaution E2_DOCTOR_CLEARANCE",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A06-outcome-policy",
+      "targets": ["all safety_outcome and escalation nodes"],
+      "issue": "Outcome boxes mix referral timing, whether assessment continues, and exercise restriction in free text. Stage headers say 'Any YES stops the pathway'; K7Y says 'Then continue down this list'.",
+      "proposal": "Keep three separate fields per outcome. Timing = source headline. Assessment continues only where the box says so (K7Y). Exercise restriction parsed from explicit phrases; otherwise a class default marked derived_default. Every raised outcome blocks the exercise plan until a clinician records a clearance decision.",
+      "implementedAs": "compile: outcome policy; engine: alerts + blocker ALERT_UNRESOLVED",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A07-multi-action-switch-boxes",
+      "targets": ["hip_knee:K12Y", "hip_knee:H9Y", "hip_knee:H10Y", "hip_knee:HX1", "spine:L11Y", "spine:N12Y"],
+      "issue": "SWITCH PATHWAY boxes bundle several actions (go to hip pathway, go to low-back pathway, emergency for bladder/bowel/saddle symptoms, 'assess and treat both', shoulder pathway that does not exist in the boards). Only K12Y has a connector (to the hip pathway); L11Y points to another board in text only.",
+      "proposal": "Ask an explicit follow-up to pick the action. Bladder/bowel/saddle choice raises a same-day emergency. A pathway target opens a linked complaint that carries the origin; a pathway already in the origin chain is not re-entered (loop guard) and goes to clinician review. Unsupported targets (shoulder, non-MSK) become referral items.",
+      "implementedAs": "overlay.switches; engine: switch step, linked complaints, loop guard",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A08-text-only-redirects",
+      "targets": ["hip_knee:KT5b", "hip_knee:HQ2c", "hip_knee:HT1c", "hip_knee:HT2e", "hip_knee:HT4b", "spine:LT2c", "spine:LT5b", "spine:NT3d", "hip_knee:KD6", "hip_knee:KD15"],
+      "issue": "Several answers say 'back to K10/H3/H5/H9/H11' with no connector; others have a connector back into a Stage 1 check (LT2c>L5, LT5b>L12, NT3d>N6). LT2c text says 'back to L1 / L5' but the arrow goes only to L5.",
+      "proposal": "Stop routine progression, show which Stage 1 check(s) the source points to, and require the check to be re-answered or sent to clinician review. No diagnosis or plan is released from that branch. If the re-answered check is still denied while the contradicting answer stands, it stays in review.",
+      "implementedAs": "engine: halt REOPEN_SAFETY with refs",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A09-cycles-and-missing-negatives",
+      "targets": ["hip_knee:KT6", "hip_knee:KT7", "hip_knee:KN1", "hip_knee:KT11", "hip_knee:KT12", "spine:LS4-5b", "spine:NS4-5b"],
+      "issue": "KT6b>KT7 and KT7b>KT6 form a loop with no exit; KN1 loops back to KT1 ('re-test in 1-2 weeks'); KT11 and KT12 only have a positive result box.",
+      "proposal": "When a walk returns to a node it has already passed, stop and send to clinician review with the trace (no diagnosis). Offer 'negative / none of these' on single-result tests, which also goes to review because the source has no branch.",
+      "implementedAs": "engine: halt CYCLE; exam option none_of_these -> halt NO_SOURCE_BRANCH",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A10-age-thresholds",
+      "targets": ["hip_knee:KQ3", "hip_knee:HQ2", "hip_knee:KN2"],
+      "issue": "KQ3 uses under 16 / 16-44 / 45+. HQ2 uses '50 or older (from 45 if the pattern is typical)', '16-49 and active', 'under 16' so ages 45-49 fit two answers and inactive adults under 45 fit none. KN2 routes by age in text but has a single arrow to KT5.",
+      "proposal": "Never auto-answer from age. Flag a contradiction when the chosen answer cannot match the recorded age (HQ2a accepts 45+). KN2: age 45+ goes to KT5, younger to KT6 as the text says; unknown age goes to review.",
+      "implementedAs": "overlay.ageRules, overlay.noteRouting; engine: contradiction AGE_MISMATCH",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A11-gated-post-clearance-arrows",
+      "targets": ["spine:L6Y", "spine:L9Y", "spine:N8Y", "spine:N10Y", "spine:LD12"],
+      "issue": "Dashed arrows run from urgent/soon outcomes to a diagnosis 'once confirmed stable' / 'after clearance' (L6Y>LD12, L9Y>LD4, N8Y>ND11, N10Y>ND11).",
+      "proposal": "Do not follow these automatically. Show them to the reviewing clinician as a possible next step that requires documented medical clearance.",
+      "implementedAs": "compile: outcome.gatedNext; review UI lists them",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A12-paediatric-population",
+      "targets": ["hip_knee:K8", "hip_knee:H3", "spine:L9", "spine:N10", "hip_knee:KQ4"],
+      "issue": "Children are handled by single checks ('every child with knee pain gets a hip exam', physio-level) and a few branches. Exercise groups and doses are written for adults.",
+      "proposal": "For patients under 18, require clinician review before any plan is released and show the paediatric checks as needing a skilled examination. Threshold 18 follows L9/N10 wording; KQ3 uses 16 for growth plates. Needs clinical decision.",
+      "implementedAs": "engine: blocker PAEDIATRIC_REVIEW",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A13-safety-modifiers-and-local-thresholds",
+      "targets": ["hip_knee:n5_169", "hip_knee:n5_719", "spine:n1_6559", "spine:n1_6991"],
+      "issue": "Safety modifiers ('doctor before progressive exercise', 'use the local cut-off' for blood pressure) have no numeric threshold and no branch.",
+      "proposal": "Ask each modifier as a recorded history field. Any modifier present or unknown adds a clinician sign-off requirement to the plan. No blood-pressure cut-off is invented; the local value must be supplied by the programme.",
+      "implementedAs": "history fields mod.*; blocker MODIFIER_SIGNOFF",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A14-statistics-and-instruments",
+      "targets": ["all EVIDENCE / TEAM DATA lines", "battery and module nodes"],
+      "issue": "Accuracy figures, NAS statistics and citations are unverified. Named questionnaires (KOOS, WOMAC, IKDC, Kujala, VISA, HOOS, HAGOS, Roland-Morris, Oswestry, STarT Back, Örebro, NDI, PHQ-9...) have licence and translation requirements.",
+      "proposal": "Show evidence lines only in the provenance view, labelled unverified. Never compute an individual probability. Do not reproduce questionnaire items; allow an externally obtained total to be recorded. Aggregate statements (e.g. median BMI) are never turned into individual advice.",
+      "implementedAs": "ui: provenance view; measures type external_score",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A15-buttock-in-both-boards",
+      "targets": ["hip_knee:G-A0H", "spine:G-A0L"],
+      "issue": "Buttock pain is an entry to both the hip pathway and the low-back pathway on different boards.",
+      "proposal": "Let the CHW choose either entry; both pathways screen for the other (H10, L11). Clinical decision needed on a preferred default.",
+      "implementedAs": "ui: body location choices list buttock under both",
+      "status": "proposed_unreviewed"
+    },
+    {
+      "id": "A16-soon-outcomes-continue",
+      "targets": ["spine:L9Y", "spine:N10Y", "hip_knee:K7Y"],
+      "issue": "SOON outcomes allow gentle exercise per the colour key, but only K7Y states that the checklist continues.",
+      "proposal": "Continue assessment only for K7Y. L9Y and N10Y stop routine progression pending doctor review. Exercise for all SOON outcomes needs clinician clearance in this build.",
+      "implementedAs": "compile: assessmentMayContinue from source text only",
+      "status": "proposed_unreviewed"
+    }
+  ]
+}

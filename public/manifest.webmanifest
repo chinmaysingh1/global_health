@@ -1,0 +1,9 @@
+{
+  "name": "MSK Assessment (evaluation build)",
+  "short_name": "MSK Assess",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6f5",
+  "theme_color": "#0b5c6b",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

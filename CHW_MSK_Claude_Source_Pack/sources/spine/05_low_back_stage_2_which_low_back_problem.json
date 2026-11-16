@@ -1,0 +1,1405 @@
+{
+  "board_key": "rWECNSFkKrOGuJkRPvsQdP",
+  "section": {
+    "id": "1:7327",
+    "name": "Low back · Stage 2 · Which low-back problem",
+    "x": "0",
+    "y": "10802",
+    "width": "10440",
+    "height": "4474"
+  },
+  "elements": [
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6563",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6563",
+        "x": "4670",
+        "y": "160",
+        "width": "1100",
+        "height": "247",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "STAGE 2 — WHICH LOW-BACK PROBLEM IS IT?\nFor most people no exact tissue can be named, and naming one wouldn’t change care (Lancet Low Back Pain Series 2018). So this stage sorts people by HOW their pain behaves — where it spreads, which repeated movement eases it, how long it has lasted, how widespread it is — because that is what picks the exercise group (JOSPT CPG; treatment-based classification, Alrwaily 2016)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6571",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6571",
+        "x": "4960",
+        "y": "840",
+        "width": "520",
+        "height": "205",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LQ1 · Where do the symptoms go? (use the body chart from Q0)\nASK: “Show me everywhere you feel it. Does anything shoot down the leg? Any numbness or pins and needles?”"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7486",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7486",
+        "x": "5220",
+        "y": "413",
+        "connectorStart": "1:6563",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6571",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LS2&gt;LQ1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6575",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6575",
+        "x": "1940",
+        "y": "1155",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Back and/or buttock, maybe the thigh — nothing below the knee"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7490",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7490",
+        "x": "2100",
+        "y": "1051",
+        "connectorStart": "1:6571",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6575",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1&gt;LQ1a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6595",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6595",
+        "x": "1790",
+        "y": "1404",
+        "width": "620",
+        "height": "638",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LT1 · Repeated-movement test — is there a DIRECTIONAL PREFERENCE?\n• Record a baseline first: where the pain reaches, how bad (0–10), how far they can bend and arch.\n• Arching (extension): lying face down, push up on the hands keeping the hips down (prone press-up) × 10; or standing back-bends × 10 if they can’t lie down.\n• Bending (flexion): lying on the back, pull both knees to the chest × 10; or seated forward bend × 10.\n• Visible shift: glide the hips back to the middle against a wall × 10, then retest.\n• After each set, re-check where the pain reaches, how bad, and how far they move.\nPOSITIVE (preference) IF: one direction makes buttock or thigh pain retreat toward the middle of the back (CENTRALISE) or disappear, eases the pain and improves movement — and keeps doing so set after set.\nEVIDENCE: a directional preference was found in 74% of people with back pain, and exercise matched to it beat both the opposite direction and general exercise on every outcome (Long 2004, 312 patients). Centralisation also predicts a good outcome.\nWHO: anyone trained (do it); physio-level (interpret unclear cases)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7510",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7510",
+        "x": "2100",
+        "y": "1300",
+        "connectorStart": "1:6575",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6595",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1a&gt;LT1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6599",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6599",
+        "x": "250",
+        "y": "2152",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Arching (extension) centralises or eases it — sitting and bending are usually what hurt"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7514",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7514",
+        "x": "410",
+        "y": "2048",
+        "connectorStart": "1:6595",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6599",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1&gt;LT1a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6615",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6615",
+        "x": "120",
+        "y": "2427",
+        "width": "580",
+        "height": "493",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LD1 · WORKING DIAGNOSIS: Low back pain with a directional preference for EXTENSION (centralising back pain)\nWHAT IT IS: back pain, often spreading to the buttock or thigh, that eases and centralises with repeated arching. Usually worse with sitting, bending and lifting; better walking. Often called “disc-related”, though that can’t be confirmed without imaging — and doesn’t need to be.\nNEXT STEP: repeated extension in the direction that centralises, 10 reps every 2–3 hours, progressing from lying to standing; short sitting bouts with a lumbar roll; then load up through the core programme.\nAVOID (for now): long slumped sitting and repeated loaded bending.\nPROGRESS WHEN: pain stays central and bending returns — bending is reintroduced gradually, not banned for life.\nEXERCISE GROUP: LX-A (extension branch)\nSTAGE 4 MODULE: back module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7530",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7530",
+        "x": "410",
+        "y": "2323",
+        "connectorStart": "1:6599",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6615",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1a&gt;LD1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6603",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6603",
+        "x": "900",
+        "y": "2152",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Bending (flexion) eases it — standing, walking and arching are usually what hurt"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7518",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7518",
+        "x": "1060",
+        "y": "2048",
+        "connectorStart": "1:6595",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6603",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1&gt;LT1b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6619",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6619",
+        "x": "770",
+        "y": "2427",
+        "width": "580",
+        "height": "443",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LD2 · WORKING DIAGNOSIS: Low back pain with a directional preference for FLEXION (extension-intolerant back pain)\nWHAT IT IS: pain eased by bending forward or sitting, provoked by standing, walking far, arching or lying on the stomach. Commoner in older adults; often blamed on the small facet joints or narrowing, but no bedside test confirms a single tissue.\nNEXT STEP: flexion-biased exercise (knees-to-chest, pelvic tilts, seated bending), hip-flexor stretch and hip-extensor strength, then trunk strength and walking with planned rests.\nAVOID (for now): sustained arching and long standing without breaks.\nEXERCISE GROUP: LX-A (flexion branch)\nSTAGE 4 MODULE: back module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7534",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7534",
+        "x": "1060",
+        "y": "2323",
+        "connectorStart": "1:6603",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6619",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1b&gt;LD2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6607",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6607",
+        "x": "2395",
+        "y": "2152",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "No direction helps, or too sore to test → ask about the history (LQ2)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7522",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7522",
+        "x": "2100",
+        "y": "2048",
+        "connectorStart": "1:6595",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6607",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1&gt;LT1c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6623",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6623",
+        "x": "2295",
+        "y": "2427",
+        "width": "520",
+        "height": "205",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LQ2 · How long has this episode lasted, and how does it behave?\nASK: “When did this episode start? Has it happened before? What happens when you bend down and come back up?”"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7538",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7538",
+        "x": "2555",
+        "y": "2323",
+        "connectorStart": "1:6607",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6623",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1c&gt;LQ2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6627",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6627",
+        "x": "1550",
+        "y": "2742",
+        "width": "320",
+        "height": "190",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Under 6 weeks, first or occasional episode; stiff, guarded, sore to move in all directions"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7546",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7546",
+        "x": "1710",
+        "y": "2638",
+        "connectorStart": "1:6623",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6627",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ2&gt;LQ2a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6639",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6639",
+        "x": "1420",
+        "y": "3042",
+        "width": "580",
+        "height": "510",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LD3 · WORKING DIAGNOSIS: Acute low back pain with mobility deficits (“acute lumbago”)\nWHAT IT IS: a recent, stiff, painful back with no leg symptoms below the knee and no nerve signs. Most episodes improve a lot within 6 weeks.\nNEXT STEP: reassurance that it is not damage; stay active and keep working where possible (bed rest slows recovery); heat wrap; gentle movement in all directions within comfort; short walks. A physio may add spinal manipulation: with symptoms for under 16 days and none below the knee, a fast response is more likely (prediction rule — Flynn 2002, 4 of 5 items LR+ 24.4; validated in an RCT with number needed to treat 1.9, Childs 2004). Later studies found the rule weaker elsewhere, so treat it as a guide.\nAVOID: bed rest, braces or corsets, scans “just to check” (NICE NG59).\nEXERCISE GROUP: LX-B (move early)\nSTAGE 4 MODULE: back module (irritability is usually HIGH at first)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7558",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7558",
+        "x": "1710",
+        "y": "2938",
+        "connectorStart": "1:6627",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6639",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ2a&gt;LD3"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6631",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6631",
+        "x": "2395",
+        "y": "2742",
+        "width": "320",
+        "height": "190",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Keeps coming back; “catches”, “gives way” or locks when bending or coming back up; feels better in a belt"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7550",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7550",
+        "x": "2555",
+        "y": "2638",
+        "connectorStart": "1:6623",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6631",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ2&gt;LQ2b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6643",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6643",
+        "x": "2245",
+        "y": "3042",
+        "width": "620",
+        "height": "434",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LT4 · Movement-control check — does the back move in a jerky, poorly controlled way?\n• Watch bending forward and returning upright: a painful arc, a sudden “catch”, walking the hands up the thighs to stand (Gowers sign), or a reversed rhythm (hips straighten first, then the back) = aberrant movement.\n• Prone instability test (physio-level): lying face down over the end of a bed, feet on the floor; press on each low-back vertebra. Then lift the feet slightly (back muscles switch on) and press again. Pain that DISAPPEARS when the muscles switch on = positive.\n• Prediction rule — likely to respond to stabilisation exercise if 3 or more of: age under 40; straight-leg raise over 91°; aberrant movement; positive prone instability test (Hicks 2005: LR+ 4.0 for success).\nWHO: anyone trained (watch movement); physio-level (prone instability test)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7562",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7562",
+        "x": "2555",
+        "y": "2938",
+        "connectorStart": "1:6631",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6643",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ2b&gt;LT4"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6647",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6647",
+        "x": "2200",
+        "y": "3586",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Aberrant movement, or prone instability test positive"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7566",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7566",
+        "x": "2360",
+        "y": "3482",
+        "connectorStart": "1:6643",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6647",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT4&gt;LT4a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6655",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6655",
+        "x": "2070",
+        "y": "3835",
+        "width": "580",
+        "height": "519",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LD4 · WORKING DIAGNOSIS: Low back pain with movement-control impairment (recurrent, “unstable-feeling” back)\nWHAT IT IS: repeated episodes with catching or giving way and poor control of bending and lifting — the problem is how the trunk is controlled under load, not one damaged tissue. Also the home for a stable degenerative slip (spondylolisthesis) and a healed or stable pars fracture after imaging (from L9).\nNEXT STEP: motor-control (stabilisation) exercise — learn to brace, then bird-dog, side-bridge and curl-up progressions, hip-hinge practice, then strength under load and work-task practice. Motor control works about as well as other active exercise, so choose what the patient will keep doing (Owen 2020).\nAVOID: passive treatment alone; relying on a belt long-term.\nEXERCISE GROUP: LX-C (motor control & trunk–hip strength)\nSTAGE 4 MODULE: back module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7574",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7574",
+        "x": "2360",
+        "y": "3731",
+        "connectorStart": "1:6647",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6655",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT4a&gt;LD4"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6651",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6651",
+        "x": "2720",
+        "y": "3586",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Moves smoothly; tests negative → treat as persistent non-specific back pain (LD5)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7570",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7570",
+        "x": "2555",
+        "y": "3482",
+        "connectorStart": "1:6643",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6651",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT4&gt;LT4b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6635",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6635",
+        "x": "3240",
+        "y": "2742",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "More than 3 months; mainly in the back; worse with activity and long sitting"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7554",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7554",
+        "x": "2555",
+        "y": "2638",
+        "connectorStart": "1:6623",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6635",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ2&gt;LQ2c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6659",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6659",
+        "x": "3110",
+        "y": "3017",
+        "width": "580",
+        "height": "561",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LD5 · WORKING DIAGNOSIS: Chronic (persistent) non-specific low back pain\nWHAT IT IS: back pain on most days for more than 3 months, with no serious cause and no nerve-root signs. The back has become sensitive and deconditioned, and worry, sleep, mood and work strongly shape the pain. The commonest label in this pathway.\nNEXT STEP: a structured exercise programme is the first-line treatment (NICE NG59; WHO 2023; JOSPT 2021). Any type the patient enjoys and will keep doing — strengthening, motor control, Pilates- or yoga-type, walking or other aerobic exercise — works about equally (Hayden 2021: about 15 points less pain on a 0–100 scale than no treatment or usual care; Owen 2020). Combine with education (hurt ≠ harm), pacing and graded return to valued activities. If the STarT Back score is HIGH, use the psychologically informed approach in Stage 4.\nAVOID: imaging, traction, TENS, ultrasound, belts or corsets, passive treatment on its own, opioids (NICE NG59; WHO 2023).\nEXERCISE GROUP: LX-E (graded activity & conditioning)\nSTAGE 4 MODULE: back module + yellow-flag module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7582",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7582",
+        "x": "2880",
+        "y": "2969",
+        "connectorStart": "1:6651",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6659",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT4b&gt;LD5"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7578",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7578",
+        "x": "3400",
+        "y": "2913",
+        "connectorStart": "1:6635",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6659",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ2c&gt;LD5"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6611",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6611",
+        "x": "3760",
+        "y": "2152",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Pain spreads further down the leg with BOTH directions → nerve-root check (LT2)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7526",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7526",
+        "x": "2100",
+        "y": "2048",
+        "connectorStart": "1:6595",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6611",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1&gt;LT1d"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6579",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6579",
+        "x": "4995",
+        "y": "1155",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Shooting pain below the knee into the foot, often with numbness or pins and needles"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7494",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7494",
+        "x": "5155",
+        "y": "1051",
+        "connectorStart": "1:6571",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6579",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1&gt;LQ1b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6663",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6663",
+        "x": "4845",
+        "y": "1430",
+        "width": "620",
+        "height": "451",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LT2 · Nerve-root check (sciatica)\n• Straight-leg raise (SLR): lying on the back, lift the straight leg slowly. Positive if it reproduces the LEG pain (not just a hamstring pull) between about 30° and 70°. Sensitivity 91%, specificity 26% — a NEGATIVE SLR helps rule disc-related nerve-root pain OUT (Devillé 2000).\n• Crossed SLR: lifting the GOOD leg reproduces pain in the bad leg. Specificity 88% — a positive result helps rule it IN (Devillé 2000).\n• Slump test: sitting slumped, chin to chest, straighten the knee and pull the foot up; positive if the leg pain is reproduced and eases when the head comes up. Sensitivity 84%, specificity 83% (Majlesi 2008).\n• Neurological screen (compare sides): L4 — knee reflex, inner-shin feeling, heel walking; L5 — big-toe lift, top-of-foot feeling; S1 — ankle reflex, toe walking and heel raises, outer-foot feeling.\nWHO: anyone trained (SLR, heel/toe walk); physio-level (slump, reflexes)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7586",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7586",
+        "x": "5155",
+        "y": "1326",
+        "connectorStart": "1:6579",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6663",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1b&gt;LT2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7542",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7542",
+        "x": "4086",
+        "y": "1655.5",
+        "connectorStart": "1:6611",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6663",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT1d&gt;LT2"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6667",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6667",
+        "x": "4605",
+        "y": "1991",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "SLR or slump reproduces the leg pain, with or without numbness or mild, stable weakness"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7590",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7590",
+        "x": "4765",
+        "y": "1887",
+        "connectorStart": "1:6663",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6667",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT2&gt;LT2a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6679",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6679",
+        "x": "4505",
+        "y": "2266",
+        "width": "520",
+        "height": "205",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LQ3 · Does repeated arching bring the leg pain back up toward the back?\nDO: run the repeated-movement test (LT1) with extra care; stop at once if the leg pain spreads further down."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7602",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7602",
+        "x": "4765",
+        "y": "2162",
+        "connectorStart": "1:6667",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6679",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT2a&gt;LQ3"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6683",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6683",
+        "x": "4280",
+        "y": "2581",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Yes — the leg pain retreats toward the back"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7614",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7614",
+        "x": "4440",
+        "y": "2477",
+        "connectorStart": "1:6679",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6683",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ3&gt;LQ3a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6691",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6691",
+        "x": "4150",
+        "y": "2830",
+        "width": "580",
+        "height": "485",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LD6 · WORKING DIAGNOSIS: Sciatica (lumbar radicular pain) that CENTRALISES\nWHAT IT IS: an irritated nerve root (usually from a disc bulge at L4–5 or L5–S1) whose leg pain retreats with repeated arching. Centralisation is a good sign; most people recover without surgery, and disc bulges commonly shrink over months.\nNEXT STEP: repeated extension in the centralising direction (as LD1), positions of ease, keep walking; once the leg pain has centralised, add nerve sliders and then the core programme.\nAVOID: any exercise that pushes pain further down the leg; long sitting; heavy lifting in the first weeks.\nREFER IF: not improving by 6–8 weeks, severe pain despite medicines, or any new weakness (NICE NG59).\nEXERCISE GROUPS: LX-A (extension branch) → LX-D\nSTAGE 4 MODULE: sciatica module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7622",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7622",
+        "x": "4440",
+        "y": "2726",
+        "connectorStart": "1:6683",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6691",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ3a&gt;LD6"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6687",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6687",
+        "x": "4930",
+        "y": "2581",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "No change, or it spreads further down (stop that direction)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7618",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7618",
+        "x": "4765",
+        "y": "2477",
+        "connectorStart": "1:6679",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6687",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ3&gt;LQ3b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6695",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6695",
+        "x": "4800",
+        "y": "2830",
+        "width": "580",
+        "height": "561",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LD7 · WORKING DIAGNOSIS: Sciatica (lumbar radicular pain / radiculopathy) — NOT centralising\nWHAT IT IS: nerve-root pain below the knee, often with pins and needles or mild stable weakness, that no repeated direction centralises. The outlook is still favourable for most within about 3 months.\nNEXT STEP: calm the nerve: positions of ease (lying on the back with the calves on a chair; side-lying with a pillow between the knees), short frequent walks, nerve sliders (gentle back-and-forth nerve movement without stretching), then gradual trunk and leg strengthening. Pain medicines through the doctor.\nAVOID: holding long nerve or hamstring stretches; anything that increases numbness or spreads the pain.\nREFER IF: worsening weakness (L5), or severe pain at 6–8 weeks despite good care — spinal injection or surgery may then be considered (NICE NG59).\nEXERCISE GROUP: LX-D (nerve-friendly)\nSTAGE 4 MODULE: sciatica module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7626",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7626",
+        "x": "5090",
+        "y": "2726",
+        "connectorStart": "1:6687",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6695",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ3b&gt;LD7"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6671",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6671",
+        "x": "5450",
+        "y": "1991",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Both negative, no nerve signs → this is referred pain; test for a directional preference (LT1)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7606",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7606",
+        "x": "2416",
+        "y": "1723",
+        "connectorStart": "1:6671",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6595",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT2b&gt;LT1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7594",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7594",
+        "x": "5155",
+        "y": "1887",
+        "connectorStart": "1:6663",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6671",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT2&gt;LT2b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6675",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6675",
+        "x": "5840",
+        "y": "1991",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Weakness getting worse, foot drop, or both legs → STOP: back to L1 / L5"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7598",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7598",
+        "x": "5155",
+        "y": "1887",
+        "connectorStart": "1:6663",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6675",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT2&gt;LT2c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6583",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6583",
+        "x": "6750",
+        "y": "1155",
+        "width": "320",
+        "height": "190",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "One or both legs heavy, aching or numb when standing or walking; eased by sitting or bending forward"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7498",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7498",
+        "x": "5220",
+        "y": "1051",
+        "connectorStart": "1:6571",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6583",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1&gt;LQ1c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6699",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6699",
+        "x": "6600",
+        "y": "1455",
+        "width": "620",
+        "height": "587",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LT5 · Spinal stenosis check (narrowing that squeezes the nerves when standing upright) — Suri 2010 review\nASK / OBSERVE (likelihood ratios):\n• No pain when sitting — LR+ 7.4\n• Symptoms improve when bending forward (leaning on a trolley, walking stick or bicycle handlebars) — LR+ 6.4\n• Pain in both buttocks or legs — LR+ 6.3\n• Neurogenic claudication (leg pain, heaviness or numbness that comes with walking or standing and eases with sitting) — LR+ 3.7; its ABSENCE makes stenosis unlikely (LR− 0.23)\n• Wide-based gait — LR+ 13; abnormal Romberg (feet together, eyes closed: sways or steps) — LR+ 4.2\n• Age under 60 makes it less likely (LR 0.40)\nWALK TEST: time upright walking on the flat, then walking leaning forward on a stick or trolley — a longer distance when leaning forward supports stenosis (two-stage treadmill idea, Fritz 1997).\nALSO: feel the foot pulses — weak pulses and relief by just standing still point to the arteries instead (L12).\nWHO: anyone trained; physio-level (Romberg in unsteady older adults)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7630",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7630",
+        "x": "6910",
+        "y": "1351",
+        "connectorStart": "1:6583",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6699",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1c&gt;LT5"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6703",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6703",
+        "x": "6360",
+        "y": "2152",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Several features (usually over 60), eased by sitting or bending forward"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7634",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7634",
+        "x": "6520",
+        "y": "2048",
+        "connectorStart": "1:6699",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6703",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT5&gt;LT5a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6715",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6715",
+        "x": "6230",
+        "y": "2427",
+        "width": "580",
+        "height": "510",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LD8 · WORKING DIAGNOSIS: Lumbar spinal stenosis (neurogenic claudication)\nWHAT IT IS: age-related narrowing of the spinal canal; the nerves are squeezed more when standing upright and walking, less when bending forward or sitting. Walking distance is the key limit.\nNEXT STEP: flexion-biased exercise, stationary cycling (usually well tolerated because it is done bent forward), a walking programme with planned rests or a stick or trolley to build distance, hip and leg strengthening, balance work. In surgical candidates, physiotherapy gave similar 2-year physical function to surgery — though 57% of the physiotherapy group later crossed over to surgery (Delitto 2015).\nAVOID: long standing and prolonged arching.\nREFER IF: walking distance keeps shrinking, any bladder change (L1), or worsening weakness (L5).\nEXERCISE GROUPS: LX-A (flexion branch) + LX-E (walking programme)\nSTAGE 4 MODULE: stenosis module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7646",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7646",
+        "x": "6520",
+        "y": "2323",
+        "connectorStart": "1:6703",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6715",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT5a&gt;LD8"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6707",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6707",
+        "x": "6880",
+        "y": "2152",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Eased just by standing still; weak foot pulses → circulation (L12)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7638",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7638",
+        "x": "6910",
+        "y": "2048",
+        "connectorStart": "1:6699",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6707",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT5&gt;LT5b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6711",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6711",
+        "x": "7270",
+        "y": "2152",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Neither picture fits → directional preference test (LT1)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7654",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7654",
+        "x": "2416",
+        "y": "1723",
+        "connectorStart": "1:6711",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6595",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT5c&gt;LT1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7642",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7642",
+        "x": "6910",
+        "y": "2048",
+        "connectorStart": "1:6699",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6711",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT5&gt;LT5c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6587",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6587",
+        "x": "8310",
+        "y": "1155",
+        "width": "320",
+        "height": "190",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "One-sided pain low over the back of the pelvis, below the belt line; pregnant, recently delivered, or after a fall on the buttock"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7502",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7502",
+        "x": "5220",
+        "y": "1051",
+        "connectorStart": "1:6571",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6587",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1&gt;LQ1d"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6719",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6719",
+        "x": "8160",
+        "y": "1455",
+        "width": "620",
+        "height": "553",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LT6 · Sacroiliac joint (SIJ) and pelvic girdle check\n• Point test: the patient points to the pain — just below the bony dimple at the back of the pelvis supports the SIJ.\n• Pain provocation tests (Laslett cluster): distraction (lying on the back, press the front pelvic bones apart), thigh thrust (hip bent to 90°, push down along the thigh), compression (side-lying, press down on the pelvis), sacral thrust (lying face down, press on the sacrum), Gaenslen (one hip bent up, the other leg hanging off the bed) on both sides.\nPOSITIVE IF: 3 or more of the 6 (or 2 of the first 4) reproduce the familiar pain: sensitivity 94%, specificity 78%. If NONE provokes the pain, the SIJ can be ruled out (Laslett 2005).\n• Pregnancy or after birth: add the active straight-leg raise (lying on the back, lift one straight leg 20 cm; “heavy” or hard on one side = positive; sensitivity 87%, specificity 94%, Mens 2001) and the posterior pelvic pain provocation (thigh thrust) test (European pelvic girdle guideline, Vleeming 2008).\nWHO: physio-level (provocation tests); anyone trained (active straight-leg raise)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7658",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7658",
+        "x": "8470",
+        "y": "1351",
+        "connectorStart": "1:6587",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6719",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1d&gt;LT6"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6723",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6723",
+        "x": "7790",
+        "y": "2118",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Positive, and pregnant or within about a year of giving birth"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7662",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7662",
+        "x": "7950",
+        "y": "2014",
+        "connectorStart": "1:6719",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6723",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT6&gt;LT6a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6739",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6739",
+        "x": "7660",
+        "y": "2367",
+        "width": "580",
+        "height": "536",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LD10 · WORKING DIAGNOSIS: Pregnancy-related pelvic girdle pain\nWHAT IT IS: pain at the back of the pelvis and/or over the pubic bone during pregnancy or after delivery; affects about 1 in 5 pregnant women (Vleeming 2008). Not harmful to the baby; usually settles within months of the birth.\nNEXT STEP: reassurance and education; individualised exercise for trunk and pelvic control (gentle bracing with a pelvic-floor squeeze, side-lying hip work, supported squats, bridges if comfortable); pacing; a pelvic belt for short-term relief; a pillow between the knees in bed; keep the knees together getting in and out of bed or a vehicle.\nAVOID: lying flat on the back after the first trimester; wide-legged positions and heavy lifting while painful.\nREFER IF: pain stops her walking; any bleeding, contractions or reduced baby movements → obstetric team the same day.\nEXERCISE GROUP: LX-C (pelvic girdle branch)\nSTAGE 4 MODULE: pelvic girdle module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7674",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7674",
+        "x": "7950",
+        "y": "2263",
+        "connectorStart": "1:6723",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6739",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT6a&gt;LD10"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6727",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6727",
+        "x": "8440",
+        "y": "2118",
+        "width": "320",
+        "height": "114",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Positive, not pregnancy-related"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7666",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7666",
+        "x": "8470",
+        "y": "2014",
+        "connectorStart": "1:6719",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6727",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT6&gt;LT6b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6735",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6735",
+        "x": "8310",
+        "y": "2342",
+        "width": "580",
+        "height": "400",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LD9 · WORKING DIAGNOSIS: Sacroiliac joint pain\nWHAT IT IS: pain from the joint between the base of the spine (sacrum) and the pelvis — one-sided, below the belt line, often after a fall on the buttock, a missed step, or lifting with a twist.\nNEXT STEP: load-transfer exercise: bracing, bridges, side-lying and standing hip abduction, hip extension, single-leg stance and step-ups; then the core programme. A pelvic belt can ease pain short-term while strength builds (consensus).\nAVOID: long one-legged standing and lopsided heavy carrying while it is irritable.\nEXERCISE GROUP: LX-C (pelvic girdle branch)\nSTAGE 4 MODULE: back module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7678",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7678",
+        "x": "8600",
+        "y": "2238",
+        "connectorStart": "1:6727",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6735",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT6b&gt;LD9"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6731",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6731",
+        "x": "8960",
+        "y": "2118",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Negative → directional preference test (LT1)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7682",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7682",
+        "x": "2416",
+        "y": "1723",
+        "connectorStart": "1:6731",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6595",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT6c&gt;LT1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7670",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7670",
+        "x": "8470",
+        "y": "2014",
+        "connectorStart": "1:6719",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6731",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT6&gt;LT6c"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6591",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6591",
+        "x": "9675",
+        "y": "1155",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Pain in many places — back plus neck, shoulders, arms or legs; “everything hurts”"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7506",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7506",
+        "x": "5220",
+        "y": "1051",
+        "connectorStart": "1:6571",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6591",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1&gt;LQ1e"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6743",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6743",
+        "x": "9525",
+        "y": "1430",
+        "width": "620",
+        "height": "349",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LT7 · Widespread pain / central sensitisation check\n• Clinical criteria (all 3): (1) pain out of proportion to the injury or findings; (2) pain spread widely or not following anatomy (both sides, many areas); (3) over-sensitive to touch, pressure, light, sound, cold or stress (Nijs 2015).\n• Central Sensitization Inventory (CSI): a score of 40 or more out of 100 suggests central sensitisation (sensitivity 81%, specificity 75%; Neblett 2013).\n• Re-check the inflammatory screen (L10); over 50 with shoulder- and hip-girdle stiffness → polymyalgia (neck pathway, N5).\nWHO: anyone trained (questions); physio-level (interpretation)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7686",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7686",
+        "x": "9835",
+        "y": "1326",
+        "connectorStart": "1:6591",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6743",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LQ1e&gt;LT7"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6747",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6747",
+        "x": "9480",
+        "y": "1889",
+        "width": "320",
+        "height": "139",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "Yes — widespread, out of proportion, over-sensitive"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7690",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7690",
+        "x": "9640",
+        "y": "1785",
+        "connectorStart": "1:6743",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6747",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT7&gt;LT7a"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6755",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6755",
+        "x": "9350",
+        "y": "2138",
+        "width": "580",
+        "height": "544",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LD11 · WORKING DIAGNOSIS: Chronic back pain with widespread pain / central sensitisation (nociplastic pain)\nWHAT IT IS: the nervous system’s alarm is turned up: pain spreads, flares easily and is out of proportion to any tissue problem. Includes fibromyalgia-type presentations. The pain is real — not imagined, and not damage.\nNEXT STEP: pain education first (how a sensitive alarm system works); then graded activity and graded exposure to feared movements, regular aerobic exercise (walking, cycling) starting low and building slowly, sleep and stress strategies; psychological support (CBT-based) where available. Combined physical and psychological programmes are recommended (NICE NG59).\nAVOID: chasing a tissue cause with repeated scans; long rest after flares; passive-only care; opioids.\nEXERCISE GROUP: LX-E (graded activity & conditioning)\nSTAGE 4 MODULE: yellow-flag module."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7698",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7698",
+        "x": "9640",
+        "y": "2034",
+        "connectorStart": "1:6747",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6755",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT7a&gt;LD11"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6751",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6751",
+        "x": "10000",
+        "y": "1889",
+        "width": "320",
+        "height": "165",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "No — mainly a back problem with some other aches → directional preference test (LT1)"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7702",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7702",
+        "x": "2416",
+        "y": "1723",
+        "connectorStart": "1:6751",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6595",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT7b&gt;LT1"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:7694",
+      "type": "connector",
+      "attributes": {
+        "id": "1:7694",
+        "x": "9835",
+        "y": "1785",
+        "connectorStart": "1:6743",
+        "connectorStartCap": "NONE",
+        "connectorEnd": "1:6751",
+        "connectorEndCap": "ARROW_LINES"
+      },
+      "text": "LT7&gt;LT7b"
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6567",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6567",
+        "x": "5910",
+        "y": "160",
+        "width": "560",
+        "height": "349",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "WHY THE LABEL MATTERS (OR DOESN’T)\nFor most back pain the tissue label doesn’t change care. What changes care is the PATTERN: which direction eases it, whether a nerve root is involved, whether movement control is poor, and how high the yellow flags are. So Stage 2 picks the exercise group, the directions to favour and avoid, and the starting dose — not a custom exercise list per patient.\nLateral shift: if the trunk is visibly shifted sideways and bending is blocked, correct the shift first (side-glide against a wall), then test arching. A shift usually belongs with LD1 or LD6 (consensus)."
+    },
+    {
+      "source_id": "rWECNSFkKrOGuJkRPvsQdP:1:6759",
+      "type": "shape-with-text",
+      "attributes": {
+        "id": "1:6759",
+        "x": "3950",
+        "y": "160",
+        "width": "580",
+        "height": "570",
+        "name": "ROUNDED_RECTANGLE"
+      },
+      "text": "LD12 · WORKING DIAGNOSIS: Stable osteoporotic vertebral fracture (entry only after medical clearance — from L6)\nWHAT IT IS: a healed or stable compression fracture of a weakened vertebra, confirmed by the doctor, with bone-health treatment started.\nNEXT STEP: back-extensor strengthening (lying face-down lifts, seated back extension), posture training, balance and fall-prevention exercise, progressive leg and hip strength, daily walking. Women who strengthened their back extensors had 2.7 times fewer new vertebral fractures over 10 years (Sinaki 2002). Supervised high-intensity resistance and impact training raised spine bone density without fractures in women with low bone mass (Watson 2018) — specialist-led only.\nAVOID: loaded forward bending and twisting — sit-ups, toe touches, lifting from the floor with a rounded back (Too Fit To Fracture, Giangregorio 2014).\nEXERCISE GROUP: LX-F (bone-safe back strength)\nSTAGE 4 MODULE: bone-health module."
+    }
+  ]
+}

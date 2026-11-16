@@ -1,0 +1,1254 @@
+<canvas id="0:1" name="Page 1" x="0" y="0" width="0" height="0">
+  <section id="1:7323" name="How to read this board" x="9095" y="-3800" width="3610" height="1871">
+    <shape-with-text id="1:6327" x="1055" y="160" width="1500" height="430" name="ROUNDED_RECTANGLE">SPINE ASSESSMENT FLOWCHART — LOW BACK · NECK &amp; UPPER BACK
+A question-by-question pathway from “my back (or neck) hurts” to a working diagnosis, an exercise group, a measured baseline and a re-test plan — using only questions, observation and hands-on tests. No imaging is assumed.
+Built from: JOSPT physical therapy clinical practice guidelines (low back pain 2012 and 2021 revision, neck pain 2017), NICE NG59 (low back pain and sciatica, 2016/2020), the WHO guideline on chronic primary low back pain (2023), the IFOMPT international frameworks for spinal red flags (2020) and cervical vascular screening (2023), the Lancet Low Back Pain Series (2018), the STarT Back trial, and diagnostic accuracy studies. Draft for clinical review — a physiotherapist should sign off before use with patients.</shape-with-text>
+    <shape-with-text id="1:6331" x="350" y="700" width="700" height="527" name="ROUNDED_RECTANGLE">HOW TO USE THIS BOARD
+1. Start at the black START box and follow the arrows.
+2. Yellow boxes are QUESTIONS. Ask them in plain words, pick the white answer box that matches what the patient says, and follow its arrow.
+3. Blue boxes are HANDS-ON CHECKS. Each one says what to do, what counts as positive, how accurate it is, and who can usually do it.
+4. Every pathway runs in 4 stages: Stage 1 safety screen (is this safe to treat with exercise?) → Stage 2 working diagnosis (which problem is it?) → Stage 3 exercise group (diagnoses that share a problem share a programme) → Stage 4 measure, dose the exercise, re-test.
+5. Dashed grey arrows jump to another part of the board. Grey curved arrows link each working diagnosis to its exercise group(s). Box codes (e.g. L3, LT2, ND4, LX-C) let you jump by name.
+
+Starting assumption: the pain has been checked as musculoskeletal. But back and neck pain are the commonest disguise for heart, blood-vessel, kidney and abdominal problems, so Stage 1 re-checks them.</shape-with-text>
+    <shape-with-text id="1:6335" x="1120" y="700" width="700" height="476" name="ROUNDED_RECTANGLE">HOW TO READ THE ACCURACY NUMBERS
+Sensitivity — out of 100 people who really HAVE the problem, how many the test catches. A highly sensitive test that comes back NEGATIVE helps rule the problem OUT.
+Specificity — out of 100 people who do NOT have it, how many the test correctly clears. A highly specific test that comes back POSITIVE helps rule the problem IN.
+Likelihood ratio (LR) — how strongly a result shifts the odds. LR+ above 10 = strong rule-in; LR− below 0.1 = strong rule-out; LR+ 2–5 = small shift.
+Post-test probability — the chance the problem is really there once this finding is present (used for red flags, Downie 2013).
+Cluster — several findings counted together; beats any single test for almost every condition here.
+Consensus — expert agreement only; no accuracy study was found. Treat these boxes with more caution.
+Working diagnosis — the best label you can act on without imaging. It is confirmed, or revised, by how the patient responds at the week-4 re-test.</shape-with-text>
+    <shape-with-text id="1:6339" x="1890" y="700" width="700" height="553" name="ROUNDED_RECTANGLE">PLAIN-LANGUAGE GLOSSARY
+Flexion / extension — bending forward / arching backward. Rotation / side-bending — twisting / tipping sideways.
+Lumbar / thoracic / cervical — low back / mid and upper back (rib level) / neck.
+Radicular pain — shooting pain along a nerve root: below the knee in the leg, below the elbow in the arm. Radiculopathy — the same plus numbness, weakness or reflex loss.
+Referred pain — pain felt away from its source without nerve-root signs (e.g. back pain felt in the buttock or thigh).
+Centralisation — leg or arm symptoms retreat toward the spine with a repeated movement: a good sign. Peripheralisation — they spread further out: a warning sign.
+Directional preference — one direction of repeated movement (usually arching or bending) eases the pain and improves movement.
+Myelopathy — pressure on the spinal cord: clumsy hands, unsteady walking.
+Central sensitisation / nociplastic pain — the nervous system’s alarm is turned up; pain is widespread and out of proportion to tissue findings.
+Yellow flags — beliefs, fears, mood, sleep and work factors that predict slow recovery.
+Dermatome / myotome — skin area / muscle group supplied by one nerve root.
+Imaging — X-ray, CT or MRI. Doctor — the medical officer on the team.</shape-with-text>
+    <shape-with-text id="1:6343" x="2660" y="700" width="600" height="349" name="ROUNDED_RECTANGLE">WHO CAN DO EACH CHECK (guidance, never a stop)
+Anyone trained — a health worker after short training: questions, looking, pressing, simple movements.
+Basic kit — needs a thermometer, tape measure, blood-pressure cuff or phone app.
+Physio-level — needs a physiotherapist’s or doctor’s hands-on skill; can be done by video review or at referral.
+If nobody with the skill is available: record the history, film the movement, note the test as “not done” and keep going — the pathway still works, with a little less certainty.</shape-with-text>
+    <shape-with-text id="1:6347" x="120" y="1363" width="360" height="114" name="ROUNDED_RECTANGLE">COLOUR KEY</shape-with-text>
+    <shape-with-text id="1:6351" x="550" y="1363" width="360" height="114" name="ROUNDED_RECTANGLE">START / PATHWAY / STAGE HEADER</shape-with-text>
+    <shape-with-text id="1:6355" x="980" y="1363" width="360" height="114" name="ROUNDED_RECTANGLE">QUESTION to ask the patient</shape-with-text>
+    <shape-with-text id="1:6359" x="1410" y="1363" width="360" height="114" name="ROUNDED_RECTANGLE">Patient’s answer → follow this arrow</shape-with-text>
+    <shape-with-text id="1:6363" x="1840" y="1363" width="360" height="114" name="ROUNDED_RECTANGLE">HANDS-ON CHECK or TEST</shape-with-text>
+    <shape-with-text id="1:6367" x="2270" y="1363" width="360" height="139" name="ROUNDED_RECTANGLE">EMERGENCY — act now or same day; no exercise</shape-with-text>
+    <shape-with-text id="1:6371" x="2700" y="1363" width="360" height="139" name="ROUNDED_RECTANGLE">URGENT — doctor or specialist within days</shape-with-text>
+    <shape-with-text id="1:6375" x="3130" y="1363" width="360" height="139" name="ROUNDED_RECTANGLE">SOON — check within about a week; gentle exercise can start</shape-with-text>
+    <shape-with-text id="1:6379" x="120" y="1612" width="360" height="139" name="ROUNDED_RECTANGLE">REFER — doctor or specialist within weeks; exercise alongside</shape-with-text>
+    <shape-with-text id="1:6383" x="550" y="1612" width="360" height="139" name="ROUNDED_RECTANGLE">SWITCH PATHWAY — the pain is coming from somewhere else</shape-with-text>
+    <shape-with-text id="1:6387" x="980" y="1612" width="360" height="114" name="ROUNDED_RECTANGLE">PASSED the safety screen</shape-with-text>
+    <shape-with-text id="1:6391" x="1410" y="1612" width="360" height="114" name="ROUNDED_RECTANGLE">WORKING DIAGNOSIS + NEXT STEP</shape-with-text>
+    <shape-with-text id="1:6395" x="1840" y="1612" width="360" height="139" name="SQUARE">EXERCISE GROUP (square corners) — diagnoses that share a programme</shape-with-text>
+    <shape-with-text id="1:6399" x="2270" y="1612" width="360" height="139" name="SQUARE">CORE PROGRAMME — where every group ends up</shape-with-text>
+    <shape-with-text id="1:6403" x="2700" y="1612" width="360" height="114" name="ROUNDED_RECTANGLE">MEASURE · DOSE · RE-TEST</shape-with-text>
+    <shape-with-text id="1:6407" x="3130" y="1612" width="360" height="114" name="ROUNDED_RECTANGLE">NOTE — why this matters, or context</shape-with-text>
+  </section>
+  <section id="1:7324" name="Sources" x="13405" y="-3800" width="1140" height="3100">
+    <shape-with-text id="1:6443" x="120" y="160" width="900" height="1163" name="ROUNDED_RECTANGLE">KEY SOURCES (1 of 3) — low back: guidelines, red flags and diagnosis
+• Delitto A et al. 2012. Low back pain — clinical practice guideline (CPG). JOSPT 42(4):A1. George SZ et al. 2021. Interventions for acute and chronic low back pain: CPG revision. JOSPT 51(11):CPG1.
+• NICE NG59. 2016, updated 2020. Low back pain and sciatica in over 16s: assessment and management.
+• WHO. 2023. Guideline for non-surgical management of chronic primary low back pain in adults in primary and community care settings.
+• Hartvigsen J et al.; Foster NE et al. 2018. Lancet Low Back Pain Series. Lancet 391:2356; 391:2368.
+• Finucane LM et al. 2020. International framework for red flags for potential serious spinal pathologies (IFOMPT). JOSPT 50:350. doi:10.2519/jospt.2020.9971
+• Henschke N et al. 2009. Prevalence of and screening for serious spinal pathology in primary care. Arthritis Rheum 60:3072.
+• Downie A et al. 2013. Red flags to screen for malignancy and fracture in low back pain: systematic review. BMJ 347:f7095. doi:10.1136/bmj.f7095
+• Deyo RA et al. 1992. What can the history and physical examination tell us about low back pain? JAMA 268:760.
+• Langdon J et al. 2010. Vertebral compression fractures — new clinical signs (closed-fist percussion, supine sign). Ann R Coll Surg Engl 92:163.
+• Sieper J et al. 2009. ASAS criteria for inflammatory back pain. Ann Rheum Dis 68:784.
+• Grødahl LHJ et al. 2016. History and examination for spondylolysis in athletes: systematic review. Man Ther 24:7. doi:10.1016/j.math.2016.03.011
+• Devillé WL et al. 2000. Straight-leg raise (Lasègue) for disc herniation: systematic review. Spine 25:1140.
+• Majlesi J et al. 2008. Slump and straight-leg raise accuracy. J Clin Rheumatol 14:87.
+• Suri P et al. 2010. Does this older adult have lumbar spinal stenosis? JAMA 304:2628.
+• Fritz JM et al. 1997. Two-stage treadmill test for lumbar spinal stenosis. J Spinal Disord 10:410.
+• Laslett M et al. 2005. Sacroiliac provocation tests and composites. Man Ther 10:207.
+• Mens JM et al. 2001. Active straight-leg raise test in pregnancy-related pelvic pain. Spine 26:1167. doi:10.1097/00007632-200105150-00015
+• Vleeming A et al. 2008. European guidelines for pelvic girdle pain. Eur Spine J 17:794.
+• Long A et al. 2004. Does it matter which exercise? Directional preference RCT. Spine 29:2593. doi:10.1097/01.brs.0000146464.23007.2a
+• Flynn T et al. 2002; Childs JD et al. 2004. Spinal manipulation clinical prediction rule and validation. Spine 27:2835; Ann Intern Med 141:920.
+• Hicks GE et al. 2005. Prediction rule for stabilisation exercise. Arch Phys Med Rehabil 86:1753. doi:10.1016/j.apmr.2005.03.033
+• Alrwaily M et al. 2016. Treatment-based classification system for low back pain. Phys Ther 96:1057.
+• Nijs J et al. 2015. Classification of nociceptive, neuropathic and central sensitisation pain in low back pain. Pain Physician 18:E333.
+• Neblett R et al. 2013. Central Sensitization Inventory cut-off. J Pain 14:438.
+• Hill JC et al. 2008; 2011. STarT Back tool; STarT Back stratified care RCT. Arthritis Rheum 59:632; Lancet 378:1560.
+• Ostelo RW et al. 2008. Minimal important change for back pain measures. Spine 33:90. doi:10.1097/BRS.0b013e31815e3a10
+• Delitto A et al. 2015. Surgery vs physical therapy for lumbar spinal stenosis (RCT). Ann Intern Med 162:465. doi:10.7326/M14-1420</shape-with-text>
+    <shape-with-text id="1:6447" x="120" y="1433" width="900" height="782" name="ROUNDED_RECTANGLE">KEY SOURCES (2 of 3) — neck and upper back
+• Blanpied PR et al. 2017. Neck pain — CPG revision. JOSPT 47(7):A1.
+• Rushton A et al. 2023. International IFOMPT cervical framework: vascular pathologies of the neck. JOSPT 53:7. doi:10.2519/jospt.2022.11147
+• Stiell IG et al. 2001. The Canadian C-Spine Rule. JAMA 286:1841.
+• Hoffman JR et al. 2000. NEXUS criteria to rule out cervical spine injury. NEJM 343:94. doi:10.1056/NEJM200007133430203
+• Cook C et al. 2010. Clustered clinical findings for cervical spine myelopathy. J Man Manip Ther 18:175.
+• Fehlings MG et al. 2017. AO Spine guideline for degenerative cervical myelopathy. Global Spine J 7(3 Suppl):70S. doi:10.1177/2192568217701914
+• Uitvlugt G, Indenbaum S. 1988. Sharp-Purser test for atlanto-axial instability. Arthritis Rheum 31:918. doi:10.1002/art.1780310715
+• Wainner RS et al. 2003. Clinical examination for cervical radiculopathy (test-item cluster). Spine 28:52.
+• Ogince M et al. 2007. Cervical flexion-rotation test in cervicogenic headache. Man Ther 12:256.
+• Jull G et al. 2002. Exercise and manipulative therapy for cervicogenic headache (RCT). Spine 27:1835. doi:10.1097/00007632-200209010-00004
+• Spitzer WO et al. 1995. Quebec Task Force on whiplash-associated disorders. Spine 20(8 Suppl):1S.
+• Ritchie C et al. 2013. Clinical prediction rule for recovery after whiplash. Pain 154:2198.
+• Michaleff ZA et al. 2014. PROMISE trial: exercise programme vs advice for chronic whiplash. Lancet 384:133. doi:10.1016/S0140-6736(14)60457-8
+• Andersen LL et al. 2008. Specific strength training for chronic neck muscle pain (RCT). Arthritis Rheum 59:84. doi:10.1002/art.23256
+• Linton SJ et al. 2011. Short-form Örebro Musculoskeletal Pain Screening Questionnaire. Spine 36:1891. doi:10.1097/BRS.0b013e3181f8f775
+• Katzman WB et al. 2017. SHEAF trial: spine strengthening and posture training for hyperkyphosis. Osteoporos Int 28:2831. doi:10.1007/s00198-017-4109-x
+• International Classification of Headache Disorders, 3rd edition (ICHD-3). 2018. Cervicogenic headache criteria.</shape-with-text>
+    <shape-with-text id="1:6451" x="120" y="2325" width="900" height="655" name="ROUNDED_RECTANGLE">KEY SOURCES (3 of 3) — exercise, bone health, context
+• Hayden JA et al. 2021. Exercise therapy for chronic low back pain (Cochrane). CD009790. doi:10.1002/14651858.CD009790.pub2
+• Owen PJ et al. 2020. Which exercise modes work best for chronic low back pain? Network meta-analysis. Br J Sports Med 54:1279. doi:10.1136/bjsports-2019-100886
+• Basson A et al. 2017. Neural mobilisation for neuromusculoskeletal conditions: meta-analysis. JOSPT 47:593. doi:10.2519/jospt.2017.7117
+• Steffens D et al. 2016. Prevention of low back pain: meta-analysis. JAMA Intern Med 176:199. doi:10.1001/jamainternmed.2015.7431
+• da Silva T et al. 2019. Recurrence of low back pain is common. J Physiother 65:159. doi:10.1016/j.jphys.2019.04.010
+• French SD et al. 2006. Superficial heat or cold for low back pain (Cochrane).
+• Sinaki M et al. 2002. Stronger back muscles reduce vertebral fractures: 10-year follow-up. Bone 30:836. doi:10.1016/s8756-3282(02)00739-1
+• Watson SL et al. 2018. LIFTMOR: high-intensity resistance and impact training in low bone mass. J Bone Miner Res 33:211. doi:10.1002/jbmr.3284
+• Giangregorio LM et al. 2014. Too Fit To Fracture: exercise recommendations for osteoporosis. Osteoporos Int 25:821.
+• Bull FC et al. 2020. WHO guidelines on physical activity and sedentary behaviour. Br J Sports Med 54:1451.
+• Osteoarticular tuberculosis review, 2020 (as cited on the Hip &amp; Knee board).
+
+Accuracy figures in the boxes were checked against PubMed abstracts where available. Boxes marked “consensus” have no validated accuracy figure.</shape-with-text>
+  </section>
+  <section id="1:7325" name="Start here" x="-120" y="0" width="23880" height="1714">
+    <shape-with-text id="1:6411" x="11660" y="160" width="560" height="258" name="ROUNDED_RECTANGLE">START
+Patient reports back, neck or upper-back pain.
+Already established: the pain seems musculoskeletal (spine, joints, discs, muscles or nerves). Stage 1 still re-checks the organs that most often disguise themselves as back or neck pain.</shape-with-text>
+    <shape-with-text id="1:6415" x="11680" y="528" width="520" height="222" name="ROUNDED_RECTANGLE">Q0 · Where is the main pain?
+ASK: “Point with one finger to where it hurts the most, then show me everywhere else you feel it.”
+DO: draw it on a body chart — the drawing is reused in Stage 2 and at every re-test.</shape-with-text>
+    <connector id="1:7334" x="11940" y="424" connectorStart="1:6411" connectorStartCap="NONE" connectorEnd="1:6415" connectorEndCap="ARROW_LINES">G-START&amp;gt;G-Q0</connector>
+    <shape-with-text id="1:6419" x="5180" y="970" width="320" height="139" name="ROUNDED_RECTANGLE">Low back, buttock or leg (below the lowest ribs)</shape-with-text>
+    <connector id="1:7338" x="5340" y="756" connectorStart="1:6415" connectorStartCap="NONE" connectorEnd="1:6419" connectorEndCap="ARROW_LINES">G-Q0&amp;gt;G-A0L</connector>
+    <shape-with-text id="1:6423" x="11780" y="970" width="320" height="139" name="ROUNDED_RECTANGLE">Mid-back at the bottom of the ribs, or both regions, or not sure</shape-with-text>
+    <connector id="1:7342" x="11940" y="756" connectorStart="1:6415" connectorStartCap="NONE" connectorEnd="1:6423" connectorEndCap="ARROW_LINES">G-Q0&amp;gt;G-A0B</connector>
+    <shape-with-text id="1:6427" x="18200" y="970" width="320" height="165" name="ROUNDED_RECTANGLE">Neck, head, top of the shoulder, between or over the shoulder blades, or down the arm</shape-with-text>
+    <connector id="1:7346" x="11940" y="756" connectorStart="1:6415" connectorStartCap="NONE" connectorEnd="1:6427" connectorEndCap="ARROW_LINES">G-Q0&amp;gt;G-A0N</connector>
+    <shape-with-text id="1:6431" x="11680" y="1245" width="520" height="349" name="ROUNDED_RECTANGLE">Use MOVEMENT to decide
+Ask them to bend, arch and twist the low back, then turn, tip and nod the head and lift both arms. The region whose movement reproduces the familiar pain is the source.
+Mid-back pain that changes with breathing, twisting the chest or arm movement → NECK &amp; UPPER BACK pathway. Pain that changes with bending and arching the low back → LOW BACK pathway.
+Mid-back (thoracic) pain is itself a warning sign for fracture, cancer and TB — run the Stage 1 checks carefully.</shape-with-text>
+    <connector id="1:7350" x="11940" y="1115" connectorStart="1:6423" connectorStartCap="NONE" connectorEnd="1:6431" connectorEndCap="ARROW_LINES">G-A0B&amp;gt;G-N0B</connector>
+  </section>
+  <section id="1:7326" name="Low back · Stage 1 · Safety screen" x="4150" y="2414" width="2140" height="7688">
+    <shape-with-text id="1:6435" x="780" y="160" width="1100" height="190" name="ROUNDED_RECTANGLE">LOW BACK PATHWAY
+Stage 1 safety screen (12 checks) → Stage 2 which low-back problem is it (12 working diagnoses) → Stage 3 exercise group (6 groups + a core programme) → Stage 4 measure, dose, re-test.</shape-with-text>
+    <shape-with-text id="1:6455" x="780" y="460" width="1100" height="297" name="ROUNDED_RECTANGLE">STAGE 1 — SAFETY SCREEN: Is this back pain safe to treat with exercise?
+Ask the 12 checks in order, most time-critical first. Any YES stops the pathway and names the action. All NO → Stage 2.
+Read this first: fewer than 1 in 100 people with new back pain in primary care have a serious cause, yet 80% have at least one “red flag” (Henschke 2009). A single flag on its own is weak; clusters, the whole story and change over time matter more (IFOMPT red-flag framework, Finucane 2020).</shape-with-text>
+    <connector id="1:7370" x="1330" y="356" connectorStart="1:6435" connectorStartCap="NONE" connectorEnd="1:6455" connectorEndCap="ARROW_LINES">G-LB&amp;gt;LS1</connector>
+    <shape-with-text id="1:6559" x="120" y="867" width="560" height="688" name="ROUNDED_RECTANGLE">SAFETY MODIFIERS — not stops; they change who signs off and how hard you start
+• Chest pain, breathlessness or fainting with effort → doctor before progressive exercise.
+• Blood pressure clearly uncontrolled → doctor sign-off first (use the local cut-off).
+• Pregnancy → avoid lying flat on the back after the first trimester; pelvic girdle pain is common and exercise-responsive (LD10).
+• Known osteoporosis → avoid loaded bending and twisting of the spine (Group LX-F).
+• Diabetes → check the feet before barefoot work.
+
+YELLOW FLAGS — record now, score in Stage 4
+• Belief that pain means damage, fear of bending, expecting to need a scan or surgery, low mood, poor sleep, worries about work or money. These predict slow recovery better than any scan or tissue label.
+
+CONTEXT TO RECORD (changes the plan)
+• Heavy manual or field work, carrying water or head-loads, long hours bent over (planting, washing clothes, sweeping), two-wheeler or auto-rickshaw driving, floor sitting and squatting toilets define the goals.</shape-with-text>
+    <shape-with-text id="1:6459" x="780" y="867" width="660" height="485" name="ROUNDED_RECTANGLE">L1 · Cauda equina syndrome (pressure on the bundle of nerves at the bottom of the spine)
+ASK (privately and plainly): NEW trouble passing urine — hard to start, weak stream, can’t tell when the bladder is full? Leaking urine or stool? Numbness between the legs or around the back passage (the “saddle” area) — e.g. can’t feel the toilet paper? NEW loss of sexual feeling or function? Sciatica in BOTH legs, or leg weakness getting worse?
+CHECK: ask how they last passed urine; light touch on the inner thighs and buttocks if trained and acceptable to the patient.
+EVIDENCE: urinary retention is the most consistent finding (sensitivity about 90%; Deyo 1992), but early cauda equina often shows only subtle bladder or saddle changes — act on symptoms, don’t wait for full retention. No single finding is reliable; any combination needs same-day imaging (consensus; Finucane 2020).
+WHO: anyone trained
+Any NEW bladder, bowel, saddle or sexual change, or sciatica in both legs?</shape-with-text>
+    <connector id="1:7374" x="1110" y="763" connectorStart="1:6455" connectorStartCap="NONE" connectorEnd="1:6459" connectorEndCap="ARROW_LINES">LS1&amp;gt;L1</connector>
+    <shape-with-text id="1:6463" x="1600" y="986" width="420" height="247" name="ROUNDED_RECTANGLE">EMERGENCY — SAME DAY
+Same-day emergency MRI via the doctor or the nearest hospital. No exercise.
+Every back-pain patient also leaves with the cauda equina warning card: come back immediately if any of these start.</shape-with-text>
+    <connector id="1:7378" x="1446" y="1089.5" connectorStart="1:6459" connectorStartCap="NONE" connectorEnd="1:6463" connectorEndCap="ARROW_LINES">L1&amp;gt;L1Y</connector>
+    <shape-with-text id="1:6467" x="780" y="1462" width="660" height="349" name="ROUNDED_RECTANGLE">L2 · Spinal fracture after major injury
+ASK: Road accident, fall from a height (roof, tree, ladder, well), a heavy load falling on the back, or a kick from an animal? Can you move your legs and feel your feet?
+CHECK: look for bruising or grazes over the spine; press along the bony midline for one very tender spot; check leg strength and feeling.
+EVIDENCE: severe trauma raises the chance of a spinal fracture to about 11%; a bruise or graze over the spine to about 62% (post-test probabilities, Downie 2013).
+WHO: anyone trained
+Major injury with midline tenderness, bruising, or any leg weakness or numbness?</shape-with-text>
+    <connector id="1:7382" x="1089.5" y="1358" connectorStart="1:6459" connectorStartCap="NONE" connectorEnd="1:6467" connectorEndCap="ARROW_LINES">L1&amp;gt;L2</connector>
+    <shape-with-text id="1:6471" x="1600" y="1538" width="420" height="197" name="ROUNDED_RECTANGLE">EMERGENCY
+Keep them lying flat; move the body as one unit (log-roll); emergency transfer for imaging. No exercise.</shape-with-text>
+    <connector id="1:7386" x="1446" y="1616.5" connectorStart="1:6467" connectorStartCap="NONE" connectorEnd="1:6471" connectorEndCap="ARROW_LINES">L2&amp;gt;L2Y</connector>
+    <shape-with-text id="1:6475" x="780" y="1921" width="660" height="409" name="ROUNDED_RECTANGLE">L3 · Spinal infection (bone or disc infection, epidural abscess)
+ASK: Fever, chills or night sweats with the back pain? A recent infection (urine, skin, chest), spinal injection or surgery? Injecting drug use, diabetes, kidney failure, HIV, steroid tablets or chemotherapy?
+CHECK: temperature; firm tap (percussion) over each spinal bone for one exquisitely tender level; is the pain severe, constant and worse at night?
+EVIDENCE: fever is often absent in spinal infection, so a normal temperature does NOT clear this check; the classic trio of fever, back pain and weakness is present in only a minority of epidural abscesses (consensus; Finucane 2020).
+WHO: basic kit (thermometer)
+Fever, OR constant severe pain with an infection risk factor?</shape-with-text>
+    <connector id="1:7390" x="1089.5" y="1817" connectorStart="1:6467" connectorStartCap="NONE" connectorEnd="1:6475" connectorEndCap="ARROW_LINES">L2&amp;gt;L3</connector>
+    <shape-with-text id="1:6479" x="1600" y="2027" width="420" height="197" name="ROUNDED_RECTANGLE">EMERGENCY — SAME DAY
+Doctor today for blood tests (white cells, ESR/CRP) and imaging. Any new leg weakness = emergency transfer. No exercise.</shape-with-text>
+    <connector id="1:7394" x="1446" y="2105.5" connectorStart="1:6475" connectorStartCap="NONE" connectorEnd="1:6479" connectorEndCap="ARROW_LINES">L3&amp;gt;L3Y</connector>
+    <shape-with-text id="1:6483" x="780" y="2440" width="660" height="510" name="ROUNDED_RECTANGLE">L4 · Not from the spine — kidney, abdomen, pelvis or a swollen main artery (aortic aneurysm)
+ASK: Does the pain stay the same whatever position you take? Does it come in waves (colic), with fever, burning or blood in the urine? Linked to eating, periods, pregnancy or bleeding? An older smoker with deep central back or tummy pain? Fainting or sweating?
+CHECK: do bending, arching and twisting change the pain at all? Gentle fist-tap over each kidney (the angle under the lowest rib). With the patient lying down, feel above the navel for a pulsing mass. Pulse and blood pressure.
+POSITIVE IF: movement doesn’t change the pain AND any feature above is present.
+NOTE: a leaking aortic aneurysm felt in the back is time-critical — older male smokers with high blood pressure are at most risk. In women who could be pregnant, early-pregnancy pain or bleeding must be ruled out (consensus).
+WHO: anyone trained; basic kit (BP cuff)
+Pain not changed by movement, with a kidney, abdominal, pelvic or artery sign?</shape-with-text>
+    <connector id="1:7398" x="1089.5" y="2336" connectorStart="1:6475" connectorStartCap="NONE" connectorEnd="1:6483" connectorEndCap="ARROW_LINES">L3&amp;gt;L4</connector>
+    <shape-with-text id="1:6487" x="1600" y="2584" width="420" height="222" name="ROUNDED_RECTANGLE">EMERGENCY — SAME DAY
+Pulsing mass, fainting, low blood pressure or sudden severe pain → emergency transfer now. Kidney or pelvic signs → same-day doctor. Not an exercise problem.</shape-with-text>
+    <connector id="1:7402" x="1446" y="2675" connectorStart="1:6483" connectorStartCap="NONE" connectorEnd="1:6487" connectorEndCap="ARROW_LINES">L4&amp;gt;L4Y</connector>
+    <shape-with-text id="1:6491" x="780" y="3060" width="660" height="434" name="ROUNDED_RECTANGLE">L5 · Severe or worsening nerve damage (progressive neurological deficit)
+ASK: Is a leg or foot getting weaker week by week? Tripping because the foot slaps or drops? Numbness spreading?
+CHECK (compare sides): walk on the heels (L4–L5) and on the toes (S1); 10 single-leg heel raises; lift the big toe against your finger (L5); knee and ankle reflexes if trained; light touch on the shin, top of the foot and outer foot.
+POSITIVE IF: clear weakness (can’t heel- or toe-walk), foot drop, weakness in more than one nerve-root area, or weakness worse than at the last visit.
+NOTE: a mild, STABLE deficit with sciatica is common and is NOT a stop — it goes to Stage 2 (sciatica). Progression is what matters (consensus; NICE NG59).
+WHO: anyone trained (heel/toe walk); physio-level (reflexes)
+Marked or worsening weakness, or foot drop?</shape-with-text>
+    <connector id="1:7406" x="1089.5" y="2956" connectorStart="1:6483" connectorStartCap="NONE" connectorEnd="1:6491" connectorEndCap="ARROW_LINES">L4&amp;gt;L5</connector>
+    <shape-with-text id="1:6495" x="1600" y="3179" width="420" height="197" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Doctor or spine surgeon within days; SAME DAY if it is getting worse quickly. Keep gentle walking; no loaded exercise until reviewed.</shape-with-text>
+    <connector id="1:7410" x="1446" y="3257.5" connectorStart="1:6491" connectorStartCap="NONE" connectorEnd="1:6495" connectorEndCap="ARROW_LINES">L5&amp;gt;L5Y</connector>
+    <shape-with-text id="1:6499" x="780" y="3604" width="660" height="502" name="ROUNDED_RECTANGLE">L6 · Fragility (osteoporotic) fracture of a spinal bone
+ASK: Over 50 (especially a woman after menopause), or anyone over 70? Long-term steroid tablets? Sudden back pain after a minor strain, cough, sneeze, lifting a child or a small fall? Getting shorter or more stooped?
+CHECK:
+• Closed-fist percussion: patient standing facing a mirror; gently thump down the spine with the side of a closed fist. Sharp, sudden, fracture-like pain = positive. Sensitivity 87.5%, specificity 90% (Langdon 2010).
+• Supine sign: can’t lie flat on the back on one pillow because of severe pain = positive. Sensitivity 81%, specificity 93% (Langdon 2010).
+EVIDENCE: long-term steroid use raises the chance of fracture to about 33%; several red flags together to about 90% (Downie 2013). Age over 70, steroid use, significant trauma and female sex are the informative fracture flags in primary care (Henschke 2009).
+WHO: anyone trained
+Risk factor AND a positive percussion or supine sign?</shape-with-text>
+    <connector id="1:7414" x="1089.5" y="3500" connectorStart="1:6491" connectorStartCap="NONE" connectorEnd="1:6499" connectorEndCap="ARROW_LINES">L5&amp;gt;L6</connector>
+    <shape-with-text id="1:6503" x="1600" y="3719" width="420" height="273" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Doctor for an X-ray and a bone-health review (osteoporosis medicines, calcium, vitamin D). Pain relief and gentle walking meanwhile; avoid lifting and loaded bending.
+Once confirmed stable → Stage 2 box LD12 and Exercise Group LX-F (dashed arrow).</shape-with-text>
+    <connector id="1:7418" x="1446" y="3835.5" connectorStart="1:6499" connectorStartCap="NONE" connectorEnd="1:6503" connectorEndCap="ARROW_LINES">L6&amp;gt;L6Y</connector>
+    <shape-with-text id="1:6507" x="780" y="4216" width="660" height="451" name="ROUNDED_RECTANGLE">L7 · Possible cancer in the spine
+ASK: Have you EVER had cancer (breast, prostate, lung, kidney, thyroid, blood)? Unexplained weight loss? Pain that is constant, worse lying down or at night, eased by no position? Over 50 with a first-ever episode? Not getting better after 4–6 weeks of good care? Pain in the mid-back (rib level)?
+CHECK: weigh and compare with the record; tap each spinal bone for a single tender level; look and feel for lumps.
+EVIDENCE: a past history of cancer is the most useful single flag — it raises the chance of spinal cancer to about 33% (Downie 2013). Most other flags (age, night pain alone) shift the odds very little on their own.
+NOTE: night pain ALONE is common in ordinary back pain. Escalate night pain that comes WITH a cancer history, weight loss, constant pain or no improvement.
+WHO: anyone trained
+Cancer history, OR night/constant pain plus another warning sign?</shape-with-text>
+    <connector id="1:7422" x="1089.5" y="4112" connectorStart="1:6499" connectorStartCap="NONE" connectorEnd="1:6507" connectorEndCap="ARROW_LINES">L6&amp;gt;L7</connector>
+    <shape-with-text id="1:6511" x="1600" y="4343" width="420" height="197" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Doctor for blood tests and imaging before any loading exercise. Any leg weakness or bladder change → L1 / L5, same day.</shape-with-text>
+    <connector id="1:7426" x="1446" y="4421.5" connectorStart="1:6507" connectorStartCap="NONE" connectorEnd="1:6511" connectorEndCap="ARROW_LINES">L7&amp;gt;L7Y</connector>
+    <shape-with-text id="1:6515" x="780" y="4777" width="660" height="400" name="ROUNDED_RECTANGLE">L8 · Spinal tuberculosis (Pott’s disease)
+ASK: Back pain for weeks to months that keeps getting worse? Night sweats, evening fevers, cough, weight loss, poor appetite? TB now or in the past, or in the family? HIV or diabetes?
+CHECK: look from the side for a sharp, angled hump (gibbus); tap each spinal bone for one tender level; a stiff spine held by muscle spasm; leg strength (L5).
+NOTE: the spine is the commonest site of bone and joint TB (about half of cases), usually the lower thoracic and upper lumbar spine; delay risks collapse of the spine and paralysis (osteoarticular TB review, 2020). In TB-endemic areas keep a low threshold.
+WHO: anyone trained
+Worsening back pain with TB features, or a gibbus?</shape-with-text>
+    <connector id="1:7430" x="1089.5" y="4673" connectorStart="1:6507" connectorStartCap="NONE" connectorEnd="1:6515" connectorEndCap="ARROW_LINES">L7&amp;gt;L8</connector>
+    <shape-with-text id="1:6519" x="1600" y="4866" width="420" height="222" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Doctor for a TB work-up (blood tests, chest X-ray, spine imaging). No loading exercise or manipulation until assessed. Leg weakness → same day.</shape-with-text>
+    <connector id="1:7434" x="1446" y="4957" connectorStart="1:6515" connectorStartCap="NONE" connectorEnd="1:6519" connectorEndCap="ARROW_LINES">L8&amp;gt;L8Y</connector>
+    <shape-with-text id="1:6523" x="780" y="5287" width="660" height="426" name="ROUNDED_RECTANGLE">L9 · Child or teenager with back pain
+ASK: Under 18? Pain for more than 4 weeks? Night pain, fever, weight loss? A stiff, curved spine or a limp? A sporty teenager (cricket fast-bowling, gymnastics, dance, weight-lifting, wrestling) whose pain is worse when ARCHING backwards?
+CHECK: forward-bend test — look from behind for a rib hump (scoliosis) and from the side for a sharp angled hump; is the curve painful and rigid? Stand on one leg and arch back (stork test): pain on the standing side?
+NOTE: in children, back pain more often has a structural cause than in adults. In young athletes with pain on arching, a stress fracture at the back of a vertebra (spondylolysis) is common — but the stork test is not accurate enough to rule it in or out (Grødahl 2016); imaging decides.
+WHO: anyone trained
+Child with a warning sign, or a teen athlete with pain on arching?</shape-with-text>
+    <connector id="1:7438" x="1089.5" y="5183" connectorStart="1:6515" connectorStartCap="NONE" connectorEnd="1:6523" connectorEndCap="ARROW_LINES">L8&amp;gt;L9</connector>
+    <shape-with-text id="1:6527" x="1600" y="5338" width="420" height="324" name="ROUNDED_RECTANGLE">SOON — WITHIN ABOUT A WEEK
+Teen athlete with arching pain: doctor for imaging; stop fast-bowling, gymnastics and other arching or impact sport meanwhile — general activity is fine.
+Night pain, fever, neurological signs, or any child under 10 → URGENT (within days).
+After clearance (healed or stable pars fracture) → LD4 and Exercise Group LX-C (dashed arrow).</shape-with-text>
+    <connector id="1:7442" x="1446" y="5480" connectorStart="1:6523" connectorStartCap="NONE" connectorEnd="1:6527" connectorEndCap="ARROW_LINES">L9&amp;gt;L9Y</connector>
+    <shape-with-text id="1:6531" x="780" y="5823" width="660" height="400" name="ROUNDED_RECTANGLE">L10 · Inflammatory back pain (axial spondyloarthritis)
+ASK — the ASAS inflammatory back pain criteria (count them): (1) started before age 40; (2) came on gradually; (3) gets better with exercise; (4) does NOT get better with rest; (5) pain at night that eases on getting up.
+Also: morning stiffness over 30 minutes? Alternating buttock pain? Psoriasis, bowel disease, a red painful eye, a swollen heel or a “sausage” finger or toe? Family history?
+POSITIVE IF: 4 or more of the 5.
+EVIDENCE: 4 of 5 = sensitivity 77%, specificity 92% in the expert cohort; 80% and 72% in the validation cohort (Sieper 2009).
+WHO: anyone trained
+4 or more of the 5?</shape-with-text>
+    <connector id="1:7446" x="1089.5" y="5719" connectorStart="1:6523" connectorStartCap="NONE" connectorEnd="1:6531" connectorEndCap="ARROW_LINES">L9&amp;gt;L10</connector>
+    <shape-with-text id="1:6535" x="1600" y="5912" width="420" height="222" name="ROUNDED_RECTANGLE">REFER — WITHIN WEEKS
+Doctor or rheumatologist (blood tests, pelvic X-ray, medicines). Keep moving meanwhile — daily mobility and posture exercise is a core part of treating axial spondyloarthritis.</shape-with-text>
+    <connector id="1:7450" x="1446" y="6003" connectorStart="1:6531" connectorStartCap="NONE" connectorEnd="1:6535" connectorEndCap="ARROW_LINES">L10&amp;gt;L10Y</connector>
+    <shape-with-text id="1:6539" x="780" y="6333" width="660" height="409" name="ROUNDED_RECTANGLE">L11 · Pain coming from the hip (or from the hip AND the back)
+ASK: Groin pain? Pain putting on socks or shoes, getting out of a vehicle, or sitting cross-legged on the floor? A limp?
+CHECK: lying on the back, bend the hip to 90° and turn it in and out; compare sides. Does this reproduce the familiar pain while back movements don’t?
+POSITIVE IF: hip movement reproduces the pain; back movement doesn’t.
+NOTE: hip osteoarthritis and back pain often coexist in older adults (“hip–spine syndrome”); groin pain with painful, limited inward hip rotation points to the hip (consensus).
+WHO: physio-level (hip rotation); anyone trained (history)
+Is the hip the source?</shape-with-text>
+    <connector id="1:7454" x="1089.5" y="6229" connectorStart="1:6531" connectorStartCap="NONE" connectorEnd="1:6539" connectorEndCap="ARROW_LINES">L10&amp;gt;L11</connector>
+    <shape-with-text id="1:6543" x="1600" y="6439" width="420" height="197" name="ROUNDED_RECTANGLE">SWITCH PATHWAY
+Go to the HIP PATHWAY on the Hip &amp; Knee board. If BOTH hip and back movements reproduce it, assess and treat both.</shape-with-text>
+    <connector id="1:7458" x="1446" y="6517.5" connectorStart="1:6539" connectorStartCap="NONE" connectorEnd="1:6543" connectorEndCap="ARROW_LINES">L11&amp;gt;L11Y</connector>
+    <shape-with-text id="1:6547" x="780" y="6852" width="660" height="409" name="ROUNDED_RECTANGLE">L12 · Leg cramp when walking — poor artery circulation (vascular claudication)
+ASK: Calf, thigh or buttock cramp after the same walking distance each time, eased within minutes by STANDING STILL (no need to sit or bend)? Smoker, diabetes, heart disease?
+CHECK: foot pulses (top of the foot, behind the inner ankle bone); cold, pale, hairless or shiny skin; slow-healing sores.
+NOTE: nerve-related claudication from spinal stenosis eases only with SITTING or BENDING FORWARD; artery-related claudication eases with standing still. Some people have both (consensus).
+WHO: anyone trained; basic kit
+Walking-distance cramp eased by standing still, with poor circulation signs?</shape-with-text>
+    <connector id="1:7462" x="1089.5" y="6748" connectorStart="1:6539" connectorStartCap="NONE" connectorEnd="1:6547" connectorEndCap="ARROW_LINES">L11&amp;gt;L12</connector>
+    <shape-with-text id="1:6551" x="1600" y="6958" width="420" height="197" name="ROUNDED_RECTANGLE">REFER — ROUTINE
+Doctor for a circulation check (ankle–brachial pressure index). Supervised walking exercise helps once assessed.</shape-with-text>
+    <connector id="1:7466" x="1446" y="7036.5" connectorStart="1:6547" connectorStartCap="NONE" connectorEnd="1:6551" connectorEndCap="ARROW_LINES">L12&amp;gt;L12Y</connector>
+    <shape-with-text id="1:6555" x="780" y="7371" width="660" height="197" name="ROUNDED_RECTANGLE">ALL 12 = NO → EXERCISE-RESPONSIVE (BY EXCLUSION)
+Go to Stage 2. Give everyone the cauda equina warning card and safety-net advice. This label is confirmed by improvement at the week-4 re-test; if nothing improves, come back to this list.</shape-with-text>
+    <connector id="1:7470" x="1089.5" y="7267" connectorStart="1:6547" connectorStartCap="NONE" connectorEnd="1:6555" connectorEndCap="ARROW_LINES">L12&amp;gt;LPASS</connector>
+  </section>
+  <section id="1:7327" name="Low back · Stage 2 · Which low-back problem" x="0" y="10802" width="10440" height="4474">
+    <shape-with-text id="1:6563" x="4670" y="160" width="1100" height="247" name="ROUNDED_RECTANGLE">STAGE 2 — WHICH LOW-BACK PROBLEM IS IT?
+For most people no exact tissue can be named, and naming one wouldn’t change care (Lancet Low Back Pain Series 2018). So this stage sorts people by HOW their pain behaves — where it spreads, which repeated movement eases it, how long it has lasted, how widespread it is — because that is what picks the exercise group (JOSPT CPG; treatment-based classification, Alrwaily 2016).</shape-with-text>
+    <shape-with-text id="1:6571" x="4960" y="840" width="520" height="205" name="ROUNDED_RECTANGLE">LQ1 · Where do the symptoms go? (use the body chart from Q0)
+ASK: “Show me everywhere you feel it. Does anything shoot down the leg? Any numbness or pins and needles?”</shape-with-text>
+    <connector id="1:7486" x="5220" y="413" connectorStart="1:6563" connectorStartCap="NONE" connectorEnd="1:6571" connectorEndCap="ARROW_LINES">LS2&amp;gt;LQ1</connector>
+    <shape-with-text id="1:6575" x="1940" y="1155" width="320" height="139" name="ROUNDED_RECTANGLE">Back and/or buttock, maybe the thigh — nothing below the knee</shape-with-text>
+    <connector id="1:7490" x="2100" y="1051" connectorStart="1:6571" connectorStartCap="NONE" connectorEnd="1:6575" connectorEndCap="ARROW_LINES">LQ1&amp;gt;LQ1a</connector>
+    <shape-with-text id="1:6595" x="1790" y="1404" width="620" height="638" name="ROUNDED_RECTANGLE">LT1 · Repeated-movement test — is there a DIRECTIONAL PREFERENCE?
+• Record a baseline first: where the pain reaches, how bad (0–10), how far they can bend and arch.
+• Arching (extension): lying face down, push up on the hands keeping the hips down (prone press-up) × 10; or standing back-bends × 10 if they can’t lie down.
+• Bending (flexion): lying on the back, pull both knees to the chest × 10; or seated forward bend × 10.
+• Visible shift: glide the hips back to the middle against a wall × 10, then retest.
+• After each set, re-check where the pain reaches, how bad, and how far they move.
+POSITIVE (preference) IF: one direction makes buttock or thigh pain retreat toward the middle of the back (CENTRALISE) or disappear, eases the pain and improves movement — and keeps doing so set after set.
+EVIDENCE: a directional preference was found in 74% of people with back pain, and exercise matched to it beat both the opposite direction and general exercise on every outcome (Long 2004, 312 patients). Centralisation also predicts a good outcome.
+WHO: anyone trained (do it); physio-level (interpret unclear cases)</shape-with-text>
+    <connector id="1:7510" x="2100" y="1300" connectorStart="1:6575" connectorStartCap="NONE" connectorEnd="1:6595" connectorEndCap="ARROW_LINES">LQ1a&amp;gt;LT1</connector>
+    <shape-with-text id="1:6599" x="250" y="2152" width="320" height="165" name="ROUNDED_RECTANGLE">Arching (extension) centralises or eases it — sitting and bending are usually what hurt</shape-with-text>
+    <connector id="1:7514" x="410" y="2048" connectorStart="1:6595" connectorStartCap="NONE" connectorEnd="1:6599" connectorEndCap="ARROW_LINES">LT1&amp;gt;LT1a</connector>
+    <shape-with-text id="1:6615" x="120" y="2427" width="580" height="493" name="ROUNDED_RECTANGLE">LD1 · WORKING DIAGNOSIS: Low back pain with a directional preference for EXTENSION (centralising back pain)
+WHAT IT IS: back pain, often spreading to the buttock or thigh, that eases and centralises with repeated arching. Usually worse with sitting, bending and lifting; better walking. Often called “disc-related”, though that can’t be confirmed without imaging — and doesn’t need to be.
+NEXT STEP: repeated extension in the direction that centralises, 10 reps every 2–3 hours, progressing from lying to standing; short sitting bouts with a lumbar roll; then load up through the core programme.
+AVOID (for now): long slumped sitting and repeated loaded bending.
+PROGRESS WHEN: pain stays central and bending returns — bending is reintroduced gradually, not banned for life.
+EXERCISE GROUP: LX-A (extension branch)
+STAGE 4 MODULE: back module.</shape-with-text>
+    <connector id="1:7530" x="410" y="2323" connectorStart="1:6599" connectorStartCap="NONE" connectorEnd="1:6615" connectorEndCap="ARROW_LINES">LT1a&amp;gt;LD1</connector>
+    <shape-with-text id="1:6603" x="900" y="2152" width="320" height="165" name="ROUNDED_RECTANGLE">Bending (flexion) eases it — standing, walking and arching are usually what hurt</shape-with-text>
+    <connector id="1:7518" x="1060" y="2048" connectorStart="1:6595" connectorStartCap="NONE" connectorEnd="1:6603" connectorEndCap="ARROW_LINES">LT1&amp;gt;LT1b</connector>
+    <shape-with-text id="1:6619" x="770" y="2427" width="580" height="443" name="ROUNDED_RECTANGLE">LD2 · WORKING DIAGNOSIS: Low back pain with a directional preference for FLEXION (extension-intolerant back pain)
+WHAT IT IS: pain eased by bending forward or sitting, provoked by standing, walking far, arching or lying on the stomach. Commoner in older adults; often blamed on the small facet joints or narrowing, but no bedside test confirms a single tissue.
+NEXT STEP: flexion-biased exercise (knees-to-chest, pelvic tilts, seated bending), hip-flexor stretch and hip-extensor strength, then trunk strength and walking with planned rests.
+AVOID (for now): sustained arching and long standing without breaks.
+EXERCISE GROUP: LX-A (flexion branch)
+STAGE 4 MODULE: back module.</shape-with-text>
+    <connector id="1:7534" x="1060" y="2323" connectorStart="1:6603" connectorStartCap="NONE" connectorEnd="1:6619" connectorEndCap="ARROW_LINES">LT1b&amp;gt;LD2</connector>
+    <shape-with-text id="1:6607" x="2395" y="2152" width="320" height="165" name="ROUNDED_RECTANGLE">No direction helps, or too sore to test → ask about the history (LQ2)</shape-with-text>
+    <connector id="1:7522" x="2100" y="2048" connectorStart="1:6595" connectorStartCap="NONE" connectorEnd="1:6607" connectorEndCap="ARROW_LINES">LT1&amp;gt;LT1c</connector>
+    <shape-with-text id="1:6623" x="2295" y="2427" width="520" height="205" name="ROUNDED_RECTANGLE">LQ2 · How long has this episode lasted, and how does it behave?
+ASK: “When did this episode start? Has it happened before? What happens when you bend down and come back up?”</shape-with-text>
+    <connector id="1:7538" x="2555" y="2323" connectorStart="1:6607" connectorStartCap="NONE" connectorEnd="1:6623" connectorEndCap="ARROW_LINES">LT1c&amp;gt;LQ2</connector>
+    <shape-with-text id="1:6627" x="1550" y="2742" width="320" height="190" name="ROUNDED_RECTANGLE">Under 6 weeks, first or occasional episode; stiff, guarded, sore to move in all directions</shape-with-text>
+    <connector id="1:7546" x="1710" y="2638" connectorStart="1:6623" connectorStartCap="NONE" connectorEnd="1:6627" connectorEndCap="ARROW_LINES">LQ2&amp;gt;LQ2a</connector>
+    <shape-with-text id="1:6639" x="1420" y="3042" width="580" height="510" name="ROUNDED_RECTANGLE">LD3 · WORKING DIAGNOSIS: Acute low back pain with mobility deficits (“acute lumbago”)
+WHAT IT IS: a recent, stiff, painful back with no leg symptoms below the knee and no nerve signs. Most episodes improve a lot within 6 weeks.
+NEXT STEP: reassurance that it is not damage; stay active and keep working where possible (bed rest slows recovery); heat wrap; gentle movement in all directions within comfort; short walks. A physio may add spinal manipulation: with symptoms for under 16 days and none below the knee, a fast response is more likely (prediction rule — Flynn 2002, 4 of 5 items LR+ 24.4; validated in an RCT with number needed to treat 1.9, Childs 2004). Later studies found the rule weaker elsewhere, so treat it as a guide.
+AVOID: bed rest, braces or corsets, scans “just to check” (NICE NG59).
+EXERCISE GROUP: LX-B (move early)
+STAGE 4 MODULE: back module (irritability is usually HIGH at first).</shape-with-text>
+    <connector id="1:7558" x="1710" y="2938" connectorStart="1:6627" connectorStartCap="NONE" connectorEnd="1:6639" connectorEndCap="ARROW_LINES">LQ2a&amp;gt;LD3</connector>
+    <shape-with-text id="1:6631" x="2395" y="2742" width="320" height="190" name="ROUNDED_RECTANGLE">Keeps coming back; “catches”, “gives way” or locks when bending or coming back up; feels better in a belt</shape-with-text>
+    <connector id="1:7550" x="2555" y="2638" connectorStart="1:6623" connectorStartCap="NONE" connectorEnd="1:6631" connectorEndCap="ARROW_LINES">LQ2&amp;gt;LQ2b</connector>
+    <shape-with-text id="1:6643" x="2245" y="3042" width="620" height="434" name="ROUNDED_RECTANGLE">LT4 · Movement-control check — does the back move in a jerky, poorly controlled way?
+• Watch bending forward and returning upright: a painful arc, a sudden “catch”, walking the hands up the thighs to stand (Gowers sign), or a reversed rhythm (hips straighten first, then the back) = aberrant movement.
+• Prone instability test (physio-level): lying face down over the end of a bed, feet on the floor; press on each low-back vertebra. Then lift the feet slightly (back muscles switch on) and press again. Pain that DISAPPEARS when the muscles switch on = positive.
+• Prediction rule — likely to respond to stabilisation exercise if 3 or more of: age under 40; straight-leg raise over 91°; aberrant movement; positive prone instability test (Hicks 2005: LR+ 4.0 for success).
+WHO: anyone trained (watch movement); physio-level (prone instability test)</shape-with-text>
+    <connector id="1:7562" x="2555" y="2938" connectorStart="1:6631" connectorStartCap="NONE" connectorEnd="1:6643" connectorEndCap="ARROW_LINES">LQ2b&amp;gt;LT4</connector>
+    <shape-with-text id="1:6647" x="2200" y="3586" width="320" height="139" name="ROUNDED_RECTANGLE">Aberrant movement, or prone instability test positive</shape-with-text>
+    <connector id="1:7566" x="2360" y="3482" connectorStart="1:6643" connectorStartCap="NONE" connectorEnd="1:6647" connectorEndCap="ARROW_LINES">LT4&amp;gt;LT4a</connector>
+    <shape-with-text id="1:6655" x="2070" y="3835" width="580" height="519" name="ROUNDED_RECTANGLE">LD4 · WORKING DIAGNOSIS: Low back pain with movement-control impairment (recurrent, “unstable-feeling” back)
+WHAT IT IS: repeated episodes with catching or giving way and poor control of bending and lifting — the problem is how the trunk is controlled under load, not one damaged tissue. Also the home for a stable degenerative slip (spondylolisthesis) and a healed or stable pars fracture after imaging (from L9).
+NEXT STEP: motor-control (stabilisation) exercise — learn to brace, then bird-dog, side-bridge and curl-up progressions, hip-hinge practice, then strength under load and work-task practice. Motor control works about as well as other active exercise, so choose what the patient will keep doing (Owen 2020).
+AVOID: passive treatment alone; relying on a belt long-term.
+EXERCISE GROUP: LX-C (motor control &amp; trunk–hip strength)
+STAGE 4 MODULE: back module.</shape-with-text>
+    <connector id="1:7574" x="2360" y="3731" connectorStart="1:6647" connectorStartCap="NONE" connectorEnd="1:6655" connectorEndCap="ARROW_LINES">LT4a&amp;gt;LD4</connector>
+    <shape-with-text id="1:6651" x="2720" y="3586" width="320" height="165" name="ROUNDED_RECTANGLE">Moves smoothly; tests negative → treat as persistent non-specific back pain (LD5)</shape-with-text>
+    <connector id="1:7570" x="2555" y="3482" connectorStart="1:6643" connectorStartCap="NONE" connectorEnd="1:6651" connectorEndCap="ARROW_LINES">LT4&amp;gt;LT4b</connector>
+    <shape-with-text id="1:6635" x="3240" y="2742" width="320" height="165" name="ROUNDED_RECTANGLE">More than 3 months; mainly in the back; worse with activity and long sitting</shape-with-text>
+    <connector id="1:7554" x="2555" y="2638" connectorStart="1:6623" connectorStartCap="NONE" connectorEnd="1:6635" connectorEndCap="ARROW_LINES">LQ2&amp;gt;LQ2c</connector>
+    <shape-with-text id="1:6659" x="3110" y="3017" width="580" height="561" name="ROUNDED_RECTANGLE">LD5 · WORKING DIAGNOSIS: Chronic (persistent) non-specific low back pain
+WHAT IT IS: back pain on most days for more than 3 months, with no serious cause and no nerve-root signs. The back has become sensitive and deconditioned, and worry, sleep, mood and work strongly shape the pain. The commonest label in this pathway.
+NEXT STEP: a structured exercise programme is the first-line treatment (NICE NG59; WHO 2023; JOSPT 2021). Any type the patient enjoys and will keep doing — strengthening, motor control, Pilates- or yoga-type, walking or other aerobic exercise — works about equally (Hayden 2021: about 15 points less pain on a 0–100 scale than no treatment or usual care; Owen 2020). Combine with education (hurt ≠ harm), pacing and graded return to valued activities. If the STarT Back score is HIGH, use the psychologically informed approach in Stage 4.
+AVOID: imaging, traction, TENS, ultrasound, belts or corsets, passive treatment on its own, opioids (NICE NG59; WHO 2023).
+EXERCISE GROUP: LX-E (graded activity &amp; conditioning)
+STAGE 4 MODULE: back module + yellow-flag module.</shape-with-text>
+    <connector id="1:7582" x="2880" y="2969" connectorStart="1:6651" connectorStartCap="NONE" connectorEnd="1:6659" connectorEndCap="ARROW_LINES">LT4b&amp;gt;LD5</connector>
+    <connector id="1:7578" x="3400" y="2913" connectorStart="1:6635" connectorStartCap="NONE" connectorEnd="1:6659" connectorEndCap="ARROW_LINES">LQ2c&amp;gt;LD5</connector>
+    <shape-with-text id="1:6611" x="3760" y="2152" width="320" height="165" name="ROUNDED_RECTANGLE">Pain spreads further down the leg with BOTH directions → nerve-root check (LT2)</shape-with-text>
+    <connector id="1:7526" x="2100" y="2048" connectorStart="1:6595" connectorStartCap="NONE" connectorEnd="1:6611" connectorEndCap="ARROW_LINES">LT1&amp;gt;LT1d</connector>
+    <shape-with-text id="1:6579" x="4995" y="1155" width="320" height="165" name="ROUNDED_RECTANGLE">Shooting pain below the knee into the foot, often with numbness or pins and needles</shape-with-text>
+    <connector id="1:7494" x="5155" y="1051" connectorStart="1:6571" connectorStartCap="NONE" connectorEnd="1:6579" connectorEndCap="ARROW_LINES">LQ1&amp;gt;LQ1b</connector>
+    <shape-with-text id="1:6663" x="4845" y="1430" width="620" height="451" name="ROUNDED_RECTANGLE">LT2 · Nerve-root check (sciatica)
+• Straight-leg raise (SLR): lying on the back, lift the straight leg slowly. Positive if it reproduces the LEG pain (not just a hamstring pull) between about 30° and 70°. Sensitivity 91%, specificity 26% — a NEGATIVE SLR helps rule disc-related nerve-root pain OUT (Devillé 2000).
+• Crossed SLR: lifting the GOOD leg reproduces pain in the bad leg. Specificity 88% — a positive result helps rule it IN (Devillé 2000).
+• Slump test: sitting slumped, chin to chest, straighten the knee and pull the foot up; positive if the leg pain is reproduced and eases when the head comes up. Sensitivity 84%, specificity 83% (Majlesi 2008).
+• Neurological screen (compare sides): L4 — knee reflex, inner-shin feeling, heel walking; L5 — big-toe lift, top-of-foot feeling; S1 — ankle reflex, toe walking and heel raises, outer-foot feeling.
+WHO: anyone trained (SLR, heel/toe walk); physio-level (slump, reflexes)</shape-with-text>
+    <connector id="1:7586" x="5155" y="1326" connectorStart="1:6579" connectorStartCap="NONE" connectorEnd="1:6663" connectorEndCap="ARROW_LINES">LQ1b&amp;gt;LT2</connector>
+    <connector id="1:7542" x="4086" y="1655.5" connectorStart="1:6611" connectorStartCap="NONE" connectorEnd="1:6663" connectorEndCap="ARROW_LINES">LT1d&amp;gt;LT2</connector>
+    <shape-with-text id="1:6667" x="4605" y="1991" width="320" height="165" name="ROUNDED_RECTANGLE">SLR or slump reproduces the leg pain, with or without numbness or mild, stable weakness</shape-with-text>
+    <connector id="1:7590" x="4765" y="1887" connectorStart="1:6663" connectorStartCap="NONE" connectorEnd="1:6667" connectorEndCap="ARROW_LINES">LT2&amp;gt;LT2a</connector>
+    <shape-with-text id="1:6679" x="4505" y="2266" width="520" height="205" name="ROUNDED_RECTANGLE">LQ3 · Does repeated arching bring the leg pain back up toward the back?
+DO: run the repeated-movement test (LT1) with extra care; stop at once if the leg pain spreads further down.</shape-with-text>
+    <connector id="1:7602" x="4765" y="2162" connectorStart="1:6667" connectorStartCap="NONE" connectorEnd="1:6679" connectorEndCap="ARROW_LINES">LT2a&amp;gt;LQ3</connector>
+    <shape-with-text id="1:6683" x="4280" y="2581" width="320" height="139" name="ROUNDED_RECTANGLE">Yes — the leg pain retreats toward the back</shape-with-text>
+    <connector id="1:7614" x="4440" y="2477" connectorStart="1:6679" connectorStartCap="NONE" connectorEnd="1:6683" connectorEndCap="ARROW_LINES">LQ3&amp;gt;LQ3a</connector>
+    <shape-with-text id="1:6691" x="4150" y="2830" width="580" height="485" name="ROUNDED_RECTANGLE">LD6 · WORKING DIAGNOSIS: Sciatica (lumbar radicular pain) that CENTRALISES
+WHAT IT IS: an irritated nerve root (usually from a disc bulge at L4–5 or L5–S1) whose leg pain retreats with repeated arching. Centralisation is a good sign; most people recover without surgery, and disc bulges commonly shrink over months.
+NEXT STEP: repeated extension in the centralising direction (as LD1), positions of ease, keep walking; once the leg pain has centralised, add nerve sliders and then the core programme.
+AVOID: any exercise that pushes pain further down the leg; long sitting; heavy lifting in the first weeks.
+REFER IF: not improving by 6–8 weeks, severe pain despite medicines, or any new weakness (NICE NG59).
+EXERCISE GROUPS: LX-A (extension branch) → LX-D
+STAGE 4 MODULE: sciatica module.</shape-with-text>
+    <connector id="1:7622" x="4440" y="2726" connectorStart="1:6683" connectorStartCap="NONE" connectorEnd="1:6691" connectorEndCap="ARROW_LINES">LQ3a&amp;gt;LD6</connector>
+    <shape-with-text id="1:6687" x="4930" y="2581" width="320" height="139" name="ROUNDED_RECTANGLE">No change, or it spreads further down (stop that direction)</shape-with-text>
+    <connector id="1:7618" x="4765" y="2477" connectorStart="1:6679" connectorStartCap="NONE" connectorEnd="1:6687" connectorEndCap="ARROW_LINES">LQ3&amp;gt;LQ3b</connector>
+    <shape-with-text id="1:6695" x="4800" y="2830" width="580" height="561" name="ROUNDED_RECTANGLE">LD7 · WORKING DIAGNOSIS: Sciatica (lumbar radicular pain / radiculopathy) — NOT centralising
+WHAT IT IS: nerve-root pain below the knee, often with pins and needles or mild stable weakness, that no repeated direction centralises. The outlook is still favourable for most within about 3 months.
+NEXT STEP: calm the nerve: positions of ease (lying on the back with the calves on a chair; side-lying with a pillow between the knees), short frequent walks, nerve sliders (gentle back-and-forth nerve movement without stretching), then gradual trunk and leg strengthening. Pain medicines through the doctor.
+AVOID: holding long nerve or hamstring stretches; anything that increases numbness or spreads the pain.
+REFER IF: worsening weakness (L5), or severe pain at 6–8 weeks despite good care — spinal injection or surgery may then be considered (NICE NG59).
+EXERCISE GROUP: LX-D (nerve-friendly)
+STAGE 4 MODULE: sciatica module.</shape-with-text>
+    <connector id="1:7626" x="5090" y="2726" connectorStart="1:6687" connectorStartCap="NONE" connectorEnd="1:6695" connectorEndCap="ARROW_LINES">LQ3b&amp;gt;LD7</connector>
+    <shape-with-text id="1:6671" x="5450" y="1991" width="320" height="165" name="ROUNDED_RECTANGLE">Both negative, no nerve signs → this is referred pain; test for a directional preference (LT1)</shape-with-text>
+    <connector id="1:7606" x="2416" y="1723" connectorStart="1:6671" connectorStartCap="NONE" connectorEnd="1:6595" connectorEndCap="ARROW_LINES">LT2b&amp;gt;LT1</connector>
+    <connector id="1:7594" x="5155" y="1887" connectorStart="1:6663" connectorStartCap="NONE" connectorEnd="1:6671" connectorEndCap="ARROW_LINES">LT2&amp;gt;LT2b</connector>
+    <shape-with-text id="1:6675" x="5840" y="1991" width="320" height="165" name="ROUNDED_RECTANGLE">Weakness getting worse, foot drop, or both legs → STOP: back to L1 / L5</shape-with-text>
+    <connector id="1:7598" x="5155" y="1887" connectorStart="1:6663" connectorStartCap="NONE" connectorEnd="1:6675" connectorEndCap="ARROW_LINES">LT2&amp;gt;LT2c</connector>
+    <shape-with-text id="1:6583" x="6750" y="1155" width="320" height="190" name="ROUNDED_RECTANGLE">One or both legs heavy, aching or numb when standing or walking; eased by sitting or bending forward</shape-with-text>
+    <connector id="1:7498" x="5220" y="1051" connectorStart="1:6571" connectorStartCap="NONE" connectorEnd="1:6583" connectorEndCap="ARROW_LINES">LQ1&amp;gt;LQ1c</connector>
+    <shape-with-text id="1:6699" x="6600" y="1455" width="620" height="587" name="ROUNDED_RECTANGLE">LT5 · Spinal stenosis check (narrowing that squeezes the nerves when standing upright) — Suri 2010 review
+ASK / OBSERVE (likelihood ratios):
+• No pain when sitting — LR+ 7.4
+• Symptoms improve when bending forward (leaning on a trolley, walking stick or bicycle handlebars) — LR+ 6.4
+• Pain in both buttocks or legs — LR+ 6.3
+• Neurogenic claudication (leg pain, heaviness or numbness that comes with walking or standing and eases with sitting) — LR+ 3.7; its ABSENCE makes stenosis unlikely (LR− 0.23)
+• Wide-based gait — LR+ 13; abnormal Romberg (feet together, eyes closed: sways or steps) — LR+ 4.2
+• Age under 60 makes it less likely (LR 0.40)
+WALK TEST: time upright walking on the flat, then walking leaning forward on a stick or trolley — a longer distance when leaning forward supports stenosis (two-stage treadmill idea, Fritz 1997).
+ALSO: feel the foot pulses — weak pulses and relief by just standing still point to the arteries instead (L12).
+WHO: anyone trained; physio-level (Romberg in unsteady older adults)</shape-with-text>
+    <connector id="1:7630" x="6910" y="1351" connectorStart="1:6583" connectorStartCap="NONE" connectorEnd="1:6699" connectorEndCap="ARROW_LINES">LQ1c&amp;gt;LT5</connector>
+    <shape-with-text id="1:6703" x="6360" y="2152" width="320" height="165" name="ROUNDED_RECTANGLE">Several features (usually over 60), eased by sitting or bending forward</shape-with-text>
+    <connector id="1:7634" x="6520" y="2048" connectorStart="1:6699" connectorStartCap="NONE" connectorEnd="1:6703" connectorEndCap="ARROW_LINES">LT5&amp;gt;LT5a</connector>
+    <shape-with-text id="1:6715" x="6230" y="2427" width="580" height="510" name="ROUNDED_RECTANGLE">LD8 · WORKING DIAGNOSIS: Lumbar spinal stenosis (neurogenic claudication)
+WHAT IT IS: age-related narrowing of the spinal canal; the nerves are squeezed more when standing upright and walking, less when bending forward or sitting. Walking distance is the key limit.
+NEXT STEP: flexion-biased exercise, stationary cycling (usually well tolerated because it is done bent forward), a walking programme with planned rests or a stick or trolley to build distance, hip and leg strengthening, balance work. In surgical candidates, physiotherapy gave similar 2-year physical function to surgery — though 57% of the physiotherapy group later crossed over to surgery (Delitto 2015).
+AVOID: long standing and prolonged arching.
+REFER IF: walking distance keeps shrinking, any bladder change (L1), or worsening weakness (L5).
+EXERCISE GROUPS: LX-A (flexion branch) + LX-E (walking programme)
+STAGE 4 MODULE: stenosis module.</shape-with-text>
+    <connector id="1:7646" x="6520" y="2323" connectorStart="1:6703" connectorStartCap="NONE" connectorEnd="1:6715" connectorEndCap="ARROW_LINES">LT5a&amp;gt;LD8</connector>
+    <shape-with-text id="1:6707" x="6880" y="2152" width="320" height="139" name="ROUNDED_RECTANGLE">Eased just by standing still; weak foot pulses → circulation (L12)</shape-with-text>
+    <connector id="1:7638" x="6910" y="2048" connectorStart="1:6699" connectorStartCap="NONE" connectorEnd="1:6707" connectorEndCap="ARROW_LINES">LT5&amp;gt;LT5b</connector>
+    <shape-with-text id="1:6711" x="7270" y="2152" width="320" height="139" name="ROUNDED_RECTANGLE">Neither picture fits → directional preference test (LT1)</shape-with-text>
+    <connector id="1:7654" x="2416" y="1723" connectorStart="1:6711" connectorStartCap="NONE" connectorEnd="1:6595" connectorEndCap="ARROW_LINES">LT5c&amp;gt;LT1</connector>
+    <connector id="1:7642" x="6910" y="2048" connectorStart="1:6699" connectorStartCap="NONE" connectorEnd="1:6711" connectorEndCap="ARROW_LINES">LT5&amp;gt;LT5c</connector>
+    <shape-with-text id="1:6587" x="8310" y="1155" width="320" height="190" name="ROUNDED_RECTANGLE">One-sided pain low over the back of the pelvis, below the belt line; pregnant, recently delivered, or after a fall on the buttock</shape-with-text>
+    <connector id="1:7502" x="5220" y="1051" connectorStart="1:6571" connectorStartCap="NONE" connectorEnd="1:6587" connectorEndCap="ARROW_LINES">LQ1&amp;gt;LQ1d</connector>
+    <shape-with-text id="1:6719" x="8160" y="1455" width="620" height="553" name="ROUNDED_RECTANGLE">LT6 · Sacroiliac joint (SIJ) and pelvic girdle check
+• Point test: the patient points to the pain — just below the bony dimple at the back of the pelvis supports the SIJ.
+• Pain provocation tests (Laslett cluster): distraction (lying on the back, press the front pelvic bones apart), thigh thrust (hip bent to 90°, push down along the thigh), compression (side-lying, press down on the pelvis), sacral thrust (lying face down, press on the sacrum), Gaenslen (one hip bent up, the other leg hanging off the bed) on both sides.
+POSITIVE IF: 3 or more of the 6 (or 2 of the first 4) reproduce the familiar pain: sensitivity 94%, specificity 78%. If NONE provokes the pain, the SIJ can be ruled out (Laslett 2005).
+• Pregnancy or after birth: add the active straight-leg raise (lying on the back, lift one straight leg 20 cm; “heavy” or hard on one side = positive; sensitivity 87%, specificity 94%, Mens 2001) and the posterior pelvic pain provocation (thigh thrust) test (European pelvic girdle guideline, Vleeming 2008).
+WHO: physio-level (provocation tests); anyone trained (active straight-leg raise)</shape-with-text>
+    <connector id="1:7658" x="8470" y="1351" connectorStart="1:6587" connectorStartCap="NONE" connectorEnd="1:6719" connectorEndCap="ARROW_LINES">LQ1d&amp;gt;LT6</connector>
+    <shape-with-text id="1:6723" x="7790" y="2118" width="320" height="139" name="ROUNDED_RECTANGLE">Positive, and pregnant or within about a year of giving birth</shape-with-text>
+    <connector id="1:7662" x="7950" y="2014" connectorStart="1:6719" connectorStartCap="NONE" connectorEnd="1:6723" connectorEndCap="ARROW_LINES">LT6&amp;gt;LT6a</connector>
+    <shape-with-text id="1:6739" x="7660" y="2367" width="580" height="536" name="ROUNDED_RECTANGLE">LD10 · WORKING DIAGNOSIS: Pregnancy-related pelvic girdle pain
+WHAT IT IS: pain at the back of the pelvis and/or over the pubic bone during pregnancy or after delivery; affects about 1 in 5 pregnant women (Vleeming 2008). Not harmful to the baby; usually settles within months of the birth.
+NEXT STEP: reassurance and education; individualised exercise for trunk and pelvic control (gentle bracing with a pelvic-floor squeeze, side-lying hip work, supported squats, bridges if comfortable); pacing; a pelvic belt for short-term relief; a pillow between the knees in bed; keep the knees together getting in and out of bed or a vehicle.
+AVOID: lying flat on the back after the first trimester; wide-legged positions and heavy lifting while painful.
+REFER IF: pain stops her walking; any bleeding, contractions or reduced baby movements → obstetric team the same day.
+EXERCISE GROUP: LX-C (pelvic girdle branch)
+STAGE 4 MODULE: pelvic girdle module.</shape-with-text>
+    <connector id="1:7674" x="7950" y="2263" connectorStart="1:6723" connectorStartCap="NONE" connectorEnd="1:6739" connectorEndCap="ARROW_LINES">LT6a&amp;gt;LD10</connector>
+    <shape-with-text id="1:6727" x="8440" y="2118" width="320" height="114" name="ROUNDED_RECTANGLE">Positive, not pregnancy-related</shape-with-text>
+    <connector id="1:7666" x="8470" y="2014" connectorStart="1:6719" connectorStartCap="NONE" connectorEnd="1:6727" connectorEndCap="ARROW_LINES">LT6&amp;gt;LT6b</connector>
+    <shape-with-text id="1:6735" x="8310" y="2342" width="580" height="400" name="ROUNDED_RECTANGLE">LD9 · WORKING DIAGNOSIS: Sacroiliac joint pain
+WHAT IT IS: pain from the joint between the base of the spine (sacrum) and the pelvis — one-sided, below the belt line, often after a fall on the buttock, a missed step, or lifting with a twist.
+NEXT STEP: load-transfer exercise: bracing, bridges, side-lying and standing hip abduction, hip extension, single-leg stance and step-ups; then the core programme. A pelvic belt can ease pain short-term while strength builds (consensus).
+AVOID: long one-legged standing and lopsided heavy carrying while it is irritable.
+EXERCISE GROUP: LX-C (pelvic girdle branch)
+STAGE 4 MODULE: back module.</shape-with-text>
+    <connector id="1:7678" x="8600" y="2238" connectorStart="1:6727" connectorStartCap="NONE" connectorEnd="1:6735" connectorEndCap="ARROW_LINES">LT6b&amp;gt;LD9</connector>
+    <shape-with-text id="1:6731" x="8960" y="2118" width="320" height="139" name="ROUNDED_RECTANGLE">Negative → directional preference test (LT1)</shape-with-text>
+    <connector id="1:7682" x="2416" y="1723" connectorStart="1:6731" connectorStartCap="NONE" connectorEnd="1:6595" connectorEndCap="ARROW_LINES">LT6c&amp;gt;LT1</connector>
+    <connector id="1:7670" x="8470" y="2014" connectorStart="1:6719" connectorStartCap="NONE" connectorEnd="1:6731" connectorEndCap="ARROW_LINES">LT6&amp;gt;LT6c</connector>
+    <shape-with-text id="1:6591" x="9675" y="1155" width="320" height="165" name="ROUNDED_RECTANGLE">Pain in many places — back plus neck, shoulders, arms or legs; “everything hurts”</shape-with-text>
+    <connector id="1:7506" x="5220" y="1051" connectorStart="1:6571" connectorStartCap="NONE" connectorEnd="1:6591" connectorEndCap="ARROW_LINES">LQ1&amp;gt;LQ1e</connector>
+    <shape-with-text id="1:6743" x="9525" y="1430" width="620" height="349" name="ROUNDED_RECTANGLE">LT7 · Widespread pain / central sensitisation check
+• Clinical criteria (all 3): (1) pain out of proportion to the injury or findings; (2) pain spread widely or not following anatomy (both sides, many areas); (3) over-sensitive to touch, pressure, light, sound, cold or stress (Nijs 2015).
+• Central Sensitization Inventory (CSI): a score of 40 or more out of 100 suggests central sensitisation (sensitivity 81%, specificity 75%; Neblett 2013).
+• Re-check the inflammatory screen (L10); over 50 with shoulder- and hip-girdle stiffness → polymyalgia (neck pathway, N5).
+WHO: anyone trained (questions); physio-level (interpretation)</shape-with-text>
+    <connector id="1:7686" x="9835" y="1326" connectorStart="1:6591" connectorStartCap="NONE" connectorEnd="1:6743" connectorEndCap="ARROW_LINES">LQ1e&amp;gt;LT7</connector>
+    <shape-with-text id="1:6747" x="9480" y="1889" width="320" height="139" name="ROUNDED_RECTANGLE">Yes — widespread, out of proportion, over-sensitive</shape-with-text>
+    <connector id="1:7690" x="9640" y="1785" connectorStart="1:6743" connectorStartCap="NONE" connectorEnd="1:6747" connectorEndCap="ARROW_LINES">LT7&amp;gt;LT7a</connector>
+    <shape-with-text id="1:6755" x="9350" y="2138" width="580" height="544" name="ROUNDED_RECTANGLE">LD11 · WORKING DIAGNOSIS: Chronic back pain with widespread pain / central sensitisation (nociplastic pain)
+WHAT IT IS: the nervous system’s alarm is turned up: pain spreads, flares easily and is out of proportion to any tissue problem. Includes fibromyalgia-type presentations. The pain is real — not imagined, and not damage.
+NEXT STEP: pain education first (how a sensitive alarm system works); then graded activity and graded exposure to feared movements, regular aerobic exercise (walking, cycling) starting low and building slowly, sleep and stress strategies; psychological support (CBT-based) where available. Combined physical and psychological programmes are recommended (NICE NG59).
+AVOID: chasing a tissue cause with repeated scans; long rest after flares; passive-only care; opioids.
+EXERCISE GROUP: LX-E (graded activity &amp; conditioning)
+STAGE 4 MODULE: yellow-flag module.</shape-with-text>
+    <connector id="1:7698" x="9640" y="2034" connectorStart="1:6747" connectorStartCap="NONE" connectorEnd="1:6755" connectorEndCap="ARROW_LINES">LT7a&amp;gt;LD11</connector>
+    <shape-with-text id="1:6751" x="10000" y="1889" width="320" height="165" name="ROUNDED_RECTANGLE">No — mainly a back problem with some other aches → directional preference test (LT1)</shape-with-text>
+    <connector id="1:7702" x="2416" y="1723" connectorStart="1:6751" connectorStartCap="NONE" connectorEnd="1:6595" connectorEndCap="ARROW_LINES">LT7b&amp;gt;LT1</connector>
+    <connector id="1:7694" x="9835" y="1785" connectorStart="1:6743" connectorStartCap="NONE" connectorEnd="1:6751" connectorEndCap="ARROW_LINES">LT7&amp;gt;LT7b</connector>
+    <shape-with-text id="1:6567" x="5910" y="160" width="560" height="349" name="ROUNDED_RECTANGLE">WHY THE LABEL MATTERS (OR DOESN’T)
+For most back pain the tissue label doesn’t change care. What changes care is the PATTERN: which direction eases it, whether a nerve root is involved, whether movement control is poor, and how high the yellow flags are. So Stage 2 picks the exercise group, the directions to favour and avoid, and the starting dose — not a custom exercise list per patient.
+Lateral shift: if the trunk is visibly shifted sideways and bending is blocked, correct the shift first (side-glide against a wall), then test arching. A shift usually belongs with LD1 or LD6 (consensus).</shape-with-text>
+    <shape-with-text id="1:6759" x="3950" y="160" width="580" height="570" name="ROUNDED_RECTANGLE">LD12 · WORKING DIAGNOSIS: Stable osteoporotic vertebral fracture (entry only after medical clearance — from L6)
+WHAT IT IS: a healed or stable compression fracture of a weakened vertebra, confirmed by the doctor, with bone-health treatment started.
+NEXT STEP: back-extensor strengthening (lying face-down lifts, seated back extension), posture training, balance and fall-prevention exercise, progressive leg and hip strength, daily walking. Women who strengthened their back extensors had 2.7 times fewer new vertebral fractures over 10 years (Sinaki 2002). Supervised high-intensity resistance and impact training raised spine bone density without fractures in women with low bone mass (Watson 2018) — specialist-led only.
+AVOID: loaded forward bending and twisting — sit-ups, toe touches, lifting from the floor with a rounded back (Too Fit To Fracture, Giangregorio 2014).
+EXERCISE GROUP: LX-F (bone-safe back strength)
+STAGE 4 MODULE: bone-health module.</shape-with-text>
+  </section>
+  <section id="1:7328" name="Low back · Stage 3 · Exercise groups" x="756" y="15976" width="8927" height="2594">
+    <shape-with-text id="1:6763" x="3914" y="160" width="1100" height="326" name="ROUNDED_RECTANGLE">STAGE 3 — EXERCISE GROUPS: diagnoses that share a problem share a programme
+Each working diagnosis points (grey curved arrows) to one or two groups. A group = the shared mechanism + the exercises that target it + how to progress. Pick 3–5 exercises from the group, not all of them, and set the dose in Stage 4. Everyone finishes in the CORE PROGRAMME.
+Why groups work: no single exercise type beats the others for chronic back pain (Hayden 2021; Owen 2020) — matching the direction of movement (Long 2004), the patient’s preference and a progressive dose matters more than the exact exercise.</shape-with-text>
+    <shape-with-text id="1:6771" x="120" y="816" width="1000" height="697" name="SQUARE">LX-B · Early movement &amp; mobility (“move it gently, don’t rest it”)
+For: LD3 acute low back pain with mobility deficits (and any HIGH-irritability start)
+SHARED PROBLEM: a sore, guarded, stiff back where fear and protective spasm limit movement; recovery is faster when people stay active.
+• Walking: short bouts of 5–10 min several times a day, a little longer each day
+• Cat–camel on hands and knees: 10 slow reps
+• Knee rolls side to side lying on the back: 10 each way
+• Pelvic tilts and gentle knees-to-chest: 10 reps
+• Child’s pose / prayer stretch (sit back onto the heels): 3 × 20 s
+• Heat wrap before moving if it helps (short-term relief, French 2006)
+DOSE: little and often — every 2–3 hours; mild-to-moderate pain while moving is OK.
+PROGRESS: within 1–2 weeks → LX-C or the core programme; return to work early on modified duties.
+EVIDENCE: advice to stay active is recommended over bed rest (NICE NG59).</shape-with-text>
+    <shape-with-text id="1:6767" x="1518" y="816" width="1000" height="853" name="SQUARE">LX-A · Direction-specific repeated movements
+For: LD1 extension preference · LD2 flexion preference · LD6 centralising sciatica · LD8 spinal stenosis
+SHARED PROBLEM: pain that changes with one direction of movement; repeating the “good” direction calms it and restores movement.
+EXTENSION BRANCH (LD1, LD6):
+• Lying face down, relaxed, 2–3 min → propped on the elbows, 2–3 min
+• Prone press-ups: 10 reps, hips stay down, straighten the arms as able
+• Standing back-bends, hands on the hips: 10 reps (use at work or in the field)
+• Sitting tall with a rolled towel behind the low back
+FLEXION BRANCH (LD2, LD8):
+• Knees-to-chest lying on the back: 10 reps or hold 20–30 s
+• Pelvic tilts (flatten the back into the floor): 10 reps
+• Seated forward bend between the knees: 10 reps
+• Stationary cycling, or walking leaning on a stick or trolley
+DOSE: 10 reps every 2–3 hours while symptoms are active.
+RULE: keep going if leg symptoms move toward the back; STOP if they spread further down the leg.
+PROGRESS: pain stays central → reintroduce the opposite direction gently → core programme.</shape-with-text>
+    <shape-with-text id="1:6787" x="2658" y="816" width="1000" height="771" name="SQUARE">LX-F · Bone-safe back-extensor strength &amp; balance
+For: LD12 stable osteoporotic vertebral fracture · older adults with a stooped (hyperkyphotic) back
+SHARED PROBLEM: a weak, stooped back with fragile bones — the goals are extensor strength, upright posture and fewer falls.
+• Lying face down (pillow under the tummy): lift the head and chest a little, 8–10 reps, hold 3 s
+• Seated back extension against a chair back, shoulder blades squeezed: 10 reps
+• Wall stand — heels, buttocks, shoulders and head toward the wall: 5 × 10 s
+• Sit-to-stand and mini squats with a hip-hinge (no rounding); heel raises
+• Balance: tandem stance and heel-to-toe walking beside a support
+• Daily walking
+AVOID: sit-ups, toe touches, twisting with load, lifting from the floor with a rounded back.
+EVIDENCE: back-extensor exercise → 2.7 times fewer vertebral fractures at 10 years (Sinaki 2002); exercise guidance from Too Fit To Fracture (Giangregorio 2014).</shape-with-text>
+    <shape-with-text id="1:6779" x="3798" y="816" width="1000" height="845" name="SQUARE">LX-D · Nerve-friendly movement (calm the nerve, then load it)
+For: LD7 non-centralising sciatica · LD6 centralising sciatica (once the leg pain has centralised)
+SHARED PROBLEM: a sensitive, irritated nerve root that dislikes being stretched or squeezed but improves with gentle movement and blood flow.
+• Positions of ease: lying with the calves on a chair; side-lying with a pillow between the knees
+• Seated nerve slider: sitting tall, straighten the knee while looking up, then bend the knee while looking down — 10–15 smooth reps, no stretch pain
+• Lying slider: hold behind the thigh; straighten and bend the knee while pointing and pulling up the foot — 10 reps
+• Short walks several times a day
+• Then rebuild the muscles of that nerve root: bridges, sit-to-stand, step-ups, heel raises
+DOSE: sliders 10–15 reps, 2–3 times a day; any symptoms must settle within minutes.
+RULE: numbness or pain spreading further down = too much — stop and step down.
+AVOID: holding long hamstring or “sciatic” stretches.
+EVIDENCE: neural mobilisation reduced pain (about 1.8 points out of 10) and disability in chronic low back pain (Basson 2017).</shape-with-text>
+    <shape-with-text id="1:6775" x="4938" y="816" width="1000" height="741" name="SQUARE">LX-C · Motor control &amp; trunk–hip strength
+For: LD4 movement-control impairment (incl. stable slip, healed pars fracture) · LD9 sacroiliac joint pain · LD10 pregnancy-related pelvic girdle pain
+SHARED PROBLEM: the trunk and pelvis don’t control load well — catching, giving way, or pain when weight passes through the pelvis.
+• Bracing — gently tighten the tummy and pelvic floor, keep breathing: 10 × 10 s
+• Bird-dog on hands and knees, opposite arm and leg: 6–10 each side, hold 5–10 s
+• Side-bridge from the knees → from the feet: 3–5 × 10 s each side
+• Curl-up, hands under the low back, head and shoulders only: 5–10 × 10 s
+• Bridges: 10–15 reps → single-leg bridges
+• Hip-hinge with a stick along the spine → lift a light load from chair height
+PELVIC GIRDLE BRANCH (LD9, LD10): side-lying leg lifts, clams, standing hip extension, single-leg stance holding a support, step-ups; pelvic belt short-term; in pregnancy use side-lying and hands-and-knees versions instead of lying flat.
+DOSE: holds 6–10 × 10 s once or twice daily → 2–3 sets of 8–12 under load.
+EVIDENCE: motor control / stabilisation is among the most effective exercise types for chronic back pain (Owen 2020); the Hicks 2005 rule picks likely responders.</shape-with-text>
+    <shape-with-text id="1:6783" x="6078" y="816" width="1000" height="920" name="SQUARE">LX-E · Graded activity, aerobic conditioning &amp; pain education
+For: LD5 chronic non-specific back pain · LD11 widespread pain / central sensitisation · LD8 stenosis (walking programme) · anyone with a HIGH STarT Back score
+SHARED PROBLEM: a sensitised, deconditioned system and fear of movement — the aim is confidence and capacity, not finding “the right muscle”.
+• Pain education: hurt ≠ harm; flare-ups are expected and settle
+• Walking programme: start at 70–80% of today’s comfortable time or distance; add about 10% a week (by plan, not by pain)
+• Graded exposure: list feared activities (bending, lifting, floor sitting) and practise them in small, safe steps
+• Whole-body strength: sit-to-stand, wall push-ups, rows with a band or water bottles, step-ups
+• Yoga- or Pilates-style classes, tai chi, cycling, swimming — whatever they enjoy
+• Relaxed breathing and a regular sleep routine
+DOSE: build toward 150 minutes of moderate activity a week plus 2 strength days (WHO 2020 physical activity guidelines).
+RULE: progress by the plan (time-contingent), not by how the pain feels that day.
+EVIDENCE: exercise reduces pain in chronic back pain with no clear best type (Hayden 2021); stratified, psychologically informed care improved disability and saved costs (Hill 2011).</shape-with-text>
+    <shape-with-text id="1:6791" x="3364" y="2066" width="2200" height="408" name="SQUARE">LX-CORE · CORE PROGRAMME FOR EVERYONE — where every group ends up
+Once symptoms are settling, every patient moves here. For chronic back pain the evidence favours any well-dosed, enjoyable, progressive programme over the “perfect” exercise.
+STRENGTH (2–3 days a week, 2–3 sets of 8–12): sit-to-stand → squat holding a water pot; hip-hinge → lifting a sack or bag from a step; split squats or step-ups; rows with a band; carrying practice (two equal loads, then one-sided).
+ENDURANCE: walking, cycling or swimming, building to 150 minutes a week.
+WORK AND LIFE TASKS: practise the patient’s own PSFS goals — floor sitting and rising, squatting toilet, lifting a child, carrying water, field-work postures, riding a two-wheeler.
+FLARE-UP PLAN: drop back one level for 2–3 days, keep walking, use the group’s easing movement, then rebuild.
+WHY KEEP GOING: 69% of people have another episode within 12 months of recovering (da Silva 2019); exercise with education cut the risk of a new episode by about 45% (Steffens 2016).</shape-with-text>
+    <connector id="1:7782" x="3158" y="1593" connectorStart="1:6787" connectorStartCap="NONE" connectorEnd="1:6791" connectorEndCap="ARROW_LINES">LX-F&amp;gt;LX-CORE</connector>
+    <connector id="1:7778" x="4464" y="1742" connectorStart="1:6783" connectorStartCap="NONE" connectorEnd="1:6791" connectorEndCap="ARROW_LINES">LX-E&amp;gt;LX-CORE</connector>
+    <connector id="1:7774" x="4298" y="1667" connectorStart="1:6779" connectorStartCap="NONE" connectorEnd="1:6791" connectorEndCap="ARROW_LINES">LX-D&amp;gt;LX-CORE</connector>
+    <connector id="1:7770" x="4464" y="1563" connectorStart="1:6775" connectorStartCap="NONE" connectorEnd="1:6791" connectorEndCap="ARROW_LINES">LX-C&amp;gt;LX-CORE</connector>
+    <connector id="1:7766" x="620" y="1519" connectorStart="1:6771" connectorStartCap="NONE" connectorEnd="1:6791" connectorEndCap="ARROW_LINES">LX-B&amp;gt;LX-CORE</connector>
+    <connector id="1:7762" x="2018" y="1675" connectorStart="1:6767" connectorStartCap="NONE" connectorEnd="1:6791" connectorEndCap="ARROW_LINES">LX-A&amp;gt;LX-CORE</connector>
+  </section>
+  <section id="1:7329" name="Low back · Stage 4 · Measure, dose, re-test" x="4120" y="19270" width="2200" height="4536">
+    <shape-with-text id="1:6795" x="550" y="160" width="1100" height="219" name="ROUNDED_RECTANGLE">STAGE 4 — MEASURE, DOSE THE EXERCISE, RE-TEST
+Every patient comes here from their exercise group. Everyone gets the same short core battery so results compare across patients and visits; the diagnosis adds one module; irritability (not the label) sets the starting dose; the STarT Back score sets HOW the programme is delivered.</shape-with-text>
+    <shape-with-text id="1:6799" x="820" y="489" width="560" height="197" name="ROUNDED_RECTANGLE">LS4-1 · How irritable is the back?
+ASK: “Tell me about your last bad flare. What sets the pain off, and how long does it take to settle?” Ask about the last 24 hours and about sleep too.</shape-with-text>
+    <connector id="1:7790" x="1100" y="385" connectorStart="1:6795" connectorStartCap="NONE" connectorEnd="1:6799" connectorEndCap="ARROW_LINES">LS4&amp;gt;LS4-1</connector>
+    <shape-with-text id="1:6803" x="460" y="796" width="380" height="165" name="ROUNDED_RECTANGLE">HIGH: pain at rest or wakes you; small movements flare it; takes hours or until the next day to settle</shape-with-text>
+    <connector id="1:7794" x="650" y="692" connectorStart="1:6799" connectorStartCap="NONE" connectorEnd="1:6803" connectorEndCap="ARROW_LINES">LS4-1&amp;gt;LS4-1a</connector>
+    <shape-with-text id="1:6807" x="910" y="796" width="380" height="139" name="ROUNDED_RECTANGLE">MODERATE: pain with some activities; settles within an hour or two</shape-with-text>
+    <connector id="1:7798" x="1100" y="692" connectorStart="1:6799" connectorStartCap="NONE" connectorEnd="1:6807" connectorEndCap="ARROW_LINES">LS4-1&amp;gt;LS4-1b</connector>
+    <shape-with-text id="1:6811" x="1360" y="796" width="380" height="139" name="ROUNDED_RECTANGLE">LOW: pain only with heavy or long activity; settles within minutes</shape-with-text>
+    <connector id="1:7802" x="1100" y="692" connectorStart="1:6799" connectorStartCap="NONE" connectorEnd="1:6811" connectorEndCap="ARROW_LINES">LS4-1&amp;gt;LS4-1c</connector>
+    <shape-with-text id="1:6815" x="460" y="1071" width="380" height="222" name="ROUNDED_RECTANGLE">START GENTLE
+Positions of ease, the group’s easing movement (LX-A or LX-B), short walks, education. Baseline limited to pain, PSFS and the STarT Back tool.</shape-with-text>
+    <connector id="1:7806" x="650" y="967" connectorStart="1:6803" connectorStartCap="NONE" connectorEnd="1:6815" connectorEndCap="ARROW_LINES">LS4-1a&amp;gt;LS4-HI</connector>
+    <shape-with-text id="1:6819" x="910" y="1071" width="380" height="197" name="ROUNDED_RECTANGLE">START MODERATE
+Group exercises at full dose and progressive strengthening within the pain rules. Full core battery.</shape-with-text>
+    <connector id="1:7810" x="1100" y="941" connectorStart="1:6807" connectorStartCap="NONE" connectorEnd="1:6819" connectorEndCap="ARROW_LINES">LS4-1b&amp;gt;LS4-MD</connector>
+    <shape-with-text id="1:6823" x="1360" y="1071" width="380" height="197" name="ROUNDED_RECTANGLE">START STRONGER
+Core programme loading, lifting and carrying practice, return to sport or heavy work tasks. Full core battery.</shape-with-text>
+    <connector id="1:7814" x="1550" y="941" connectorStart="1:6811" connectorStartCap="NONE" connectorEnd="1:6823" connectorEndCap="ARROW_LINES">LS4-1c&amp;gt;LS4-LO</connector>
+    <shape-with-text id="1:6827" x="720" y="1403" width="760" height="324" name="ROUNDED_RECTANGLE">LS4-2 · STarT Back screening tool (9 questions, about 2 minutes)
+Scores the risk of a poor outcome from yellow flags and spreading pain. Total 0–3 = LOW risk; total 4 or more → look at the 5 psychological items: 3 or less = MEDIUM, 4–5 = HIGH (Hill 2008).
+• LOW: advice, reassurance, the group’s exercises at home; 1–2 contacts.
+• MEDIUM: a physiotherapy-led exercise programme (about 6 sessions).
+• HIGH: psychologically informed physiotherapy — tackle fears and beliefs, graded exposure, pacing, goal-setting; involve a counsellor or doctor for low mood.
+Stratified care improved disability at 4 and 12 months and saved costs compared with usual best care (Hill 2011, 851 patients).</shape-with-text>
+    <connector id="1:7826" x="1100" y="1274" connectorStart="1:6823" connectorStartCap="NONE" connectorEnd="1:6827" connectorEndCap="ARROW_LINES">LS4-LO&amp;gt;LS4-2</connector>
+    <connector id="1:7822" x="1100" y="1274" connectorStart="1:6819" connectorStartCap="NONE" connectorEnd="1:6827" connectorEndCap="ARROW_LINES">LS4-MD&amp;gt;LS4-2</connector>
+    <connector id="1:7818" x="650" y="1299" connectorStart="1:6815" connectorStartCap="NONE" connectorEnd="1:6827" connectorEndCap="ARROW_LINES">LS4-HI&amp;gt;LS4-2</connector>
+    <shape-with-text id="1:6831" x="120" y="1837" width="680" height="604" name="ROUNDED_RECTANGLE">LS4-3 · CORE BASELINE BATTERY (about 10 minutes)
+Needs: a chair, a stopwatch, 10 m of floor and a phone. Repeat the SAME set at week 0, 4 and 12.
+1. Pain 0–10 (faces version for low literacy): average and worst in the last week; leg pain scored separately if present.
+2. Patient-Specific Functional Scale (PSFS): the patient names their 3 hardest tasks and rates each 0–10 — this becomes the goal list. Prompt with local tasks: floor sitting and rising, squatting toilet, bending to sweep or wash clothes, carrying water or head-loads, field work, riding a two-wheeler, lifting a child.
+3. Disability questionnaire: Roland-Morris (24 items) or the Oswestry Disability Index — check for a validated Hindi or Marathi version.
+4. Body chart: where the symptoms reach — watch for centralisation across visits.
+5. Movement: fingertip-to-floor distance bending forward; arching back (painful? how far?).
+6. 5 × sit-to-stand (seconds) or the 30-second chair stand.
+7. 10 m fast walk (seconds); for stenosis, time or distance until symptoms start.
+8. Trunk endurance: side-bridge hold time each side (physio-level).
+9. Nerve check if any leg symptoms: heel and toe walking, SLR angle.
+MEANINGFUL CHANGE: about 30% improvement from baseline on pain or disability scores (Ostelo 2008).</shape-with-text>
+    <connector id="1:7830" x="460" y="1733" connectorStart="1:6827" connectorStartCap="NONE" connectorEnd="1:6831" connectorEndCap="ARROW_LINES">LS4-2&amp;gt;LS4-3</connector>
+    <shape-with-text id="1:6835" x="870" y="1837" width="680" height="485" name="ROUNDED_RECTANGLE">LS4-4 · ADD-ON MODULE — pick the one that matches the working diagnosis
+Back module (LD1–LD5, LD9): Oswestry or Roland-Morris; repeated-movement response; side-bridge time.
+Sciatica module (LD6, LD7): leg pain 0–10 apart from back pain; SLR angle; nerve screen at every visit (any new weakness → L5).
+Stenosis module (LD8): walking time or distance to symptom onset and maximum; Zurich Claudication Questionnaire; Timed Up-and-Go; Romberg.
+Pelvic girdle module (LD10): Pelvic Girdle Questionnaire; active straight-leg raise score 0–10.
+Yellow-flag module (LD5, LD11, or STarT Back HIGH): STarT Back; Fear-Avoidance Beliefs Questionnaire or Tampa Scale; PHQ-9 mood screen → doctor if moderate or worse; sleep.
+Bone-health module (LD12): height to the millimetre at each visit; back-of-head-to-wall distance; Timed Up-and-Go; falls in the last year.</shape-with-text>
+    <connector id="1:7834" x="1100" y="1733" connectorStart="1:6827" connectorStartCap="NONE" connectorEnd="1:6835" connectorEndCap="ARROW_LINES">LS4-2&amp;gt;LS4-4</connector>
+    <shape-with-text id="1:6839" x="1620" y="1837" width="460" height="324" name="ROUNDED_RECTANGLE">PAIN RULES FOR HOME EXERCISE
+• Pain up to about 5 out of 10 during exercise is acceptable if it has settled back to its usual level by the next morning. If not, hold or step down one level.
+• Centralisation rule: symptoms moving toward the spine = good; spreading further down the leg = stop that exercise.
+• Any new numbness, weakness, or bladder or bowel change → stop and re-run Stage 1.</shape-with-text>
+    <shape-with-text id="1:6843" x="840" y="2551" width="520" height="197" name="ROUNDED_RECTANGLE">LS4-5 · WEEK 1 — dose check
+ASK: “Did the pain settle back to normal by the next morning after exercising? Has the leg pain moved up toward the back, or further down?”</shape-with-text>
+    <connector id="1:7838" x="460" y="2447" connectorStart="1:6831" connectorStartCap="NONE" connectorEnd="1:6843" connectorEndCap="ARROW_LINES">LS4-3&amp;gt;LS4-5</connector>
+    <shape-with-text id="1:6847" x="685" y="2858" width="380" height="139" name="ROUNDED_RECTANGLE">Settled, leg pain the same or more central — keep the same level (don’t level up yet)</shape-with-text>
+    <connector id="1:7842" x="875" y="2754" connectorStart="1:6843" connectorStartCap="NONE" connectorEnd="1:6847" connectorEndCap="ARROW_LINES">LS4-5&amp;gt;LS4-5a</connector>
+    <shape-with-text id="1:6851" x="1135" y="2858" width="380" height="165" name="ROUNDED_RECTANGLE">Not settled, or leg pain spreading — step down a level and re-check the direction (LT1)</shape-with-text>
+    <connector id="1:7854" x="1100" y="692" connectorStart="1:6851" connectorStartCap="NONE" connectorEnd="1:6799" connectorEndCap="ARROW_LINES">LS4-5b&amp;gt;LS4-1</connector>
+    <connector id="1:7846" x="1100" y="2754" connectorStart="1:6843" connectorStartCap="NONE" connectorEnd="1:6851" connectorEndCap="ARROW_LINES">LS4-5&amp;gt;LS4-5b</connector>
+    <shape-with-text id="1:6855" x="840" y="3133" width="520" height="171" name="ROUNDED_RECTANGLE">LS4-6 · WEEK 4 — first re-test
+Repeat the core battery with the same chair and the same 10 m. Is it improving? (PSFS, pain, Roland-Morris or Oswestry)</shape-with-text>
+    <connector id="1:7850" x="875" y="3003" connectorStart="1:6847" connectorStartCap="NONE" connectorEnd="1:6855" connectorEndCap="ARROW_LINES">LS4-5a&amp;gt;LS4-6</connector>
+    <shape-with-text id="1:6859" x="625" y="3414" width="440" height="114" name="ROUNDED_RECTANGLE">Yes</shape-with-text>
+    <connector id="1:7858" x="845" y="3310" connectorStart="1:6855" connectorStartCap="NONE" connectorEnd="1:6859" connectorEndCap="ARROW_LINES">LS4-6&amp;gt;LS4-6a</connector>
+    <shape-with-text id="1:6863" x="1135" y="3414" width="440" height="114" name="ROUNDED_RECTANGLE">No</shape-with-text>
+    <connector id="1:7862" x="1100" y="3310" connectorStart="1:6855" connectorStartCap="NONE" connectorEnd="1:6863" connectorEndCap="ARROW_LINES">LS4-6&amp;gt;LS4-6b</connector>
+    <shape-with-text id="1:6867" x="625" y="3638" width="440" height="171" name="ROUNDED_RECTANGLE">LEVEL UP
+Add load, range and work-task practice; move toward the core programme. Continue to week 12.</shape-with-text>
+    <connector id="1:7866" x="845" y="3534" connectorStart="1:6859" connectorStartCap="NONE" connectorEnd="1:6867" connectorEndCap="ARROW_LINES">LS4-6a&amp;gt;LS4-UP</connector>
+    <shape-with-text id="1:6871" x="1135" y="3638" width="440" height="222" name="ROUNDED_RECTANGLE">RE-CHECK BEFORE CONTINUING
+Re-run the Stage 1 safety screen; re-test directional preference (LT1); re-score STarT Back and yellow flags; physio video exam; doctor review if leg symptoms aren’t improving by 6–8 weeks.</shape-with-text>
+    <connector id="1:7870" x="1355" y="3534" connectorStart="1:6863" connectorStartCap="NONE" connectorEnd="1:6871" connectorEndCap="ARROW_LINES">LS4-6b&amp;gt;LS4-NO</connector>
+    <shape-with-text id="1:6875" x="840" y="3970" width="520" height="146" name="ROUNDED_RECTANGLE">LS4-7 · WEEK 12 — programme review
+Most change shows by now. Better?</shape-with-text>
+    <connector id="1:7874" x="845" y="3815" connectorStart="1:6867" connectorStartCap="NONE" connectorEnd="1:6875" connectorEndCap="ARROW_LINES">LS4-UP&amp;gt;LS4-7</connector>
+    <shape-with-text id="1:6879" x="625" y="4226" width="440" height="139" name="ROUNDED_RECTANGLE">Yes — continue the core programme and move to self-management with a flare-up plan</shape-with-text>
+    <connector id="1:7878" x="845" y="4122" connectorStart="1:6875" connectorStartCap="NONE" connectorEnd="1:6879" connectorEndCap="ARROW_LINES">LS4-7&amp;gt;LS4-7a</connector>
+    <shape-with-text id="1:6883" x="1135" y="4226" width="440" height="190" name="ROUNDED_RECTANGLE">Still no change after a real trial — revise the diagnosis, refer to a physiotherapist or doctor, consider a combined physical and psychological programme (NICE NG59)</shape-with-text>
+    <connector id="1:7882" x="1100" y="4122" connectorStart="1:6875" connectorStartCap="NONE" connectorEnd="1:6883" connectorEndCap="ARROW_LINES">LS4-7&amp;gt;LS4-7b</connector>
+  </section>
+  <section id="1:7330" name="Neck &amp; upper back · Stage 1 · Safety screen" x="17170" y="2414" width="2140" height="7789">
+    <shape-with-text id="1:6439" x="780" y="160" width="1100" height="190" name="ROUNDED_RECTANGLE">NECK &amp; UPPER BACK PATHWAY
+Stage 1 safety screen (12 checks) → Stage 2 which neck or upper-back problem is it (12 working diagnoses) → Stage 3 exercise group (6 groups + a core programme) → Stage 4 measure, dose, re-test.</shape-with-text>
+    <shape-with-text id="1:6887" x="780" y="460" width="1100" height="297" name="ROUNDED_RECTANGLE">STAGE 1 — SAFETY SCREEN: Is this neck or upper-back pain safe to treat with exercise?
+Ask the 12 checks in order, most time-critical first. Any YES stops the pathway and names the action. All NO → Stage 2.
+The neck carries the spinal cord and the arteries to the brain, and the upper back sits beside the heart, lungs and aorta — so this screen has more “not from the spine” checks than the low-back one (IFOMPT cervical framework, Rushton 2023; red-flag framework, Finucane 2020).</shape-with-text>
+    <connector id="1:7886" x="1330" y="356" connectorStart="1:6439" connectorStartCap="NONE" connectorEnd="1:6887" connectorEndCap="ARROW_LINES">G-NK&amp;gt;NS1</connector>
+    <shape-with-text id="1:6991" x="120" y="867" width="560" height="688" name="ROUNDED_RECTANGLE">SAFETY MODIFIERS — not stops; they change who signs off and how hard you start
+• Chest pain, breathlessness or fainting with effort → doctor before progressive exercise.
+• Uncontrolled blood pressure → doctor first; no breath-holding during neck strengthening.
+• Rheumatoid arthritis, Down syndrome or previous neck surgery → no end-range or manipulative neck techniques.
+• Osteoporosis → avoid loaded bending of the upper back (Group NX-F).
+• After a head knock: headache, dizziness or poor concentration may be concussion → doctor review and a graded return.
+
+YELLOW FLAGS — record now, score in Stage 4
+• After whiplash: older age, high early pain and disability, and stress-reaction symptoms (startle, nightmares) predict slow recovery (Ritchie 2013). Worry, low mood, poor sleep and work stress matter as much as posture.
+
+CONTEXT TO RECORD (changes the plan)
+• Head-load carrying; long hours at a sewing machine, loom, computer or phone; two-wheeler riding on rough roads; looking down for floor or field work; pillow and sleeping position.</shape-with-text>
+    <shape-with-text id="1:6891" x="780" y="867" width="660" height="485" name="ROUNDED_RECTANGLE">N1 · Heart, aorta or lungs disguised as neck or upper-back pain
+ASK: Pain between the shoulder blades, in the jaw, neck or left arm that comes with effort, sweating, breathlessness, nausea or a racing heart? Sudden, severe, tearing pain going through to the back? Sharp pain on breathing with breathlessness or coughing blood? A recent long journey, surgery or a swollen calf?
+CHECK: do neck, shoulder and trunk movements change the pain at all? Pulse, blood pressure (both arms if the pain is tearing), breathing rate.
+POSITIVE IF: pain not changed by movement, with any feature above.
+NOTE: a heart attack, a tear in the aorta (aortic dissection) or a clot in the lung can show up as upper-back or neck pain alone — especially in women, older adults and people with diabetes (consensus).
+WHO: anyone trained; basic kit (BP cuff)
+Possible heart, aorta or lung cause?</shape-with-text>
+    <connector id="1:7890" x="1110" y="763" connectorStart="1:6887" connectorStartCap="NONE" connectorEnd="1:6891" connectorEndCap="ARROW_LINES">NS1&amp;gt;N1</connector>
+    <shape-with-text id="1:6895" x="1600" y="1024" width="420" height="171" name="ROUNDED_RECTANGLE">EMERGENCY — NOW
+Call for emergency transfer. Keep the patient at rest. No exercise.</shape-with-text>
+    <connector id="1:7894" x="1446" y="1089.5" connectorStart="1:6891" connectorStartCap="NONE" connectorEnd="1:6895" connectorEndCap="ARROW_LINES">N1&amp;gt;N1Y</connector>
+    <shape-with-text id="1:6899" x="780" y="1462" width="660" height="510" name="ROUNDED_RECTANGLE">N2 · Neck fracture or ligament injury after trauma — Canadian C-Spine Rule
+ASK: A fall, road accident, diving accident or blow to the head recently?
+CHECK — Canadian C-Spine Rule (alert, stable adults):
+1. High risk → stop: age 65 or over; a dangerous mechanism (fall from 1 m or 5 stairs, a load landing on the head as in diving, a high-speed or rollover road accident, a bicycle crash); or tingling in the arms or legs.
+2. A low-risk factor allows movement testing: simple rear-end car crash; sitting comfortably; walking since the injury; neck pain that came on later; no tenderness on the bony midline.
+3. Can they actively turn the head 45° to the left and right?
+EVIDENCE: sensitivity 100% (95% CI 98–100%), specificity 42.5% for important neck injury (Stiell 2001). The NEXUS criteria give similar safety (sensitivity 99.6%, Hoffman 2000). A negative rule makes a fracture very unlikely.
+WHO: anyone trained
+A high-risk factor, OR no low-risk factor, OR can’t turn 45° each way?</shape-with-text>
+    <connector id="1:7898" x="1089.5" y="1358" connectorStart="1:6891" connectorStartCap="NONE" connectorEnd="1:6899" connectorEndCap="ARROW_LINES">N1&amp;gt;N2</connector>
+    <shape-with-text id="1:6903" x="1600" y="1606" width="420" height="222" name="ROUNDED_RECTANGLE">EMERGENCY
+Keep the head and neck still (hands either side of the head or a collar), lie them flat, emergency transfer for imaging. No neck movement or exercise.</shape-with-text>
+    <connector id="1:7902" x="1446" y="1697" connectorStart="1:6899" connectorStartCap="NONE" connectorEnd="1:6903" connectorEndCap="ARROW_LINES">N2&amp;gt;N2Y</connector>
+    <shape-with-text id="1:6907" x="780" y="2082" width="660" height="485" name="ROUNDED_RECTANGLE">N3 · Stroke or torn neck artery (cervical artery dissection, posterior circulation problem)
+ASK: Sudden severe neck pain or headache unlike any before (“worst ever”), especially after neck trauma, a sudden twist or neck manipulation? Any of the 5 Ds and 3 Ns: Dizziness, Double vision, Difficulty speaking, Difficulty swallowing, Drop attacks (sudden falls without fainting); Nausea, Nystagmus (flickering eyes), Numbness of the face or one side? Unsteady walking? A droopy eyelid with a small pupil?
+CHECK: blood pressure; watch the eyes as they follow your finger; finger-to-nose; heel-to-toe walk; face symmetry and speech.
+NOTE: positional “artery tests” (holding the neck turned) are NOT reliable and must not be used to clear a patient — the history and neurological signs decide (IFOMPT cervical framework, Rushton 2023).
+WHO: anyone trained
+Any new neurological sign, or a “worst ever” headache with neck pain?</shape-with-text>
+    <connector id="1:7906" x="1089.5" y="1978" connectorStart="1:6899" connectorStartCap="NONE" connectorEnd="1:6907" connectorEndCap="ARROW_LINES">N2&amp;gt;N3</connector>
+    <shape-with-text id="1:6911" x="1600" y="2226" width="420" height="197" name="ROUNDED_RECTANGLE">EMERGENCY — NOW
+Possible stroke or artery tear: emergency transfer; note the time the symptoms started. No neck movement, massage or manipulation.</shape-with-text>
+    <connector id="1:7910" x="1446" y="2304.5" connectorStart="1:6907" connectorStartCap="NONE" connectorEnd="1:6911" connectorEndCap="ARROW_LINES">N3&amp;gt;N3Y</connector>
+    <shape-with-text id="1:6915" x="780" y="2677" width="660" height="426" name="ROUNDED_RECTANGLE">N4 · Meningitis or other serious infection
+ASK: Fever with a severe headache and a stiff neck? Dislike of bright light, vomiting, confusion, a rash that doesn’t fade when pressed with a glass? In a child: a stiff, painful neck with fever, drooling or difficulty swallowing (throat abscess)? Spinal infection risks as in L3 (injecting drugs, recent spinal procedure, diabetes, weak immunity)?
+CHECK: temperature; can they bring the chin to the chest? How alert are they? Look for the rash.
+NOTE: neck stiffness and the classic bedside meningitis signs are missing in many real cases — a normal neck does not clear meningitis when the story fits (consensus).
+WHO: basic kit (thermometer)
+Fever with headache, stiff neck, confusion or rash?</shape-with-text>
+    <connector id="1:7914" x="1089.5" y="2573" connectorStart="1:6907" connectorStartCap="NONE" connectorEnd="1:6915" connectorEndCap="ARROW_LINES">N3&amp;gt;N4</connector>
+    <shape-with-text id="1:6919" x="1600" y="2805" width="420" height="171" name="ROUNDED_RECTANGLE">EMERGENCY — NOW
+Emergency transfer. Fever with a rash is a medical emergency. No exercise.</shape-with-text>
+    <connector id="1:7918" x="1446" y="2870.5" connectorStart="1:6915" connectorStartCap="NONE" connectorEnd="1:6919" connectorEndCap="ARROW_LINES">N4&amp;gt;N4Y</connector>
+    <shape-with-text id="1:6923" x="780" y="3213" width="660" height="400" name="ROUNDED_RECTANGLE">N5 · Giant cell arteritis or polymyalgia rheumatica (over 50)
+ASK: Over 50 with a NEW headache, a tender scalp or temples, jaw pain when chewing, or any change in vision? OR aching and stiffness of BOTH shoulders and the neck (often the hips too) for more than 45 minutes every morning, with tiredness or weight loss?
+CHECK: feel the temples (tender, thickened or pulseless artery); can they lift both arms above the head? Stiffness of both shoulder and hip girdles.
+NOTE: giant cell arteritis can cause sudden, permanent blindness — vision change or jaw pain while chewing = same day. Polymyalgia improves dramatically with steroids prescribed by a doctor (consensus).
+WHO: anyone trained
+New headache, jaw pain or vision change over 50 — or stiffness of both girdles?</shape-with-text>
+    <connector id="1:7922" x="1089.5" y="3109" connectorStart="1:6915" connectorStartCap="NONE" connectorEnd="1:6923" connectorEndCap="ARROW_LINES">N4&amp;gt;N5</connector>
+    <shape-with-text id="1:6927" x="1600" y="3273" width="420" height="281" name="ROUNDED_RECTANGLE">EMERGENCY — SAME DAY (headache, jaw or vision)
+Possible giant cell arteritis: doctor the same day for blood tests (ESR/CRP) and steroids.
+Girdle stiffness alone (polymyalgia) → URGENT, doctor within days. No exercise programme until treated.</shape-with-text>
+    <connector id="1:7926" x="1446" y="3393.5" connectorStart="1:6923" connectorStartCap="NONE" connectorEnd="1:6927" connectorEndCap="ARROW_LINES">N5&amp;gt;N5Y</connector>
+    <shape-with-text id="1:6931" x="780" y="3723" width="660" height="459" name="ROUNDED_RECTANGLE">N6 · Spinal cord compression in the neck (degenerative cervical myelopathy)
+ASK: Clumsy hands — dropping things, trouble with buttons, writing or a phone? Numb hands on both sides? Unsteady, stiff or wide-based walking, or falls? NEW bladder urgency? Electric shocks down the spine when bending the head forward?
+CHECK — Cook cluster (5 findings): (1) gait deviation (wide-based, unsteady, can’t walk heel-to-toe); (2) Hoffmann’s sign — flick the middle fingertip; the thumb and index finger twitch = positive; (3) inverted supinator sign — tap the forearm near the wrist; the fingers bend instead of the elbow; (4) Babinski — stroke the sole; the big toe goes UP; (5) age over 45.
+EVIDENCE: none of the 5 positive helps rule myelopathy out (LR− 0.18); 3 or more of 5 rules it in (LR+ 30.9) (Cook 2010).
+WHO: anyone trained (history, gait); physio-level (reflex signs)
+Myelopathy symptoms with 1 or more positive findings — or getting worse?</shape-with-text>
+    <connector id="1:7930" x="1089.5" y="3619" connectorStart="1:6923" connectorStartCap="NONE" connectorEnd="1:6931" connectorEndCap="ARROW_LINES">N5&amp;gt;N6</connector>
+    <shape-with-text id="1:6935" x="1600" y="3804" width="420" height="298" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Doctor or spine surgeon, and an MRI. Hands or walking getting worse quickly → same day. No neck manipulation or end-range neck arching. Mild, stable myelopathy may later be offered supervised rehab with close monitoring — only after specialist review (AO Spine guideline, Fehlings 2017).</shape-with-text>
+    <connector id="1:7934" x="1446" y="3933" connectorStart="1:6931" connectorStartCap="NONE" connectorEnd="1:6935" connectorEndCap="ARROW_LINES">N6&amp;gt;N6Y</connector>
+    <shape-with-text id="1:6939" x="780" y="4292" width="660" height="375" name="ROUNDED_RECTANGLE">N7 · Unstable upper neck (atlanto-axial instability)
+ASK: Rheumatoid arthritis, Down syndrome, a recent neck injury, or (in a child) a recent throat or ear infection? Does the head feel too heavy — needing the hands to hold it up? A lump-in-the-throat feeling, tingling of the lips or face, or symptoms when bending the head forward?
+CHECK: the Sharp-Purser test is physio-level only — sitting, head slightly bent forward; steady the second neck bone and gently glide the head backward. A “clunk” with relief of symptoms = positive. Specificity 96%, positive predictive value 85% in rheumatoid arthritis (Uitvlugt 1988).
+WHO: anyone trained (history); physio-level (test)
+A risk factor with upper-neck instability symptoms?</shape-with-text>
+    <connector id="1:7938" x="1089.5" y="4188" connectorStart="1:6931" connectorStartCap="NONE" connectorEnd="1:6939" connectorEndCap="ARROW_LINES">N6&amp;gt;N7</connector>
+    <shape-with-text id="1:6943" x="1600" y="4369" width="420" height="222" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Doctor for bending-and-arching neck X-rays. Avoid end-range neck bending and any manipulation. New neurological signs → same day.</shape-with-text>
+    <connector id="1:7942" x="1446" y="4460" connectorStart="1:6939" connectorStartCap="NONE" connectorEnd="1:6943" connectorEndCap="ARROW_LINES">N7&amp;gt;N7Y</connector>
+    <shape-with-text id="1:6947" x="780" y="4777" width="660" height="536" name="ROUNDED_RECTANGLE">N8 · Fracture without major trauma, cancer, or TB in the neck or upper back
+ASK: Past cancer (especially breast, lung, prostate, kidney, thyroid, myeloma)? Unexplained weight loss, night sweats, evening fevers, TB contact? Constant pain worse at night or lying down? Over 50 with first-ever mid-back pain? Steroid tablets or osteoporosis, with sudden pain after a minor strain, cough or lift? Pain wrapping around the chest like a belt?
+CHECK: closed-fist percussion down the spine (sensitivity 87.5%, specificity 90% for acute osteoporotic fracture — Langdon 2010); look for a sharp angled hump (gibbus); weigh; check leg strength and walking — cord pressure from the upper back shows up in the LEGS.
+NOTE: the thoracic (mid) spine is the commonest site of spinal cancer spread and of spinal TB; persistent mid-back pain is itself a warning sign (consensus; Finucane 2020).
+WHO: anyone trained
+Cancer history, TB features, fragility-fracture signs, or night/constant pain plus another warning sign?</shape-with-text>
+    <connector id="1:7946" x="1089.5" y="4673" connectorStart="1:6939" connectorStartCap="NONE" connectorEnd="1:6947" connectorEndCap="ARROW_LINES">N7&amp;gt;N8</connector>
+    <shape-with-text id="1:6951" x="1600" y="4896" width="420" height="298" name="ROUNDED_RECTANGLE">URGENT — WITHIN DAYS
+Doctor for blood tests and imaging (plus a TB work-up where relevant). No loading exercise until cleared. Leg weakness, unsteady walking or bladder change → same day.
+Confirmed stable osteoporotic fracture → Stage 2 box ND11 and Exercise Group NX-F (dashed arrow).</shape-with-text>
+    <connector id="1:7950" x="1446" y="5025" connectorStart="1:6947" connectorStartCap="NONE" connectorEnd="1:6951" connectorEndCap="ARROW_LINES">N8&amp;gt;N8Y</connector>
+    <shape-with-text id="1:6955" x="780" y="5423" width="660" height="349" name="ROUNDED_RECTANGLE">N9 · Shingles (herpes zoster) — a band of burning pain
+ASK: Burning, tingling or very sensitive skin in a band around one side of the chest, back or neck, without injury? A rash of small blisters there now or in the last few days? Over 50, diabetes, HIV or weak immunity?
+CHECK: look at the skin along the band; is it painful to light touch? Do spine movements change it?
+NOTE: the pain often starts 2–3 days BEFORE the rash. Early antiviral treatment (ideally within about 72 hours of the rash) reduces complications (consensus).
+WHO: anyone trained
+One-sided band of burning pain, with or without a blistering rash?</shape-with-text>
+    <connector id="1:7954" x="1089.5" y="5319" connectorStart="1:6947" connectorStartCap="NONE" connectorEnd="1:6955" connectorEndCap="ARROW_LINES">N8&amp;gt;N9</connector>
+    <shape-with-text id="1:6959" x="1600" y="5499" width="420" height="197" name="ROUNDED_RECTANGLE">URGENT — WITHIN 1–2 DAYS
+Doctor promptly for antiviral treatment and pain control; a rash near the eye = same day. Not an exercise problem — gentle movement is fine.</shape-with-text>
+    <connector id="1:7958" x="1446" y="5577.5" connectorStart="1:6955" connectorStartCap="NONE" connectorEnd="1:6959" connectorEndCap="ARROW_LINES">N9&amp;gt;N9Y</connector>
+    <shape-with-text id="1:6963" x="780" y="5882" width="660" height="451" name="ROUNDED_RECTANGLE">N10 · Child or teenager with neck or upper-back pain
+ASK: Under 18? A sudden wry neck with fever, sore throat, or after a throat or ear infection? A head tilt with headache, vomiting or clumsiness? A teenager with a rigid, painful hump of the upper back, or a painful, stiff curve (scoliosis)? Night pain?
+CHECK: forward-bend test from the side and from behind: a smooth curve that straightens when they arch (posture) vs a sharp, rigid hump that doesn’t; a rib hump; is the curve painful?
+NOTE: most teenage scoliosis is painless — a PAINFUL curve needs a doctor to rule out a bone tumour, infection or spinal cord problem. Scheuermann’s disease causes a rigid upper-back hump with mid-back pain in teens; X-ray confirms it (consensus).
+WHO: anyone trained
+A child with a warning sign, or a teen with a rigid hump or painful curve?</shape-with-text>
+    <connector id="1:7962" x="1089.5" y="5778" connectorStart="1:6955" connectorStartCap="NONE" connectorEnd="1:6963" connectorEndCap="ARROW_LINES">N9&amp;gt;N10</connector>
+    <shape-with-text id="1:6967" x="1600" y="5984" width="420" height="247" name="ROUNDED_RECTANGLE">SOON — WITHIN ABOUT A WEEK
+Doctor for an X-ray. Fever, neurological signs, night pain, or a wry neck with fever → URGENT (days) or the same day.
+Confirmed Scheuermann’s, cleared for exercise → ND11 and Group NX-F (dashed arrow).</shape-with-text>
+    <connector id="1:7966" x="1446" y="6087.5" connectorStart="1:6963" connectorStartCap="NONE" connectorEnd="1:6967" connectorEndCap="ARROW_LINES">N10&amp;gt;N10Y</connector>
+    <shape-with-text id="1:6971" x="780" y="6443" width="660" height="409" name="ROUNDED_RECTANGLE">N11 · Inflammatory spinal disease (axial spondyloarthritis) or rheumatoid neck
+ASK: Neck or upper-back stiffness for more than 30 minutes every morning that eases with movement? Back pain that began before 40 and improves with exercise, not rest (the ASAS 5 — see L10)? Pain or stiffness on taking a deep breath? Known rheumatoid arthritis, psoriasis, bowel disease, a red painful eye? Swollen small joints of the hands?
+CHECK: count swollen joints (hands, wrists, feet); chest expansion with a tape measure at nipple level — under about 2.5 cm suggests stiffness of the rib joints (consensus).
+WHO: anyone trained; basic kit (tape measure)
+Inflammatory pattern present?</shape-with-text>
+    <connector id="1:7970" x="1089.5" y="6339" connectorStart="1:6963" connectorStartCap="NONE" connectorEnd="1:6971" connectorEndCap="ARROW_LINES">N10&amp;gt;N11</connector>
+    <shape-with-text id="1:6975" x="1600" y="6537" width="420" height="222" name="ROUNDED_RECTANGLE">REFER — WITHIN WEEKS
+Doctor or rheumatologist. Rheumatoid arthritis with neck symptoms → check N7 first. Mobility and posture exercise helps alongside the medicines.</shape-with-text>
+    <connector id="1:7974" x="1446" y="6628" connectorStart="1:6971" connectorStartCap="NONE" connectorEnd="1:6975" connectorEndCap="ARROW_LINES">N11&amp;gt;N11Y</connector>
+    <shape-with-text id="1:6979" x="780" y="6962" width="660" height="400" name="ROUNDED_RECTANGLE">N12 · Pain coming from the shoulder (or elsewhere)
+ASK: Is the pain mainly at the top or outer side of the upper arm? Worse lifting the arm, lying on that side, or reaching behind the back?
+CHECK: turn and tip the head — does it reproduce the familiar pain? Then lift the arm forward and out to the side, and rotate the shoulder — does that?
+POSITIVE IF: shoulder movement reproduces it; neck movement doesn’t.
+NOTE: pain over the top of the shoulder spreading toward the elbow often comes from the neck; pain at the outer upper arm that worsens with arm movement usually comes from the shoulder. Both can coexist. Right shoulder-blade pain after fatty meals → gallbladder (treat like N1: doctor) (consensus).
+WHO: anyone trained
+Is the shoulder the source?</shape-with-text>
+    <connector id="1:7978" x="1089.5" y="6858" connectorStart="1:6971" connectorStartCap="NONE" connectorEnd="1:6979" connectorEndCap="ARROW_LINES">N11&amp;gt;N12</connector>
+    <shape-with-text id="1:6983" x="1600" y="7064" width="420" height="197" name="ROUNDED_RECTANGLE">SWITCH PATHWAY
+Shoulder assessment (separate pathway). If BOTH neck and shoulder movements reproduce it, assess and treat both.</shape-with-text>
+    <connector id="1:7982" x="1446" y="7142.5" connectorStart="1:6979" connectorStartCap="NONE" connectorEnd="1:6983" connectorEndCap="ARROW_LINES">N12&amp;gt;N12Y</connector>
+    <shape-with-text id="1:6987" x="780" y="7472" width="660" height="197" name="ROUNDED_RECTANGLE">ALL 12 = NO → EXERCISE-RESPONSIVE (BY EXCLUSION)
+Go to Stage 2. Safety-net advice for everyone: come back at once with new dizziness, double vision, speech or swallowing trouble, clumsy hands or unsteady walking. Confirmed by improvement at the week-4 re-test.</shape-with-text>
+    <connector id="1:7986" x="1089.5" y="7368" connectorStart="1:6979" connectorStartCap="NONE" connectorEnd="1:6987" connectorEndCap="ARROW_LINES">N12&amp;gt;NPASS</connector>
+  </section>
+  <section id="1:7331" name="Neck &amp; upper back · Stage 2 · Which problem" x="12840" y="10903" width="10800" height="3214">
+    <shape-with-text id="1:6995" x="4850" y="160" width="1100" height="219" name="ROUNDED_RECTANGLE">STAGE 2 — WHICH NECK OR UPPER-BACK PROBLEM IS IT?
+The JOSPT neck pain guideline (Blanpied 2017) sorts neck pain into 4 patterns that each need a different emphasis: mobility deficits, movement-coordination problems (including whiplash), headache from the neck, and radiating arm pain. This stage adds the upper back (thoracic spine and ribs) and widespread pain, then hands each working diagnosis to an exercise group.</shape-with-text>
+    <shape-with-text id="1:7003" x="5140" y="619" width="520" height="205" name="ROUNDED_RECTANGLE">NQ1 · Where do the symptoms go? (use the body chart from Q0)
+ASK: “Show me everywhere you feel it. Does it go into the arm or the head? Any pins and needles or numbness?”</shape-with-text>
+    <connector id="1:8002" x="5400" y="385" connectorStart="1:6995" connectorStartCap="NONE" connectorEnd="1:7003" connectorEndCap="ARROW_LINES">NS2&amp;gt;NQ1</connector>
+    <shape-with-text id="1:7007" x="1940" y="934" width="320" height="139" name="ROUNDED_RECTANGLE">Neck only, or neck to the top of the shoulder or shoulder blade</shape-with-text>
+    <connector id="1:8006" x="2100" y="830" connectorStart="1:7003" connectorStartCap="NONE" connectorEnd="1:7007" connectorEndCap="ARROW_LINES">NQ1&amp;gt;NQ1a</connector>
+    <shape-with-text id="1:7027" x="1840" y="1183" width="520" height="171" name="ROUNDED_RECTANGLE">NQ2 · How did it start?
+ASK: “What happened on the first day? Was there an accident or a jolt?”</shape-with-text>
+    <connector id="1:8026" x="2100" y="1079" connectorStart="1:7007" connectorStartCap="NONE" connectorEnd="1:7027" connectorEndCap="ARROW_LINES">NQ1a&amp;gt;NQ2</connector>
+    <shape-with-text id="1:7031" x="770" y="1464" width="320" height="139" name="ROUNDED_RECTANGLE">A road accident or sudden jolt — whiplash</shape-with-text>
+    <connector id="1:8030" x="930" y="1360" connectorStart="1:7027" connectorStartCap="NONE" connectorEnd="1:7031" connectorEndCap="ARROW_LINES">NQ2&amp;gt;NQ2a</connector>
+    <shape-with-text id="1:7043" x="620" y="1713" width="620" height="459" name="ROUNDED_RECTANGLE">NT1 · Whiplash grading (Quebec Task Force) and recovery risk
+GRADE (Spitzer 1995): 0 — no neck complaint; I — neck pain or stiffness only, no signs; II — plus reduced movement and tender points; III — plus neurological signs (weakness, reflex or sensory loss) → also run the arm-nerve check (NT3); IV — fracture or dislocation (should already have been caught at N2).
+RECOVERY RISK (Ritchie 2013 prediction rule): older age, high early disability on the Neck Disability Index and stress-reaction (hyperarousal) symptoms predict chronic moderate-to-severe disability; younger people with low early disability are likely to recover fully.
+ALSO ASK: headache, dizziness or poor concentration after a head knock → doctor for a concussion check.
+WHO: anyone trained</shape-with-text>
+    <connector id="1:8042" x="930" y="1609" connectorStart="1:7031" connectorStartCap="NONE" connectorEnd="1:7043" connectorEndCap="ARROW_LINES">NQ2a&amp;gt;NT1</connector>
+    <shape-with-text id="1:7047" x="250" y="2282" width="320" height="114" name="ROUNDED_RECTANGLE">Grade I–II, low-risk features</shape-with-text>
+    <connector id="1:8046" x="410" y="2178" connectorStart="1:7043" connectorStartCap="NONE" connectorEnd="1:7047" connectorEndCap="ARROW_LINES">NT1&amp;gt;NT1a</connector>
+    <shape-with-text id="1:7059" x="120" y="2506" width="580" height="443" name="ROUNDED_RECTANGLE">ND3 · WORKING DIAGNOSIS: Whiplash-associated disorder (grade I–II), low risk — neck pain with movement-coordination impairment
+WHAT IT IS: sprain-type neck pain after a sudden acceleration–deceleration; most people recover within weeks to a few months.
+NEXT STEP: reassurance and advice to stay active and keep the neck moving; early active range-of-motion exercise; then deep-neck-flexor, shoulder-blade and endurance training. Education plus active exercise is the recommended first-line care (JOSPT 2017).
+AVOID: soft collars and rest; repeated passive treatments.
+EXERCISE GROUPS: NX-B (early mobility) → NX-A (deep neck &amp; shoulder-blade control)
+STAGE 4 MODULE: whiplash module.</shape-with-text>
+    <connector id="1:8058" x="410" y="2402" connectorStart="1:7047" connectorStartCap="NONE" connectorEnd="1:7059" connectorEndCap="ARROW_LINES">NT1a&amp;gt;ND3</connector>
+    <shape-with-text id="1:7051" x="900" y="2282" width="320" height="165" name="ROUNDED_RECTANGLE">Grade I–II with high-risk features (high disability, stress symptoms, older age)</shape-with-text>
+    <connector id="1:8050" x="930" y="2178" connectorStart="1:7043" connectorStartCap="NONE" connectorEnd="1:7051" connectorEndCap="ARROW_LINES">NT1&amp;gt;NT1b</connector>
+    <shape-with-text id="1:7063" x="770" y="2557" width="580" height="510" name="ROUNDED_RECTANGLE">ND4 · WORKING DIAGNOSIS: Whiplash-associated disorder — HIGH risk of persistent pain
+WHAT IT IS: whiplash with high early pain and disability, stress-reaction symptoms or widespread sensitivity — a pattern linked with slow recovery.
+NEXT STEP: the same active approach delivered as psychologically informed care: education about pain and stress, graded activity, pacing and sleep; screen for post-traumatic stress and low mood and involve a counsellor or doctor; follow up closely in the first 3 months. In established chronic whiplash, a comprehensive 12-session exercise programme was no better than simple advice (Michaleff 2014, PROMISE trial) — so keep it simple, active and confidence-building rather than intensive.
+AVOID: collars, rest, frequent passive treatment, alarming explanations.
+EXERCISE GROUPS: NX-E (graded activity) + NX-A
+STAGE 4 MODULE: whiplash module + yellow-flag module.</shape-with-text>
+    <connector id="1:8062" x="1060" y="2453" connectorStart="1:7051" connectorStartCap="NONE" connectorEnd="1:7063" connectorEndCap="ARROW_LINES">NT1b&amp;gt;ND4</connector>
+    <shape-with-text id="1:7055" x="1420" y="2282" width="320" height="165" name="ROUNDED_RECTANGLE">Grade III — arm symptoms or neurological signs → arm-nerve check (NT3)</shape-with-text>
+    <connector id="1:8054" x="930" y="2178" connectorStart="1:7043" connectorStartCap="NONE" connectorEnd="1:7055" connectorEndCap="ARROW_LINES">NT1&amp;gt;NT1c</connector>
+    <shape-with-text id="1:7035" x="1940" y="1464" width="320" height="139" name="ROUNDED_RECTANGLE">Woke up with it — neck stuck to one side, sudden, no injury</shape-with-text>
+    <connector id="1:8034" x="2100" y="1360" connectorStart="1:7027" connectorStartCap="NONE" connectorEnd="1:7035" connectorEndCap="ARROW_LINES">NQ2&amp;gt;NQ2b</connector>
+    <shape-with-text id="1:7067" x="1810" y="1713" width="580" height="434" name="ROUNDED_RECTANGLE">ND5 · WORKING DIAGNOSIS: Acute wry neck (acute torticollis, adult)
+WHAT IT IS: sudden painful locking of the neck, often on waking, turned or tilted to one side, with no injury and no neurological signs. Usually settles over days to a week or two (consensus).
+NEXT STEP: reassurance; heat; gentle active movement in the pain-free direction first, then easing into the stiff direction; keep usual activities. A physio may add gentle mobilisation.
+AVOID: forcing the neck into the painful direction; collars.
+CHECK: a CHILD with a wry neck, fever or neurological signs belongs at N4 / N10, not here.
+EXERCISE GROUP: NX-B (mobility)
+STAGE 4 MODULE: neck module.</shape-with-text>
+    <connector id="1:8070" x="2100" y="1609" connectorStart="1:7035" connectorStartCap="NONE" connectorEnd="1:7067" connectorEndCap="ARROW_LINES">NQ2b&amp;gt;ND5</connector>
+    <shape-with-text id="1:7039" x="3110" y="1464" width="320" height="165" name="ROUNDED_RECTANGLE">Gradually — long hours at a desk, machine or phone, or carrying loads; stiff, sore to turn</shape-with-text>
+    <connector id="1:8038" x="2100" y="1360" connectorStart="1:7027" connectorStartCap="NONE" connectorEnd="1:7039" connectorEndCap="ARROW_LINES">NQ2&amp;gt;NQ2c</connector>
+    <shape-with-text id="1:7071" x="2960" y="1739" width="620" height="426" name="ROUNDED_RECTANGLE">NT2 · Neck movement and endurance check
+• Active range: turn left and right, tip each ear to the shoulder, look up and down (phone inclinometer app if available). Note which movements are limited and painful at the end of range.
+• Upper-back stiffness: sitting with hands behind the head, twist and arch; lying face down, gentle pressure on each thoracic vertebra (physio-level) — stiff, sore levels?
+• Deep neck flexor endurance: lying on the back, tuck the chin (a gentle nod) and lift the head 2–3 cm; time the hold until the chin pokes forward or the head drops. Record the seconds as a baseline (consensus).
+• Load pattern: do sustained desk, sewing or phone postures, or repetitive arm work, reproduce the pain more than single neck movements?
+WHO: anyone trained; physio-level (segmental pressure)</shape-with-text>
+    <connector id="1:8074" x="3270" y="1635" connectorStart="1:7039" connectorStartCap="NONE" connectorEnd="1:7071" connectorEndCap="ARROW_LINES">NQ2c&amp;gt;NT2</connector>
+    <shape-with-text id="1:7075" x="2590" y="2275" width="320" height="165" name="ROUNDED_RECTANGLE">Clearly limited and painful at end-range; recent (under about 12 weeks)</shape-with-text>
+    <connector id="1:8078" x="2750" y="2171" connectorStart="1:7071" connectorStartCap="NONE" connectorEnd="1:7075" connectorEndCap="ARROW_LINES">NT2&amp;gt;NT2a</connector>
+    <shape-with-text id="1:7087" x="2460" y="2550" width="580" height="409" name="ROUNDED_RECTANGLE">ND1 · WORKING DIAGNOSIS: Neck pain with mobility deficits (mechanical neck pain)
+WHAT IT IS: central or one-sided neck pain with limited, painful end-range movement and stiff neck or upper-back segments; may refer to the shoulder blade or upper arm (not below the elbow).
+NEXT STEP: neck range-of-motion exercise, upper-back (thoracic) mobility, shoulder-blade strengthening and deep-neck-flexor work. A physio may add thoracic manipulation and neck mobilisation, which the JOSPT guideline supports alongside exercise (Blanpied 2017).
+AVOID: prolonged rest, collars.
+EXERCISE GROUPS: NX-B (mobility) → NX-C (strength &amp; endurance)
+STAGE 4 MODULE: neck module.</shape-with-text>
+    <connector id="1:8090" x="2750" y="2446" connectorStart="1:7075" connectorStartCap="NONE" connectorEnd="1:7087" connectorEndCap="ARROW_LINES">NT2a&amp;gt;ND1</connector>
+    <shape-with-text id="1:7079" x="3240" y="2275" width="320" height="190" name="ROUNDED_RECTANGLE">Moves fairly well, but pain builds with sustained postures or repetitive arm work; poor endurance</shape-with-text>
+    <connector id="1:8082" x="3270" y="2171" connectorStart="1:7071" connectorStartCap="NONE" connectorEnd="1:7079" connectorEndCap="ARROW_LINES">NT2&amp;gt;NT2b</connector>
+    <shape-with-text id="1:7091" x="3110" y="2575" width="580" height="519" name="ROUNDED_RECTANGLE">ND2 · WORKING DIAGNOSIS: Neck pain with movement-coordination / endurance impairment (posture- and load-related neck pain)
+WHAT IT IS: neck and upper-shoulder (trapezius) pain that builds with sustained postures — sewing, desk or phone work, driving — or repetitive arm work, with poor endurance of the deep neck and shoulder-blade muscles. The posture is not “wrong”; the tissues are under-prepared for the hours spent in it.
+NEXT STEP: specific neck–shoulder strengthening — in women office workers with chronic neck muscle pain, 10 weeks of shoulder strength training cut the worst neck pain by about 79% (Andersen 2008) — plus deep-neck-flexor endurance, postural variety and a short movement break every 30–45 minutes.
+AVOID: “posture correction” or long static stretching on their own.
+EXERCISE GROUPS: NX-C (strength &amp; endurance) + NX-A
+STAGE 4 MODULE: neck module.</shape-with-text>
+    <connector id="1:8094" x="3400" y="2471" connectorStart="1:7079" connectorStartCap="NONE" connectorEnd="1:7091" connectorEndCap="ARROW_LINES">NT2b&amp;gt;ND2</connector>
+    <shape-with-text id="1:7083" x="3760" y="2275" width="320" height="165" name="ROUNDED_RECTANGLE">Long-standing, spreading and very sensitive → widespread pain check (NT6)</shape-with-text>
+    <connector id="1:8086" x="3270" y="2171" connectorStart="1:7071" connectorStartCap="NONE" connectorEnd="1:7083" connectorEndCap="ARROW_LINES">NT2&amp;gt;NT2c</connector>
+    <shape-with-text id="1:7011" x="4995" y="934" width="320" height="165" name="ROUNDED_RECTANGLE">Down the arm below the elbow, often with pins and needles or numbness in the hand</shape-with-text>
+    <connector id="1:8010" x="5155" y="830" connectorStart="1:7003" connectorStartCap="NONE" connectorEnd="1:7011" connectorEndCap="ARROW_LINES">NQ1&amp;gt;NQ1b</connector>
+    <shape-with-text id="1:7095" x="4845" y="1209" width="620" height="638" name="ROUNDED_RECTANGLE">NT3 · Arm nerve-root check (cervical radiculopathy) — Wainner cluster
+• Upper limb tension test A (median nerve): lying on the back; hold the shoulder blade down, take the arm out to the side palm up, extend the wrist and fingers, slowly straighten the elbow, then tip the head away. Reproduces the arm symptoms = positive. A NEGATIVE test is the most useful single finding for ruling radiculopathy out (Wainner 2003).
+• Spurling’s test: head tipped toward the painful side with gentle downward pressure — reproduces the arm pain.
+• Distraction test: gently lifting the head (taking its weight) eases the arm pain.
+• Rotation under 60° toward the painful side.
+CLUSTER: all 4 positive → LR+ 30.3 (Wainner 2003); 3 of 4 → likely.
+• Shoulder abduction relief sign: resting the hand on top of the head eases the arm pain — supports a nerve-root cause.
+• Neurological screen (compare sides): C5 — lift the arm sideways, biceps reflex; C6 — bend the elbow, extend the wrist, thumb feeling; C7 — straighten the elbow, triceps reflex, middle-finger feeling; C8 — grip, little-finger feeling; T1 — spread the fingers.
+WHO: physio-level (tests, reflexes); anyone trained (history, hand-on-head sign)</shape-with-text>
+    <connector id="1:8102" x="5155" y="1105" connectorStart="1:7011" connectorStartCap="NONE" connectorEnd="1:7095" connectorEndCap="ARROW_LINES">NQ1b&amp;gt;NT3</connector>
+    <connector id="1:8066" x="1746" y="1528" connectorStart="1:7055" connectorStartCap="NONE" connectorEnd="1:7095" connectorEndCap="ARROW_LINES">NT1c&amp;gt;NT3</connector>
+    <shape-with-text id="1:7099" x="4280" y="1957" width="320" height="165" name="ROUNDED_RECTANGLE">Cluster positive or a clear nerve-root pattern, with no or stable weakness</shape-with-text>
+    <connector id="1:8106" x="4440" y="1853" connectorStart="1:7095" connectorStartCap="NONE" connectorEnd="1:7099" connectorEndCap="ARROW_LINES">NT3&amp;gt;NT3a</connector>
+    <shape-with-text id="1:7115" x="4150" y="2232" width="580" height="536" name="ROUNDED_RECTANGLE">ND7 · WORKING DIAGNOSIS: Cervical radiculopathy (pinched nerve root in the neck)
+WHAT IT IS: an irritated nerve root (from a disc bulge or bony narrowing) causing arm pain, usually below the elbow, with pins and needles, numbness or mild weakness in one root’s area. Most people improve over weeks to months without surgery.
+NEXT STEP: positions of ease (hand resting on the head, pillow support); repeated chin tucks if they ease or centralise the arm pain; nerve sliders; deep-neck-flexor and shoulder-blade strengthening. A physio may add intermittent traction combined with exercise and mobilisation, which the JOSPT guideline supports (Blanpied 2017).
+AVOID: sustained looking up or tipping the head toward the painful side; nerve stretching; heavy overhead lifting while it is acute.
+REFER IF: worsening weakness, symptoms in both arms (N6), or severe pain not improving by 6–12 weeks.
+EXERCISE GROUPS: NX-D (nerve-friendly) + NX-A
+STAGE 4 MODULE: arm-pain module.</shape-with-text>
+    <connector id="1:8122" x="4440" y="2128" connectorStart="1:7099" connectorStartCap="NONE" connectorEnd="1:7115" connectorEndCap="ARROW_LINES">NT3a&amp;gt;ND7</connector>
+    <shape-with-text id="1:7103" x="4930" y="1957" width="320" height="190" name="ROUNDED_RECTANGLE">Tingling mainly on the little-finger side, worse with arms overhead or carrying; neck tests negative</shape-with-text>
+    <connector id="1:8110" x="5090" y="1853" connectorStart="1:7095" connectorStartCap="NONE" connectorEnd="1:7103" connectorEndCap="ARROW_LINES">NT3&amp;gt;NT3b</connector>
+    <shape-with-text id="1:7119" x="4800" y="2257" width="580" height="561" name="ROUNDED_RECTANGLE">ND8 · WORKING DIAGNOSIS: Suspected neurogenic thoracic outlet syndrome
+WHAT IT IS: irritation of the arm nerves (brachial plexus) between the collarbone, first rib and neck muscles: tingling, heaviness or aching down the inner arm to the ring and little fingers, worse with arms overhead or carrying heavy bags or head-loads. No bedside test is accurate — it is a pattern diagnosis after the neck and wrist have been checked (consensus).
+CHECK ALSO: night tingling in the thumb, index and middle fingers, shaken off on waking → carpal tunnel syndrome at the wrist (not this pathway).
+NEXT STEP: shoulder-blade elevation and retraction strength, posture variety, relaxed belly breathing, nerve sliders, load management (bag weight, strap position, head-load technique).
+REFER IF: hand swelling, colour change or coldness (blood-vessel type — urgent), or wasting of the small hand muscles.
+EXERCISE GROUPS: NX-D (nerve-friendly) + NX-C
+STAGE 4 MODULE: arm-pain module.</shape-with-text>
+    <connector id="1:8126" x="5090" y="2153" connectorStart="1:7103" connectorStartCap="NONE" connectorEnd="1:7119" connectorEndCap="ARROW_LINES">NT3b&amp;gt;ND8</connector>
+    <shape-with-text id="1:7107" x="5450" y="1957" width="320" height="165" name="ROUNDED_RECTANGLE">Tests negative; arm ache vague and above the elbow → neck movement check (NT2)</shape-with-text>
+    <connector id="1:8130" x="3586" y="1952" connectorStart="1:7107" connectorStartCap="NONE" connectorEnd="1:7071" connectorEndCap="ARROW_LINES">NT3c&amp;gt;NT2</connector>
+    <connector id="1:8114" x="5155" y="1853" connectorStart="1:7095" connectorStartCap="NONE" connectorEnd="1:7107" connectorEndCap="ARROW_LINES">NT3&amp;gt;NT3c</connector>
+    <shape-with-text id="1:7111" x="5840" y="1957" width="320" height="165" name="ROUNDED_RECTANGLE">Weakness getting worse, both arms, or clumsy hands → STOP: back to N6</shape-with-text>
+    <connector id="1:8118" x="5155" y="1853" connectorStart="1:7095" connectorStartCap="NONE" connectorEnd="1:7111" connectorEndCap="ARROW_LINES">NT3&amp;gt;NT3d</connector>
+    <shape-with-text id="1:7015" x="6605" y="934" width="320" height="165" name="ROUNDED_RECTANGLE">Headache that starts in the neck and spreads to the forehead or eye, on one side</shape-with-text>
+    <connector id="1:8014" x="5400" y="830" connectorStart="1:7003" connectorStartCap="NONE" connectorEnd="1:7015" connectorEndCap="ARROW_LINES">NQ1&amp;gt;NQ1c</connector>
+    <shape-with-text id="1:7123" x="6455" y="1209" width="620" height="510" name="ROUNDED_RECTANGLE">NT4 · Headache-from-the-neck check (cervicogenic headache)
+FIRST: any new, sudden, “worst ever”, steadily worsening, morning-vomiting or neurological headache → back to N3 / N4 / N5.
+FEATURES (ICHD-3): one-sided headache that starts in the neck and spreads forward; brought on by neck movement or sustained neck postures; reduced neck movement; pressing on the upper neck reproduces the headache.
+CHECK — cervical flexion-rotation test: lying on the back, bend the neck fully forward, then turn the head each way. Rotation limited by about 10° or more compared with the other side = positive. Sensitivity 91%, specificity 90% for C1–2 cervicogenic headache in experienced hands (Ogince 2007).
+ALSO SCREEN: migraine (throbbing, nausea, light sensitivity, aura) and tension-type headache (both sides, band-like pressure) — these need a different plan.
+WHO: physio-level (flexion-rotation test); anyone trained (history)</shape-with-text>
+    <connector id="1:8138" x="6765" y="1105" connectorStart="1:7015" connectorStartCap="NONE" connectorEnd="1:7123" connectorEndCap="ARROW_LINES">NQ1c&amp;gt;NT4</connector>
+    <shape-with-text id="1:7127" x="6360" y="1829" width="320" height="139" name="ROUNDED_RECTANGLE">Features fit and the flexion-rotation test is positive</shape-with-text>
+    <connector id="1:8142" x="6520" y="1725" connectorStart="1:7123" connectorStartCap="NONE" connectorEnd="1:7127" connectorEndCap="ARROW_LINES">NT4&amp;gt;NT4a</connector>
+    <shape-with-text id="1:7135" x="6230" y="2078" width="580" height="485" name="ROUNDED_RECTANGLE">ND9 · WORKING DIAGNOSIS: Cervicogenic headache (neck pain with headache)
+WHAT IT IS: headache referred from the upper neck joints (C1–C3) and muscles: one-sided, starting in the neck, brought on by neck postures or movement.
+NEXT STEP: craniocervical flexion training (deep neck flexors), shoulder-blade muscle training and posture variety, plus neck mobility; a physio may add upper-neck mobilisation or manipulation. In a 12-month trial, specific exercise and manipulative therapy each reduced headache frequency and intensity, and the effects lasted (Jull 2002).
+AVOID: long static postures without breaks; daily painkillers (risk of medication-overuse headache).
+EXERCISE GROUPS: NX-A (deep neck &amp; shoulder-blade control) + NX-B
+STAGE 4 MODULE: headache module.</shape-with-text>
+    <connector id="1:8150" x="6520" y="1974" connectorStart="1:7127" connectorStartCap="NONE" connectorEnd="1:7135" connectorEndCap="ARROW_LINES">NT4a&amp;gt;ND9</connector>
+    <shape-with-text id="1:7131" x="6930" y="1829" width="320" height="139" name="ROUNDED_RECTANGLE">Migraine or tension-type pattern instead</shape-with-text>
+    <connector id="1:8146" x="6765" y="1725" connectorStart="1:7123" connectorStartCap="NONE" connectorEnd="1:7131" connectorEndCap="ARROW_LINES">NT4&amp;gt;NT4b</connector>
+    <shape-with-text id="1:7139" x="6880" y="2078" width="420" height="273" name="ROUNDED_RECTANGLE">HEADACHE NOT FROM THE NECK
+Doctor for headache diagnosis and medicines. Regular aerobic exercise and neck–shoulder strengthening can still help alongside for migraine and tension-type headache (consensus); use Group NX-C or NX-E if neck pain coexists.</shape-with-text>
+    <connector id="1:8154" x="7090" y="1974" connectorStart="1:7131" connectorStartCap="NONE" connectorEnd="1:7139" connectorEndCap="ARROW_LINES">NT4b&amp;gt;NX1</connector>
+    <shape-with-text id="1:7019" x="8345" y="934" width="320" height="165" name="ROUNDED_RECTANGLE">Upper or mid-back between the shoulder blades, or around the ribs</shape-with-text>
+    <connector id="1:8018" x="5400" y="830" connectorStart="1:7003" connectorStartCap="NONE" connectorEnd="1:7019" connectorEndCap="ARROW_LINES">NQ1&amp;gt;NQ1d</connector>
+    <shape-with-text id="1:7143" x="8245" y="1209" width="520" height="171" name="ROUNDED_RECTANGLE">NQ3 · What brings on the upper-back pain?
+ASK: “What makes it worse — breathing, coughing, twisting, sitting, lifting the arms?”</shape-with-text>
+    <connector id="1:8158" x="8505" y="1105" connectorStart="1:7019" connectorStartCap="NONE" connectorEnd="1:7143" connectorEndCap="ARROW_LINES">NQ1d&amp;gt;NQ3</connector>
+    <shape-with-text id="1:7147" x="7695" y="1490" width="320" height="190" name="ROUNDED_RECTANGLE">Twisting, deep breaths, coughing or rolling in bed — sharp, one-sided, near the spine or along a rib</shape-with-text>
+    <connector id="1:8162" x="7855" y="1386" connectorStart="1:7143" connectorStartCap="NONE" connectorEnd="1:7147" connectorEndCap="ARROW_LINES">NQ3&amp;gt;NQ3a</connector>
+    <shape-with-text id="1:7159" x="7545" y="1790" width="620" height="324" name="ROUNDED_RECTANGLE">NT5 · Rib (costovertebral) joint check
+• Press along the rib where it meets the spine, and along the rib itself: one tender spot that reproduces the familiar pain?
+• Do a deep breath, a cough, side-bending away and trunk rotation reproduce it?
+• Spring the rib gently (physio-level).
+• Re-check N1 and N9 first: chest pain with effort or breathlessness, or a burning band with skin sensitivity, is NOT a rib-joint problem.
+WHO: anyone trained; physio-level (rib springing)</shape-with-text>
+    <connector id="1:8174" x="7855" y="1686" connectorStart="1:7147" connectorStartCap="NONE" connectorEnd="1:7159" connectorEndCap="ARROW_LINES">NQ3a&amp;gt;NT5</connector>
+    <shape-with-text id="1:7163" x="7500" y="2224" width="320" height="139" name="ROUNDED_RECTANGLE">A local tender rib or joint reproduces the pain</shape-with-text>
+    <connector id="1:8178" x="7660" y="2120" connectorStart="1:7159" connectorStartCap="NONE" connectorEnd="1:7163" connectorEndCap="ARROW_LINES">NT5&amp;gt;NT5a</connector>
+    <shape-with-text id="1:7175" x="7370" y="2473" width="580" height="434" name="ROUNDED_RECTANGLE">ND10 · WORKING DIAGNOSIS: Rib (costovertebral) joint pain
+WHAT IT IS: a sprained or irritated joint where a rib meets the spine — sharp, one-sided pain with breathing, coughing, twisting or rolling in bed, often after lifting, a twist or a bout of coughing. Usually settles over weeks (consensus).
+NEXT STEP: breathing exercise (slow deep breaths, expanding the sore side into a hand placed on the ribs), gentle rotation and side-bending mobility, then trunk and shoulder-blade strength.
+AVOID: heavy one-sided lifting and twisting while it is irritable.
+DANGER: fever, breathlessness, or chest pain with effort → N1.
+EXERCISE GROUP: NX-B (mobility — breathing branch)
+STAGE 4 MODULE: upper-back module.</shape-with-text>
+    <connector id="1:8186" x="7660" y="2369" connectorStart="1:7163" connectorStartCap="NONE" connectorEnd="1:7175" connectorEndCap="ARROW_LINES">NT5a&amp;gt;ND10</connector>
+    <shape-with-text id="1:7167" x="8020" y="2224" width="320" height="139" name="ROUNDED_RECTANGLE">Not reproduced locally → thoracic mobility deficit (ND6)</shape-with-text>
+    <connector id="1:8182" x="7855" y="2120" connectorStart="1:7159" connectorStartCap="NONE" connectorEnd="1:7167" connectorEndCap="ARROW_LINES">NT5&amp;gt;NT5b</connector>
+    <shape-with-text id="1:7151" x="8540" y="1490" width="320" height="165" name="ROUNDED_RECTANGLE">Sitting, slouching, desk or sewing work — stiff, aching across the mid-back</shape-with-text>
+    <connector id="1:8166" x="8505" y="1386" connectorStart="1:7143" connectorStartCap="NONE" connectorEnd="1:7151" connectorEndCap="ARROW_LINES">NQ3&amp;gt;NQ3b</connector>
+    <shape-with-text id="1:7171" x="8410" y="1765" width="580" height="383" name="ROUNDED_RECTANGLE">ND6 · WORKING DIAGNOSIS: Thoracic (mid / upper-back) pain with mobility deficits
+WHAT IT IS: aching, stiffness and local pain between or below the shoulder blades, linked with long sitting or bent postures, with stiff, tender thoracic segments and no Stage 1 warning signs.
+NEXT STEP: thoracic extension and rotation mobility, shoulder-blade strengthening, breathing and posture variety; a physio may add thoracic mobilisation or manipulation.
+AVOID: long slumped postures without breaks.
+EXERCISE GROUPS: NX-B (mobility) + NX-C
+STAGE 4 MODULE: upper-back module.</shape-with-text>
+    <connector id="1:8194" x="8180" y="1717" connectorStart="1:7167" connectorStartCap="NONE" connectorEnd="1:7171" connectorEndCap="ARROW_LINES">NT5b&amp;gt;ND6</connector>
+    <connector id="1:8190" x="8700" y="1661" connectorStart="1:7151" connectorStartCap="NONE" connectorEnd="1:7171" connectorEndCap="ARROW_LINES">NQ3b&amp;gt;ND6</connector>
+    <shape-with-text id="1:7155" x="9190" y="1490" width="320" height="165" name="ROUNDED_RECTANGLE">Older or stooped, with a rounded upper back that’s getting worse (Stage 1 already clear)</shape-with-text>
+    <connector id="1:8170" x="8505" y="1386" connectorStart="1:7143" connectorStartCap="NONE" connectorEnd="1:7155" connectorEndCap="ARROW_LINES">NQ3&amp;gt;NQ3c</connector>
+    <shape-with-text id="1:7179" x="9060" y="1765" width="580" height="527" name="ROUNDED_RECTANGLE">ND11 · WORKING DIAGNOSIS: Stooped upper back — age-related hyperkyphosis, or a stable osteoporotic fracture or Scheuermann’s after clearance (from N8 / N10)
+WHAT IT IS: a rounded upper back with weak back-extensor muscles, with or without a healed compression fracture confirmed by the doctor, or teenage Scheuermann’s kyphosis confirmed on X-ray.
+NEXT STEP: spinal-extensor strengthening, posture training, chest-opening mobility, balance and fall prevention. In adults over 60 with hyperkyphosis, 6 months of spine-strengthening and posture training reduced the kyphosis angle compared with health education (Katzman 2017); back-extensor exercise was linked with fewer vertebral fractures (Sinaki 2002).
+AVOID: loaded bending and twisting of the spine (sit-ups, toe touches).
+EXERCISE GROUP: NX-F (spinal extensor &amp; bone-safe strength)
+STAGE 4 MODULE: bone-health module.</shape-with-text>
+    <connector id="1:8198" x="9350" y="1661" connectorStart="1:7155" connectorStartCap="NONE" connectorEnd="1:7179" connectorEndCap="ARROW_LINES">NQ3c&amp;gt;ND11</connector>
+    <shape-with-text id="1:7023" x="10035" y="934" width="320" height="165" name="ROUNDED_RECTANGLE">Pain in many places — neck plus back, arms or legs; “everything hurts”</shape-with-text>
+    <connector id="1:8022" x="5400" y="830" connectorStart="1:7003" connectorStartCap="NONE" connectorEnd="1:7023" connectorEndCap="ARROW_LINES">NQ1&amp;gt;NQ1e</connector>
+    <shape-with-text id="1:7183" x="9885" y="1209" width="620" height="375" name="ROUNDED_RECTANGLE">NT6 · Widespread pain / central sensitisation check
+• Clinical criteria (all 3): pain out of proportion to the injury or findings; pain spread widely or not following anatomy; over-sensitive to touch, pressure, cold, light, sound or stress (Nijs 2015).
+• Central Sensitization Inventory: 40 or more out of 100 suggests central sensitisation (sensitivity 81%, specificity 75%; Neblett 2013).
+• After whiplash, widespread sensitivity and stress symptoms often travel together — check NT1 risk features.
+• Re-check N5 (polymyalgia) and N11 (inflammatory disease) in older or morning-stiff patients.
+WHO: anyone trained (questions); physio-level (interpretation)</shape-with-text>
+    <connector id="1:8202" x="10195" y="1105" connectorStart="1:7023" connectorStartCap="NONE" connectorEnd="1:7183" connectorEndCap="ARROW_LINES">NQ1e&amp;gt;NT6</connector>
+    <connector id="1:8098" x="4086" y="1396.5" connectorStart="1:7083" connectorStartCap="NONE" connectorEnd="1:7183" connectorEndCap="ARROW_LINES">NT2c&amp;gt;NT6</connector>
+    <shape-with-text id="1:7187" x="9840" y="1694" width="320" height="139" name="ROUNDED_RECTANGLE">Yes — widespread, out of proportion, over-sensitive</shape-with-text>
+    <connector id="1:8206" x="10000" y="1590" connectorStart="1:7183" connectorStartCap="NONE" connectorEnd="1:7187" connectorEndCap="ARROW_LINES">NT6&amp;gt;NT6a</connector>
+    <shape-with-text id="1:7195" x="9710" y="1943" width="580" height="519" name="ROUNDED_RECTANGLE">ND12 · WORKING DIAGNOSIS: Chronic neck pain with widespread pain / central sensitisation (nociplastic pain)
+WHAT IT IS: a sensitised nervous system: neck pain plus pain in many areas, flaring easily and out of proportion to any tissue problem; often with poor sleep, fatigue and stress. Real pain — not imagined, and not damage.
+NEXT STEP: pain education first; graded activity and graded exposure to avoided tasks (driving, overhead work, looking up); regular aerobic exercise starting low and building slowly; gentle neck–shoulder strength; sleep and stress strategies; psychological support (CBT-based) where available.
+AVOID: repeated scans, collars, long rest after flares, passive-only care, opioids.
+EXERCISE GROUP: NX-E (graded activity &amp; pain education)
+STAGE 4 MODULE: yellow-flag module.</shape-with-text>
+    <connector id="1:8214" x="10000" y="1839" connectorStart="1:7187" connectorStartCap="NONE" connectorEnd="1:7195" connectorEndCap="ARROW_LINES">NT6a&amp;gt;ND12</connector>
+    <shape-with-text id="1:7191" x="10360" y="1694" width="320" height="139" name="ROUNDED_RECTANGLE">No — mainly a neck problem → neck movement check (NT2)</shape-with-text>
+    <connector id="1:8218" x="3586" y="1763.5" connectorStart="1:7191" connectorStartCap="NONE" connectorEnd="1:7071" connectorEndCap="ARROW_LINES">NT6b&amp;gt;NT2</connector>
+    <connector id="1:8210" x="10195" y="1590" connectorStart="1:7183" connectorStartCap="NONE" connectorEnd="1:7191" connectorEndCap="ARROW_LINES">NT6&amp;gt;NT6b</connector>
+    <shape-with-text id="1:6999" x="6090" y="160" width="560" height="349" name="ROUNDED_RECTANGLE">WHY THE LABEL MATTERS (OR DOESN’T)
+Most neck pain has no single tissue cause you can prove without imaging — and scans often show “wear” in people with no pain. What changes care is the pattern: stiff vs poorly controlled, arm-nerve involvement, headache, whiplash recovery risk, and how widespread and sensitised the pain is. So Stage 2 picks the exercise group, the positions to favour and avoid, and the starting dose.
+Posture: no single “correct” posture prevents neck pain. Teach variety and breaks, and build the capacity of the tissues for the hours the patient actually spends in that position.</shape-with-text>
+  </section>
+  <section id="1:7332" name="Neck &amp; upper back · Stage 3 · Exercise groups" x="14448" y="14817" width="7585" height="2453">
+    <shape-with-text id="1:7199" x="3242" y="160" width="1100" height="297" name="ROUNDED_RECTANGLE">STAGE 3 — EXERCISE GROUPS: diagnoses that share a problem share a programme
+Each working diagnosis points (grey curved arrows) to one or two groups. A group = the shared mechanism + the exercises that target it + how to progress. Pick 3–5 exercises from the group, set the dose in Stage 4, and finish in the CORE PROGRAMME.
+Why groups work: the neck pain guideline recommends combining mobility, deep-neck-flexor and shoulder-blade training, strength and endurance in most patterns (Blanpied 2017); the emphasis changes with the pattern, not the whole programme.</shape-with-text>
+    <shape-with-text id="1:7203" x="120" y="787" width="1000" height="808" name="SQUARE">NX-A · Deep neck flexor &amp; shoulder-blade control
+For: ND9 cervicogenic headache · ND3 whiplash (after early mobility) · ND4 high-risk whiplash · ND2 posture- and load-related pain · ND7 radiculopathy (once settled)
+SHARED PROBLEM: the deep stabilising muscles at the front of the neck and around the shoulder blade switch on late and tire early, so bigger muscles overwork and the upper neck is overloaded.
+• Chin nod (craniocervical flexion) lying on the back, head on a folded towel: a gentle “yes” nod without lifting the head — 10 × 10 s
+• Progress with a folded blood-pressure cuff under the neck (pressure biofeedback: 20 → 30 mmHg in 2 mmHg steps) if available
+• Chin nod, then lift the head 2–3 cm and hold 5–10 s
+• Sitting: chin nod plus gentle hand resistance in each direction (isometrics), 5 × 5–10 s
+• Shoulder-blade setting — draw the shoulder blades gently back and down, 10 × 10 s → face-down “Y” and “T” arm lifts
+DOSE: daily, 10–15 minutes; quality over load.
+EVIDENCE: craniocervical flexion training reduced cervicogenic headache frequency and intensity over 12 months (Jull 2002).</shape-with-text>
+    <shape-with-text id="1:7207" x="1644" y="787" width="1000" height="697" name="SQUARE">NX-B · Neck &amp; upper-back mobility (move early)
+For: ND1 mobility deficits · ND5 acute wry neck · ND3 whiplash (early) · ND6 thoracic mobility deficit · ND10 rib joint pain (breathing branch) · ND9 headache (alongside NX-A)
+SHARED PROBLEM: painful, stiff segments — movement in comfortable ranges calms the pain and restores motion.
+• Neck turns, tips and nods within comfort: 10 each way, several times a day
+• Chin tucks (retraction) sitting tall: 10 reps
+• Thoracic extension over a chair back or a rolled towel: 10 reps
+• “Open book” rotation lying on the side: 10 each side
+• Cat–camel on hands and knees; shoulder rolls; shoulder-blade squeezes
+• Breathing branch (ND10): hand on the sore ribs, 5–10 slow deep breaths expanding into the hand, every hour
+DOSE: little and often — every 1–2 hours while acute; then 2–3 times a day.
+PROGRESS: to NX-A or NX-C within 1–2 weeks.</shape-with-text>
+    <shape-with-text id="1:7215" x="2784" y="787" width="1000" height="779" name="SQUARE">NX-D · Nerve-friendly arm-pain care
+For: ND7 cervical radiculopathy · ND8 thoracic outlet syndrome · whiplash with arm symptoms (NT1 grade III)
+SHARED PROBLEM: a sensitive nerve in the neck or shoulder girdle that dislikes being squeezed or stretched.
+• Positions of ease: hand resting on the head; a pillow under the arm; neck supported in bed
+• Chin tucks: 10 reps every 2–3 hours, if they ease or centralise the arm pain
+• Median nerve slider: arm out to the side, palm up; bend the wrist back while tipping the head TOWARD that arm, then release both — 10–15 reps, no stretch pain
+• Ulnar nerve slider (ND8): make an “OK” sign and bring it gently toward the eye like goggles, 10 reps
+• Shoulder-blade elevation and retraction; relaxed belly breathing (ND8)
+• Then progress to NX-A and NX-C
+RULE: pins and needles or numbness spreading = too much — stop and step down.
+EVIDENCE: neural mobilisation reduced pain in chronic neck–arm pain (about 1.9 points out of 10; Basson 2017); traction combined with exercise is supported for radiculopathy (Blanpied 2017).</shape-with-text>
+    <shape-with-text id="1:7211" x="3924" y="787" width="1000" height="704" name="SQUARE">NX-C · Neck–shoulder strength &amp; endurance
+For: ND2 posture- and load-related neck pain · ND1 mobility deficits (once movement returns) · ND6 thoracic pain · ND8 thoracic outlet (shoulder-blade elevation branch)
+SHARED PROBLEM: neck and shoulder tissues under-prepared for long hours of static work or repetitive arm use.
+• Shoulder shrugs holding water bottles or a bag: 3 × 10–12
+• Rows with a band, or a towel around a pole: 3 × 10–12
+• Reverse fly / band pull-aparts: 3 × 12
+• Side raises to shoulder height: 3 × 10
+• Wall push-ups → push-up plus (push the shoulder blades apart at the top)
+• Neck isometrics — hand resistance forward, back and to each side: 5 × 10 s
+• Work breaks: every 30–45 minutes, 1 minute of movement
+DOSE: 3 times a week, about 20 minutes; increase the load when the reps get easy (Andersen 2008 ran 10 weeks).
+EVIDENCE: specific strength training reduced worst neck pain by about 79% in office workers with chronic neck muscle pain (Andersen 2008).</shape-with-text>
+    <shape-with-text id="1:7219" x="5064" y="787" width="1000" height="779" name="SQUARE">NX-E · Graded activity &amp; pain education
+For: ND12 widespread pain / central sensitisation · ND4 high-risk whiplash · anyone with a high Örebro score
+SHARED PROBLEM: a sensitised system, stress and fear of movement — the aim is confidence and capacity.
+• Pain education: hurt ≠ harm; whiplash and neck pain are not signs of damage; flare-ups settle
+• Walking or cycling programme: start below today’s comfortable amount, add about 10% a week (by plan, not by pain)
+• Graded exposure to avoided tasks: driving and shoulder checks, looking up, overhead reaching, carrying
+• Gentle whole-body strength: sit-to-stand, wall push-ups, rows, carries
+• Relaxed breathing, a sleep routine, pacing between busy and quiet days
+DOSE: build toward 150 minutes of moderate activity a week plus 2 strength days (WHO 2020).
+EVIDENCE: in chronic whiplash, simple advice did as well as a comprehensive exercise programme (Michaleff 2014) — keep the programme simple, active and confidence-building.</shape-with-text>
+    <shape-with-text id="1:7223" x="6304" y="787" width="1000" height="734" name="SQUARE">NX-F · Spinal extensor &amp; bone-safe strength (upper back)
+For: ND11 stooped upper back — hyperkyphosis, stable osteoporotic fracture, or Scheuermann’s after clearance
+SHARED PROBLEM: weak back extensors and a rounded upper back, often with fragile bones — the goals are extensor strength, alignment and fewer falls.
+• Face-down head-and-chest lifts with a pillow under the tummy: 8–10 reps, hold 3 s
+• Seated or standing back extension against a wall or chair back: 10 reps
+• Wall angels; chin tuck with the back of the head toward the wall: 5 × 10 s
+• Rows and reverse flies with a band
+• Chest opener: lie on a rolled towel along the spine, arms out, 2–3 min
+• Balance and sit-to-stand practice
+AVOID: sit-ups, toe touches, loaded twisting.
+EVIDENCE: 6 months of spine strengthening and posture training reduced kyphosis in older adults (Katzman 2017); back-extensor strength linked with fewer vertebral fractures (Sinaki 2002); Too Fit To Fracture guidance (Giangregorio 2014).</shape-with-text>
+    <shape-with-text id="1:7227" x="2692" y="1925" width="2200" height="408" name="SQUARE">NX-CORE · CORE PROGRAMME FOR EVERYONE — where every group ends up
+Once symptoms are settling, every patient moves here.
+STRENGTH (2–3 days a week, 2–3 sets of 8–12): rows, push-ups (wall → bench → floor), shoulder presses with light loads, farmer carries, plus sit-to-stand or squats for the whole body.
+NECK–SHOULDER ENDURANCE: deep-neck-flexor holds and shoulder-blade work kept up 2–3 times a week.
+ENDURANCE: walking, cycling or swimming, building toward 150 minutes a week.
+WORK AND LIFE TASKS: practise the patient’s own PSFS goals — head-loads and carrying, sewing or computer sessions with breaks, driving and shoulder checks, sleeping comfortably, looking up to hang washing.
+FLARE-UP PLAN: drop back one level for 2–3 days, use the group’s easing movement (chin tucks, gentle turns), keep active, then rebuild.</shape-with-text>
+    <connector id="1:8322" x="3792" y="1527" connectorStart="1:7223" connectorStartCap="NONE" connectorEnd="1:7227" connectorEndCap="ARROW_LINES">NX-F&amp;gt;NX-CORE</connector>
+    <connector id="1:8318" x="3792" y="1572" connectorStart="1:7219" connectorStartCap="NONE" connectorEnd="1:7227" connectorEndCap="ARROW_LINES">NX-E&amp;gt;NX-CORE</connector>
+    <connector id="1:8314" x="3284" y="1572" connectorStart="1:7215" connectorStartCap="NONE" connectorEnd="1:7227" connectorEndCap="ARROW_LINES">NX-D&amp;gt;NX-CORE</connector>
+    <connector id="1:8310" x="3792" y="1497" connectorStart="1:7211" connectorStartCap="NONE" connectorEnd="1:7227" connectorEndCap="ARROW_LINES">NX-C&amp;gt;NX-CORE</connector>
+    <connector id="1:8306" x="2144" y="1490" connectorStart="1:7207" connectorStartCap="NONE" connectorEnd="1:7227" connectorEndCap="ARROW_LINES">NX-B&amp;gt;NX-CORE</connector>
+    <connector id="1:8302" x="620" y="1601" connectorStart="1:7203" connectorStartCap="NONE" connectorEnd="1:7227" connectorEndCap="ARROW_LINES">NX-A&amp;gt;NX-CORE</connector>
+  </section>
+  <section id="1:7333" name="Neck &amp; upper back · Stage 4 · Measure, dose, re-test" x="17140" y="17970" width="2200" height="4540">
+    <shape-with-text id="1:7231" x="550" y="160" width="1100" height="190" name="ROUNDED_RECTANGLE">STAGE 4 — MEASURE, DOSE THE EXERCISE, RE-TEST
+Every patient comes here from their exercise group. Everyone gets the same short core battery; the diagnosis adds one module; irritability sets the starting dose; the Örebro score sets HOW the programme is delivered.</shape-with-text>
+    <shape-with-text id="1:7235" x="820" y="460" width="560" height="197" name="ROUNDED_RECTANGLE">NS4-1 · How irritable is the neck?
+ASK: “Tell me about your last bad flare. What sets the pain off, and how long does it take to settle?” Ask about the last 24 hours, sleep and headaches too.</shape-with-text>
+    <connector id="1:8330" x="1100" y="356" connectorStart="1:7231" connectorStartCap="NONE" connectorEnd="1:7235" connectorEndCap="ARROW_LINES">NS4&amp;gt;NS4-1</connector>
+    <shape-with-text id="1:7239" x="460" y="767" width="380" height="165" name="ROUNDED_RECTANGLE">HIGH: pain at rest or wakes you; small movements flare it; takes hours or until the next day to settle</shape-with-text>
+    <connector id="1:8334" x="650" y="663" connectorStart="1:7235" connectorStartCap="NONE" connectorEnd="1:7239" connectorEndCap="ARROW_LINES">NS4-1&amp;gt;NS4-1a</connector>
+    <shape-with-text id="1:7243" x="910" y="767" width="380" height="139" name="ROUNDED_RECTANGLE">MODERATE: pain with some activities; settles within an hour or two</shape-with-text>
+    <connector id="1:8338" x="1100" y="663" connectorStart="1:7235" connectorStartCap="NONE" connectorEnd="1:7243" connectorEndCap="ARROW_LINES">NS4-1&amp;gt;NS4-1b</connector>
+    <shape-with-text id="1:7247" x="1360" y="767" width="380" height="139" name="ROUNDED_RECTANGLE">LOW: pain only with long or heavy activity; settles within minutes</shape-with-text>
+    <connector id="1:8342" x="1100" y="663" connectorStart="1:7235" connectorStartCap="NONE" connectorEnd="1:7247" connectorEndCap="ARROW_LINES">NS4-1&amp;gt;NS4-1c</connector>
+    <shape-with-text id="1:7251" x="460" y="1042" width="380" height="222" name="ROUNDED_RECTANGLE">START GENTLE
+Positions of ease, NX-B gentle movement, chin nods, short walks, education. Baseline limited to pain, PSFS and the Örebro screen.</shape-with-text>
+    <connector id="1:8346" x="650" y="938" connectorStart="1:7239" connectorStartCap="NONE" connectorEnd="1:7251" connectorEndCap="ARROW_LINES">NS4-1a&amp;gt;NS4-HI</connector>
+    <shape-with-text id="1:7255" x="910" y="1042" width="380" height="197" name="ROUNDED_RECTANGLE">START MODERATE
+Group exercises at full dose and progressive strengthening within the pain rules. Full core battery.</shape-with-text>
+    <connector id="1:8350" x="1100" y="912" connectorStart="1:7243" connectorStartCap="NONE" connectorEnd="1:7255" connectorEndCap="ARROW_LINES">NS4-1b&amp;gt;NS4-MD</connector>
+    <shape-with-text id="1:7259" x="1360" y="1042" width="380" height="197" name="ROUNDED_RECTANGLE">START STRONGER
+Core programme loading, carrying and overhead work, return to sport or heavy tasks. Full core battery.</shape-with-text>
+    <connector id="1:8354" x="1550" y="912" connectorStart="1:7247" connectorStartCap="NONE" connectorEnd="1:7259" connectorEndCap="ARROW_LINES">NS4-1c&amp;gt;NS4-LO</connector>
+    <shape-with-text id="1:7263" x="720" y="1374" width="760" height="332" name="ROUNDED_RECTANGLE">NS4-2 · Short-form Örebro Musculoskeletal Pain Screening Questionnaire (10 questions)
+Scores the risk of long-term disability from pain, beliefs, mood and work factors across any musculoskeletal pain site. A cut-off of 50 identified 83–85% of the people who went on to develop disability (Linton 2011).
+• Lower risk: advice, reassurance, the group’s exercises at home; few contacts.
+• Higher risk (50 or more): psychologically informed physiotherapy — tackle fears and beliefs, graded exposure, pacing, goal-setting; involve a counsellor or doctor for low mood or stress-reaction symptoms (especially after whiplash).</shape-with-text>
+    <connector id="1:8366" x="1100" y="1245" connectorStart="1:7259" connectorStartCap="NONE" connectorEnd="1:7263" connectorEndCap="ARROW_LINES">NS4-LO&amp;gt;NS4-2</connector>
+    <connector id="1:8362" x="1100" y="1245" connectorStart="1:7255" connectorStartCap="NONE" connectorEnd="1:7263" connectorEndCap="ARROW_LINES">NS4-MD&amp;gt;NS4-2</connector>
+    <connector id="1:8358" x="650" y="1270" connectorStart="1:7251" connectorStartCap="NONE" connectorEnd="1:7263" connectorEndCap="ARROW_LINES">NS4-HI&amp;gt;NS4-2</connector>
+    <shape-with-text id="1:7267" x="120" y="1816" width="680" height="604" name="ROUNDED_RECTANGLE">NS4-3 · CORE BASELINE BATTERY (about 10 minutes)
+Needs: a chair, a stopwatch, a phone and a tape measure. Repeat the SAME set at week 0, 4 and 12.
+1. Pain 0–10 (faces version for low literacy): average and worst in the last week; arm pain and headache scored separately if present.
+2. Patient-Specific Functional Scale (PSFS): the patient names their 3 hardest tasks and rates each 0–10 — this becomes the goal list. Prompt with local tasks: carrying head-loads or water, sewing or computer work, looking up to hang washing, driving or riding a two-wheeler, sleeping, floor work.
+3. Neck Disability Index (NDI): 10 items, 0–50 — check for a validated Hindi or Marathi version.
+4. Body chart: where the symptoms reach — watch arm symptoms centralise across visits.
+5. Neck range: rotation, side-bend, looking up and down (phone inclinometer app, or chin-to-shoulder distance).
+6. Deep-neck-flexor endurance hold (seconds).
+7. Thoracic rotation in sitting and chest expansion at nipple level (tape measure).
+8. Grip strength (dynamometer if available) or a timed bag-carry.
+9. Nerve check if any arm symptoms: hand-on-head sign, upper-limb tension test, strength and feeling by root.</shape-with-text>
+    <connector id="1:8370" x="460" y="1712" connectorStart="1:7263" connectorStartCap="NONE" connectorEnd="1:7267" connectorEndCap="ARROW_LINES">NS4-2&amp;gt;NS4-3</connector>
+    <shape-with-text id="1:7271" x="870" y="1816" width="680" height="510" name="ROUNDED_RECTANGLE">NS4-4 · ADD-ON MODULE — pick the one that matches the working diagnosis
+Neck module (ND1, ND2, ND5): NDI; range of movement; endurance hold; work-break log.
+Whiplash module (ND3, ND4): NDI, Quebec grade, stress-reaction screen (e.g. Impact of Event Scale), dizziness and concentration checklist.
+Arm-pain module (ND7, ND8): arm pain 0–10 apart from neck pain; upper-limb tension test; strength and feeling by root at every visit (any new weakness → N6).
+Headache module (ND9): headache diary (days per month, intensity, medicine days); flexion-rotation range; HIT-6 headache impact questionnaire.
+Upper-back module (ND6, ND10): thoracic rotation; chest expansion; pain on deep breath 0–10.
+Yellow-flag module (ND4, ND12, or Örebro 50+): Örebro; Central Sensitization Inventory; PHQ-9 mood screen → doctor if moderate or worse; sleep.
+Bone-health module (ND11): height to the millimetre; back-of-head-to-wall distance; Timed Up-and-Go; falls in the last year.</shape-with-text>
+    <connector id="1:8374" x="1100" y="1712" connectorStart="1:7263" connectorStartCap="NONE" connectorEnd="1:7271" connectorEndCap="ARROW_LINES">NS4-2&amp;gt;NS4-4</connector>
+    <shape-with-text id="1:7275" x="1620" y="1816" width="460" height="349" name="ROUNDED_RECTANGLE">PAIN RULES FOR HOME EXERCISE
+• Pain up to about 5 out of 10 during exercise is acceptable if it has settled back to its usual level by the next morning. If not, hold or step down one level.
+• Arm-symptom rule: symptoms moving up toward the neck = good; spreading down the arm, or new numbness or weakness = stop that exercise and re-check NT3 / N6.
+• Dizziness, double vision, or speech or swallowing trouble during exercise → stop at once and go to N3.</shape-with-text>
+    <shape-with-text id="1:7279" x="840" y="2530" width="520" height="197" name="ROUNDED_RECTANGLE">NS4-5 · WEEK 1 — dose check
+ASK: “Did the pain settle back to normal by the next morning after exercising? Have the arm symptoms or headaches changed?”</shape-with-text>
+    <connector id="1:8378" x="460" y="2426" connectorStart="1:7267" connectorStartCap="NONE" connectorEnd="1:7279" connectorEndCap="ARROW_LINES">NS4-3&amp;gt;NS4-5</connector>
+    <shape-with-text id="1:7283" x="685" y="2837" width="380" height="165" name="ROUNDED_RECTANGLE">Settled, arm symptoms the same or better — keep the same level (don’t level up yet)</shape-with-text>
+    <connector id="1:8382" x="875" y="2733" connectorStart="1:7279" connectorStartCap="NONE" connectorEnd="1:7283" connectorEndCap="ARROW_LINES">NS4-5&amp;gt;NS4-5a</connector>
+    <shape-with-text id="1:7287" x="1135" y="2837" width="380" height="139" name="ROUNDED_RECTANGLE">Not settled, or arm symptoms spreading — step down a level and re-check (NT3)</shape-with-text>
+    <connector id="1:8394" x="1100" y="663" connectorStart="1:7287" connectorStartCap="NONE" connectorEnd="1:7235" connectorEndCap="ARROW_LINES">NS4-5b&amp;gt;NS4-1</connector>
+    <connector id="1:8386" x="1100" y="2733" connectorStart="1:7279" connectorStartCap="NONE" connectorEnd="1:7287" connectorEndCap="ARROW_LINES">NS4-5&amp;gt;NS4-5b</connector>
+    <shape-with-text id="1:7291" x="840" y="3112" width="520" height="171" name="ROUNDED_RECTANGLE">NS4-6 · WEEK 4 — first re-test
+Repeat the core battery with the same chair and the same tape. Is it improving? (PSFS, pain, NDI, headache days)</shape-with-text>
+    <connector id="1:8390" x="875" y="3008" connectorStart="1:7283" connectorStartCap="NONE" connectorEnd="1:7291" connectorEndCap="ARROW_LINES">NS4-5a&amp;gt;NS4-6</connector>
+    <shape-with-text id="1:7295" x="625" y="3393" width="440" height="114" name="ROUNDED_RECTANGLE">Yes</shape-with-text>
+    <connector id="1:8398" x="845" y="3289" connectorStart="1:7291" connectorStartCap="NONE" connectorEnd="1:7295" connectorEndCap="ARROW_LINES">NS4-6&amp;gt;NS4-6a</connector>
+    <shape-with-text id="1:7299" x="1135" y="3393" width="440" height="114" name="ROUNDED_RECTANGLE">No</shape-with-text>
+    <connector id="1:8402" x="1100" y="3289" connectorStart="1:7291" connectorStartCap="NONE" connectorEnd="1:7299" connectorEndCap="ARROW_LINES">NS4-6&amp;gt;NS4-6b</connector>
+    <shape-with-text id="1:7303" x="625" y="3617" width="440" height="197" name="ROUNDED_RECTANGLE">LEVEL UP
+Add load, endurance time and work-task practice; move toward the core programme. Continue to week 12.</shape-with-text>
+    <connector id="1:8406" x="845" y="3513" connectorStart="1:7295" connectorStartCap="NONE" connectorEnd="1:7303" connectorEndCap="ARROW_LINES">NS4-6a&amp;gt;NS4-UP</connector>
+    <shape-with-text id="1:7307" x="1135" y="3617" width="440" height="247" name="ROUNDED_RECTANGLE">RE-CHECK BEFORE CONTINUING
+Re-run the Stage 1 safety screen; repeat the arm-nerve check (NT3) and headache screen; re-score the Örebro and yellow flags; physio video exam; doctor review if arm symptoms aren’t improving by 6–12 weeks.</shape-with-text>
+    <connector id="1:8410" x="1355" y="3513" connectorStart="1:7299" connectorStartCap="NONE" connectorEnd="1:7307" connectorEndCap="ARROW_LINES">NS4-6b&amp;gt;NS4-NO</connector>
+    <shape-with-text id="1:7311" x="840" y="3974" width="520" height="146" name="ROUNDED_RECTANGLE">NS4-7 · WEEK 12 — programme review
+Most change shows by now. Better?</shape-with-text>
+    <connector id="1:8414" x="845" y="3820" connectorStart="1:7303" connectorStartCap="NONE" connectorEnd="1:7311" connectorEndCap="ARROW_LINES">NS4-UP&amp;gt;NS4-7</connector>
+    <shape-with-text id="1:7315" x="625" y="4230" width="440" height="139" name="ROUNDED_RECTANGLE">Yes — continue the core programme and move to self-management with a flare-up plan</shape-with-text>
+    <connector id="1:8418" x="845" y="4126" connectorStart="1:7311" connectorStartCap="NONE" connectorEnd="1:7315" connectorEndCap="ARROW_LINES">NS4-7&amp;gt;NS4-7a</connector>
+    <shape-with-text id="1:7319" x="1135" y="4230" width="440" height="190" name="ROUNDED_RECTANGLE">Still no change after a real trial — revise the diagnosis, refer to a physiotherapist or doctor, consider combined physical and psychological care</shape-with-text>
+    <connector id="1:8422" x="1100" y="4126" connectorStart="1:7311" connectorStartCap="NONE" connectorEnd="1:7319" connectorEndCap="ARROW_LINES">NS4-7&amp;gt;NS4-7b</connector>
+  </section>
+  <connector id="1:7354" x="5220" y="1115" connectorStart="1:6419" connectorStartCap="NONE" connectorEnd="1:6435" connectorEndCap="ARROW_LINES">G-A0L&amp;gt;G-LB</connector>
+  <connector id="1:7358" x="18240" y="1141" connectorStart="1:6427" connectorStartCap="NONE" connectorEnd="1:6439" connectorEndCap="ARROW_LINES">G-A0N&amp;gt;G-NK</connector>
+  <connector id="1:7362" x="6036" y="1419.5" connectorStart="1:6431" connectorStartCap="NONE" connectorEnd="1:6435" connectorEndCap="ARROW_LINES">G-N0B&amp;gt;G-LB</connector>
+  <connector id="1:7366" x="12086" y="1419.5" connectorStart="1:6431" connectorStartCap="NONE" connectorEnd="1:6439" connectorEndCap="ARROW_LINES">G-N0B&amp;gt;G-NK</connector>
+  <connector id="1:7474" x="5220" y="9988" connectorStart="1:6555" connectorStartCap="NONE" connectorEnd="1:6563" connectorEndCap="ARROW_LINES">LPASS&amp;gt;LS2</connector>
+  <connector id="1:7478" x="4240" y="6412" connectorStart="1:6503" connectorStartCap="NONE" connectorEnd="1:6759" connectorEndCap="ARROW_LINES">L6Y&amp;gt;LD12</connector>
+  <connector id="1:7482" x="2360" y="8082" connectorStart="1:6527" connectorStartCap="NONE" connectorEnd="1:6655" connectorEndCap="ARROW_LINES">L9Y&amp;gt;LD4</connector>
+  <connector id="1:7610" x="5260" y="5914" connectorStart="1:6675" connectorStartCap="NONE" connectorEnd="1:6491" connectorEndCap="ARROW_LINES">LT2c&amp;gt;L5</connector>
+  <connector id="1:7650" x="5260" y="9681" connectorStart="1:6707" connectorStartCap="NONE" connectorEnd="1:6547" connectorEndCap="ARROW_LINES">LT5b&amp;gt;L12</connector>
+  <connector id="1:7706" x="410" y="13730" connectorStart="1:6615" connectorStartCap="NONE" connectorEnd="1:6767" connectorEndCap="ARROW_LINES">LD1&amp;gt;LX-A</connector>
+  <connector id="1:7710" x="1060" y="13680" connectorStart="1:6619" connectorStartCap="NONE" connectorEnd="1:6767" connectorEndCap="ARROW_LINES">LD2&amp;gt;LX-A</connector>
+  <connector id="1:7714" x="2774" y="14125" connectorStart="1:6691" connectorStartCap="NONE" connectorEnd="1:6767" connectorEndCap="ARROW_LINES">LD6&amp;gt;LX-A</connector>
+  <connector id="1:7718" x="2774" y="13747" connectorStart="1:6715" connectorStartCap="NONE" connectorEnd="1:6767" connectorEndCap="ARROW_LINES">LD8&amp;gt;LX-A</connector>
+  <connector id="1:7722" x="1376" y="14362" connectorStart="1:6639" connectorStartCap="NONE" connectorEnd="1:6771" connectorEndCap="ARROW_LINES">LD3&amp;gt;LX-B</connector>
+  <connector id="1:7726" x="2360" y="15164" connectorStart="1:6655" connectorStartCap="NONE" connectorEnd="1:6775" connectorEndCap="ARROW_LINES">LD4&amp;gt;LX-C</connector>
+  <connector id="1:7730" x="6194" y="13552" connectorStart="1:6735" connectorStartCap="NONE" connectorEnd="1:6775" connectorEndCap="ARROW_LINES">LD9&amp;gt;LX-C</connector>
+  <connector id="1:7734" x="6194" y="13713" connectorStart="1:6739" connectorStartCap="NONE" connectorEnd="1:6775" connectorEndCap="ARROW_LINES">LD10&amp;gt;LX-C</connector>
+  <connector id="1:7738" x="4440" y="14125" connectorStart="1:6691" connectorStartCap="NONE" connectorEnd="1:6779" connectorEndCap="ARROW_LINES">LD6&amp;gt;LX-D</connector>
+  <connector id="1:7742" x="5054" y="14201" connectorStart="1:6695" connectorStartCap="NONE" connectorEnd="1:6779" connectorEndCap="ARROW_LINES">LD7&amp;gt;LX-D</connector>
+  <connector id="1:7746" x="3400" y="14388" connectorStart="1:6659" connectorStartCap="NONE" connectorEnd="1:6783" connectorEndCap="ARROW_LINES">LD5&amp;gt;LX-E</connector>
+  <connector id="1:7750" x="6520" y="13747" connectorStart="1:6715" connectorStartCap="NONE" connectorEnd="1:6783" connectorEndCap="ARROW_LINES">LD8&amp;gt;LX-E</connector>
+  <connector id="1:7754" x="7334" y="13492" connectorStart="1:6755" connectorStartCap="NONE" connectorEnd="1:6783" connectorEndCap="ARROW_LINES">LD11&amp;gt;LX-E</connector>
+  <connector id="1:7758" x="3914" y="11540" connectorStart="1:6759" connectorStartCap="NONE" connectorEnd="1:6787" connectorEndCap="ARROW_LINES">LD12&amp;gt;LX-F</connector>
+  <connector id="1:7786" x="5220" y="18456" connectorStart="1:6791" connectorStartCap="NONE" connectorEnd="1:6795" connectorEndCap="ARROW_LINES">LX-CORE&amp;gt;LS4</connector>
+  <connector id="1:7990" x="18240" y="10089" connectorStart="1:6987" connectorStartCap="NONE" connectorEnd="1:6995" connectorEndCap="ARROW_LINES">NPASS&amp;gt;NS2</connector>
+  <connector id="1:7994" x="18980" y="7614" connectorStart="1:6951" connectorStartCap="NONE" connectorEnd="1:7179" connectorEndCap="ARROW_LINES">N8Y&amp;gt;ND11</connector>
+  <connector id="1:7998" x="19196" y="8521.5" connectorStart="1:6967" connectorStartCap="NONE" connectorEnd="1:7179" connectorEndCap="ARROW_LINES">N10Y&amp;gt;ND11</connector>
+  <connector id="1:8134" x="18280" y="6602" connectorStart="1:7111" connectorStartCap="NONE" connectorEnd="1:6931" connectorEndCap="ARROW_LINES">NT3d&amp;gt;N6</connector>
+  <connector id="1:8222" x="15068" y="13474" connectorStart="1:7135" connectorStartCap="NONE" connectorEnd="1:7203" connectorEndCap="ARROW_LINES">ND9&amp;gt;NX-A</connector>
+  <connector id="1:8226" x="13250" y="13860" connectorStart="1:7059" connectorStartCap="NONE" connectorEnd="1:7203" connectorEndCap="ARROW_LINES">ND3&amp;gt;NX-A</connector>
+  <connector id="1:8230" x="13900" y="13978" connectorStart="1:7063" connectorStartCap="NONE" connectorEnd="1:7203" connectorEndCap="ARROW_LINES">ND4&amp;gt;NX-A</connector>
+  <connector id="1:8234" x="15068" y="14005" connectorStart="1:7091" connectorStartCap="NONE" connectorEnd="1:7203" connectorEndCap="ARROW_LINES">ND2&amp;gt;NX-A</connector>
+  <connector id="1:8238" x="15068" y="13679" connectorStart="1:7115" connectorStartCap="NONE" connectorEnd="1:7203" connectorEndCap="ARROW_LINES">ND7&amp;gt;NX-A</connector>
+  <connector id="1:8242" x="15590" y="13870" connectorStart="1:7087" connectorStartCap="NONE" connectorEnd="1:7207" connectorEndCap="ARROW_LINES">ND1&amp;gt;NX-B</connector>
+  <connector id="1:8246" x="14940" y="13058" connectorStart="1:7067" connectorStartCap="NONE" connectorEnd="1:7207" connectorEndCap="ARROW_LINES">ND5&amp;gt;NX-B</connector>
+  <connector id="1:8250" x="13250" y="13860" connectorStart="1:7059" connectorStartCap="NONE" connectorEnd="1:7207" connectorEndCap="ARROW_LINES">ND3&amp;gt;NX-B</connector>
+  <connector id="1:8254" x="16592" y="13059" connectorStart="1:7171" connectorStartCap="NONE" connectorEnd="1:7207" connectorEndCap="ARROW_LINES">ND6&amp;gt;NX-B</connector>
+  <connector id="1:8258" x="16592" y="13818" connectorStart="1:7175" connectorStartCap="NONE" connectorEnd="1:7207" connectorEndCap="ARROW_LINES">ND10&amp;gt;NX-B</connector>
+  <connector id="1:8262" x="16592" y="13474" connectorStart="1:7135" connectorStartCap="NONE" connectorEnd="1:7207" connectorEndCap="ARROW_LINES">ND9&amp;gt;NX-B</connector>
+  <connector id="1:8266" x="16240" y="14005" connectorStart="1:7091" connectorStartCap="NONE" connectorEnd="1:7211" connectorEndCap="ARROW_LINES">ND2&amp;gt;NX-C</connector>
+  <connector id="1:8270" x="15590" y="13870" connectorStart="1:7087" connectorStartCap="NONE" connectorEnd="1:7211" connectorEndCap="ARROW_LINES">ND1&amp;gt;NX-C</connector>
+  <connector id="1:8274" x="18872" y="13059" connectorStart="1:7171" connectorStartCap="NONE" connectorEnd="1:7211" connectorEndCap="ARROW_LINES">ND6&amp;gt;NX-C</connector>
+  <connector id="1:8278" x="17930" y="13729" connectorStart="1:7119" connectorStartCap="NONE" connectorEnd="1:7211" connectorEndCap="ARROW_LINES">ND8&amp;gt;NX-C</connector>
+  <connector id="1:8282" x="17280" y="13679" connectorStart="1:7115" connectorStartCap="NONE" connectorEnd="1:7215" connectorEndCap="ARROW_LINES">ND7&amp;gt;NX-D</connector>
+  <connector id="1:8286" x="17732" y="13729" connectorStart="1:7119" connectorStartCap="NONE" connectorEnd="1:7215" connectorEndCap="ARROW_LINES">ND8&amp;gt;NX-D</connector>
+  <connector id="1:8290" x="20012" y="13373" connectorStart="1:7195" connectorStartCap="NONE" connectorEnd="1:7219" connectorEndCap="ARROW_LINES">ND12&amp;gt;NX-E</connector>
+  <connector id="1:8294" x="13900" y="13978" connectorStart="1:7063" connectorStartCap="NONE" connectorEnd="1:7219" connectorEndCap="ARROW_LINES">ND4&amp;gt;NX-E</connector>
+  <connector id="1:8298" x="21252" y="13203" connectorStart="1:7179" connectorStartCap="NONE" connectorEnd="1:7223" connectorEndCap="ARROW_LINES">ND11&amp;gt;NX-F</connector>
+  <connector id="1:8326" x="18240" y="17156" connectorStart="1:7227" connectorStartCap="NONE" connectorEnd="1:7231" connectorEndCap="ARROW_LINES">NX-CORE&amp;gt;NS4</connector>
+</canvas>
