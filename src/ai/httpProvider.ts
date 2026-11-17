@@ -1,8 +1,10 @@
 // Client side of the optional real provider. Credentials live on the server only; the
 // browser never sees a key. If the server reports "disabled", the manual path is used.
 import type { AiProvider, ExtractRequest, NoteRequest, ProviderResult } from './types';
+import { NO_SERVER, STANDALONE } from '../platform';
 
 async function post<T>(path: string, body: unknown, signal: AbortSignal): Promise<ProviderResult<T>> {
+  if (STANDALONE) return { ok: false, error: 'network', retryable: false, detail: NO_SERVER };
   let res: Response;
   try {
     res = await fetch(path, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(body), signal });
@@ -35,6 +37,7 @@ export interface AiServerStatus {
   reason?: string;
 }
 export async function fetchAiStatus(): Promise<AiServerStatus> {
+  if (STANDALONE) return { enabled: false, provider: 'disabled', model: null, reason: NO_SERVER };
   try {
     const res = await fetch('/api/ai/status');
     return (await res.json()) as AiServerStatus;

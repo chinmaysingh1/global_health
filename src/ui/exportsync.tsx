@@ -5,6 +5,7 @@ import type { EncounterSummary } from '../engine/summary';
 import { buildSummary } from '../engine/summary';
 import { buildHandoff, FIELD_MAPPINGS } from '../integration/adapter';
 import { fetchTransport, SyncClient } from '../integration/sync';
+import { NO_SERVER, STANDALONE } from '../platform';
 import { setSync } from '../store/encounter';
 import { renderNote } from '../ai/note';
 import { Card } from './common';
@@ -39,6 +40,7 @@ export function ExportTab({ enc, summary, update }: { enc: Encounter; summary: E
     setMsg(next.sync.lastError ?? null);
   };
   const demo = async (path: string) => {
+    if (STANDALONE) return setMsg(`${path}: ${NO_SERVER}`);
     try {
       const r = await fetch(`/mock-intelehealth${path}`, { method: 'POST' });
       setMsg(`${path}: ${r.status}`);
@@ -62,6 +64,7 @@ export function ExportTab({ enc, summary, update }: { enc: Encounter; summary: E
       <Card>
         <p><span className={`chip ${st.state === 'received_by_server' ? 'ok' : ['sync_conflict', 'auth_expired', 'sync_failed'].includes(st.state) ? 'present' : 'warn'}`}>{tr(`sync.${st.state}`)}</span></p>
         <p className="muted">{tr('sync.simulated')}</p>
+        {STANDALONE && <div className="notice warn">{tr('app.standalone')}</div>}
         {st.receiptId && st.state === 'received_by_server' && <p>{tr('sync.receipt')}: <code>{st.receiptId}</code> · v{st.serverVersion} · {st.ackAt && new Date(st.ackAt).toLocaleString()}</p>}
         {st.lastError && <div className="notice err" role="alert">{st.lastError}</div>}
         {!online && <div className="notice warn">{tr('app.offline')}</div>}

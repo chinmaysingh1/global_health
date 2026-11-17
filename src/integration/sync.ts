@@ -4,6 +4,7 @@
 import type { Actor, Encounter } from '../store/types';
 import { setSync } from '../store/encounter';
 import type { HandoffBundle } from './adapter';
+import { NO_SERVER, STANDALONE } from '../platform';
 
 export interface TransportResponse {
   status: number;
@@ -16,6 +17,8 @@ export interface Transport {
 
 export const fetchTransport: Transport = {
   async request(method, path, headers, body) {
+    // Treated like being offline: the encounter stays queued with the same idempotency key.
+    if (STANDALONE) throw new Error(NO_SERVER);
     const res = await fetch(path, { method, headers: { 'content-type': 'application/json', ...headers }, body: body === undefined ? undefined : JSON.stringify(body) });
     let json: any = null;
     try {

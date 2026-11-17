@@ -1,13 +1,13 @@
 # STATUS — continuation checkpoint
 
-Last updated: 2026-11-15, end of session 2. Build milestone complete; remaining work needs people or external access.
+Last updated: 2026-11-17, session 3 (iPhone app added). Build milestone complete; remaining work needs people or external access.
 Languages: English, Hindi, Marathi only.
 
 ## Status by track (do not blur these)
 
 | Track | Status |
 |---|---|
-| Software | Working evaluation build, synthetic patients only. `npm test`: 8 files, 182/182 passed. `npm run build`: exit 0. |
+| Software | Working evaluation build, synthetic patients only. `npm test`: 9 files, 185/185 passed. `npm run build`: exit 0. iPhone app installed and launched on one physical iPhone. |
 | Clinical review | NONE. Source boards are drafts. All 16 amendments (A01–A16) are engineering proposals, `proposed_unreviewed`. |
 | Language review | NONE. Hindi/Marathi UI strings and protocol titles are machine-authored drafts. |
 | Live AI | NEVER exercised. Disabled by default; no credentials, no spend authorised. Only the MOCK keyword matcher was run. |
@@ -29,7 +29,16 @@ Languages: English, Hindi, Marathi only.
 - Location: the project lives in `~/Developer/cbid/global_health`. It was moved out of `~/Documents`, which iCloud Drive syncs; iCloud evicted files there, which made cold starts take minutes (an earlier full test run took 166 s) and broke `git push` with `mmap failed`. Keep it out of iCloud-synced folders.
 - `npm run protocol:build` — re-import pack + overlay → `protocol/compiled/*`, `protocol/generated/source-graph.json`. A test fails if the committed output is stale.
 - `npm run protocol:diff -- <old source-graph.json>` — compare two source snapshots.
-- `.claude/launch.json` has `msk-dev` and `msk-prod` preview configs.
+- `npm run build:ios` — phone build (`VITE_STANDALONE=1`) into `dist-ios/`, copied into the Capacitor project `ios/`. `npm run ios:install` — that, plus a signed Xcode build and install on a connected iPhone (`scripts/ios-install.mjs`).
+- `.claude/launch.json` has `msk-dev`, `msk-prod` and `msk-phone-web` (serves `dist-ios/` on 4174) preview configs.
+
+## iPhone app (session 3)
+
+- Capacitor 8.6.2, Swift Package Manager (no CocoaPods), bundle id `io.github.chinmaysingh1.mskassess`, signed with the free Personal Team `3U248BM8K5` (profile expires every 7 days; reinstall with `npm run ios:install`).
+- Phone build has no server (`src/platform.ts`): sync throws before any network call so the encounter stays queued with its idempotency key; server AI reports unavailable; no service worker; a visible "Phone build: no server" notice on Home and Export (new UI key `app.standalone`, hi/mr drafts). Mock AI still works on the phone.
+- Verified: `npm test` 9 files / 185 passed (3 new in `tests/standalone.test.ts`); `xcodebuild` for the simulator SDK and a signed device build both succeeded; the phone web build checked at 375×812 in the browser pane (notice shown, sync stays queued, zero network requests, no service worker).
+- Installed and launched on a physical iPhone 13 (iOS 27.2) with `npm run ios:install`; the app process started. First launch needs the developer certificate trusted on the phone (Settings > General > VPN & Device Management). NOT verified: a full assessment walkthrough inside the native app, and any iOS Simulator run (no simulator runtime installed; about 8 GB needed).
+- Known gaps in the phone build: "Download JSON handoff" and "Print readable note" rely on browser downloads and printing, which the iOS app shell does not provide; app icon only (no splash screen design).
 
 ## Done
 

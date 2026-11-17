@@ -20,6 +20,18 @@ npm start
 
 Open http://localhost:8787. For development use `npm run dev` (Vite on 5173, API/mock on 8787).
 
+## iPhone app (no server)
+
+A standalone iOS app built with Capacitor from the same code. Every file ships inside the app, so it runs with no Mac and no network. In this build, sync stays "queued" (there is nothing to send to), server AI is unavailable (the mock AI still works), and data lives only on that phone.
+
+Needs Xcode signed in with an Apple ID (Settings > Accounts) and an iPhone in Developer Mode. Connect the iPhone by cable, unlock it, then:
+
+```bash
+npm run ios:install
+```
+
+With a free Apple ID the app stops opening after 7 days; run the command again to reinstall. `npm run build:ios` only rebuilds the web files into `ios/`; open `ios/App/App.xcodeproj` in Xcode to build there instead. Not available in the phone build: downloading the JSON handoff and printing the note.
+
 ## Demonstration route
 
 1. Home: pick a language and role. Start "New assessment" for the first demo patient.

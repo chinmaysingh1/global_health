@@ -12,6 +12,7 @@ export const UI: Record<string, [string, string, string]> = {
   'app.role.note': ['Demo role switch. This is not a login and gives no real authorization.', 'यह केवल डेमो भूमिका बदलना है। यह लॉगिन नहीं है और कोई वास्तविक अधिकार नहीं देता।', 'हा फक्त डेमो भूमिका बदल आहे. हे लॉगिन नाही आणि कोणताही खरा अधिकार देत नाही.'],
   'app.kit': ['Basic kit available (thermometer, tape measure)', 'बुनियादी किट उपलब्ध (थर्मामीटर, नापने का फीता)', 'मूलभूत किट उपलब्ध (थर्मामीटर, मोजपट्टी)'],
   'app.online': ['Online', 'ऑनलाइन', 'ऑनलाइन'],
+  'app.standalone': ['Phone build: no server. Everything is saved on this phone only; sync and the server AI are not available.', 'फ़ोन संस्करण: कोई सर्वर नहीं। सब कुछ केवल इसी फ़ोन पर सहेजा जाता है; सिंक और सर्वर AI उपलब्ध नहीं हैं।', 'फोन आवृत्ती: सर्व्हर नाही. सर्व काही फक्त याच फोनवर जतन होते; सिंक आणि सर्व्हर AI उपलब्ध नाहीत.'],
   'app.offline': ['Offline — work is saved on this device', 'ऑफ़लाइन — काम इस डिवाइस पर सुरक्षित है', 'ऑफलाइन — काम या डिव्हाइसवर जतन आहे'],
   'app.home': ['Home', 'मुख्य पृष्ठ', 'मुख्य पान'],
   'app.protocol': ['Protocol review', 'प्रोटोकॉल समीक्षा', 'प्रोटोकॉल पुनरावलोकन'],

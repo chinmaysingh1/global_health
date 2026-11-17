@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client';
 import { App } from './ui/app';
 import { EncounterStore, IdbPersistence, MemoryPersistence } from './store/persistence';
 import './ui/styles.css';
+import { STANDALONE } from './platform';
 
 async function boot() {
   let loadError: string | null = null;
@@ -19,7 +20,8 @@ async function boot() {
       <App store={store} loadError={loadError} />
     </StrictMode>,
   );
-  if ('serviceWorker' in navigator && import.meta.env.PROD) {
+  // The phone app already carries every file, so it needs no offline cache.
+  if ('serviceWorker' in navigator && import.meta.env.PROD && !STANDALONE) {
     try {
       const reg = await navigator.serviceWorker.register('/sw.js');
       await navigator.serviceWorker.ready;

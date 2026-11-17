@@ -8,3 +8,5 @@ server/.data
 dist-server
 # MindrianOS plugin session state (local database, session logs); not part of the app
 room/
+dist-ios
+ios/build

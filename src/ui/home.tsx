@@ -5,6 +5,7 @@ import { LANGS, type Complaint, type Encounter, type Patient } from '../store/ty
 import { createEncounter, createFollowUp } from '../store/encounter';
 import { buildSummary } from '../engine/summary';
 import { fetchAiStatus, type AiServerStatus } from '../ai/httpProvider';
+import { STANDALONE } from '../platform';
 import { LANG_NAMES } from '../i18n';
 import { Card } from './common';
 import { useApp } from './ctx';
@@ -61,6 +62,7 @@ export function Home({ nav }: { nav: (p: string) => void }) {
             <button type="button" role="radio" aria-checked={settings.aiMode === 'server'} aria-pressed={settings.aiMode === 'server'} disabled={!ai?.enabled} onClick={() => set({ aiMode: 'server' })}>{tr('ai.server')}{ai?.enabled ? ` (${ai.model})` : ` — ${tr('ai.serverDisabled')}`}</button>
           </div>
           <p className="muted">{tr('app.storageNote')}</p>
+          {STANDALONE && <div className="notice warn">{tr('app.standalone')}</div>}
         </Card>
         <h2 style={{ marginTop: 16 }}>{tr('home.patients')}</h2>
         {DEMO_PATIENTS.map((p) => {
