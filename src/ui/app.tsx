@@ -42,7 +42,6 @@ export function App({ store, loadError }: { store: EncounterStore; loadError: st
   const first = useRef(true);
   useEffect(() => {
     if (first.current) { first.current = false; return; }
-    window.scrollTo({ top: 0 });
     const h = document.querySelector<HTMLElement>('[data-page-title]');
     h?.focus({ preventScroll: true });
   }, [routeKey]);

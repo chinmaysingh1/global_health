@@ -9,7 +9,7 @@ import { applicableMeasures } from '../engine/followup';
 import { acknowledgeAlert, addLinkedComplaint, answerRecord, clearAnswer, setAnswer, setEligibility, setMeasure } from '../store/encounter';
 import { LOCAL_TASKS } from '../store/historyFields';
 import { nodeTitle, optionLabel } from '../i18n';
-import { AlertCard, Card, Choice, Icon, Loc, Notice, Pill, RadioGroup, Source, StatusButtons, useTapLock } from './common';
+import { AlertCard, Card, Choice, Icon, Loc, Notice, Pill, RadioGroup, Source, StatusButtons, prefersReducedMotion, useTapLock } from './common';
 import { useApp, type Update } from './ctx';
 
 const HANDLED = new Set(['ASK', 'WATCH', 'DO', 'FIRST', 'CHECK', 'BODY', 'POSITIVE IF', 'WHO']);
@@ -23,6 +23,7 @@ export function complaintLabel(c: Complaint, tr: (k: string) => string): string 
 export function NodeStep({ node, complaint, update, onDone, late }: { node: ProtocolNode; complaint: Complaint; update: Update; onDone?: () => void; late?: boolean }) {
   const { tr, lang, actor, announce } = useApp();
   const [locked, lock] = useTapLock();
+  const [picked, setPicked] = useState<string | null>(null);
   const existing = complaint.answers[node.id];
   const missing = missingCapabilities(node, actor.capabilities);
   const isSafety = node.kind === 'safety_check';
@@ -44,6 +45,13 @@ export function NodeStep({ node, complaint, update, onDone, late }: { node: Prot
     );
     announce(tr('as.saved'));
     onDone?.();
+  };
+
+  /** Shows the chosen answer for a moment before the next question appears. A "present" safety
+   * answer is recorded at once so that any alert it raises is never delayed. */
+  const settle = (fn: () => void, urgent = false) => {
+    if (urgent || prefersReducedMotion()) return fn();
+    window.setTimeout(fn, 150);
   };
 
   const f = node.fields;
@@ -72,19 +80,19 @@ export function NodeStep({ node, complaint, update, onDone, late }: { node: Prot
       {isSafety ? (
         <>
           <p className="decision">{tr('as.decision')}: <span lang="en">{node.decision}</span></p>
-          <StatusButtons options={['present', 'denied', 'unknown', 'declined', 'not_performed']} current={existing?.status} onPick={(s, reason) => record(s, { reason })} reasons={NP_REASONS} />
+          <StatusButtons options={['present', 'denied', 'unknown', 'declined', 'not_performed']} current={existing?.status} onPick={(s, reason) => settle(() => record(s, { reason }), s === 'present')} reasons={NP_REASONS} />
         </>
       ) : (
         <div className="mt-4">
           {!examLocked && (
             <div className="choices" role="group" aria-labelledby={`q-${node.id}`}>
               {node.options.map((o) => (
-                <Choice key={o.id} pressed={existing?.optionId === o.id} disabled={locked} onClick={() => lock(() => record('present', { optionId: o.id }))}>
+                <Choice key={o.id} pressed={(picked ?? existing?.optionId) === o.id} disabled={locked} onClick={() => lock(() => { setPicked(o.id); settle(() => record('present', { optionId: o.id })); })}>
                   <Loc v={optionLabel(o, lang)} />
                 </Choice>
               ))}
               {node.kind === 'exam' && node.options.length === 1 && (
-                <Choice pressed={existing?.optionId === `${node.id}#none`} disabled={locked} onClick={() => lock(() => record('present', { optionId: `${node.id}#none` }))}>{tr('as.noneOfThese')}</Choice>
+                <Choice pressed={(picked ?? existing?.optionId) === `${node.id}#none`} disabled={locked} onClick={() => lock(() => { setPicked(`${node.id}#none`); settle(() => record('present', { optionId: `${node.id}#none` })); })}>{tr('as.noneOfThese')}</Choice>
               )}
             </div>
           )}
@@ -108,8 +116,13 @@ export function NodeStep({ node, complaint, update, onDone, late }: { node: Prot
 function EligibilityStep({ complaint, update }: { complaint: Complaint; update: Update }) {
   const { tr, actor, announce } = useApp();
   const [locked, lock] = useTapLock();
+  const [picked, setPicked] = useState<string | null>(null);
   const pick = (basis: 'clinician_assessed' | 'referral_document' | 'chw_screen_local_protocol' | 'not_established') =>
-    lock(() => { update((enc) => setEligibility(enc, actor, complaint.id, basis === 'not_established' ? 'unclear' : 'established', basis)); announce(tr('as.saved')); });
+    lock(() => {
+      setPicked(basis);
+      const save = () => { update((enc) => setEligibility(enc, actor, complaint.id, basis === 'not_established' ? 'unclear' : 'established', basis)); announce(tr('as.saved')); };
+      if (prefersReducedMotion()) save(); else window.setTimeout(save, 150);
+    });
   return (
     <section className="card qcard" data-question="eligibility" aria-labelledby="q-elig">
       <div className="qh"><Pill>{tr('as.question')}</Pill></div>
@@ -117,7 +130,7 @@ function EligibilityStep({ complaint, update }: { complaint: Complaint; update: 
       <p className="muted">{tr('as.elig.why')}</p>
       <div className="choices mt-4" role="group" aria-labelledby="q-elig">
         {(['clinician_assessed', 'referral_document', 'chw_screen_local_protocol', 'not_established'] as const).map((b) => (
-          <Choice key={b} pressed={complaint.eligibility?.basis === b} disabled={locked} onClick={() => pick(b)}>{tr(`as.elig.${b}`)}</Choice>
+          <Choice key={b} pressed={(picked ?? complaint.eligibility?.basis) === b} disabled={locked} onClick={() => pick(b)}>{tr(`as.elig.${b}`)}</Choice>
         ))}
       </div>
     </section>
@@ -127,6 +140,7 @@ function EligibilityStep({ complaint, update }: { complaint: Complaint; update: 
 function SwitchStep({ outcome, complaint, update }: { outcome: ProtocolNode; complaint: Complaint; update: Update }) {
   const { tr, actor, announce } = useApp();
   const [locked, lock] = useTapLock();
+  const [picked, setPicked] = useState<string | null>(null);
   return (
     <section className="card qcard" data-question={outcome.id} aria-labelledby="q-switch">
       <div className="qh"><Pill tone="switch" icon="arrow-right">{tr('alert.switch')}</Pill><span className="code">{outcome.source.code}</span></div>
@@ -135,7 +149,12 @@ function SwitchStep({ outcome, complaint, update }: { outcome: ProtocolNode; com
       <Source label={tr('app.source')} text={outcome.sourceText.split('\n').slice(1).join('\n')} />
       <div className="choices mt-4" role="group" aria-labelledby="q-switch">
         {outcome.outcome!.switchOptions.map((o) => (
-          <Choice key={o.id} disabled={locked} onClick={() => lock(() => { update((enc) => setAnswer(enc, actor, complaint.id, answerRecord(actor, outcome.id, 'present', { optionId: o.id }))); announce(tr('as.saved')); })}>
+          <Choice key={o.id} pressed={picked === o.id} disabled={locked} onClick={() => lock(() => {
+            setPicked(o.id);
+            const save = () => { update((enc) => setAnswer(enc, actor, complaint.id, answerRecord(actor, outcome.id, 'present', { optionId: o.id }))); announce(tr('as.saved')); };
+            // the emergency choice is recorded at once; animation never delays an escalation
+            if (o.target === 'emergency' || prefersReducedMotion()) save(); else window.setTimeout(save, 150);
+          })}>
             {tr(o.labelKey)}
             {o.target === 'emergency' && <> <Pill tone="emergency">{tr('alert.emergency')}</Pill></>}
           </Choice>
@@ -345,7 +364,7 @@ export function AssessTab({ enc, patient, update, go, focusNode }: { enc: Encoun
     const card = document.querySelector<HTMLElement>('[data-question]');
     if (!card) return;
     const top = card.getBoundingClientRect().top;
-    if (top < bar + 8 || top > window.innerHeight * 0.55) window.scrollBy({ top: top - bar - 12 });
+    if (top < bar + 8 || top > window.innerHeight * 0.55) window.scrollBy({ top: top - bar - 12, behavior: prefersReducedMotion() ? 'auto' : 'smooth' });
     card.querySelector<HTMLElement>('h2')?.focus({ preventScroll: true });
   }, [currentKey, ev?.alerts.length]);
 

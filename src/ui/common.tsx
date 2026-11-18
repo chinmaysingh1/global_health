@@ -123,6 +123,8 @@ export function Pill({ tone = '', icon, children }: { tone?: string; icon?: stri
   return <span className={`pill ${tone}`}>{icon && <Icon name={icon} size={14} />}{children}</span>;
 }
 
+export const prefersReducedMotion = () => typeof window.matchMedia === 'function' && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
 /** Brief lock after a recording tap so a double tap cannot submit twice or answer the next question. */
 export function useTapLock(ms = 650): [boolean, (fn: () => void) => void] {
   const [locked, setLocked] = useState(false);
@@ -190,15 +192,17 @@ export function StatusButtons({
 }) {
   const { tr } = useApp();
   const [pending, setPending] = useState<AnswerStatus | null>(null);
+  const [chosen, setChosen] = useState<AnswerStatus | null>(null);
   const [locked, lock] = useTapLock();
   const main = options.filter((s) => !REASON_STATUSES.includes(s) && s !== 'not_applicable');
   const sub = options.filter((s) => REASON_STATUSES.includes(s) || s === 'not_applicable');
   const pick = (s: AnswerStatus) => {
     if (REASON_STATUSES.includes(s)) setPending(s);
-    else lock(() => { setPending(null); onPick(s); });
+    else lock(() => { setPending(null); setChosen(s); onPick(s); });
   };
+  const shown = chosen ?? current;
   const btn = (s: AnswerStatus, secondary: boolean) => (
-    <Choice key={s} pressed={(current === s && !pending) || pending === s} tone={s === 'present' && presentTone ? 'present' : undefined} secondary={secondary} disabled={locked} onClick={() => pick(s)}>
+    <Choice key={s} pressed={(shown === s && !pending) || pending === s} tone={s === 'present' && presentTone ? 'present' : undefined} secondary={secondary} disabled={locked} onClick={() => pick(s)}>
       {tr(`st.${s}`)}
     </Choice>
   );
@@ -312,6 +316,7 @@ export function Sheet({ open, onClose, title, children }: { open: boolean; onClo
   const ref = useRef<HTMLDialogElement>(null);
   const opener = useRef<Element | null>(null);
   const pushed = useRef(false);
+  const closing = useRef<number | null>(null);
   const closeRef = useRef(onClose);
   closeRef.current = onClose;
   const titleId = useId();
@@ -319,6 +324,7 @@ export function Sheet({ open, onClose, title, children }: { open: boolean; onClo
     const d = ref.current;
     if (!d) return;
     if (open) {
+      if (closing.current) { window.clearTimeout(closing.current); closing.current = null; d.removeAttribute('data-closing'); }
       if (!d.open) {
         opener.current = document.activeElement;
         try { d.showModal(); } catch { d.setAttribute('open', ''); }
@@ -331,9 +337,16 @@ export function Sheet({ open, onClose, title, children }: { open: boolean; onClo
       return () => window.removeEventListener('popstate', onPop);
     }
     if (d.open) {
-      d.close();
-      if (pushed.current) { pushed.current = false; window.history.back(); }
-      (opener.current as HTMLElement | null)?.focus?.({ preventScroll: true });
+      const finish = () => {
+        d.removeAttribute('data-closing');
+        d.close();
+        if (pushed.current) { pushed.current = false; window.history.back(); }
+        (opener.current as HTMLElement | null)?.focus?.({ preventScroll: true });
+      };
+      if (prefersReducedMotion()) return finish();
+      // let the sheet slide down before it leaves the page
+      d.setAttribute('data-closing', '');
+      closing.current = window.setTimeout(() => { closing.current = null; finish(); }, 220);
     }
   }, [open]);
   /** Navigate from inside the sheet: replaces the sheet's history entry so Back returns to the previous screen. */

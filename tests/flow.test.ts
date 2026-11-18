@@ -137,3 +137,17 @@ describe('open items link to where they are resolved', () => {
     expect(resumeSection(fu, buildSummary(protocol, patient(), fu))).toBe('start');
   });
 });
+
+describe('screen-change direction for transitions', () => {
+  it('deeper screens move forward, earlier ones back, same depth crossfades', async () => {
+    const { navDirection, routeRank } = await import('../src/ui/flow');
+    expect(routeRank('#/')).toBe(0);
+    expect(navDirection('#/', '#/enc/x/start')).toBe('forward');
+    expect(navDirection('#/enc/x/start', '#/enc/x/complaints')).toBe('forward');
+    expect(navDirection('#/enc/x/summary', '#/enc/x/assess')).toBe('back');
+    expect(navDirection('#/enc/x/assess', '#/')).toBe('back');
+    expect(navDirection('#/enc/x/summary', '#/enc/x/assess/hip_knee:K8')).toBe('back');
+    expect(navDirection('#/enc/x/assess', '#/enc/y/assess')).toBe('none');
+    expect(navDirection('#/', '#/protocol')).toBe('forward');
+  });
+});

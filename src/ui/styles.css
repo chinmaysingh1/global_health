@@ -337,12 +337,11 @@ details:not(.disclose) > summary { min-height: 48px; display: flex; align-items:
 
 /* ---------- sheets (native <dialog>) ---------- */
 dialog.sheet { border: 0; padding: 0; margin: auto auto 0; width: 100%; max-width: 640px; max-height: calc(100dvh - var(--safe-t) - 24px); border-radius: 22px 22px 0 0; background: var(--pearl); color: var(--ink); box-shadow: var(--shadow-2); overflow: hidden; }
-dialog.sheet[open] { display: flex; flex-direction: column; animation: sheet-in var(--t) var(--ease); }
+dialog.sheet[open] { display: flex; flex-direction: column; }
 dialog.sheet::backdrop { background: rgba(22, 24, 29, 0.36); }
 .sheet-h { display: flex; align-items: center; justify-content: space-between; gap: var(--s2); padding: var(--s3) var(--s4) var(--s2) var(--s5); border-bottom: 1px solid var(--line); background: var(--surface); }
 .sheet-h h2 { font-size: var(--fs-lg); }
 .sheet-b { overflow-y: auto; padding: var(--s4) calc(var(--s4) + var(--safe-r)) calc(var(--s6) + var(--safe-b)) calc(var(--s4) + var(--safe-l)); overscroll-behavior: contain; }
-@keyframes sheet-in { from { transform: translateY(24px); opacity: 0.6; } to { transform: none; opacity: 1; } }
 @media (min-width: 720px) {
   dialog.sheet { margin: auto; border-radius: 22px; max-height: min(84dvh, 820px); }
 }
@@ -470,11 +469,78 @@ th { font-weight: 650; color: var(--ink-2); font-size: var(--fs-xs); }
 .answered-row, .srow, .openitem, .lrow { flex-wrap: wrap; }
 .answered-row .body, .srow .body, .openitem .body, .lrow .body { flex: 1 1 9rem; }
 
-/* ---------- motion ---------- */
-.fade-in { animation: fade-in var(--t) var(--ease); }
-@keyframes fade-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+/* ---------- motion ----------
+   Short, purposeful, compositor-only (transform and opacity). Screen changes use the View
+   Transitions API where available (iOS 18+ WebKit, Android Chrome 111+); everything degrades to an
+   instant swap. Alerts never animate in. */
+:root { --t-screen: 260ms; --ease-out: cubic-bezier(0.22, 0.8, 0.24, 1); --ease-in: cubic-bezier(0.4, 0, 0.9, 0.6); }
+.appbar { view-transition-name: appbar; }
+.bottombar { view-transition-name: bottombar; }
+::view-transition-group(appbar), ::view-transition-group(bottombar) { animation-duration: var(--t-screen); animation-timing-function: var(--ease-out); }
+::view-transition-old(root), ::view-transition-new(root) { animation-duration: var(--t-screen); animation-timing-function: var(--ease-out); }
+html[data-nav-dir="forward"]::view-transition-old(root) { animation: var(--t-screen) var(--ease-in) both vt-out-left; }
+html[data-nav-dir="forward"]::view-transition-new(root) { animation: var(--t-screen) var(--ease-out) both vt-in-right; }
+html[data-nav-dir="back"]::view-transition-old(root) { animation: var(--t-screen) var(--ease-in) both vt-out-right; }
+html[data-nav-dir="back"]::view-transition-new(root) { animation: var(--t-screen) var(--ease-out) both vt-in-left; }
+@keyframes vt-in-right { from { transform: translateX(32px); opacity: 0; } }
+@keyframes vt-in-left { from { transform: translateX(-32px); opacity: 0; } }
+@keyframes vt-out-left { to { transform: translateX(-24px); opacity: 0; } }
+@keyframes vt-out-right { to { transform: translateX(24px); opacity: 0; } }
+
+/* the next question settles in after an answer */
+.qcard { animation: q-in 240ms var(--ease-out) both; }
+@keyframes q-in { from { opacity: 0; transform: translateY(10px) scale(0.995); } }
+.alertcard { animation: none; }
+.fade-in { animation: fade-in var(--t) var(--ease) both; }
+@keyframes fade-in { from { opacity: 0; transform: translateY(6px); } }
+
+/* tactile press feedback (iOS needs a touchstart listener for :active; added in main.tsx) */
+.btn, .choice, .chipbtn, .backbtn, .toggles button, .seg label, .radiolist label, .ov-item, .subnav a, .stepper button, button.lrow, .reasonbox .quick button { transition: transform 120ms var(--ease-out), background-color 160ms var(--ease-out), border-color 160ms var(--ease-out), box-shadow 160ms var(--ease-out), color 160ms var(--ease-out); }
+.choice:active, .radiolist label:active, .seg label:active, .toggles button:active, .chipbtn:active, .ov-item:active, .subnav a:active, .reasonbox .quick button:active { transform: scale(0.985); }
+.btn:active { transform: scale(0.97); }
+.choice .ind { transition: background-color 160ms var(--ease-out), border-color 160ms var(--ease-out), transform 200ms var(--ease-out); }
+.choice[aria-pressed="true"] .ind, .choice[aria-checked="true"] .ind { transform: scale(1.08); }
+.choice .ind svg { transition: opacity 140ms var(--ease-out); }
+.seg label:has(input:checked) { transition: background-color 200ms var(--ease-out), box-shadow 200ms var(--ease-out), color 200ms var(--ease-out); }
+.stepper .bar { transition: background-color 300ms var(--ease-out); }
+.bodymap .zone .shape { transition: fill 180ms var(--ease-out), stroke 180ms var(--ease-out); }
+.bodymap .zone .tick { transition: opacity 160ms var(--ease-out); }
+
+/* sheets slide up and back down; the backdrop fades */
+dialog.sheet[open] { animation: sheet-in 280ms var(--ease-out) both; }
+dialog.sheet[open]::backdrop { animation: backdrop-in 280ms var(--ease-out) both; }
+dialog.sheet[data-closing] { animation: sheet-out 200ms var(--ease-in) both; }
+dialog.sheet[data-closing]::backdrop { animation: backdrop-out 200ms var(--ease-in) both; }
+@keyframes sheet-in { from { transform: translateY(100%); } }
+@keyframes sheet-out { to { transform: translateY(100%); } }
+@keyframes backdrop-in { from { opacity: 0; } }
+@keyframes backdrop-out { to { opacity: 0; } }
+@media (min-width: 720px) {
+  @keyframes sheet-in { from { transform: translateY(16px) scale(0.98); opacity: 0; } }
+  @keyframes sheet-out { to { transform: translateY(12px) scale(0.98); opacity: 0; } }
+}
+
+/* disclosures open and close smoothly where the browser can animate to auto height */
+@supports (interpolate-size: allow-keywords) {
+  :root { interpolate-size: allow-keywords; }
+  details.disclose::details-content { block-size: 0; overflow-y: clip; transition: block-size 240ms var(--ease-out), content-visibility 240ms allow-discrete; }
+  details.disclose[open]::details-content { block-size: auto; }
+}
+
+/* touch devices: opaque bars instead of live blur, which is costly to redraw while scrolling in
+   mobile web views; keeps scrolling at full frame rate on iOS and Android */
+@media (hover: none) and (pointer: coarse) {
+  .appbar, .bottombar { -webkit-backdrop-filter: none !important; backdrop-filter: none !important; background: rgba(247, 245, 240, 0.985) !important; }
+  .btn:hover, .choice:hover, .chipbtn:hover, .backbtn:hover, button.lrow:hover { background: inherit; }
+  .btn-primary:hover { background: var(--accent); }
+  .btn-primary:active { background: var(--accent-press); }
+  .choice:active { background: var(--sunken); }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: 1ms !important; animation-iteration-count: 1 !important; transition-duration: 1ms !important; scroll-behavior: auto !important; }
+  ::view-transition-group(*), ::view-transition-old(*), ::view-transition-new(*) { animation: none !important; }
+  .btn:active, .choice:active { transform: none; }
 }
 
 /* ---------- small phones ---------- */

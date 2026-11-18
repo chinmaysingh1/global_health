@@ -152,3 +152,19 @@ export const fill = (str: string, vars: Record<string, string | number>) => str.
 
 /** "1 open item" / "3 open items" in the current language. */
 export const itemsText = (n: number, tr: (k: string) => string) => (n === 1 ? tr('flow.item1') : fill(tr('flow.items'), { n }));
+
+const ROUTE_ORDER = ['start', 'complaints', 'history', 'assess', 'followup', 'summary', 'review', 'plan', 'export'];
+/** Depth of a hash route: Home, then protocol review, then a visit's sections in workflow order. */
+export function routeRank(hash: string): number {
+  const p = hash.replace(/^#\/?/, '').split('/').filter(Boolean);
+  if (p[0] === 'protocol') return 1;
+  if (p[0] !== 'enc' || !p[1]) return 0;
+  const i = ROUTE_ORDER.indexOf(p[2] ?? 'start');
+  return 10 + (i < 0 ? 0 : i) + (p[3] ? 0.5 : 0);
+}
+/** Which way a screen change should move: deeper slides in from the right, back from the left. */
+export function navDirection(from: string, to: string): 'forward' | 'back' | 'none' {
+  const a = routeRank(from);
+  const b = routeRank(to);
+  return b > a ? 'forward' : b < a ? 'back' : 'none';
+}

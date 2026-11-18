@@ -5,6 +5,9 @@ import { EncounterStore, IdbPersistence, MemoryPersistence } from './store/persi
 import './ui/styles.css';
 import { STANDALONE } from './platform';
 
+// iOS WebKit only applies :active (press feedback) when a touch listener exists.
+document.addEventListener('touchstart', () => {}, { passive: true });
+
 async function boot() {
   let loadError: string | null = null;
   let store = new EncounterStore(new IdbPersistence());

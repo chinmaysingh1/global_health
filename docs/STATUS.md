@@ -37,6 +37,7 @@ Languages: English, Hindi, Marathi only.
 - Branch `ui-redesign`, checkpoint tag `pre-redesign`. Full account, evidence and demo runbook: `docs/REDESIGN.md`; screenshots in `docs/screenshots/before` and `docs/screenshots/after`.
 - New: `src/ui/flow.ts` (stage model, status, next action), `tests/flow.test.ts`, `tests/contrast.test.ts`. All screens rebuilt on shared components in `src/ui/common.tsx` and tokens in `src/ui/styles.css`.
 - iPhone wrapper: `contentInset` changed to `never` (CSS handles safe areas), `UIUserInterfaceStyle` = Light. Service-worker cache bumped to `chw-msk-shell-v2`.
+- Motion added (View Transitions, answer confirmation, sheet and press feedback, opaque bars on touch screens); see docs/REDESIGN.md. `npm test`: 252/252.
 - Not done: Safari/WebKit browser run, Android device, iOS Simulator, a full walkthrough on the iPhone (only the layout was checked there).
 
 ## iPhone app (session 3)

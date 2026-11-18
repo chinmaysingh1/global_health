@@ -20,6 +20,18 @@ Three recognisable elements:
 - Home leads with the patients and their visits (new / in progress / follow-up status from real state), the app language and the active demo role. Role, basic kit, AI mode, storage notes and the protocol review tool are in **Settings**; inside a visit the same panel opens from the header's language-and-role button.
 - Assessment: one question card at a time from the engine's current node; balanced answer choices (no answer is styled as recommended; "Yes" turns red only after it is chosen); "If you cannot get an answer" groups Not sure / Prefers not to answer / Not performed with their required reasons; a short tap lock prevents double submission; after an answer, focus moves to the next question's heading and the card is brought into view, except that a newly raised alert is brought into view first. "Change previous answer" re-opens the last answer. Safety progress shows answered/total; pathway progress shows only a count, because the branching route has no known total.
 
+## Motion (added after the first iPhone check)
+
+All motion is short (150–280 ms), uses only transform and opacity, and is switched off under the system's Reduce Motion setting. No animation library was added.
+
+- **Screen changes** use the browser's View Transitions API (iOS 18+ WebKit, including the iPhone app; Android Chrome 111+). Going deeper into a visit slides the new screen in from the right; going back slides it in from the left; the header and bottom bar stay in place and morph. If a transition can't start within 250 ms (for example in a throttled web view), the screen changes without it, so navigation is never held up. Older browsers simply swap screens.
+- **Answers**: the chosen answer is shown as selected for 150 ms before the next question settles in and scrolls smoothly into place. A safety "Yes" and the emergency choice record at once, so an alert is never delayed for animation.
+- **Sheets** slide up and back down with a fading backdrop; **disclosures** open smoothly where the browser can animate to auto height.
+- **Press feedback**: buttons and answers compress slightly when pressed. iOS shows this only when a touch listener exists, so one is registered at start-up.
+- **Scrolling**: on touch screens the header and bottom bar are near-opaque instead of live-blurred, which is costly to redraw while scrolling in mobile web views on both iOS and Android.
+
+Verified: routing, Back, focus and the 250 ms fallback in the browser pane; that answers still record, double taps don't submit twice, and a safety "Yes" raises its alert within 30 ms; the touch-device styles in Android Chrome emulation; 252/252 tests. The motion itself was not watched frame by frame here (the browser pane was hidden); it was installed on the iPhone 13, where the owner tried it and judged it smooth.
+
 ## What was preserved
 
 Engine, protocol content, consent behaviour, the seven answer states and their reasons, safety checks and escalation, role and capability rules, clinician approval gates, stale-decision invalidation, audit history, IndexedDB persistence and storage keys, the app identifier, sync contract and mock server. Draft and "not translated" markers stay attached to the text they describe. Evaluation disclosures appear on Home, in Settings, in the overview, on Protocol review and on the approved plan.
