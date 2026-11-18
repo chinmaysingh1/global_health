@@ -3,6 +3,8 @@
   "appName": "MSK Assess",
   "webDir": "dist-ios",
   "ios": {
-    "contentInset": "always"
-  }
+    "contentInset": "never",
+    "backgroundColor": "#f7f5f0"
+  },
+  "backgroundColor": "#f7f5f0"
 }

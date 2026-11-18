@@ -31,6 +31,15 @@
         "--strictPort"
       ],
       "port": 4174
+    },
+    {
+      "name": "msk-prod-alt",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": [
+        "-c",
+        "API_PORT=8790 node dist-server/index.mjs"
+      ],
+      "port": 8790
     }
   ]
 }

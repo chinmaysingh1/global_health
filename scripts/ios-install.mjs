@@ -46,5 +46,5 @@ const bundleId = JSON.parse(readFileSync(join(root, 'capacitor.config.json'), 'u
 try {
   run('xcrun', ['devicectl', 'device', 'process', 'launch', '--device', phone.identifier, bundleId]);
 } catch {
-  console.log('\nInstalled. If it would not open: on the iPhone, Settings > General > VPN & Device Management, trust your developer certificate, then tap the app.');
+  console.log('\nInstalled, but it did not open automatically. Unlock the iPhone and tap "MSK Assess". If iOS says the developer is not trusted: Settings > General > VPN & Device Management, trust your developer certificate, then tap the app.');
 }

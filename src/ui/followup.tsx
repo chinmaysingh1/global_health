@@ -7,35 +7,39 @@ import { evaluateEncounterComplaints } from '../engine/evaluate';
 import { compareMeasures, evaluateFollowUp } from '../engine/followup';
 import { acknowledgeAlert, addDecision, answerRecord, setAnswer, setFollowUp } from '../store/encounter';
 import { nodeTitle, optionLabel } from '../i18n';
-import { AlertCard, Card, Loc, ReasonForm, Source, StatusButtons } from './common';
+import { AlertCard, Card, Choice, Icon, Loc, Notice, Pill, RadioGroup, ReasonForm, Source, StatusButtons, fmtDate, useTapLock } from './common';
 import { useApp, type Update } from './ctx';
 import { complaintLabel, MeasuresForm, NodeStep, SafetyList } from './assess';
 
-export function FollowUpTab({ enc, patient, update, go }: { enc: Encounter; patient: Patient; update: Update; go: (t: string) => void }) {
+function show(v: unknown, tr: (k: string) => string): string | null {
+  if (v === undefined || v === null || v === '') return null;
+  if (typeof v === 'boolean') return tr(v ? 'st.present' : 'st.denied');
+  return String(v);
+}
+
+export function FollowUpTab({ enc, patient, update }: { enc: Encounter; patient: Patient; update: Update }) {
   const { tr, actor, store, lang } = useApp();
   const evals = useMemo(() => evaluateEncounterComplaints(protocol, enc.complaints, patient.age), [enc.complaints, patient.age]);
   const previous = enc.followUpOf ? store.get(enc.followUpOf) : null;
   const [open, setOpen] = useState<{ cid: string; nodeId: string } | null>(null);
-  if (enc.consent?.status !== 'given') return <div className="notice warn">{tr('consent.blocked')}</div>;
+  const [locked, lock] = useTapLock();
+  if (enc.consent?.status !== 'given') return <Notice tone="warn">{tr('consent.blocked')}</Notice>;
   const visit = enc.visit!;
   const adverse = enc.followUp?.adverseStatus;
   return (
     <>
-      <h1>{tr('fu.title')} — {tr(`visit.${visit}`)}</h1>
       <Card title={tr('fu.adherence')}>
-        <div className="stack">
-          {['most_days', 'some_days', 'rarely'].map((a) => (
-            <button key={a} type="button" aria-pressed={enc.followUp?.adherence === a} onClick={() => update((e) => setFollowUp(e, actor, { adherence: a }))}>{tr(`fu.adherence.${a}`)}</button>
-          ))}
-        </div>
+        <RadioGroup legend={tr('fu.adherence')} hideLegend variant="list" value={enc.followUp?.adherence ?? null} onChange={(a: string) => update((e) => setFollowUp(e, actor, { adherence: a }))} options={['most_days', 'some_days', 'rarely'].map((a) => ({ value: a, label: tr(`fu.adherence.${a}`) }))} />
       </Card>
       <Card title={tr('fu.adverse')}>
         <StatusButtons options={['present', 'denied', 'unknown', 'declined']} current={adverse} onPick={(s, reason) => update((e) => setFollowUp(e, actor, { adverseStatus: s, adverse: s === 'present' ? e.followUp?.adverse : reason }))} />
         {adverse === 'present' && (
           <>
-            <div className="notice err" role="alert">{tr('fu.adverse.yes')}</div>
-            <label htmlFor="adv">{tr('fu.adverse.details')}</label>
-            <textarea id="adv" lang={enc.patientLanguage} defaultValue={enc.followUp?.adverse ?? ''} onBlur={(e) => update((x) => setFollowUp(x, actor, { adverse: e.target.value.trim() }))} />
+            <Notice tone="err" role="alert">{tr('fu.adverse.yes')}</Notice>
+            <div className="field">
+              <label htmlFor="adv">{tr('fu.adverse.details')}</label>
+              <textarea id="adv" lang={enc.patientLanguage} defaultValue={enc.followUp?.adverse ?? ''} onBlur={(e) => update((x) => setFollowUp(x, actor, { adverse: e.target.value.trim() }))} />
+            </div>
           </>
         )}
       </Card>
@@ -43,9 +47,10 @@ export function FollowUpTab({ enc, patient, update, go }: { enc: Encounter; pati
       {enc.complaints.filter((c) => !c.withdrawn).map((c: Complaint) => {
         const ev = evals.get(c.id)!;
         const pathway = c.fromPrevious?.pathway ?? ev.pathway;
-        if (!pathway) return <Card key={c.id} title={complaintLabel(c, tr)}><div className="notice warn">{tr('fu.noPlan')}</div></Card>;
+        if (!pathway) return <Card key={c.id} title={complaintLabel(c, tr)}><Notice tone="warn">{tr('fu.noPlan')}</Notice></Card>;
         const defs = protocol.measures.filter((m) => m.pathway === pathway);
-        const baseline = previous?.complaints.find((p) => p.id === c.id)?.measures ?? {};
+        const prevComplaint = previous?.complaints.find((p) => p.id === c.id);
+        const baseline = prevComplaint?.measures ?? {};
         const cmp = compareMeasures(defs, baseline, c.measures);
         const qId = protocol.pathways[pathway].followUp[visit];
         const q = protocol.nodes[qId];
@@ -57,70 +62,88 @@ export function FollowUpTab({ enc, patient, update, go }: { enc: Encounter; pati
         const dose = (c.fromPrevious?.doseLevel as 'HI' | 'MD' | 'LO' | undefined) ?? null;
         return (
           <Card key={c.id} title={complaintLabel(c, tr)}>
-            <p className="muted">{tr('fu.carried')}: <span lang="en">{c.fromPrevious?.diagnosisId ? protocol.nodes[c.fromPrevious.diagnosisId].title : '—'}</span> · {tr('plan.dose')}: {dose ?? '—'}</p>
-            {!c.fromPrevious?.diagnosisId && <div className="notice warn">{tr('fu.noPlan')}</div>}
+            <div className={`dx ${c.fromPrevious?.diagnosisId ? 'confirmed' : ''}`}>
+              <span className="k">{tr('fu.carried')}</span>
+              <span lang="en">{c.fromPrevious?.diagnosisId ? protocol.nodes[c.fromPrevious.diagnosisId].title : '—'}</span>
+              <div className="faint">{tr('plan.dose')}: {dose ?? '—'}</div>
+            </div>
+            {!c.fromPrevious?.diagnosisId && <Notice tone="warn">{tr('fu.noPlan')}</Notice>}
             {ev.alerts.map((a) => <AlertCard key={a.key} alert={a} acked={enc.alertAcks[a.key]} onAck={() => update((e) => acknowledgeAlert(e, actor, a.key))} />)}
 
-            <details open={safetyOpen}>
-              <summary>{tr('fu.rescreen')} ({ev.safety.answered}/{ev.safety.total})</summary>
-              {open?.cid === c.id ? (
-                <>
-                  <NodeStep node={protocol.nodes[open.nodeId]} complaint={c} update={update} late onDone={() => setOpen(null)} />
-                  <button type="button" onClick={() => setOpen(null)}>{tr('app.cancel')}</button>
-                </>
-              ) : (
-                <SafetyList complaint={c} ev={ev} onOpen={(nodeId) => setOpen({ cid: c.id, nodeId })} />
-              )}
+            <details className="disclose" open={safetyOpen}>
+              <summary>{tr('fu.rescreen')} ({ev.safety.answered} / {ev.safety.total})<Icon name="chevron-down" /></summary>
+              <div className="dbody">
+                {open?.cid === c.id ? (
+                  <>
+                    <div className="edit-banner"><span>{tr('as.editing')}</span><button type="button" className="btn" onClick={() => setOpen(null)}>{tr('app.cancel')}</button></div>
+                    <NodeStep node={protocol.nodes[open.nodeId]} complaint={c} update={update} late onDone={() => setOpen(null)} />
+                  </>
+                ) : (
+                  <SafetyList complaint={c} ev={ev} onOpen={(nodeId) => setOpen({ cid: c.id, nodeId })} />
+                )}
+              </div>
             </details>
 
-            <h3>{tr('bl.title')}</h3>
+            <h3 className="section-title" style={{ marginLeft: 0 }}>{tr('bl.title')}</h3>
             {/* at a re-test every measure may be recorded; only measures present at both visits are compared */}
             <MeasuresForm complaint={c} update={update} pathway={pathway} doseLevel={null} />
 
-            <h3>{tr('fu.compare')}</h3>
-            <table>
-              <thead><tr><th></th><th>{tr('home.initial')}</th><th>{tr(`visit.${visit}`)}</th><th></th></tr></thead>
-              <tbody>
-                {cmp.map((r, i) => (
-                  <tr key={i}>
-                    <td>{tr(defs.find((d) => d.id === r.measureId)!.labelKey)}{r.side ? ` (${tr(`bl.${r.side}`)})` : ''}{r.item ? `: ${r.item}` : ''}</td>
-                    <td>{String(r.baseline ?? '—')}</td>
-                    <td>{String(r.current ?? '—')}</td>
-                    <td><span className={`chip ${r.trend === 'better' ? 'ok' : r.trend === 'worse' ? 'present' : 'not_asked'}`}>{tr(`fu.${r.trend}`)}{r.delta !== null ? ` (${r.delta > 0 ? '+' : ''}${r.delta})` : ''}</span></td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-            <p className="muted">{tr('fu.notConfirm')}</p>
+            <h3 className="section-title" style={{ marginLeft: 0 }}>{tr('fu.compare')}</h3>
+            <div className="cmp">
+              {cmp.map((r, i) => {
+                const def = defs.find((d) => d.id === r.measureId)!;
+                const b = show(r.baseline, tr);
+                const cur = show(r.current, tr);
+                const unit = def.unit && def.unit !== '0-10' ? ` ${def.unit}` : def.unit === '0-10' ? '/10' : '';
+                const tone = r.trend === 'better' ? 'ok' : r.trend === 'worse' ? 'danger' : 'todo';
+                return (
+                  <div key={i} className="cmp-row">
+                    <div className="row between">
+                      <span className="t">{tr(def.labelKey)}{r.side ? ` · ${tr(`bl.${r.side}`)}` : ''}{r.item ? `: ${r.item}` : ''}</span>
+                      <Pill tone={tone} icon={r.trend === 'better' ? 'check' : r.trend === 'worse' ? 'alert' : undefined}>{tr(`fu.${r.trend}`)}{r.delta !== null ? ` (${r.delta > 0 ? '+' : ''}${r.delta})` : ''}</Pill>
+                    </div>
+                    <div className="cmp-vals">
+                      <div><span className="k">{tr('home.initial')}{prevComplaint?.measures[r.measureId]?.at ? ` · ${fmtDate(prevComplaint.measures[r.measureId].at)}` : ''}</span><span className={`v ${b ? '' : 'none'}`}>{b ? `${b}${unit}` : tr('fu.notRecorded')}</span></div>
+                      <div><span className="k">{tr(`visit.${visit}`)}{c.measures[r.measureId]?.at ? ` · ${fmtDate(c.measures[r.measureId].at)}` : ''}</span><span className={`v ${cur ? '' : 'none'}`}>{cur ? `${cur}${unit}` : tr('fu.notRecorded')}</span></div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+            <p className="faint mt-2">{tr('fu.notConfirm')}</p>
 
-            <h3>{tr('fu.question')}</h3>
+            <h3 className="section-title" style={{ marginLeft: 0 }}>{tr('fu.question')}</h3>
             <Source label={q.title} text={q.sourceText.split('\n').slice(1).join('\n')} />
             {onHold ? (
-              <div className="notice warn">{adverse === undefined ? tr('fu.adverse') : tr('halt.ESCALATED')}</div>
+              <Notice tone="warn">{adverse === undefined ? tr('fu.adverse') : tr('halt.ESCALATED')}</Notice>
             ) : (
-              <div className="stack">
-                {q.options.map((o) => (
-                  <button key={o.id} type="button" aria-pressed={c.answers[qId]?.optionId === o.id} onClick={() => update((e) => setAnswer(e, actor, c.id, answerRecord(actor, qId, 'present', { optionId: o.id })))}><Loc v={optionLabel(o, lang)} /></button>
-                ))}
-                <StatusButtons options={['unknown']} onPick={(s, reason) => update((e) => setAnswer(e, actor, c.id, answerRecord(actor, qId, s, { reason })))} />
-              </div>
+              <>
+                <div className="choices" role="group" aria-label={q.title}>
+                  {q.options.map((o) => (
+                    <Choice key={o.id} pressed={c.answers[qId]?.optionId === o.id} disabled={locked} onClick={() => lock(() => update((e) => setAnswer(e, actor, c.id, answerRecord(actor, qId, 'present', { optionId: o.id }))))}><Loc v={optionLabel(o, lang)} /></Choice>
+                  ))}
+                </div>
+                <div className="choices-sub">
+                  <span className="eyebrow">{tr('as.cantAnswer')}</span>
+                  <StatusButtons options={['unknown']} current={c.answers[qId]?.optionId ? undefined : c.answers[qId]?.status} onPick={(s, reason) => update((e) => setAnswer(e, actor, c.id, answerRecord(actor, qId, s, { reason })))} />
+                </div>
+              </>
             )}
             {!onHold && outcome.state !== 'unanswered' && (
-              <div className="notice info">
-                <span className="kicker">{tr('fu.outcome')}</span><br />
+              <Notice tone="info">
+                <span className="eyebrow">{tr('fu.outcome')}</span>
                 <strong>{outcome.proposal ? tr(`fu.p.${outcome.proposal}`) : tr('halt.NEEDS_REVIEW')}</strong>
                 {outcome.actionNode && <Source label={outcome.actionNode.title} text={outcome.actionNode.sourceText.split('\n').slice(1).join('\n')} />}
-                {outcome.refs.length > 0 && <p className="muted">→ {outcome.refs.map((r) => protocol.nodes[r]?.source.code ?? r).join(', ')}</p>}
-              </div>
+                {outcome.refs.length > 0 && <p className="faint">→ {outcome.refs.map((r) => protocol.nodes[r]?.source.code ?? r).join(', ')}</p>}
+              </Notice>
             )}
-            {decision && <div className="notice ok">{tr('fu.decision')}: {decision.reason} — {decision.by.name}</div>}
+            {decision && <Notice tone="ok">{tr('fu.decision')}: {decision.reason} — {decision.by.name}</Notice>}
             {actor.role === 'clinician' && outcome.state !== 'unanswered' && (
               <ReasonForm label={tr('fu.decision')} onSubmit={(r) => update((e) => addDecision(e, actor, { type: 'followup_outcome', complaintId: c.id, targetId: qId, value: { proposal: outcome.proposal, optionId: outcome.optionId }, reason: r }))} />
             )}
           </Card>
         );
       })}
-      <button type="button" className="primary" onClick={() => go('summary')}>{tr('halt.toSummary')}</button>
     </>
   );
 }

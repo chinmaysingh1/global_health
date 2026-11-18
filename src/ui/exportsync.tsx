@@ -8,13 +8,16 @@ import { fetchTransport, SyncClient } from '../integration/sync';
 import { NO_SERVER, STANDALONE } from '../platform';
 import { setSync } from '../store/encounter';
 import { renderNote } from '../ai/note';
-import { Card } from './common';
+import { Card, Icon, Notice } from './common';
 import { useApp, type Update } from './ctx';
+import { SyncPill } from './home';
 
 const client = new SyncClient(fetchTransport);
 
+const STATE_HELP: Record<string, string> = { saved_on_device: 'device', awaiting_review: 'clock', queued_for_sync: 'cloud-up', received_by_server: 'check' };
+
 export function ExportTab({ enc, summary, update }: { enc: Encounter; summary: EncounterSummary; update: Update }) {
-  const { tr, actor, store, online } = useApp();
+  const { tr, actor, store, online, announce } = useApp();
   const [busy, setBusy] = useState(false);
   const [msg, setMsg] = useState<string | null>(null);
   const bundle = useMemo(() => buildHandoff(protocol, summary), [summary]);
@@ -27,7 +30,7 @@ export function ExportTab({ enc, summary, update }: { enc: Encounter; summary: E
     a.click();
     URL.revokeObjectURL(a.href);
   };
-  const queue = () => update((e) => client.queue(e, actor));
+  const queue = () => { update((e) => client.queue(e, actor)); announce(tr('sync.queued_for_sync')); };
   const syncNow = async () => {
     setBusy(true);
     setMsg(null);
@@ -38,6 +41,7 @@ export function ExportTab({ enc, summary, update }: { enc: Encounter; summary: E
     await store.put(next);
     setBusy(false);
     setMsg(next.sync.lastError ?? null);
+    announce(tr(`sync.${next.sync.state}`));
   };
   const demo = async (path: string) => {
     if (STANDALONE) return setMsg(`${path}: ${NO_SERVER}`);
@@ -58,43 +62,59 @@ export function ExportTab({ enc, summary, update }: { enc: Encounter; summary: E
     }
   };
   const st = enc.sync;
+  const failed = ['sync_conflict', 'auth_expired', 'sync_failed'].includes(st.state);
   return (
     <>
-      <h1>{tr('ex.title')}</h1>
-      <Card>
-        <p><span className={`chip ${st.state === 'received_by_server' ? 'ok' : ['sync_conflict', 'auth_expired', 'sync_failed'].includes(st.state) ? 'present' : 'warn'}`}>{tr(`sync.${st.state}`)}</span></p>
+      <Card title={tr('sync.status')} actions={<SyncPill state={st.state} />}>
         <p className="muted">{tr('sync.simulated')}</p>
-        {STANDALONE && <div className="notice warn">{tr('app.standalone')}</div>}
-        {st.receiptId && st.state === 'received_by_server' && <p>{tr('sync.receipt')}: <code>{st.receiptId}</code> · v{st.serverVersion} · {st.ackAt && new Date(st.ackAt).toLocaleString()}</p>}
-        {st.lastError && <div className="notice err" role="alert">{st.lastError}</div>}
-        {!online && <div className="notice warn">{tr('app.offline')}</div>}
-        <div className="stack">
-          <button type="button" disabled={st.state === 'queued_for_sync'} onClick={queue}>{tr('sync.queue')}</button>
-          <button type="button" className="primary" disabled={busy || st.state !== 'queued_for_sync'} onClick={() => void syncNow()}>{busy ? tr('ai.working') : tr('sync.now')}</button>
-          {st.state === 'sync_conflict' && <button type="button" onClick={() => void adopt()}>{tr('ex.adopt')}</button>}
+        {STANDALONE && <Notice tone="warn">{tr('app.standalone')}</Notice>}
+        {st.receiptId && st.state === 'received_by_server' && (
+          <Notice tone="ok">
+            <strong>{tr('sync.simulatedReceipt')}</strong>
+            <div className="mt-2"><code>{st.receiptId}</code> · v{st.serverVersion}{st.ackAt && ` · ${new Date(st.ackAt).toLocaleString()}`}</div>
+          </Notice>
+        )}
+        {st.lastError && <Notice tone={failed ? 'err' : 'warn'} role="alert">{st.lastError}</Notice>}
+        {!online && <Notice tone="warn">{tr('app.offline')}</Notice>}
+        <div className="stack mt-3">
+          <button type="button" className="btn btn-block" disabled={st.state === 'queued_for_sync'} onClick={queue}><Icon name="cloud-up" />{tr('sync.queue')}</button>
+          <button type="button" className="btn btn-primary btn-block" disabled={busy || st.state !== 'queued_for_sync'} onClick={() => void syncNow()}>{busy ? tr('ai.working') : <><Icon name="refresh" />{tr('sync.now')}</>}</button>
+          {st.state === 'sync_conflict' && <button type="button" className="btn btn-block" onClick={() => void adopt()}>{tr('ex.adopt')}</button>}
         </div>
-        {msg && <p className="muted" role="status">{msg}</p>}
-        <details>
-          <summary>{tr('ex.states')}</summary>
-          <ul>{['saved_on_device', 'awaiting_review', 'queued_for_sync', 'received_by_server'].map((s) => <li key={s}>{tr(`sync.${s}`)}</li>)}</ul>
-          <p className="muted">{tr('app.storageNote')}</p>
+        {msg && msg !== st.lastError && <p className="faint mt-2" role="status">{msg}</p>}
+        <details className="disclose">
+          <summary>{tr('ex.states')}<Icon name="chevron-down" /></summary>
+          <div className="dbody">
+            <ul className="list">{['saved_on_device', 'awaiting_review', 'queued_for_sync', 'received_by_server'].map((s) => <li key={s} className="lrow"><Icon name={STATE_HELP[s]} /><span className="body"><span className="t">{tr(`sync.${s}`)}</span></span></li>)}</ul>
+            <p className="faint mt-2">{tr('app.storageNote')}</p>
+          </div>
         </details>
       </Card>
-      <Card>
-        <div className="stack noprint">
-          <button type="button" onClick={download}>{tr('ex.json')}</button>
-          <button type="button" onClick={() => window.print()}>{tr('ex.print')}</button>
-        </div>
+      <Card title={tr('ex.note')}>
+        {STANDALONE ? (
+          <Notice tone="info">{tr('ex.fileUnavailable')}</Notice>
+        ) : (
+          <div className="row noprint" style={{ marginBottom: 12 }}>
+            <button type="button" className="btn" onClick={download}><Icon name="download" />{tr('ex.json')}</button>
+            <button type="button" className="btn" onClick={() => window.print()}><Icon name="printer" />{tr('ex.print')}</button>
+          </div>
+        )}
         <pre className="note" lang="en">{renderNote(protocol, summary)}</pre>
       </Card>
-      <Card title={tr('ex.unmapped')} className="noprint">
-        <table><tbody>{FIELD_MAPPINGS.map((m) => <tr key={m.field}><td><code>{m.field}</code></td><td lang="en">{m.blocker}{m.candidate && <div className="muted">{m.candidate}</div>}</td></tr>)}</tbody></table>
-      </Card>
-      <Card title={tr('ex.demoControls')} className="noprint">
-        <div className="stack">
-          <button type="button" onClick={() => void demo('/_test/expire-tokens')}>{tr('ex.expire')}</button>
-          <button type="button" onClick={() => void demo(`/_test/clinician-edit/${encodeURIComponent(enc.id)}`)}>{tr('ex.serverEdit')}</button>
-        </div>
+      <Card className="noprint">
+        <details className="disclose" style={{ borderTop: 0, marginTop: 0 }}>
+          <summary>{tr('ex.unmapped')}<Icon name="chevron-down" /></summary>
+          <div className="dbody table-wrap">
+            <table><tbody>{FIELD_MAPPINGS.map((m) => <tr key={m.field}><td><code>{m.field}</code></td><td lang="en">{m.blocker}{m.candidate && <div className="faint">{m.candidate}</div>}</td></tr>)}</tbody></table>
+          </div>
+        </details>
+        <details className="disclose">
+          <summary>{tr('ex.demoControls')}<Icon name="chevron-down" /></summary>
+          <div className="dbody stack">
+            <button type="button" className="btn btn-block" onClick={() => void demo('/_test/expire-tokens')}>{tr('ex.expire')}</button>
+            <button type="button" className="btn btn-block" onClick={() => void demo(`/_test/clinician-edit/${encodeURIComponent(enc.id)}`)}>{tr('ex.serverEdit')}</button>
+          </div>
+        </details>
       </Card>
     </>
   );

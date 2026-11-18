@@ -1,4 +1,6 @@
 import { createContext, useContext, useEffect, useState, useSyncExternalStore } from 'react';
+import { flushSync } from 'react-dom';
+import { navDirection } from './flow';
 import type { Actor, Encounter, Lang, Role } from '../store/types';
 import type { EncounterStore } from '../store/persistence';
 import { t } from '../i18n';
@@ -42,6 +44,8 @@ export interface App {
   online: boolean;
   tr: (key: string) => string;
   lang: Lang;
+  /** Polite screen-reader announcement for state changes (saved, moved on, synced). */
+  announce: (msg: string) => void;
 }
 export const AppContext = createContext<App | null>(null);
 export const useApp = (): App => {
@@ -71,16 +75,43 @@ export function useOnline(): boolean {
   );
 }
 
+const reducedMotion = () => typeof window.matchMedia === 'function' && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+/**
+ * Hash routing with animated screen changes. Where the browser supports the View Transitions API
+ * (iOS 18+ Safari and web views, Android Chrome 111+), the new screen slides in from the side it
+ * belongs to while the header and bottom bar stay in place; elsewhere the screen simply swaps.
+ * The new screen always starts at the top.
+ */
 export function useHash(): [string[], (path: string) => void] {
-  const hash = useSyncExternalStore(
-    (cb) => {
-      window.addEventListener('hashchange', cb);
-      return () => window.removeEventListener('hashchange', cb);
-    },
-    () => window.location.hash,
-  );
+  const [hash, setHash] = useState(() => window.location.hash);
+  useEffect(() => {
+    let current = window.location.hash;
+    const onChange = () => {
+      const next = window.location.hash;
+      if (next === current) return;
+      const dir = navDirection(current, next);
+      current = next;
+      const apply = () => {
+        flushSync(() => setHash(next));
+        window.scrollTo(0, 0);
+      };
+      const doc = document as Document & { startViewTransition?: (cb: () => void) => { finished: Promise<void>; skipTransition: () => void } };
+      if (!doc.startViewTransition || reducedMotion() || document.visibilityState !== 'visible') return apply();
+      document.documentElement.dataset.navDir = dir;
+      let ran = false;
+      const run = () => { if (ran) return; ran = true; apply(); };
+      const t = doc.startViewTransition(run);
+      void t.finished.catch(() => undefined).finally(() => { delete document.documentElement.dataset.navDir; });
+      // never let an animation hold up navigation: if no frame arrives (throttled or backgrounded
+      // web view), show the new screen without the transition
+      window.setTimeout(() => { if (!ran) { try { t.skipTransition(); } catch { /* already done */ } run(); } }, 250);
+    };
+    window.addEventListener('hashchange', onChange);
+    return () => window.removeEventListener('hashchange', onChange);
+  }, []);
   const parts = hash.replace(/^#\/?/, '').split('/').filter(Boolean);
-  return [parts, (path: string) => { window.location.hash = path; }];
+  return [parts, (path: string) => { if (window.location.hash.replace(/^#/, '') !== path) window.location.hash = path; }];
 }
 
 export type Update = (fn: (enc: Encounter) => Encounter) => void;
