@@ -34,12 +34,7 @@ With a free Apple ID the app stops opening after 7 days; run the command again t
 
 ## Demonstration route
 
-1. Home: pick a language and role. Start "New assessment" for the first demo patient.
-2. Consent → pain location (knee, left) → Assessment: answer the 13 safety checks, then "Gradually" → "45 or older" → "Fits" → "MODERATE", enter a few baseline measures.
-3. Switch role to Clinician on Home, resume, answer the health points on the History tab, re-answer K8 and K12 on the Assessment tab, then confirm and approve on Clinician review.
-4. Plan tab shows the source-derived plan; Export & sync sends to the mock server.
-5. Home → "Follow-up visit: Week 4" to compare measures.
-6. For an urgent route: second demo patient, low back, answer L1 "Yes".
+The redesigned visit flow and a timed 2–3 minute showcase are in `docs/REDESIGN.md`. In short: Home → Start first visit (Sunita Pawar) → Agrees → tap the left knee → Next: History → Next: Assessment → answer the checks and the knee route → Summary → switch to the clinician role (demo) → Resolve K8/K12 → confirm and approve → Plan → Export & sync. Urgent route: Ramesh Yadav, low back, L1 "Yes".
 
 ## Test
 

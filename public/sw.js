@@ -1,6 +1,6 @@
 // App-shell cache only. API and mock-server responses (which may contain encounter data)
 // are never cached here; drafts live in IndexedDB.
-const CACHE = 'chw-msk-shell-v1';
+const CACHE = 'chw-msk-shell-v2'; // v2: redesigned interface
 const isShell = (url) => url.origin === self.location.origin && !url.pathname.startsWith('/api/') && !url.pathname.startsWith('/mock-intelehealth');
 
 self.addEventListener('install', (e) => {

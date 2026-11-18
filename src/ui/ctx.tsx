@@ -42,6 +42,8 @@ export interface App {
   online: boolean;
   tr: (key: string) => string;
   lang: Lang;
+  /** Polite screen-reader announcement for state changes (saved, moved on, synced). */
+  announce: (msg: string) => void;
 }
 export const AppContext = createContext<App | null>(null);
 export const useApp = (): App => {
@@ -80,7 +82,7 @@ export function useHash(): [string[], (path: string) => void] {
     () => window.location.hash,
   );
   const parts = hash.replace(/^#\/?/, '').split('/').filter(Boolean);
-  return [parts, (path: string) => { window.location.hash = path; }];
+  return [parts, (path: string) => { if (window.location.hash.replace(/^#/, '') !== path) window.location.hash = path; }];
 }
 
 export type Update = (fn: (enc: Encounter) => Encounter) => void;

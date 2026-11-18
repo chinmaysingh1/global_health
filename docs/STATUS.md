@@ -1,13 +1,13 @@
 # STATUS — continuation checkpoint
 
-Last updated: 2026-11-17, session 3 (iPhone app added). Build milestone complete; remaining work needs people or external access.
+Last updated: 2026-11-17, session 4 (UI/UX redesign on branch `ui-redesign`; see docs/REDESIGN.md). Build milestone complete; remaining work needs people or external access.
 Languages: English, Hindi, Marathi only.
 
 ## Status by track (do not blur these)
 
 | Track | Status |
 |---|---|
-| Software | Working evaluation build, synthetic patients only. `npm test`: 9 files, 185/185 passed. `npm run build`: exit 0. iPhone app installed and launched on one physical iPhone. |
+| Software | Working evaluation build, synthetic patients only. `npm test`: 11 files, 251/251 passed. `npm run build`: exit 0. Redesigned app installed and running on one physical iPhone; layout confirmed by eye by the owner. |
 | Clinical review | NONE. Source boards are drafts. All 16 amendments (A01–A16) are engineering proposals, `proposed_unreviewed`. |
 | Language review | NONE. Hindi/Marathi UI strings and protocol titles are machine-authored drafts. |
 | Live AI | NEVER exercised. Disabled by default; no credentials, no spend authorised. Only the MOCK keyword matcher was run. |
@@ -31,6 +31,13 @@ Languages: English, Hindi, Marathi only.
 - `npm run protocol:diff -- <old source-graph.json>` — compare two source snapshots.
 - `npm run build:ios` — phone build (`VITE_STANDALONE=1`) into `dist-ios/`, copied into the Capacitor project `ios/`. `npm run ios:install` — that, plus a signed Xcode build and install on a connected iPhone (`scripts/ios-install.mjs`).
 - `.claude/launch.json` has `msk-dev`, `msk-prod` and `msk-phone-web` (serves `dist-ios/` on 4174) preview configs.
+
+## UI/UX redesign (session 4)
+
+- Branch `ui-redesign`, checkpoint tag `pre-redesign`. Full account, evidence and demo runbook: `docs/REDESIGN.md`; screenshots in `docs/screenshots/before` and `docs/screenshots/after`.
+- New: `src/ui/flow.ts` (stage model, status, next action), `tests/flow.test.ts`, `tests/contrast.test.ts`. All screens rebuilt on shared components in `src/ui/common.tsx` and tokens in `src/ui/styles.css`.
+- iPhone wrapper: `contentInset` changed to `never` (CSS handles safe areas), `UIUserInterfaceStyle` = Light. Service-worker cache bumped to `chw-msk-shell-v2`.
+- Not done: Safari/WebKit browser run, Android device, iOS Simulator, a full walkthrough on the iPhone (only the layout was checked there).
 
 ## iPhone app (session 3)
 
